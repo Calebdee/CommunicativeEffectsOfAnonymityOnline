@@ -1,0 +1,1262 @@
+1267199387341516800,1236826131233308700,"@Teekachu1 You’re welcome! So glad to hear it’s helped someone 😊","somewhat-identifiable","Cody"
+1267054124509483000,1236826131233308700,"Day 52 of #100DaysOfSwiftUI https://t.co/7IGblolSzL","somewhat-identifiable","Cody"
+1267042477661237200,1236826131233308700,"@Matt1Corey @bobleesj Thanks Matt! This was my first exposure to these ideas, so it was really bending my brain.","somewhat-identifiable","Cody"
+1266997120659148800,1236826131233308700,"@SorensenRiis @twostraws Congrats Mathias! 🎉","somewhat-identifiable","Cody"
+1266979275690786800,1236826131233308700,"So if you've made it this far and you haven't already, go check out that blog post by @bobleesj! It helped me a lot… https://t.co/f1r8CbBYGB","somewhat-identifiable","Cody"
+1266979274013081600,1236826131233308700,"So that's it.
+
+I'm telling myself that the error handling tools in Swift don't really handle errors. They're just t… https://t.co/P9ka7fhlOS","somewhat-identifiable","Cody"
+1266979271748104200,1236826131233308700,"We need to write a Catch statement for each kind of error. And if we don't want to go to all that trouble, just lik… https://t.co/bqR14o9kqf","somewhat-identifiable","Cody"
+1266979270083006500,1236826131233308700,"That leaves #1, Do/Try/Catch.
+
+We use ""catch"" to tell the program what to do in the case of the various errors.
+
+An… https://t.co/SWdDXfaXDp","somewhat-identifiable","Cody"
+1266979268547895300,1236826131233308700,"Try? will return an optional.
+Try! force unwraps the optional.
+
+I like to think of optionals as being like childpro… https://t.co/QSTesr591o","somewhat-identifiable","Cody"
+1266979267033788400,1236826131233308700,"2. Call it with either Try? or Try!, or
+
+3. Call it in a function that *also* uses the ""throws"" keyword.
+
+We can ke… https://t.co/mfVa72kAki","somewhat-identifiable","Cody"
+1266979265473425400,1236826131233308700,"So that name for the error (TeslaError.lowBattery) has to be listed as a case in an enum. I'll get back to that, bu… https://t.co/nmmj4x9C44","somewhat-identifiable","Cody"
+1266979263607005200,1236826131233308700,"If you want to print an error message to the console, you have to do it yourself.
+
+So then what does ""throw"" even d… https://t.co/CEwrayiUxM","somewhat-identifiable","Cody"
+1266979261916672000,1236826131233308700,"So what about that ""throw"" keyword? What happens when we so-called ""throw an error""?
+
+The answer is: not much actua… https://t.co/cXwmHy3V69","somewhat-identifiable","Cody"
+1266979260234780700,1236826131233308700,"The purpose of the ""throws"" keyword is to *communicate to the programmer reading the code* that the function is dan… https://t.co/0rFRjuaPwQ","somewhat-identifiable","Cody"
+1266979258527740000,1236826131233308700,"But, as Bob explains, there are two big problems in terms of *readability*:
+
+1. That Else block can quickly become… https://t.co/NSxN1bA5uj","somewhat-identifiable","Cody"
+1266979256212455400,1236826131233308700,"Bob the Developer (@bobleesj) helps with the 1st question. 
+
+Bob has us imagine writing the software for a Tesla se… https://t.co/QgO9cFmUTb","somewhat-identifiable","Cody"
+1266979254580830200,1236826131233308700,"Error handling and throwing functions confuse the heck out of me.
+
+1. What is the problem we're even trying to solv… https://t.co/AT1LA5wind","somewhat-identifiable","Cody"
+1266683913579057200,1236826131233308700,"Link to the page I think used to be part of Day 5: https://t.co/PtkXDaqXSm","somewhat-identifiable","Cody"
+1266683532639789000,1236826131233308700,"So I’ve been digging deeper and it looks like Day 5 has been updated quite a bit including a link to a very helpful… https://t.co/6uA0uudyjJ","somewhat-identifiable","Cody"
+1266683525727543300,1236826131233308700,"I mean it’s great that we can just use “try” without adding “catch” here, but I’m really confused because it seems… https://t.co/ZIBUXxyErw","somewhat-identifiable","Cody"
+1266683518848921600,1236826131233308700,"Currently working on Day 51 of #100DaysOfSwiftUI
+
+Really confused by this passage https://t.co/7Q8T4ISje8","somewhat-identifiable","Cody"
+1266652811648880600,1236826131233308700,"@usrFri3ndly Thanks Scott!","somewhat-identifiable","Cody"
+1266570758832009200,1236826131233308700,"@ryanashcraft I know for myself the 91g remaining is way more important than the 111/202g.
+
+What if only one those… https://t.co/ejAQuaEniA","somewhat-identifiable","Cody"
+1266338376338165800,1236826131233308700,"I use Xcode on a small screen so space is at a premium.
+
+Had hoped to find a way to show &amp;  hide the Project Naviga… https://t.co/AtaYWNchgP","somewhat-identifiable","Cody"
+1266337303913394200,1236826131233308700,"Completed Day 50 of #100DaysOfSwiftUI https://t.co/zxUNh9GH8p","somewhat-identifiable","Cody"
+1266226159097835500,1236826131233308700,"@frozencode6 https://t.co/EQ3pOM1jJa","somewhat-identifiable","Cody"
+1266225298355318800,1236826131233308700,"@MuseumShuffle Thanks Chris! 
+
+Yeah, I’m discovering lots of ways we can roll our own check boxes, but I’m still re… https://t.co/gvGA1g1mOP","somewhat-identifiable","Cody"
+1266192700006469600,1236826131233308700,"@Matt1Corey Thanks for replying Matt. I'm working through a #100DaysOfSwiftUI project right with an order form. Cus… https://t.co/VEq3eobACV","somewhat-identifiable","Cody"
+1266175527108239400,1236826131233308700,"So with SwiftUI we can change the style of a toggle from the default switch to a checkbox.
+
+But it only works for m… https://t.co/FHrNevo0IK","somewhat-identifiable","Cody"
+1266148328791658500,1236826131233308700,"@Matt1Corey @MuseumShuffle It’s hard but I’m really trying to live that. Thank you for the encouragement Matt!","somewhat-identifiable","Cody"
+1267086695243174000,1022689520595152900,"@Docutopian @ProAccountant @britishemily78 @ThisWeekABC @ABC Right, he is Biff.","somewhat-identifiable","Cody"
+1267084731801272300,1022689520595152900,"@MorrisAllsopPA @JuddLegum He is quoting MLK Jr.","somewhat-identifiable","Cody"
+1267075611811512300,1022689520595152900,"@mettaworldwar @roof_koreans20 @elennon1 @thotzekage ""Funded by George Soros""
+
+That's not odd. They are accused of… https://t.co/lzCm5G6WmO","somewhat-identifiable","Cody"
+1267068168591327200,1022689520595152900,"@YvieMarie88 @FreeGirlNowNYC @gaydraka @AaronBlake He wanted to breathe but that was a request that wasn't granted.","somewhat-identifiable","Cody"
+1267049383352324000,1022689520595152900,"@PrintWikiLeaks @briantylercohen He can't give a credible speech because we already know he belittled the peaceful… https://t.co/u45PY8870J","somewhat-identifiable","Cody"
+1266954864170610700,1022689520595152900,"@dhhaddad1 @RabbiJill I thought it was an odd shout-out (posed as a question) too.
+
+Like the Rwanda genocide code w… https://t.co/dbAq75DLsJ","somewhat-identifiable","Cody"
+1266930776312107000,1022689520595152900,"@mark_jobber @nancook @meridithmcgraw What could possibly go wrong with a Stephen Miller scripted speech at a time like this?","somewhat-identifiable","Cody"
+1266927862415753200,1022689520595152900,"@Merv515 @Acyn And she's back because @ChrisJansing is a pro!","somewhat-identifiable","Cody"
+1266885520321372200,1022689520595152900,"@Keith_NewtonYYZ @iamprojoe @PadmaLakshmi It WON'T be entertaining if they actually start one. 
+
+I highly doubt he'… https://t.co/HZtzYY41Vc","somewhat-identifiable","Cody"
+1266869372250927000,1022689520595152900,"@iamprojoe @Keith_NewtonYYZ @PadmaLakshmi Or full of sorrow that our nation has fallen to the sway of a hate-filled… https://t.co/L5lKlB3qLM","somewhat-identifiable","Cody"
+1266867190004924400,1022689520595152900,"@gman2all @VinceBourne @xmendax10 @Mediaite ""No I am."" Yes, I gathered you were stupid. Thanks for letting me know I was right.","somewhat-identifiable","Cody"
+1266860873894826000,1022689520595152900,"@LeeConroy18 @SharLaz @mozumder @JoyAnnReid The article says anarchists. 
+
+Antifa are anti fascist. They are about… https://t.co/NM7sSoHlrn","somewhat-identifiable","Cody"
+1266858934469566500,1022689520595152900,"@gman2all @VinceBourne @xmendax10 @Mediaite I didn't call someone stupid for listening to Fauci.","somewhat-identifiable","Cody"
+1266856978820878300,1022689520595152900,"@Oral_mfc @sgurman Which is why they always single out antifa. They have somehow convinced the MAGA crowd that anti… https://t.co/RI4PboQHgw","somewhat-identifiable","Cody"
+1266851413751144400,1022689520595152900,"@gman2all @VinceBourne @xmendax10 @Mediaite But Trump is clearly listening to him in regards to this.
+
+Now do Trump.","somewhat-identifiable","Cody"
+1266751307144192000,1022689520595152900,"@jheil This is actually what is so pathetic about Mike Pompeo. He actually thinks the MAGA crowd would want him ove… https://t.co/4wCYH4wVjK","somewhat-identifiable","Cody"
+1266748992727265300,1022689520595152900,"@WitchCherokee @joody1993 @Pocahontas_1024 @JoanofArgh @Freeyourmindkid Antifa doesn't want America taken over by f… https://t.co/kuFXSY4Tbe","somewhat-identifiable","Cody"
+1266728961733771300,1022689520595152900,"@TexMexElsa @anamariecox He wants them there TONIGHT. He's expecting the protesters to return like they've done in… https://t.co/WyZQglfSJv","somewhat-identifiable","Cody"
+1266727843414904800,1022689520595152900,"@JoeWaczewski @clairecmc Because 104K Americans are dead because of HIS failure to lead. He's grateful for this rec… https://t.co/wuimhXQdZ4","somewhat-identifiable","Cody"
+1266721692166033400,1022689520595152900,"@MollyJongFast It is as if George Floyd never existed.","somewhat-identifiable","Cody"
+1266708590162739200,1022689520595152900,"@samstein He said ""Americans"", Sam. This is yet another tell of how they really see others.","somewhat-identifiable","Cody"
+1266558333751787500,1022689520595152900,"@IMHO1969 @WaiseOnasis @TheRickWilson He said THEY DID NOT TALK ABOUT ANY OF THAT while being questioned.
+
+He did.… https://t.co/0Xk1MCQNOG","somewhat-identifiable","Cody"
+1266556358247227400,1022689520595152900,"@IMHO1969 @WaiseOnasis @TheRickWilson 'He simply asked they not escalate.'
+
+He said they didn't even talk about any of this.
+
+He LIED.","somewhat-identifiable","Cody"
+1266544913837174800,1022689520595152900,"@IMHO1969 @TheRickWilson This thread is about Flynn.
+
+The guy who lied to Mike Pence and was fired by Donald Trump.… https://t.co/0TqFYXZPMz","somewhat-identifiable","Cody"
+1266544520331755500,1022689520595152900,"@IMHO1969 @TheRickWilson He also LIED to Mike Pence which is why Trump fired him.
+
+But defend, defend, defend.
+
+Are… https://t.co/BaTi2gzpKw","somewhat-identifiable","Cody"
+1266543744461004800,1022689520595152900,"@IMHO1969 @TheRickWilson READ THE TRANSCRIPT. Or are you a troll and NOTHING will get you off of this feed NOR chan… https://t.co/sy2DRoFhEW","somewhat-identifiable","Cody"
+1266542891872239600,1022689520595152900,"@IMHO1969 @TheRickWilson Flynn said I didn't talk about X, Y, or Z while under oath.
+
+Flynn in FACT did discuss X,… https://t.co/ItDWMegrZj","somewhat-identifiable","Cody"
+1266539440563982300,1022689520595152900,"@IMHO1969 @TheRickWilson You are forgetting he said he didn't do this. Under oath, he lied. Then lied again. Then l… https://t.co/Mw8qa4qmmr","somewhat-identifiable","Cody"
+1266499937321324500,1022689520595152900,"@wwoolf @PunkThink1 @ChrisGr15823088 @leftcoastbabe @eye2winner @frankrichny Yes, this. I like BOTH Kamala and Amy.… https://t.co/XqcIsRUhzp","somewhat-identifiable","Cody"
+1266337462487564300,1022689520595152900,"@leftcoastbabe @eye2winner @frankrichny I don't think anybody read the article. And if they did, they are really ba… https://t.co/nfEUpfnBJB","somewhat-identifiable","Cody"
+1267215642291089400,1342520184,"Y’all really wanna tell me magic don’t exist and we got the simpsons ?","somewhat-identifiable","Cody"
+1267150900142829600,1342520184,"If you in my favourites on my phone, I trust you with my life and you are more than family; don’t fuck it up","somewhat-identifiable","Cody"
+1267150127103238100,1342520184,"Could you imagine having a leader of a nation have suspected rape and murder I-.....","somewhat-identifiable","Cody"
+1266833738329018400,1342520184,"Pls stop. No one needs this right now 🥺🥺","somewhat-identifiable","Cody"
+1266825202677104600,1342520184,"Ok cause creating more hate and drama is definitely what we need in a world where everyone is against everyone 👍🏽","somewhat-identifiable","Cody"
+1266822170438561800,1342520184,"Sohne laghde still a banger no matter what idc","somewhat-identifiable","Cody"
+1266815088800919600,1342520184,"The balloons I got my sister for our birthday day in the kitchen for 3 days and they smell of straight tharkha. Lmfaooo nothing is safe.","somewhat-identifiable","Cody"
+1266756882431045600,1342520184,"I kinda wanna make my insta a business  account so I can see how many bossy bitches send my shit back and forth. Th… https://t.co/J3vjN33QEW","somewhat-identifiable","Cody"
+1266748672978518000,1342520184,"Have you ever peed in the pool? - Arshdeep — I don’t wanna answer this truthfully  https://t.co/9VeOrCEyPf","somewhat-identifiable","Cody"
+1266743258304049200,1342520184,"There are photos on my insta of people I don’t FW anymore but I look good so I can’t delete hahahafuckhahahaha","somewhat-identifiable","Cody"
+1266742829306409000,1342520184,"I saw some BLM headers on the TL and I can’t find them!!! Can someone @ me on it so I can use them pllssssss","somewhat-identifiable","Cody"
+1266742364741046300,1342520184,"Atleast when I was fat I had such clear skin smh.","somewhat-identifiable","Cody"
+1266736500483305500,1342520184,"My heart goes out to all the moms who lost their children and did not get justice. The defeat and frustration I cannot imagine.","somewhat-identifiable","Cody"
+1266734467269312500,1342520184,"My heart https://t.co/Kq6FKO7m5t","somewhat-identifiable","Cody"
+1266731893325627400,1342520184,"Wanna go back intime when all I did was watch suite life of zack and Cody and the cheetah girls while eating cinnamon toast crunch.","somewhat-identifiable","Cody"
+1266731160878514200,1342520184,"The thing about 2020...it makes me feel like we’re back in a time where everyone was helpless in the 1920-1950’s ev… https://t.co/IXM1TEsWnu","somewhat-identifiable","Cody"
+1266729747913965600,1342520184,"His reactions though &gt;&gt;&gt;&gt;&gt;. https://t.co/B1wcevKVmk","somewhat-identifiable","Cody"
+1266729641131167700,1342520184,"You know how brown moms do the chini around your head without talking for buri nazaar.... yeah I wish that stuff ac… https://t.co/xH0M7PrXAh","somewhat-identifiable","Cody"
+1266064602359640000,1210287776731549700,"I just posted ""LIVE THURSDAY SERVICE 28 MAY 2020 WITH PROPHET VC ZITHA"" on Reddit
+
+https://t.co/slyvn7SKsX","somewhat-identifiable","Cody"
+1266063699120255000,1210287776731549700,"LIVE THURSDAY SERVICE 28 MAY 2020 WITH PROPHET VC ZITHA https://t.co/Sxz1QV9UpD via @YouTube","somewhat-identifiable","Cody"
+1265981160104104000,1210287776731549700,"I just posted ""COJIM LIVE THURSDAY STREAMING SERVICE WITH MAN OF GOD ""CHRISTOPHER ORJI"""" on Reddit
+
+https://t.co/m1aVRjLwfI","somewhat-identifiable","Cody"
+1265978357755211800,1210287776731549700,"COJIM LIVE THURSDAY STREAMING SERVICE WITH MAN OF GOD ""CHRISTOPHER ORJI"" https://t.co/PY9CHEayBS via @YouTube","somewhat-identifiable","Cody"
+1265336481071206400,1210287776731549700,"I just posted ""26 MAY 2020 TUESDAY SERVICE LIVE BROADCAST WITH PROF. LESEGO DANIEL"" on Reddit
+
+https://t.co/U5WAsK9KCl","somewhat-identifiable","Cody"
+1265231422895411200,1210287776731549700,"I just posted ""26 MAY 2020 TUESDAY SERVICE LIVE BROADCAST WITH PROF. LESEGO DANIEL"" on Reddit
+
+https://t.co/YRDrZxm0Zt","somewhat-identifiable","Cody"
+1265230485384392700,1210287776731549700,"26 MAY 2020 TUESDAY  SERVICE LIVE BROADCAST WITH PROF. LESEGO DANIEL https://t.co/0Lqm9lA2r4 via @YouTube","somewhat-identifiable","Cody"
+1264477595153940500,1210287776731549700,"I just posted ""HEALING &amp; DELIVERANCE ONLINE Service | 24 May 2020 | WILD SPIRITS | BLAC..."" on Reddit
+
+https://t.co/0neni7gg8G","somewhat-identifiable","Cody"
+1264477231562150000,1210287776731549700,"HEALING &amp; DELIVERANCE ONLINE Service | 24 May 2020 | WILD SPIRITS | BLAC... https://t.co/L6fRUZfTGN via @YouTube","somewhat-identifiable","Cody"
+1264476131794645000,1210287776731549700,"THE TEMPLE OF TH LORD'S CHURCH SUNDAY LIVE SERVICE (24-05-2020) https://t.co/P7m3h4Ktdz via @YouTube","somewhat-identifiable","Cody"
+1264476049410273300,1210287776731549700,"I just posted ""THE TEMPLE OF TH LORD'S CHURCH SUNDAY LIVE SERVICE (24-05-2020)"" on Reddit
+
+https://t.co/2i4n0mcXaD","somewhat-identifiable","Cody"
+1264474984648519700,1210287776731549700,"I just posted ""LIVE SUNDAY SERVICE 24 MAY 2020 WITH PROPHET VC ZITHA"" on Reddit
+
+https://t.co/y9zRo23Qbq","somewhat-identifiable","Cody"
+1264474812275028000,1210287776731549700,"LIVE SUNDAY SERVICE 24 MAY 2020 WITH PROPHET VC ZITHA https://t.co/65y4G7OdmM via @YouTube","somewhat-identifiable","Cody"
+1263811720742604800,1210287776731549700,"I just posted ""Sahdu Sundar Selvaraj | Philippines is NEXT over Israel."" on Reddit
+
+https://t.co/HF4ohXfAsF","somewhat-identifiable","Cody"
+1263811509982879700,1210287776731549700,"Sahdu Sundar Selvaraj | Philippines is NEXT over Israel. https://t.co/L9aAmd6AkB via @YouTube","somewhat-identifiable","Cody"
+1263805983974973400,1210287776731549700,"I just posted ""I DECEIVE THE WHOLE WORLD"" on Reddit
+
+https://t.co/Qm5DP3kz3Z","somewhat-identifiable","Cody"
+1263805537440817200,1210287776731549700,"I DECEIVE THE WHOLE WORLD https://t.co/ydMePUwkte via @YouTube","somewhat-identifiable","Cody"
+1263700171617009700,1210287776731549700,"I KILL EVERY FEBRUARY. MYSTERIOUS DEATHS EXPOSED!!! https://t.co/kGoX6tqqsK via @YouTube","somewhat-identifiable","Cody"
+1263699755093328000,1210287776731549700,"I just posted ""I KILL EVERY FEBRUARY. MYSTERIOUS DEATHS EXPOSED!!!"" on Reddit
+
+https://t.co/WgwhCnIEma","somewhat-identifiable","Cody"
+1263474647049404400,1210287776731549700,"I just posted ""COJIM LIVE THURSDAY STREAMING SERVICE WITH MAN OF GOD ""CHRISTOPHER ORJI"""" on Reddit
+
+https://t.co/0HoRR0NKC4","somewhat-identifiable","Cody"
+1263474240944300000,1210287776731549700,"COJIM LIVE THURSDAY STREAMING SERVICE WITH MAN OF GOD ""CHRISTOPHER ORJI"" https://t.co/r67M61jlNV via @YouTube","somewhat-identifiable","Cody"
+1263112304360665000,1210287776731549700,"I just posted ""The Gift of the Holy Spirit"" on Reddit
+
+https://t.co/lQ9k1lypcb","somewhat-identifiable","Cody"
+1263111863887265800,1210287776731549700,"The Gift of the Holy Spirit https://t.co/xRf3gp7RrW via @YouTube","somewhat-identifiable","Cody"
+1263094030415442000,1210287776731549700,"Colored Contact Lenses | Circle Lenses Online | TTDeye https://t.co/3S2CaKlaSU","somewhat-identifiable","Cody"
+1262576809578807300,1210287776731549700,"I just posted ""TAKE MY HABIT OF PRAYER!!! | Prayer With T.B. Joshua"" on Reddit
+
+https://t.co/TewzqQFojf","somewhat-identifiable","Cody"
+1262576460096630800,1210287776731549700,"TAKE MY HABIT OF PRAYER!!! | Prayer With T.B. Joshua https://t.co/8cV5NusfnJ via @YouTube","somewhat-identifiable","Cody"
+1261981582275068000,1210287776731549700,"I just posted ""17/05/2020 - DO YOU BELIEVE? I BELIEVE THAT GOD IS FAITHFUL"" on Reddit
+
+https://t.co/H44uWyfMHB","somewhat-identifiable","Cody"
+1261981194494722000,1210287776731549700,"17/05/2020 -   DO YOU BELIEVE?  I BELIEVE THAT GOD IS FAITHFUL https://t.co/OtCk0QsBoE via @YouTube","somewhat-identifiable","Cody"
+1261950561106174000,1210287776731549700,"I just posted ""LIVE Broadcast With TB Joshua From Emmanuel TV Studios (17/05/20)"" on Reddit
+
+https://t.co/zbtsyCEAA6","somewhat-identifiable","Cody"
+1261949889807712300,1210287776731549700,"LIVE Broadcast With TB Joshua From Emmanuel TV Studios (17/05/20) https://t.co/EiWIbvJepH via @YouTube","somewhat-identifiable","Cody"
+1267212396847865900,967575282155704300,"@AbigailDMartin Thank you😂","somewhat-identifiable","Cody"
+1267212321384018000,967575282155704300,"@CEWoods_54 I have scratches on my face as proof 😂","somewhat-identifiable","Cody"
+1267211616321523700,967575282155704300,"I went kayaking yesterday, and I was stuck in a tree 30 seconds in.","somewhat-identifiable","Cody"
+1266931141048664000,967575282155704300,"I Can Only Imagine is such a good movie!","somewhat-identifiable","Cody"
+1266732269978468400,967575282155704300,"This just adds insult to injury https://t.co/iGJbHc9IVX","somewhat-identifiable","Cody"
+1266542686275862500,967575282155704300,"@SpencerTomsett @noahmaddox23 That too","somewhat-identifiable","Cody"
+1266527563935092700,967575282155704300,"@noahmaddox23 They have to make the schedule for the whole semester, and also the teachers have to know a plan on h… https://t.co/SausGXP5u5","somewhat-identifiable","Cody"
+1266497711089614800,967575282155704300,"@noahmaddox23 Where do you have him? I personally believe he's 1, but I can see people putting him at 3 and maybe 4.","somewhat-identifiable","Cody"
+1266476746909659100,967575282155704300,"Just right https://t.co/SnYTIjlumT","somewhat-identifiable","Cody"
+1266470400508207000,967575282155704300,"Well https://t.co/b2HcXWS5F7","somewhat-identifiable","Cody"
+1265785826866315300,967575282155704300,"My @NFL predictions for next year playoffs:
+
+AFC
+1. Chiefs
+2. Ravens
+3. Bills
+4. Titans
+5. Steelers
+6. Broncos
+7.… https://t.co/hgQ7L4KEwh","somewhat-identifiable","Cody"
+1265716888165851100,967575282155704300,"@MTAthletics @MTBlueZoo @MTSU @MT_Promotions @MT_BRAA @MT_tix Thanks!","somewhat-identifiable","Cody"
+1265706985456050200,967575282155704300,"@MTAthletics @MTBlueZoo @MTSU @MT_Promotions @MT_BRAA @MT_tix Lohn 7","somewhat-identifiable","Cody"
+1265451448185303000,967575282155704300,"Does Skip know that this was a regular season game? https://t.co/96WrzPlEVX","somewhat-identifiable","Cody"
+1265394017811955700,967575282155704300,"@CEWoods_54 @PredsNHL Ya never know😂","somewhat-identifiable","Cody"
+1265387432515702800,967575282155704300,"@CEWoods_54 @PredsNHL Nah, we are playing the Coyotes","somewhat-identifiable","Cody"
+1265386174891376600,967575282155704300,"@PredsNHL are officially in the playoffs!!!!!","somewhat-identifiable","Cody"
+1265108968944423000,967575282155704300,"@chaseowens99 I agree that CMC is the better all around RB","somewhat-identifiable","Cody"
+1264969765669535700,967575282155704300,"@lcbowling @CEWoods_54 I don't think next year is the year, but Pruitt is building something special at UT. It is g… https://t.co/uJIJfy055Q","somewhat-identifiable","Cody"
+1264968652702523400,967575282155704300,"@lcbowling @CEWoods_54 You know UT has won a natty more recently than Michigan, right?","somewhat-identifiable","Cody"
+1264747553574334500,967575282155704300,"@noahmaddox23 @BarstoolTenn That was crazy","somewhat-identifiable","Cody"
+1264736496361312300,967575282155704300,"@lcbowling @CEWoods_54 @CoachDuggs @Vol_Football Do y'all know who he is?😂","somewhat-identifiable","Cody"
+1264735962552316000,967575282155704300,"@CEWoods_54 @lcbowling @CoachDuggs @Vol_Football They're 3-0 already","somewhat-identifiable","Cody"
+1264735305564934100,967575282155704300,"@lcbowling @CEWoods_54 You're just jealous @CoachDuggs is going to bring @Vol_Football to the top😂","somewhat-identifiable","Cody"
+1264694436908368000,967575282155704300,"Still one of the worst helmet throws in history. https://t.co/I5kXSHX5vv","somewhat-identifiable","Cody"
+1264675269580853200,967575282155704300,"@CEWoods_54 @lcbowling I guess so 😂","somewhat-identifiable","Cody"
+1266782276014178300,236227750,"@JacquelinesRose That’s totally understandable","somewhat-identifiable","Cody"
+1266782006593151000,236227750,"@JacquelinesRose Oh god no","somewhat-identifiable","Cody"
+1266781244941054000,236227750,"@JacquelinesRose I’m kidding but if you enjoy doing it and don’t care if people listen or not, post it. Who cares. We’re here to create.","somewhat-identifiable","Cody"
+1266778163549479000,236227750,"Arresting that cop is bullshit. Kill him.","somewhat-identifiable","Cody"
+1266777348617261000,236227750,"I know ODs are not part of what’s going on buts an insanely major issue we can’t ignore because other shit is going on.","somewhat-identifiable","Cody"
+1266777015560126500,236227750,"FUCK COPS. FUCK CORPORATIONS. FUCK THE GOVERNMENT. FUCK DEALERS WHO CUT PRODUCT WITH DEADLY SUBSTANCES. THEY ALL KILLING FOR NO REASON.","somewhat-identifiable","Cody"
+1266768452565577700,236227750,"Damn https://t.co/kpLDp1j6z5","somewhat-identifiable","Cody"
+1266715197986791400,236227750,"@elonmusk put me on that rocket man, i want the fuck off this planet.","somewhat-identifiable","Cody"
+1266707366378123300,236227750,"@XaeboR Bruh. I did work for him earlier in the year and let me say, what a dickhead.","somewhat-identifiable","Cody"
+1266547845471129600,236227750,"I’ve decided entirely that i do not want children.","somewhat-identifiable","Cody"
+1266541835377352700,236227750,"My dad has become so unrecognizable to me it’s disgusting.","somewhat-identifiable","Cody"
+1266536136844947500,236227750,"@Jasmine_Cole_ Everything is going to be better once the aliens arrive.","somewhat-identifiable","Cody"
+1266535997552148500,236227750,"My name is sack and i like to make instrumentals. Don’t listen to them please. https://t.co/2zSyY8f4up","somewhat-identifiable","Cody"
+1266534899839877000,236227750,"Who has glass windows still? Pfffft fucking loser. https://t.co/DzOb0JF3r8","somewhat-identifiable","Cody"
+1266534605005471700,236227750,"@Jasmine_Cole_ Not gonna lie i didn’t think he was utterly terrible but the past few days was enough for me. Fuck that guy.","somewhat-identifiable","Cody"
+1266527619673206800,236227750,"@JacquelinesRose Why not?","somewhat-identifiable","Cody"
+1266527546226638800,236227750,"@whatrmr  DOES NOT MISS #FUCK12","somewhat-identifiable","Cody"
+1266268676111532000,236227750,"So when the aliens coming? Like hurry the fuck up already.","somewhat-identifiable","Cody"
+1266234122210545700,236227750,"Yo at this point.... fuck this guy. Holy shit. https://t.co/9JJoNcOtmp","somewhat-identifiable","Cody"
+1266189503905108000,236227750,"@KubiakTheThird He was a police officer","somewhat-identifiable","Cody"
+1267196454784942000,385500665,"@bcbulldogstf @gobcbulldogs Kat Hummer at 17! https://t.co/3gE8XWHKQ3","somewhat-identifiable","Cody"
+1267195626619637800,385500665,"@RossTuckerNFL I used to coach HS ball. Field sounds are one of the things I really miss.","somewhat-identifiable","Cody"
+1267157668143251500,385500665,"This is basically the same for me. https://t.co/s8mcfsPu4r","somewhat-identifiable","Cody"
+1267108396681085000,385500665,"Blessed are the poor in spirit 
+For the kingdom of heaven is theirs","somewhat-identifiable","Cody"
+1266924655836901400,385500665,"I wish we had real in person church tomorrow, more than ever.
+Words are failing
+It feels like the presence of the s… https://t.co/hjQ7K5s8oz","somewhat-identifiable","Cody"
+1266752585358364700,385500665,"@BCCoachCisco @TroyB54 @CoachTonySam98 @Ciscokid39 Thank you for these words! I agree whole heartedly.","somewhat-identifiable","Cody"
+1266195133566984200,385500665,"@dengaterade It’s not much less expensive in Michigan, just in better supply. 
+If I ever brought you a 4 pack would… https://t.co/tMq5AZ60Ag","somewhat-identifiable","Cody"
+1266191179214999600,385500665,"@dengaterade Man that’s some overpriced orange juice.","somewhat-identifiable","Cody"
+1266168668360147000,385500665,"@dengaterade How much you pay?","somewhat-identifiable","Cody"
+1266041539903606800,385500665,"You know how much trash a person makes when they eat fast food every day? It's lots of trash.","somewhat-identifiable","Cody"
+1265809425341784000,385500665,"@Bromka Engineering is mostly planning and preparation.","somewhat-identifiable","Cody"
+1267193986508378000,64753163,"one person followed me and one person unfollowed me // automatically checked by https://t.co/6xR9aHDBXY","somewhat-identifiable","Caleb"
+1267151295800057900,64753163,"Brewsters sounds good","somewhat-identifiable","Caleb"
+1267147385542770700,64753163,"I’m finally recovered from Friday night 😵","somewhat-identifiable","Caleb"
+1267054548608311300,64753163,"all they had to do was let him breathe .. that’s it #GeorgeFloydProtests #BlackLivesMatter","somewhat-identifiable","Caleb"
+1266746687122313200,867689231946141700,"@Sachzna1 Hi ate ganda😍😘","somewhat-identifiable","Caleb"
+1266371008794996700,867689231946141700,"Good evening 😍
+#StaySafeStayHome https://t.co/eXW4rAYfxc","somewhat-identifiable","Caleb"
+1266370229120036900,867689231946141700,"https://t.co/nI13x2XLcR","somewhat-identifiable","Caleb"
+1266046590663311400,867689231946141700,"@matsuwabe Andito ako para sayo😍 crush","somewhat-identifiable","Caleb"
+1265942653134180400,867689231946141700,"@matsuwabe Say hi crush plz☺️ pansinin mo nmn ako","somewhat-identifiable","Caleb"
+1265692401777045500,867689231946141700,"@markkenji_ Bkt mo deleted messenger mo","somewhat-identifiable","Caleb"
+1252442616987177000,867689231946141700,"Good morning","somewhat-identifiable","Caleb"
+1250779892389523500,867689231946141700,"Try ko lang🤣 hindi tlga ako marunong my tiktok @edilyncarreon4 https://t.co/m8xUjZfJ9C","somewhat-identifiable","Caleb"
+1250779345804595200,867689231946141700,"@imJCAlcantara Staysafe crush ingat ka lage😍😘🙏","somewhat-identifiable","Caleb"
+1249962381511233500,867689231946141700,"@superjiro_ Sana all may jowa 🤣","somewhat-identifiable","Caleb"
+1249962181493313500,867689231946141700,"@flinsTUNs Done na idol😍","somewhat-identifiable","Caleb"
+1249962063662702600,867689231946141700,"@flinsTUNs Done","somewhat-identifiable","Caleb"
+1249960914289188900,867689231946141700,"https://t.co/xF9MTyPojn","somewhat-identifiable","Caleb"
+1249914501622722600,867689231946141700,"@imsethfedeIin @troublemakers Done","somewhat-identifiable","Caleb"
+1267236894569640000,990899581,"@meni_san I get that.
+I do.
+
+I have to buy a smart phone for my technophobe father as a result of my 'expertise' (a… https://t.co/D7PNosuo7m","somewhat-identifiable","Cody"
+1267234724189212700,990899581,"@meni_san I think you can get one for about sixty quid?
+
+Can't you?
+Depends what you are after I suppose...","somewhat-identifiable","Cody"
+1267233289145929700,990899581,"@meni_san Inappropriate hobbies are great.","somewhat-identifiable","Cody"
+1267232949705023500,990899581,"Yeah.
+I could do that*
+
+*I'm so bored. https://t.co/mfLBTPZwaL","somewhat-identifiable","Cody"
+1267219538472513500,990899581,"@MoreUtterPiffle This made me happy.... https://t.co/biMdklYxwM","somewhat-identifiable","Cody"
+1267219204861722600,990899581,"@AmandaOwen8 If metaphors worked, we'd be happy dining in on Radish soup.
+
+Unfortunately, I'm looking forward to a… https://t.co/MMJT2hKvn5","somewhat-identifiable","Cody"
+1267205918292430800,990899581,"@AmandaOwen8 Never mind that, tell me how to keep my one single strawberry germination alive, Sherperdess.... https://t.co/ImYqxg8vYf","somewhat-identifiable","Cody"
+1267204629651247000,990899581,"@Funk_Pump So not every day?","somewhat-identifiable","Cody"
+1267203737086500900,990899581,"@Funk_Pump Ok.
+I'll look after them.
+Ty Star Man.","somewhat-identifiable","Cody"
+1267203070963978200,990899581,"@Funk_Pump Strawberries.
+
+They are well in date (the seeds....2022).","somewhat-identifiable","Cody"
+1267201243119829000,990899581,"@Funk_Pump Sincerely https://t.co/d5dslFw3Dj","somewhat-identifiable","Cody"
+1267200687370371000,990899581,"@Funk_Pump So I have been waiting about a month....and got one green shoot","somewhat-identifiable","Cody"
+1267200084720201700,990899581,"@Funk_Pump So, if I put a load of seeds in and only one turns out...do I give up on the rest FP?","somewhat-identifiable","Cody"
+1267199660462092300,990899581,"@mand_brun @andyparmo @ianperkins69 I was just daydreaming of a Lemon Merengue and a beef wellington main.....no id… https://t.co/iDsn6sXXM2","somewhat-identifiable","Cody"
+1267198623726649300,990899581,"@Funk_Pump Lovely stuff.","somewhat-identifiable","Cody"
+1267197603499978800,990899581,"@mand_brun @andyparmo @ianperkins69 If only there was a chute.../tunnel","somewhat-identifiable","Cody"
+1267197223835766800,990899581,"Did my first supermarket home delivery last night.....
+
+I have a lot to learn.","somewhat-identifiable","Cody"
+1267196712638189600,990899581,"@mand_brun @andyparmo @ianperkins69 Post any homeless sausage rolls up here, please.","somewhat-identifiable","Cody"
+1267172877293551600,990899581,"Ooooooooooooooooooooooooooooooopoooooooooooooooooooooooooooooo
+I feel love
+I feel love
+I feeeeeel love*
+
+*Not a gay.","somewhat-identifiable","Cody"
+1267091484840427500,990899581,"If you enjoy British Summer Time on Monday without a decent haircut, you are probably a Skank.","somewhat-identifiable","Cody"
+1266844410219769900,990899581,"I'm treating the space bores like them idiots who hire out a stretch limo to make themselves feel superior.
+
+Just i… https://t.co/uSifiN9gU8","somewhat-identifiable","Cody"
+1266841537348018200,990899581,"@Lisa_aheM Thank you Lisa Lisa.","somewhat-identifiable","Cody"
+1266841339066548200,990899581,"Nobody else is allowed in.","somewhat-identifiable","Cody"
+1266840276200538000,990899581,"@Lisa_aheM A Strawberry Mivvi is the purchase of winners.
+:)","somewhat-identifiable","Cody"
+1266835487718867000,990899581,"5/2 joint favourite - Matt 'two spikes' Hancock. https://t.co/GbNcFa8D7W https://t.co/8NedgVRNB5","somewhat-identifiable","Cody"
+1266795667982352400,990899581,"Space belongs to the uber rich and Communists.","somewhat-identifiable","Cody"
+1266790902325969000,990899581,"@AlanKelloggs @Jfarrers https://t.co/82Qrx2WEa0","somewhat-identifiable","Cody"
+1266730144279953400,990899581,"I stared earnestly and longingly at my golf bag today and reminisced about all the places we had been to together.","somewhat-identifiable","Cody"
+1266729493500215300,990899581,"Can't wait for the movie - one 'plucky' spice addict lookalike takes on a post war consensus of peace and prosperit… https://t.co/5YsgTtn1Ow","somewhat-identifiable","Cody"
+1266724106822713300,990899581,"“We put the young ones on the front line, sir, they love it"" https://t.co/Sy7h6rFrSI","somewhat-identifiable","Cody"
+1267216994107101200,384637707,"@alphatrends I’m sure he is suicidal. He knows he’s a dead man walking bc as soon as he gets to prison it’s over.","somewhat-identifiable","Cody"
+1267216497312759800,384637707,"@Convertbond Sounds like a recipe for MUCH higher oil prices to me, or maybe MUCH more instability...or maybe both!","somewhat-identifiable","Cody"
+1266513984947183600,384637707,"@zbartness This was built with more contemplation","somewhat-identifiable","Cody"
+1266486798143967200,384637707,"@AdamSchefter That dude is going to get DEMOLISHED in prison.","somewhat-identifiable","Cody"
+1266198260353568800,384637707,"Workbench is coming along. Bit by bit. Time block by time block. https://t.co/ye1vg8Bek9","somewhat-identifiable","Cody"
+1266099811029340200,384637707,"What happened to #GeorgeFloyd was heinously unjust. The arresting officers should be held accountable. But this 👇🏼h… https://t.co/MfOdWRVAQi","somewhat-identifiable","Cody"
+1266097974049988600,384637707,"I bet these are registered voters. https://t.co/4ZRA87aQa5","somewhat-identifiable","Cody"
+1266084550297505800,384637707,"@SportsCenter That’s gonna be a gif REAL SOON","somewhat-identifiable","Cody"
+1266083682093338600,384637707,"Hey @markets someone tell this Ed Clissold dude that the reason the market sold off in ‘02 wasn’t about some lacklu… https://t.co/mbZ6XE4yhX","somewhat-identifiable","Cody"
+1265749436426322000,384637707,"@DougKass @realmoney Your short Qs and long banks has been looking ship shape, Dougie.","somewhat-identifiable","Cody"
+1265689406624739300,384637707,"@LindaWSB It makes no difference who you are, (Post COVID) anything your heart desires will be withheld from you","somewhat-identifiable","Cody"
+1265682282720964600,384637707,"Guys, @GTFootball making the A so hot this is a live shot of Peachtree 🔥🔥🔥4️⃣0️⃣4️⃣🔥🔥🔥@CoachCollins @coachchoice https://t.co/IA0rgjsIlR","somewhat-identifiable","Cody"
+1265681441620406300,384637707,"@LindaWSB @wsbtv ...no fireworks though...","somewhat-identifiable","Cody"
+1265680643607990300,384637707,"@gtlackey Uh oh","somewhat-identifiable","Cody"
+1265680506064187400,384637707,"@allstarcharts Better put something on that new grill, homie.","somewhat-identifiable","Cody"
+1265666843135672300,384637707,"Once upon a time $GE had a sufficient market cap that a 7% daily gain would have resulted in larger change at the i… https://t.co/5PX54r9k1b","somewhat-identifiable","Cody"
+1265655661616148500,384637707,"@bespokeinvest This one didn’t age well","somewhat-identifiable","Cody"
+1265654585802338300,384637707,"Those daily candles shaping up for the airlines - gross","somewhat-identifiable","Cody"
+1265437995085201400,384637707,"@NotCoachJohnson Also, according to Jim from Auburn, this is where you keep all of your short passing plays filed away","somewhat-identifiable","Cody"
+1265435326895599600,384637707,"@NotCoachJohnson I think that’s a souvenir poncho from Lane Stadium.","somewhat-identifiable","Cody"
+1265435110863667200,384637707,"@stoolpresidente https://t.co/kImuyF5GK1","somewhat-identifiable","Cody"
+1265378858993422300,384637707,"@Convertbond They have to be quality names, Larry. Why else would people be buying them? 😂","somewhat-identifiable","Cody"
+1265344376819060700,384637707,"@NorthmanTrader Can’t bear to watch. Tyrannical.","somewhat-identifiable","Cody"
+1265307648729272300,384637707,"I know we’re quarantined and all, but who has time to do this? https://t.co/91AyDAcl3q","somewhat-identifiable","Cody"
+1265265062907961300,384637707,"@travisfulton #StripeShow","somewhat-identifiable","Cody"
+1265103609542455300,384637707,"@RampCapitalLLC https://t.co/yGAxvAZUKb","somewhat-identifiable","Cody"
+1265088078764531700,384637707,"@BookWwc Not surprised. He and Feldman studied the same books as children.","somewhat-identifiable","Cody"
+1265084114195173400,384637707,"@Convertbond That’s some monitor you had there!","somewhat-identifiable","Cody"
+1265066324482457600,384637707,"@KayColesJames 😢","somewhat-identifiable","Cody"
+1267130633681281000,514836426,"If I drop my phone in the river cabrewing today I’m buying a flip phone next","somewhat-identifiable","Cody"
+1267105668097609700,514836426,"Just walked in my house and my dad looked at me and said “So did you throw up??” And I said no and he said “You’re a failure” :////","somewhat-identifiable","Cody"
+1267104380597211100,514836426,"@Kah_brandon @BCart2144 🥺🥺🥺🥺","somewhat-identifiable","Cody"
+1267098050822123500,514836426,"@sarahellison25 Xoxo","somewhat-identifiable","Cody"
+1267097844932137000,514836426,"Nothing makes me more angry when people call me when I’m driving like mf this is my JAM session BYE","somewhat-identifiable","Cody"
+1267084929608933400,514836426,"@BCart2144 @Kah_brandon No mustache","somewhat-identifiable","Cody"
+1267063688390901800,514836426,"@_foster_marlon @SethPoirier1 You might have a point 😂","somewhat-identifiable","Cody"
+1266968857123729400,514836426,"@MarissaMcAuley Proud","somewhat-identifiable","Cody"
+1266949879458410500,514836426,"Big ope lmao","somewhat-identifiable","Cody"
+1266926130323427300,514836426,"@roblnsonsarah Heard DAT sista","somewhat-identifiable","Cody"
+1266917431483777000,514836426,"I called my mom to let her know I drank and will not be coming home tonight and she said “Blake please do not get s… https://t.co/FCl3QSfbtm","somewhat-identifiable","Cody"
+1266864125860290600,514836426,"Ahhh how I missed being unreasonably late to everything","somewhat-identifiable","Cody"
+1266855120400257000,514836426,"@roblnsonsarah Look at us, who would’ve thought","somewhat-identifiable","Cody"
+1266832841008124000,514836426,"@serffcourt Except for the fact that he literally said “loose brain cells” 🥴","somewhat-identifiable","Cody"
+1266785044749787100,514836426,"@serffcourt Lmao my entire comment section of my status rn 🤪","somewhat-identifiable","Cody"
+1266780812466360300,514836426,"There are people that actually don’t believe in white privilege and I literally can’t WRAP MY HEAD AROUND IT","somewhat-identifiable","Cody"
+1266764417850638300,514836426,"@basiccrackers Proud of u","somewhat-identifiable","Cody"
+1266762897692205000,514836426,"@basiccrackers Be a simp I support","somewhat-identifiable","Cody"
+1267167316858585000,101636425,"Letsss gooo 💪🏾 https://t.co/zs9MPHx8vn","somewhat-identifiable","Kasey"
+1267138885349449700,101636425,"@mikepouzie CRYINGGGG 💀😭😭 https://t.co/I1kcxpKDrA","somewhat-identifiable","Kasey"
+1266903258808942600,101636425,"Rosa Parks could've what?!... T.I. SAID WHAT!!??... Diddy... what type of shit?? WHO tf is crying over Gucci??? And… https://t.co/moZgv1Ub1i","somewhat-identifiable","Kasey"
+1266899180259336200,101636425,"@MaiMaiValentina @ciaaara_ 😂 You know I got yall","somewhat-identifiable","Kasey"
+1266876763864551400,101636425,"More car tag designs 🔥
+Available now: https://t.co/hgt3IPWCcg https://t.co/Q7S50lpYu9","somewhat-identifiable","Kasey"
+1266837772393943000,101636425,"@Ieshiasmall24 Well glad I able to provide some laughs today 😂","somewhat-identifiable","Kasey"
+1266837565656780800,101636425,"@tykeishiasmith 😭😭😭","somewhat-identifiable","Kasey"
+1266816131047792600,101636425,"@PresidentJalen Oh bet lol thought you had them thangs on you 🔫😂","somewhat-identifiable","Kasey"
+1266814023158452200,101636425,"@PresidentJalen Rocket???","somewhat-identifiable","Kasey"
+1266805133658263600,101636425,"@vontA_Hole 😭😭😭💀","somewhat-identifiable","Kasey"
+1266802756607783000,101636425,"Listen... What's going on is fucked up and I hate it but I'm gonna get these jokes off. We need the laughs.","somewhat-identifiable","Kasey"
+1266788406610272300,101636425,"@KdashLah You can get whatever you want. The colors are completely customizable! 🤞🏾
+
+https://t.co/hgt3IPWCcg","somewhat-identifiable","Kasey"
+1266784195659157500,101636425,"@MaiMaiValentina 😬 Where's the lie? https://t.co/UT9NNHMs7H","somewhat-identifiable","Kasey"
+1266783706041274400,101636425,"@ciaaara_ Of course 🤝 https://t.co/JT6A0h3FC0","somewhat-identifiable","Kasey"
+1266783191001596000,101636425,"Miss Rona leaving the United States after seeing that racism and yt pipo will always be more problematic than her 🥴 https://t.co/nQelRRJN9m","somewhat-identifiable","Kasey"
+1266780164702306300,101636425,"Smdh 🤦🏾‍♂️ and watch his coon ass make a ""comedy skit"" about a ""hood dude"" looting to bring his fanbase back in a f… https://t.co/0E1D0EfKiQ","somewhat-identifiable","Kasey"
+1266739394238701600,101636425,"@DCaldwell_ Oh shit 👀 https://t.co/BRG9HxzJxY","somewhat-identifiable","Kasey"
+1266737661173211100,101636425,"@DCaldwell_ 💀💀😭 That's just gonna make them offer $3 instead","somewhat-identifiable","Kasey"
+1266737405870178300,101636425,"Preview of some Car Tag designs. Made of 100% cast acrylic! (this is not wood). Built to last! 🔗🤝🔥 https://t.co/pLpDYWX5Lc","somewhat-identifiable","Kasey"
+1266687430763167700,101636425,"I WOULD LOVE TO SEE IT!!!! 🌚 https://t.co/FHQDUyrIqY","somewhat-identifiable","Kasey"
+1266520477801029600,101636425,"@thashadysun Right! Wouldn't a fucking autopsy discover that and not some ""potential"" bullshit....they put that in… https://t.co/VWukW3oN7k","somewhat-identifiable","Kasey"
+1267216230303162400,19788990,"@Dsmithsquamish Happy Anniversary!","somewhat-identifiable","Kasey"
+1267200749848518700,19788990,"Twenty-seven years ago today, I married a wonderful man. ❤️ https://t.co/676sinTWDz","somewhat-identifiable","Kasey"
+1267191531594584000,19788990,"@nuclear94 OMG","somewhat-identifiable","Kasey"
+1267151958466375700,19788990,"Nick Anderson for May 30, 2020 | https://t.co/l2ZRSwODzF https://t.co/KqZOV4LC6f via @GoComics","somewhat-identifiable","Kasey"
+1267148988244824000,19788990,"This is something that needs to change. #Vancouver https://t.co/JXn0peKqiR via @georgiastraight","somewhat-identifiable","Kasey"
+1267144616886694000,19788990,"Some fun stuff here, including a high school level course on quantum computing. #Physics https://t.co/rvmd71SfTp","somewhat-identifiable","Kasey"
+1267142967661195300,19788990,"@valmonticue If you sew, how about a nice homemade mask?","somewhat-identifiable","Kasey"
+1267111140766609400,19788990,"@SecaurPhysics @NeutronJo Exactly. I don't know any faculty who are getting compensated for all of the extra work w… https://t.co/kRJeWYzwHe","somewhat-identifiable","Kasey"
+1267102653462376400,19788990,"@BenneHolwerda This is one of the things I love about Twitter, learning about things you never would have otherwise… https://t.co/X4bhWO9cDX","somewhat-identifiable","Kasey"
+1267099543939592200,19788990,"So cool. They've docked. It's amazing that even though both Dragon and the space station are moving really fast, it… https://t.co/yv8TrJAiat","somewhat-identifiable","Kasey"
+1266965063287468000,19788990,"@claraexplores So sweet. The government of Canada called today to tell us that we're on day 8 of our quarantine, so… https://t.co/u3aJmx1ofq","somewhat-identifiable","Kasey"
+1266961474196344800,19788990,"@starstrickenSF The Block button is your friend.","somewhat-identifiable","Kasey"
+1266957552593461200,19788990,"@_Astro_Nerd_ @physicsJ Yep. Good riddance.","somewhat-identifiable","Kasey"
+1266957224447848400,19788990,"@_Astro_Nerd_ @physicsJ It's mind-boggling.","somewhat-identifiable","Kasey"
+1266952718695821300,19788990,"@Yamiche WTH is he talking about? Is MAGA a sentient being now?","somewhat-identifiable","Kasey"
+1266931576140529700,19788990,"@SumanSeth42 @ErynnBrook Thanks. I'll have to try that.","somewhat-identifiable","Kasey"
+1266926320509829000,19788990,"@ErynnBrook The only luck I've had is with a mask that is thin enough that I can breathe right thru the fabric. I'v… https://t.co/EYOgWOBdwZ","somewhat-identifiable","Kasey"
+1266915900424245200,19788990,"@NeutronJo This doesn't make any sense to me. If there are significant additional costs, which is hard to believe,… https://t.co/uiICWDwaWB","somewhat-identifiable","Kasey"
+1266842197380362200,19788990,"@AndrewR_Physics Ours is half gone now. 😋","somewhat-identifiable","Kasey"
+1266841928240251000,19788990,"@anthony_berndt @NASA @SpaceX It's a beauty way to go. 😀","somewhat-identifiable","Kasey"
+1266836052364284000,19788990,"This is what I picture everytime the @NASA and @SpaceX  people say ""Bob and Doug"". Lol. 🇨🇦 https://t.co/SxXOsI0omt","somewhat-identifiable","Kasey"
+1266834697209831400,19788990,"@ThePhysicsShow Not sure why more PER faculty at 4-year colleges and universities don't teach algebra-based physics.","somewhat-identifiable","Kasey"
+1266834205385736200,19788990,"@_Astro_Nerd_ 🤩","somewhat-identifiable","Kasey"
+1266833273956692000,19788990,"Wikipedia says there are 250 billion ± 150 billion stars in the Milkway. I'm guessing there are about 25 ± 15 billi… https://t.co/EwouOhMGRR","somewhat-identifiable","Kasey"
+1266826857904607200,19788990,"@AndrewR_Physics Lucky Monty. 😀","somewhat-identifiable","Kasey"
+1266825872763314200,19788990,"@AndrewR_Physics My sons are working on it.","somewhat-identifiable","Kasey"
+1266825773412843500,19788990,"@Astro_Limno @NASASocial Aww. 😊","somewhat-identifiable","Kasey"
+1267233742222962700,232520907,"Sweet boy https://t.co/TYBoNYc7kK","somewhat-identifiable","Cody"
+1267232713527918600,232520907,"@wuranicole Aburo 💃🏼","somewhat-identifiable","Cody"
+1267232127592136700,232520907,"@Sirkastiq No chance","somewhat-identifiable","Cody"
+1267231630801997800,232520907,"It's my birth month. June please be good to me 🙏🏼","somewhat-identifiable","Cody"
+1267196217672466400,232520907,"See stubborness, mixed with ignorance too. Kai. It is well","somewhat-identifiable","Cody"
+1267194741940158500,232520907,"@tolubrown 😡","somewhat-identifiable","Cody"
+1267194529423274000,232520907,"🙏🏼 https://t.co/RLpbqn0FXb","somewhat-identifiable","Cody"
+1267193899900076000,232520907,"@Vaness__ah Kinky","somewhat-identifiable","Cody"
+1267193383916888000,232520907,"@Thesasquatch_ Boss. You no go see chance. Den for don chow you fost","somewhat-identifiable","Cody"
+1267193249258786800,232520907,"@Sini_xx I dey post am boss","somewhat-identifiable","Cody"
+1267192382296072200,232520907,"😂 https://t.co/XjXsOauXwF","somewhat-identifiable","Cody"
+1267190535720140800,232520907,"@TheAdenike @larabillionaire Scrim.","somewhat-identifiable","Cody"
+1267190308716118000,232520907,"@Sugaarrbaby @ElJefe__ You dey crase","somewhat-identifiable","Cody"
+1267189800420900900,232520907,"@tolubrown I'm omw","somewhat-identifiable","Cody"
+1267189748847779800,232520907,"@iamstanlee 😂","somewhat-identifiable","Cody"
+1267189719424807000,232520907,"@larabillionaire Lmaoo","somewhat-identifiable","Cody"
+1267189257778708500,232520907,"Officer* https://t.co/SyX7S5YtIb","somewhat-identifiable","Cody"
+1267187830536786000,232520907,"@Sugaarrbaby @ElJefe__ 🤲🏼","somewhat-identifiable","Cody"
+1267187539464671200,232520907,"@__gershom Damn. Pelé bro. No be pig you chop. Na human being 😭","somewhat-identifiable","Cody"
+1267187347621322800,232520907,"@JusttLit We saw the first one. You didn't go to school","somewhat-identifiable","Cody"
+1267186149694623700,232520907,"Transporter. Sorry plis. https://t.co/qjRDqg8m2U","somewhat-identifiable","Cody"
+1267185978470432800,232520907,"@Sini_xx 🤲🏼","somewhat-identifiable","Cody"
+1267179900043214800,232520907,"2020 has been something.","somewhat-identifiable","Cody"
+1267177338682445800,232520907,"@Ifedotunxii I don laugh tire","somewhat-identifiable","Cody"
+1267177125611790300,232520907,"Lmao. Man 0:13 - 0:18 is killing me https://t.co/hM3wFWZXIv","somewhat-identifiable","Cody"
+1266199288696070100,885946356048605200,"Feeling like shit job cancelled on me today and I did not receive a call I got all the way down their and found out… https://t.co/RJmTF49jUB","somewhat-identifiable","Cody"
+1266031604519989200,885946356048605200,"First day back working here I go cant wait.","somewhat-identifiable","Cody"
+1265566309921759200,885946356048605200,"@BigBootyPage420 I wish that was my dick.","somewhat-identifiable","Cody"
+1265565910275891200,885946356048605200,"@carcassamc @xXAutumnIvyXx I want to fish like that one day.","somewhat-identifiable","Cody"
+1264605459689828400,885946356048605200,"@LaylaLu8 Yes","somewhat-identifiable","Cody"
+1264604970201911300,885946356048605200,"@demonicdollyyy Happy Birthday sexy little lady","somewhat-identifiable","Cody"
+1264604823044817000,885946356048605200,"@Bbwbunny69 Get over here.","somewhat-identifiable","Cody"
+1263463271409082400,885946356048605200,"@Bbwbunny69 I want her on my arm","somewhat-identifiable","Cody"
+1263323695981838300,885946356048605200,"@demonicdollyyy Rifht","somewhat-identifiable","Cody"
+1262921605102964700,885946356048605200,"@demonicdollyyy Right side.","somewhat-identifiable","Cody"
+1262921379352948700,885946356048605200,"@ChloeBielke Oh my gosh BEAUTIFUL.","somewhat-identifiable","Cody"
+1262214296106201000,885946356048605200,"@SkylarShark Lol looks like you really know how too have a blast.","somewhat-identifiable","Cody"
+1262213542293299200,885946356048605200,"@itsvanilluhbean Super cute kid","somewhat-identifiable","Cody"
+1262094371580596200,885946356048605200,"@demonicdollyyy Off.","somewhat-identifiable","Cody"
+1260894677378596900,885946356048605200,"@jodielawsonx Tits all for sure.","somewhat-identifiable","Cody"
+1260893985624567800,885946356048605200,"@DirtyJeni I'm fuck you good.","somewhat-identifiable","Cody"
+1260209076111241200,885946356048605200,"@Cleo_OnlyFans I do.","somewhat-identifiable","Cody"
+1260115455424860200,885946356048605200,"@IlonaMilf Happy birthday","somewhat-identifiable","Cody"
+1267209036514001000,460637119,"@hrtablaze I like Lambrusco","somewhat-identifiable","Cody"
+1267208547646886000,460637119,"Why have not CA called in the national guard yet? https://t.co/6oU6uZECuB","somewhat-identifiable","Cody"
+1267198967491596300,460637119,"@no_silenced Next stop, Gitmo!","somewhat-identifiable","Cody"
+1267156627355865000,460637119,"@USMCMIL03 You’re too effective 😉 Stay Safe🇺🇸","somewhat-identifiable","Cody"
+1267155224931664000,460637119,"@catturd2 And the “domestic terrorist organization” award goes to none other than Antifa👏","somewhat-identifiable","Cody"
+1267152878172467200,460637119,"Great question! Also, why the silence from Nancy and Chuck? Do they condone the violence and mayhem caused by Antif… https://t.co/Dhlg21hdZ7","somewhat-identifiable","Cody"
+1267146959661314000,460637119,"Engrave and recall this image in your minds when you march to the polls on Nov 3, 2020. Vote for Law and Order… https://t.co/ceqAH9tXkV","somewhat-identifiable","Cody"
+1267145281272860700,460637119,"About 🤬 time‼️Those who will retreat back to their mommies’ basements should get an ass-whoopin and quarantined 😤 https://t.co/WEikWjV38r","somewhat-identifiable","Cody"
+1267177394944635000,286230849,"Lmaooooo bruh","somewhat-identifiable","Caleb"
+1267177166183121000,286230849,"Jesus they gathering Chantellie up outta here","somewhat-identifiable","Caleb"
+1267164392765845500,286230849,"@FakeMikeB_ Lmao bro he was so handicapped with Reggie at QB","somewhat-identifiable","Caleb"
+1267163642195112000,286230849,"@BTheLastHope Bruh was so ass lmao. Ain’t heard his name is years","somewhat-identifiable","Caleb"
+1267153594941239300,286230849,"😂😂😂😂😂 https://t.co/YNyrIaoQeD","somewhat-identifiable","Caleb"
+1267152493349187600,286230849,"This just like that black boy wearing the fedora who hugged that cop a couple years ago. https://t.co/0BRjnqAJwU","somewhat-identifiable","Caleb"
+1267151568727490600,286230849,"RT @BayouBun: Don’t say nothing @1Future","somewhat-identifiable","Caleb"
+1267148816521719800,286230849,"@Chillednigga317 😂😂😂😂","somewhat-identifiable","Caleb"
+1267147902708637700,286230849,"@Chillednigga317 Nann nigga in that video lmao","somewhat-identifiable","Caleb"
+1267147106961068000,286230849,"The people doing the damage in this video don’t look like they from ya city tho RT @EmmettD2_: they blasting pop sm… https://t.co/1FTGI86xUu","somewhat-identifiable","Caleb"
+1267146718706954200,286230849,"Lmao come on man","somewhat-identifiable","Caleb"
+1267144483700760600,286230849,"Watching the Georgia Tech/Wake Forest game from 06. Reggie Ball literally just looking Calvin Johnson way and throwing that shit up 😂","somewhat-identifiable","Caleb"
+1267117049911767000,286230849,"🔊🔊🔊🔊🔊 https://t.co/YLl8XV8bjJ","somewhat-identifiable","Caleb"
+1267110326492790800,286230849,"👀RT @LeBronNoRingsJ: A lot of your favorite rappers were more vocal about 6ix9ine snitching than George Floyd being murdered.","somewhat-identifiable","Caleb"
+1266965688087834600,286230849,"Lmao this pic https://t.co/eYW1drnu9M","somewhat-identifiable","Caleb"
+1266954361038487600,286230849,"@VernDiesal Same ones not gonna vote and still complain. Like yo have y’all not been watching the last 4 years?? Th… https://t.co/06PG3Daow6","somewhat-identifiable","Caleb"
+1266953550485090300,286230849,"@JessieDSep Second funniest shit I seen today","somewhat-identifiable","Caleb"
+1266953479626453000,286230849,"@VernDiesal Let some folks tell it, she don’t like black people because she was doing her job in SF 🤔","somewhat-identifiable","Caleb"
+1266950382162309000,286230849,"@ChevronCupcake Exactly. Joe wasn’t my 1st, 2nd or 3rd choice but he ain’t trump and that’s good enough for me","somewhat-identifiable","Caleb"
+1266947191081275400,286230849,"Lol where the link? RT @justingoldchain: They video of bro getting robbed for the sneakers he just looted is hilarious 😭😭","somewhat-identifiable","Caleb"
+1266946550774653000,286230849,"Nigga lmao https://t.co/Iqu2zSAL2k","somewhat-identifiable","Caleb"
+1266943301858373600,286230849,"@ChevronCupcake That’s exactly what I’m saying. A lot of us saying they aren’t voting because they don’t like Joe tho 🤷🏿‍♂️","somewhat-identifiable","Caleb"
+1266939826030297000,286230849,"@CoachDaveBrown You’re absolutely right","somewhat-identifiable","Caleb"
+1266928283838558200,14529925,"@kingcfb hell yes. I don't know much about the Chief- but she saved some lives last night.","somewhat-identifiable","Kasey"
+1266921730385330200,14529925,"@DavidJollyFL holler when we get one.","somewhat-identifiable","Kasey"
+1266861736830918700,14529925,"@MaraDavis @KeishaBottoms Hell yes","somewhat-identifiable","Kasey"
+1266555018968289300,14529925,"@JohnELTenney I don't even know why I follow you outside of crazy paranormal shit, but you do speak truth.","somewhat-identifiable","Kasey"
+1266554775904161800,14529925,"@senatorjen Chief of Police is an amazing woman as well...","somewhat-identifiable","Kasey"
+1266551678314205200,14529925,"@ShepRose did you see @Trevorlawrencee tonight?","somewhat-identifiable","Kasey"
+1266550845258248200,14529925,"@APompliano Yep","somewhat-identifiable","Kasey"
+1266550659362455600,14529925,"@MikeBellATL Chief of police saved some lives tonight. And the white frat guy with the torn up hand should call the… https://t.co/sf1wvR48si","somewhat-identifiable","Kasey"
+1266536043051921400,14529925,"@TharettJ @Jas_Varsity23 @ATLCRA @Atlanta_Police @wsbtv Take it up with the cops.","somewhat-identifiable","Kasey"
+1266531624088371200,14529925,"@Al_The__Pal @twinkpersister @mukhtaryare @AsteadWesley I’m sure “the president” gives a shit. He’s busy telling hi… https://t.co/sEbU1dGC6N","somewhat-identifiable","Kasey"
+1266531207443034000,14529925,"@FungusLarge @Al_The__Pal @twinkpersister @mukhtaryare @AsteadWesley Take it up with the cops dude.","somewhat-identifiable","Kasey"
+1266528549370056700,14529925,"@austinlouisray @3amWaffleHouse Thanks for the heads up.","somewhat-identifiable","Kasey"
+1266527525376753700,14529925,"@hew3rd @BPie7 @JFrangle @DavidAFrench Take it up with the police.","somewhat-identifiable","Kasey"
+1266395790072782800,14529925,"@NBCNews There is no evidence that would support a handcuffed man face down on the concrete being suffocated. Not o… https://t.co/PJQt2dbp36","somewhat-identifiable","Kasey"
+1266086936462098400,14529925,"@thejoshpace @STRapten @shannoncoulter @winklevoss Should be pretty easy to fact check.","somewhat-identifiable","Kasey"
+1266008291978678300,14529925,"@SGSFOX but that's legal, Steve. These guys pulled themselves up by their bootstraps, every day with no help from a… https://t.co/403wuLKj48","somewhat-identifiable","Kasey"
+1265832013782810600,14529925,"@BiggerBoomStick @donwinslow Actually, there's video out there from the other side of the three officers sitting th… https://t.co/gkI35FAKG3","somewhat-identifiable","Kasey"
+1265825669138845700,14529925,"@realDonaldTrump @LouDobbs Hahahahahahahahaha....somebody get Lou his meds.","somewhat-identifiable","Kasey"
+1265825262874300400,14529925,"@TomFitton To whom?","somewhat-identifiable","Kasey"
+1265777778990944300,14529925,"@tedcruz Lots of people are saying your dad killed JFK. I think someone should look into it. I've heard a lot of people say it.","somewhat-identifiable","Kasey"
+1265757730989621200,14529925,"@AStrangerInThe1 @proverbs31qtee @cover81 @FrankLuntz Nah. She can’t. All these nobodies think people care what the… https://t.co/iSWz4mADDW","somewhat-identifiable","Kasey"
+1265451848162517000,14529925,"@ashleymcnamara had to do it twenty years ago. no plastic. all cloth ties, every end tagged, wild stuff...","somewhat-identifiable","Kasey"
+1265047772522336300,14529925,"@ajc We got it. Enough.","somewhat-identifiable","Kasey"
+1265038755024552000,14529925,"@jtcope4 @TomiLahren 7.) People who trustTrump are stupid.","somewhat-identifiable","Kasey"
+1265038238802227200,14529925,"@ScottTreedoc333 @JoshuaPotash @TomiLahren You need to learn maths. YOU are fake news, Trumper.","somewhat-identifiable","Kasey"
+1265032300074545200,14529925,"@ladd_sarah He seems like he’s done that before...","somewhat-identifiable","Kasey"
+1265014244229120000,14529925,"@akennas @ClevelandLib @SexCounseling @realDonaldTrump Well she blocked me, Allen. So maybe she’s not. Just an idio… https://t.co/cjyuRMAgC4","somewhat-identifiable","Kasey"
+1264938203724886000,14529925,"@ClevelandLib @SexCounseling @realDonaldTrump she's not a real person. First post under Trump on all his tweets. So… https://t.co/QwGPGt8nDm","somewhat-identifiable","Kasey"
+1264937759900401700,14529925,"@HaydenS052303 @itsJeffTiedrich @realDonaldTrump @SteveHiltonx @FoxNews Nixon was a vile man. However, he had a sti… https://t.co/yWZLN5SHzh","somewhat-identifiable","Kasey"
+1264757983956869000,14529925,"@HaydenS052303 @itsJeffTiedrich @realDonaldTrump @SteveHiltonx @FoxNews How dumb do you have to be to continue supp… https://t.co/dY1D15b2uF","somewhat-identifiable","Kasey"
+1261166802911953000,4756342573,"@brxttmxdinaa Yes sirrrrr","somewhat-identifiable","Kasey"
+1260220425696473000,4756342573,"Dam this got me 😂😂 https://t.co/sWTlwZoRKh","somewhat-identifiable","Kasey"
+1259657105251815400,4756342573,"😔 https://t.co/QaDGUDxHO9","somewhat-identifiable","Kasey"
+1258929561812627500,4756342573,"I was genuinely excited for my classes because they were just my major classes and I had the best professors that c… https://t.co/e4O19H4MtW","somewhat-identifiable","Kasey"
+1258929104406995000,4756342573,"Online classes really killed college for me it’s just not hitting the same 😔","somewhat-identifiable","Kasey"
+1257812736236376000,4756342573,"@ojizsus Nah she knew the whole time because as soon as she got down there she tried to change the whole thing","somewhat-identifiable","Kasey"
+1257757033224233000,4756342573,"@ojizsus Ok but how could that chick just keep signing people up to go in the pit know what was down there. Dick move in my opinion","somewhat-identifiable","Kasey"
+1257362623777169400,4756342573,"Cleanest KO I’ve ever seen https://t.co/4PRCXk7u1s","somewhat-identifiable","Kasey"
+1249291720908390400,1243704345540976600,"@WWE #WWE I Love The WWE World Wrestling Entertainment","somewhat-identifiable","Cody"
+1249291483288465400,1243704345540976600,"@jazzyb #FolkNFunky2 Jazzy B I Love your songs and videos from Oh Kehri and Romeo and Folk N Funky 2 yes https://t.co/SM1F96npPY","somewhat-identifiable","Cody"
+1249291226206974000,1243704345540976600,"@jazzyb #Romeo Jazzy B I Love your Romeo songs and videos yes https://t.co/kW92CkEALS","somewhat-identifiable","Cody"
+1249291046049026000,1243704345540976600,"@jazzyb #FolkNFunky2 Jazzy B I Like you a great singer with great style and great songs and videos yes https://t.co/D0YY6fnDbf","somewhat-identifiable","Cody"
+1249290347244474400,1243704345540976600,"@kevin_northover @IAmEliasWWE @vee4vampy #WWE Your Welcome","somewhat-identifiable","Cody"
+1249289767000232000,1243704345540976600,"@SukshnderShinda #Like I Love WaheGuru","somewhat-identifiable","Cody"
+1249289607885156400,1243704345540976600,"@WWE @otiswwe @WWE_MandyRose @tuckerwwe #SmackDown Great messages and moments yes","somewhat-identifiable","Cody"
+1249289030501466000,1243704345540976600,"@otiswwe #WWE #SmackDown Great moments of action yes","somewhat-identifiable","Cody"
+1249288160640520200,1243704345540976600,"@AlexaBliss_WWE #WWE Alexa Bliss I Like you","somewhat-identifiable","Cody"
+1249288055761985500,1243704345540976600,"@SinghBrosWWE @SashaBanksWWE #WWE Great team yes","somewhat-identifiable","Cody"
+1249287750383063000,1243704345540976600,"@aniyaabankss @SashaBanksWWE @AlexaBliss_WWE @NaomiWWE @WWEAsuka @YaOnlyLivvOnce @WWE_MandyRose @PeytonRoyceWWE… https://t.co/7wCRT9hCcS","somewhat-identifiable","Cody"
+1249287446765822000,1243704345540976600,"@StephMcMahon #WWE Great video yes","somewhat-identifiable","Cody"
+1249287253181862000,1243704345540976600,"@Mckenzieas93 #WWE Great wrestlers and WWE World Champions and picture yes","somewhat-identifiable","Cody"
+1249286381001568300,1243704345540976600,"@WWE #WWE Great moments yes","somewhat-identifiable","Cody"
+1249286209521586200,1243704345540976600,"@cwlegacies #Legacies Great moments yes and I Love the Legacies","somewhat-identifiable","Cody"
+1249285292277633000,1243704345540976600,"@WWE #MITB #WrestleMania Great moments of action yes","somewhat-identifiable","Cody"
+1249284760179839000,1243704345540976600,"@KevinHart4real #Like Great messages and video Kevin Hart yes","somewhat-identifiable","Cody"
+1249284154212016000,1243704345540976600,"@matttheyash @otiswwe @WWE_MandyRose @SonyaDevilleWWE @HEELZiggler @WWEonFOX @WWEUniverse #SmackDown #MITB Great teams yes","somewhat-identifiable","Cody"
+1249283728355897300,1243704345540976600,"@BookerT5x #WWE #WWEBackstage Great yes","somewhat-identifiable","Cody"
+1249282811942465500,1243704345540976600,"@kevin_northover @IAmEliasWWE @vee4vampy #WWE Great picture yes","somewhat-identifiable","Cody"
+1249282525777686500,1243704345540976600,"@SashasTopGuy #SummerSlam Great yes","somewhat-identifiable","Cody"
+1249282327718457300,1243704345540976600,"@RealCoryMachado #Like Happy Easter","somewhat-identifiable","Cody"
+1249282194616406000,1243704345540976600,"@alantheus23 #WWE Great pictures yes","somewhat-identifiable","Cody"
+1249281984578252800,1243704345540976600,"@alantheus23 #WWE Great wrestlers and champions yes","somewhat-identifiable","Cody"
+1249281698845454300,1243704345540976600,"@dustinrhodes @KimGeist_ #WWE Happy Birthday Dustin Rhodes and great messages and picture yes","somewhat-identifiable","Cody"
+1249281493400158200,1243704345540976600,"@dustinrhodes @KimGeist_ #WWE Happy Birthday Dustin Rhodes","somewhat-identifiable","Cody"
+1249280911817896000,1243704345540976600,"@WWEMaverick #WWE Great movie yes","somewhat-identifiable","Cody"
+1249280686759923700,1243704345540976600,"@alantheus23 #WWE Great team of WWE RAW Tag Team Champions and picture yes","somewhat-identifiable","Cody"
+1249280338368450600,1243704345540976600,"@WWE @ShinsukeN @BraunStrowman @AlexaBliss_WWE @NikkiCrossWWE #SmackDown Great messages and moments of action on SmackDown yes","somewhat-identifiable","Cody"
+1249279908511010800,1243704345540976600,"@RealDDP @RicFlairNatrBoy @HulkHogan @Sting @RealKevinNash #WWE Great win and pictures and WWE World Champion Diamond Dallas Page yes","somewhat-identifiable","Cody"
+1267219681125032000,4871087776,"@krystalball Let's get real. Even if Bernie were one of the candidates, ""Go vote"" would not be the answer.","somewhat-identifiable","Cody"
+1266736481542029300,4871087776,"@baechelswims https://t.co/xvLuWwPYFq","somewhat-identifiable","Cody"
+1266735991513120800,4871087776,"@VanJones68 💔💔💔💔💔","somewhat-identifiable","Cody"
+1266579376650551300,4871087776,"@PatrickHoos20 The culture of policing could be completely transformed. Some places (for example Dallas I believe)… https://t.co/sTqZ8iTAfq","somewhat-identifiable","Cody"
+1266162037580800000,4871087776,"@ChristinePsyD No","somewhat-identifiable","Cody"
+1266134773044519000,4871087776,"#twithaca https://t.co/klyfxaecZO","somewhat-identifiable","Cody"
+1266133384440529000,4871087776,"It's time to build the political will and get into the streets and get radical. @MothersOutFront @HeatSmartTmpkns https://t.co/QgLDiIo7Bb","somewhat-identifiable","Cody"
+1266132125964738600,4871087776,"Happy to hear a candidate talking about the need for government to lead on climate change at tonight's Environmenta… https://t.co/jsDZQ4xdlt","somewhat-identifiable","Cody"
+1266131436429549600,4871087776,"Great to hear the candidates talk about #HeatPumps and a ban on #FrackedGas at tonight's Environmental Candidate Fo… https://t.co/MeqPgYreKA","somewhat-identifiable","Cody"
+1266130084538318800,4871087776,"Proof that grassroots organizing is powerful? Candidate mentions @MothersOutFront in their opening statement at ton… https://t.co/9StWa8i2vx","somewhat-identifiable","Cody"
+1265832877394100200,4871087776,"@LDanksBurke Wait, what?","somewhat-identifiable","Cody"
+1265832566906597400,4871087776,"Join us to tell @NYGovCuomo and @NationalGridUS NO to gas, YES to #RenewableHeatNow @theactionnet event: Public Hea… https://t.co/j220bTuVdO","somewhat-identifiable","Cody"
+1265613172460916700,4871087776,"NOOOOOOOO! This is so wrong! https://t.co/HZruMJCQ67","somewhat-identifiable","Cody"
+1265612544737247200,4871087776,"@S_Roundtree_Esq I don't know what to say. The words seem so empty and meaningless.","somewhat-identifiable","Cody"
+1265397636133261300,4871087776,"What's the most efficient way to heat water in your home? Join @HeatSmartTmpkns tonight on Zoom. Register at the li… https://t.co/xjqPgQzBDH","somewhat-identifiable","Cody"
+1265377499300716500,4871087776,"@PeteSikora1 Talk about a shell game!","somewhat-identifiable","Cody"
+1265377417750818800,4871087776,"Talk about a #ShellGame!!! #KeepItInTheGround https://t.co/sqHGjzfaFk","somewhat-identifiable","Cody"
+1265053380176642000,4871087776,"@NYFarmer Hard to explain.","somewhat-identifiable","Cody"
+1264878796190163000,4871087776,"Way to take back graduation! Mazel Tov Dr. Grayson! https://t.co/NMTM6zn5jX","somewhat-identifiable","Cody"
+1264878526211203000,4871087776,"@teamkorie Mazel Tov, Dr. Grayson! You rock the BIG RED robe!","somewhat-identifiable","Cody"
+1264325905691836400,4871087776,"Broken hearted 💔💔💔 https://t.co/oxiJS1JoLg","somewhat-identifiable","Cody"
+1264325334943531000,4871087776,"@KyleKulinski I don't *want* to vote for him either. Think like an activist. You're voting for your opponent, not for your savior.","somewhat-identifiable","Cody"
+1263985361736405000,4871087776,"@nathanpboston Very cool","somewhat-identifiable","Cody"
+1263978629291225000,4871087776,"Big news from @Cornell!!!! #GoBigRed! #twithaca https://t.co/utvA4hyar2","somewhat-identifiable","Cody"
+1248789994178822100,901574732348313600,"I was given the book @41WillCome a couple years ago by someone from @ChuckETate ‘s church but due to being busy, I… https://t.co/6iPrI1rnoo","somewhat-identifiable","Cody"
+1244056649406525400,901574732348313600,"@Buck Pingpong challenge #quarantinecalls #Covid_19 #Coronavirus #StayHome #StayAtHomeChallenge https://t.co/EenmUZsLUd","somewhat-identifiable","Cody"
+1240024143082467300,901574732348313600,"Doing my part...Be a donor....Donate blood now!!!
+@RedCross 
+
+#DonateBlood #PowerRed #ONegative #COVID19… https://t.co/5TUTI7vIPN","somewhat-identifiable","Cody"
+1235016581027180500,901574732348313600,"End of 3Q....
+
+Jennings County 35
+New Albany 32","somewhat-identifiable","Cody"
+1235010947653263400,901574732348313600,"From Seymour, Jennings County leads New Albany 22-21 at the half. @rgeneraljr @indsportstalk @IHSAA1 #HoosierHysteria #IHSAA","somewhat-identifiable","Cody"
+1225214582282752000,901574732348313600,"@Trimp3 And....they are going where?????","somewhat-identifiable","Cody"
+1222231777814745000,901574732348313600,"This should be a @Streamlight commercial.  Dropped on a major roadway, run over by semi traffic, yet it still works… https://t.co/GgoimXRtyK","somewhat-identifiable","Cody"
+1211640463867961300,901574732348313600,"@camrockytop Does one rhyme with Bevonte Bean???","somewhat-identifiable","Cody"
+1203382207273939000,901574732348313600,"@BravesBCHS students are competing in the robotics competition today in Seymour. #BCBeBrave @BtownSchools https://t.co/qbL5CHojEj","somewhat-identifiable","Cody"
+1193640035041591300,901574732348313600,"@JordanRichart What did the commentators say?  I’m at the game.","somewhat-identifiable","Cody"
+1193377860775485400,901574732348313600,"Brownstown Central High School Volleyball Pep Session following first state championship in school history.… https://t.co/FdXlI1jcGA","somewhat-identifiable","Cody"
+1193272387816411100,901574732348313600,"Lol https://t.co/2E0jebDnmr","somewhat-identifiable","Cody"
+1267235455763972000,947425510262562800,"@QvwenNana Ameen o","somewhat-identifiable","Cody"
+1267233057209307100,947425510262562800,"@Umar_jaz You dey see am bah","somewhat-identifiable","Cody"
+1267232221137637400,947425510262562800,"@_debayo See me see trouble o","somewhat-identifiable","Cody"
+1267228620675833900,947425510262562800,"@AlhajiA2ice 😂 i feel you, thanks g","somewhat-identifiable","Cody"
+1267227618732118000,947425510262562800,"@_sirkuma I confuse too o","somewhat-identifiable","Cody"
+1267227431540265000,947425510262562800,"@si_amahka I’m nice dear","somewhat-identifiable","Cody"
+1267220208017604600,947425510262562800,"@adedejiart I no gree seh, no be me","somewhat-identifiable","Cody"
+1267219974696980500,947425510262562800,"@si_amahka Art ko Arturo ni 😂😂😂","somewhat-identifiable","Cody"
+1267213717533573000,947425510262562800,"No be me you draw. https://t.co/Wlr1KxPLMA","somewhat-identifiable","Cody"
+1267199228129841200,472160547,"@OANN I'd like to report some social distancing violations in Los Angeles, Chicago, New York, and Minnesota.  Can w… https://t.co/3EK0twG6tF","somewhat-identifiable","Cody"
+1267198810847015000,472160547,"@KTLA Is she bailing out the protestors that beat the man almost to death in the street?  The ones who dragged the… https://t.co/JbaApv8kh3","somewhat-identifiable","Cody"
+1267197550248882200,472160547,"@RealJamesWoods I wish I could ""heart"" this video more than once.","somewhat-identifiable","Cody"
+1267141297036378000,472160547,"@blue_prop I see nothing dangerous in this photo.  I see a father, refusing to let harm come to his home or family.  God bless.","somewhat-identifiable","Cody"
+1267122347695239200,472160547,"@GavinNewsom @CAgovernor 
+@MayorOfLA @ericgarcetti https://t.co/GBA69bFmFF","somewhat-identifiable","Cody"
+1266913907060297700,472160547,"@IngrahamAngle @chicagosmayor Getting a haircut.","somewhat-identifiable","Cody"
+1266818487407702000,472160547,"@LionelMedia It rhymes with schmantiffa.","somewhat-identifiable","Cody"
+1266818065699754000,472160547,"@MayorOfLA and for the love God WEAR YOUR MASKS!!!!!!!! https://t.co/YZtiU7M8SX","somewhat-identifiable","Cody"
+1266817421953777700,472160547,"@BartleinCompany 
+OLIVE TREE VILLAS pool is still padlocked despite recent orders from LA County, and CA stating mu… https://t.co/WyKa7neDF9","somewhat-identifiable","Cody"
+1266785095337164800,472160547,"@Garrett58987767 @TheCriticalDri2 https://t.co/WF1zbaVKkE","somewhat-identifiable","Cody"
+1266784942513508400,472160547,"@ChuckCallesto YES!","somewhat-identifiable","Cody"
+1266420512269299700,472160547,"https://t.co/fYCzn2u9QU
+
+@GavinNewsom @CAgovernor 
+@ericgarcetti @MayorOfLA 
+
+I don't know what ""science"" you follow, but this is from @WHO","somewhat-identifiable","Cody"
+1266173938565918700,472160547,"@PrisonPlanet https://t.co/vgyt6TuAvl","somewhat-identifiable","Cody"
+1266172814265995300,472160547,"Days like these are the lords way of saying, ""its time to do some serious drinking.""
+-Stan Against Evil-","somewhat-identifiable","Cody"
+1266160071018344400,472160547,"I wish #DenzelWashington had been at the car was this morning where a homeless was threatening to kill the poor guy… https://t.co/eojVVj9yfG","somewhat-identifiable","Cody"
+1266159733292978200,472160547,"@RexChapman Wish #DenzelWashington was at the car wash this morning where the homeless man was threatening to kill… https://t.co/wWzok57QRB","somewhat-identifiable","Cody"
+1266130488223121400,472160547,"Today is the day I've decided that I no longer care how the house looks. 
+#freedom","somewhat-identifiable","Cody"
+1266089947435430000,472160547,"@GeeksGamersCom Yawn","somewhat-identifiable","Cody"
+1266077412564938800,472160547,"They won't. https://t.co/AP44VzmQJx","somewhat-identifiable","Cody"
+1266077379031523300,472160547,"@TheCriticalDri2 They won't.","somewhat-identifiable","Cody"
+1266073056499253200,472160547,"I dont wear a mask because it does anything. It does less than nothing.  I wear it so I don't have to deal with a f… https://t.co/MeMPqkQ4gD","somewhat-identifiable","Cody"
+1266071758244733000,472160547,"His movie came out during the anti-crappy movie movement. Bad timing. https://t.co/iN4lCmrdbp","somewhat-identifiable","Cody"
+1266071249823776800,472160547,"@GeeksGamersCom His movie came out during the anti-crappy movie movement. Unfortunate timing, really.","somewhat-identifiable","Cody"
+1266063602823225300,472160547,"The real struggle of being simple and trying not to want complicated things in life, is that everyone and I mean EV… https://t.co/iUDUdy1mez","somewhat-identifiable","Cody"
+1266030392387100700,472160547,"@TweetsAnoop @IngrahamAngle Peace be with you.","somewhat-identifiable","Cody"
+1248790006740570000,2385942596,"Official website address https://t.co/cRGX75gJQV
+@DocAl_DataSys @nhclassof19 @Liv_Sprague @emilyscrie… https://t.co/nhtthreIND","somewhat-identifiable","Caleb"
+1248790002059759600,2385942596,"Official website address https://t.co/cRGX75gJQV
+@DocAl_DataSys @nhclassof19 @Liv_Sprague @emilyscrie… https://t.co/UFyoKMu6Sl","somewhat-identifiable","Caleb"
+1248775874037473300,2385942596,"Official website address https://t.co/cRGX75gJQV
+@DocAl_DataSys @nawreenie @nhclassof19 @Liv_Sprague @emilyscrie… https://t.co/PD9GZfo4el","somewhat-identifiable","Caleb"
+494936537008975900,2385942596,"does it ever stop raining e.e","somewhat-identifiable","Caleb"
+486658992366968800,2385942596,"my power keeps going on and off this is not okay","somewhat-identifiable","Caleb"
+467471209165488100,2385942596,"#PowerMovesOnly @Bajan_Canadian @xRpMx13 @JeromeASF :p","somewhat-identifiable","Caleb"
+447101169983189000,2385942596,"@PowersTrev Ohhhh. That would make sense. XD","somewhat-identifiable","Caleb"
+447096498912636900,2385942596,"@PowersTrev Aw, why? :(","somewhat-identifiable","Caleb"
+444142711218520060,2385942596,"@xAbigailCahillx @minnimoose Hm, sounds fun! :D Text you about it?","somewhat-identifiable","Caleb"
+444134846571372540,2385942596,"@xAbigailCahillx Sad face :(","somewhat-identifiable","Caleb"
+444134616144674800,2385942596,"@xAbigailCahillx OKAY NOW THIS ISN'T FAIR!","somewhat-identifiable","Caleb"
+444134141735358460,2385942596,"@xAbigailCahillx I GET TOBIAS THEN.","somewhat-identifiable","Caleb"
+444133711513018400,2385942596,"@xAbigailCahillx DIVERGENT AND TFIOS FIRST, FOOD SECOND!","somewhat-identifiable","Caleb"
+444133234809778200,2385942596,"@xAbigailCahillx Indeed, my friend. Now, TO YOUTUBE. No wait, food first...","somewhat-identifiable","Caleb"
+444132861944135700,2385942596,"@xAbigailCahillx Yes, it's too cold to do anything else. :p","somewhat-identifiable","Caleb"
+443893390480912400,2385942596,"How does one Twitter? o.o HI EVERYONE.","somewhat-identifiable","Caleb"
+1267090253090865200,1109198717507248100,"@sycoo_ ♥️❤️","somewhat-identifiable","Caleb"
+1267067209567940600,1109198717507248100,"@sycoo_ Dicky Bahi😍","somewhat-identifiable","Caleb"
+1266773957870530600,1109198717507248100,"As I've always said.....
+PAKISTANI KANOON.... INALILLAHIWAINALIHIRAJIOON! 
+
+#NawazSharifRulesHearts… https://t.co/qZ27eHBpUt","somewhat-identifiable","Caleb"
+1266709742564577300,1109198717507248100,"Point to be Noted🥶 https://t.co/OK5Elp8T1l","somewhat-identifiable","Caleb"
+1266705808542367700,1109198717507248100,"@itx_Anayaa Mashallah Evil eyes 👀 off","somewhat-identifiable","Caleb"
+1266704552104988700,1109198717507248100,"@ap_ki_behan23 @WarraichThe dn","somewhat-identifiable","Caleb"
+1266704470983037000,1109198717507248100,"@Zuni444 kmaal","somewhat-identifiable","Caleb"
+1266620814734102500,1109198717507248100,"@_maN_0 iphone 8 plus","somewhat-identifiable","Caleb"
+1266614635807092700,1109198717507248100,"@iam_Rameen JBH","somewhat-identifiable","Caleb"
+1266538080049168400,1109198717507248100,"dozens of people followed me and 12 people unfollowed me // automatically checked by https://t.co/XL905Eq5hk","somewhat-identifiable","Caleb"
+1266441040547975200,1109198717507248100,"@_______Muhammad @mym_nwz fb dn","somewhat-identifiable","Caleb"
+1266434658675368000,1109198717507248100,"@mym_nwz @RanaTalhaAbbas1","somewhat-identifiable","Caleb"
+1266398329627463700,1109198717507248100,"@Binish_20 👍🏽","somewhat-identifiable","Caleb"
+1266381261012172800,1109198717507248100,"@Asawar_Mustafa 😝","somewhat-identifiable","Caleb"
+1266377324024311800,1109198717507248100,"مُرشد جب اُس نے ہم سے معذرت کہو
+
+مُرشد ہمارے ہجر کی تُوہین ہُو گئی 
+
+#ادب_کا_سفر","somewhat-identifiable","Caleb"
+1266314423301361700,1109198717507248100,"@Pro_Pakistani5 bht kmaal","somewhat-identifiable","Caleb"
+1266276578419282000,1109198717507248100,"@apka_mtlb dn brush","somewhat-identifiable","Caleb"
+1266276052919173000,1109198717507248100,"@apka_mtlb S/O? plz","somewhat-identifiable","Caleb"
+1267136458994913300,293862623,"@GHounsel oh no","somewhat-identifiable","Caleb"
+1267001231484035000,293862623,"@ThatFuncyMuncy W","somewhat-identifiable","Caleb"
+1266989224428961800,293862623,"@skg_18 queen","somewhat-identifiable","Caleb"
+1266988343692333000,293862623,"this is my favorite tweet of today https://t.co/5ytDQQ0BDg","somewhat-identifiable","Caleb"
+1266968719135252500,293862623,"@Twins_Rants yes!","somewhat-identifiable","Caleb"
+1266960417907265500,293862623,"@xKerigan_ @yajairaxlove and also please unfollow me 😌","somewhat-identifiable","Caleb"
+1266960315746529300,293862623,"@xKerigan_ @yajairaxlove shut up","somewhat-identifiable","Caleb"
+1266944077276250000,293862623,"@CorreaVeneers look at you go ben 😎","somewhat-identifiable","Caleb"
+1266943804373950500,293862623,"@austin_harvill :(((( love you","somewhat-identifiable","Caleb"
+1266937080602677200,293862623,"@kubkilla @CorreaVeneers bro shut up","somewhat-identifiable","Caleb"
+1266902803978621000,293862623,"@riuvy BANGER","somewhat-identifiable","Caleb"
+1266899628974313500,293862623,"i am SO TIRED","somewhat-identifiable","Caleb"
+1266884107495235600,293862623,"@yajairaxlove i’m literally all for rioting and honestly like all for billion dollar companies that are supporting… https://t.co/o2uJLqi9h5","somewhat-identifiable","Caleb"
+1266882476846264300,293862623,"@slwein own her sis","somewhat-identifiable","Caleb"
+1266872261685977000,293862623,"@realKiNGRiGO me too. i need to pee","somewhat-identifiable","Caleb"
+1266834798212976600,293862623,"@leancuisineeee_ :((((","somewhat-identifiable","Caleb"
+1266834709742583800,293862623,"@realKiNGRiGO are u ok omg","somewhat-identifiable","Caleb"
+1266822475515670500,293862623,"me and danielle blacked out last night and did not cry ~character development~","somewhat-identifiable","Caleb"
+1266815427361083400,293862623,"rigo hasn’t pointed at my water in almost a year https://t.co/3ZeRbSjq8q","somewhat-identifiable","Caleb"
+1266800447450480600,293862623,"@bringerofrain78 these were for me to wake up","somewhat-identifiable","Caleb"
+1266798579550650400,293862623,"@DripJavi i need a nap","somewhat-identifiable","Caleb"
+1266798061742850000,293862623,"why is my whole entire body bruised","somewhat-identifiable","Caleb"
+1266687926697631700,293862623,"danielle set so many alarms holy — https://t.co/QtALjgyN51","somewhat-identifiable","Caleb"
+1266582916085305300,293862623,"hehe","somewhat-identifiable","Caleb"
+1266579572591648800,293862623,"@HalosMatt i’m drunk!","somewhat-identifiable","Caleb"
+1266578559629512700,293862623,"i’m drunk spelling doesn’t count’nn","somewhat-identifiable","Caleb"
+1266854570816409600,2954090937,"@Padres My boy 😍😍😍😍😍","somewhat-identifiable","Cody"
+1266542100423860200,2954090937,"@Padres @tatis_jr Miss this omg 😭","somewhat-identifiable","Cody"
+1266125117245075500,2954090937,"@Padres @Padres 😂🤷‍♀️","somewhat-identifiable","Cody"
+1267208700672032800,957733210108153900,"@JamesKosur @realDonaldTrump Nah. Just malignant narcissistic personality disorder, crippling insecurity, and a desperate need for approval.","somewhat-identifiable","Cody"
+1267091139196223500,957733210108153900,"@CapehartJ He finished the interview by calling the police on the black cameraman who he said was ""crowding him.""","somewhat-identifiable","Cody"
+1267073002883231700,957733210108153900,"@samstein https://t.co/FG66KbnkQJ","somewhat-identifiable","Cody"
+1267062968237404200,957733210108153900,"@samstein Hopefully with a new President.","somewhat-identifiable","Cody"
+1266402684690669600,957733210108153900,"@charliekirk11 Agreed. Except for most other countries.","somewhat-identifiable","Cody"
+1266398248333447200,957733210108153900,"@realDonaldTrump There’d still be 99,770 deaths.","somewhat-identifiable","Cody"
+1266372810361864200,957733210108153900,"@EricTrump It must be so embarrassing for you to be the dumbest Trump. Imagine being a Trump. And then on top of th… https://t.co/FYGLdRtJKk","somewhat-identifiable","Cody"
+1266016372452196400,957733210108153900,"@SRuhle https://t.co/XWDmImIqaT","somewhat-identifiable","Cody"
+1266004614329118700,957733210108153900,"@BrianKarem @realDonaldTrump @billmaher We’re all naively still under the impression that this election will play o… https://t.co/U2lzQiMxoC","somewhat-identifiable","Cody"
+1265703746954301400,957733210108153900,"@mitchellvii I read it a 597%! Fuckin' idiot.","somewhat-identifiable","Cody"
+1265694940669128700,957733210108153900,"@RBReich The reason seems pretty black and white to me.","somewhat-identifiable","Cody"
+1265687360118886400,957733210108153900,"@KLoeffler @realDonaldTrump You’re right. You were exonerated exactly like Trump. Guilty but decided not to press charges.","somewhat-identifiable","Cody"
+1265671518979330000,957733210108153900,"@ihatebigblue @MittRomney Hey dum dum, if you murdered someone would you laugh about it on a nationally syndicated radio show?","somewhat-identifiable","Cody"
+1265645571488075800,957733210108153900,"@MollyJongFast @JoeNBC He's hoping to start a distraction war with Twitter.","somewhat-identifiable","Cody"
+1265446886120607700,957733210108153900,"@DonaldJTrumpJr @Twitter @realDonaldTrump So, you admit your dad lies on Twitter.","somewhat-identifiable","Cody"
+1265395741431869400,957733210108153900,"@UROCKlive1 We didn’t they did.","somewhat-identifiable","Cody"
+1265370301145256000,957733210108153900,"@MarkThevenot @littledeekay @JoeBiden Ah. Guess that’s settled then.","somewhat-identifiable","Cody"
+1265354926521233400,957733210108153900,"@littledeekay @JoeBiden Did anyone ask her why the President is calling Joe Scarborough a murderer?","somewhat-identifiable","Cody"
+1265287782790049800,957733210108153900,"@DavidCornDC @jack BREAKING: Yes. Yes he will allow it.","somewhat-identifiable","Cody"
+1265280320594681900,957733210108153900,"@waltshaub International disgrace and global embarrassment.","somewhat-identifiable","Cody"
+1265259545431072800,957733210108153900,"@MollyJongFast He called him a ""democratic"" governor instead of a ""democrat"" governor! Ooh, he gonna be in trouble!!","somewhat-identifiable","Cody"
+1265015414427443200,957733210108153900,"@realDonaldTrump Your most pathetic tweet yet. Congrats!","somewhat-identifiable","Cody"
+1264598881704296400,957733210108153900,"@kumar69781989 @jonathanvswan So, does your tweet mean you know Trump is lying but he’s entitled to lie because peo… https://t.co/DIyauy39yZ","somewhat-identifiable","Cody"
+1264275266949599200,957733210108153900,"@EllenBarkin Everything this guy does should be a democratic ad for 2020. “Every swing you take every score you fak… https://t.co/kq1Al7NhE3","somewhat-identifiable","Cody"
+1264267885339390000,957733210108153900,"@waltshaub Every hole you make, every swing you take, we'll be watching you.","somewhat-identifiable","Cody"
+1264267656619843600,957733210108153900,"@waltshaub Every move he makes is a democratic ad for 2020.","somewhat-identifiable","Cody"
+1263869685004669000,957733210108153900,"@mitchellvii I repeat, I am not a sycophant. I just believe Donald Trump is the second coming of God.","somewhat-identifiable","Cody"
+1266986459996622800,835776762,"यूपी में लगातार 4 बार @yadavakhilesh की सपा, 4 बार @Mayawati की बसपा फिर भी यूपी के मजदूर दर दर भटक रहे है... 🙄
+और… https://t.co/tfR0bbIPjO","somewhat-identifiable","Cody"
+1266985828426772500,835776762,"@INCIndia ने हमेशा गरिबो की राजनीति की, और खुद अमीर हो गया, ऐसे ही नहीं @RahulGandhi की अम्मा विश्व की चौथी अमीर म… https://t.co/9Crn2kddOH","somewhat-identifiable","Cody"
+1266605975206678500,835776762,"@DChaurasia2312 अरे सर इनके पास मदरसा छाप एजुकेशन है ना...","somewhat-identifiable","Cody"
+1266406891002794000,835776762,"@LambaAlka मर्दानगी टेस्ट करती हुई... 😂 https://t.co/mWUp8Dpfia","somewhat-identifiable","Cody"
+1265676245901217800,835776762,"चीन ने भारत में रह रहे अपने नागरिकों को Evacuate करने का नोटिस जारी कर दिया है।🙄
+@kanhaiyakumar @SitaramYechury… https://t.co/nWQaKly4VP","somewhat-identifiable","Cody"
+1265665124309721000,835776762,"@NepaliTimes @mkoirala 
+जब पुराने नक़्शे को ही मान लेना था, तो अपना पैंट क्यों गीला किया...?
+थु थु हुई वो अलग... 
+#NepalIndiaBorder","somewhat-identifiable","Cody"
+1265474308601548800,835776762,"@RahulGandhi  @PawarSpeaks और @AUThackeray के पिता, तीनों मिलकर महाराष्ट्र मे कोरोना नहीं क़ाबू कर पा रहें ...🙄
+वही… https://t.co/MQF1njaPp8","somewhat-identifiable","Cody"
+1265210097464078300,835776762,"नौंवी फेल, 30 से कम उम्र में हज़ारो करोड़ का मालिक @yadavtejashwi हेलीकॉप्टर में बैठ मिनरल वाटर से हाथ धोकर गरीबों… https://t.co/K0Gs3wqseX","somewhat-identifiable","Cody"
+1265170009749250000,835776762,"कुछ बेवकूफ़ दो कौड़ी की राजनीति के चक्कर में अपने ही धर्म के खिलाफ खड़े हो जाते है ऐसी राजनीति करने वालो के मुंह पर… https://t.co/sNIkIEds7G","somewhat-identifiable","Cody"
+1265136185434726400,835776762,"@yadavtejashwi अईसे लटकाईयेगा तो लटकले रह जाइयेगा... 😂
+उ कहावत नहीं सुने हैं कि ""लटकले त गेले "" https://t.co/VWXKbgRRwM","somewhat-identifiable","Cody"
+1265116848774881300,835776762,"@LambaAlka रे अलका इन दोनों के नपुंसकता का जांच करने के लिए एक बार मिल लो... 😂
+यहाँ भकलोलबाजी करने से कोई फायदा नहीं..","somewhat-identifiable","Cody"
+1264792837222043600,835776762,"@RubikaLiyaquat तुझ को मेरी न मुझे तेरी ख़बर जाएगी
+ईद अब के भी दबे पाँव गुज़र जाएगी
+ईद मुबारक","somewhat-identifiable","Cody"
+1264596163296022500,835776762,"@RubikaLiyaquat जी को ईद की हर्दिक बधाई.... 😌","somewhat-identifiable","Cody"
+1264525385246498800,835776762,"@Javedakhtarjadu जिस सम्प्रदाय मे बाप बेटी से, भाई बहन से निकाह करता हो वैसे सम्प्रदाय के लोग पाताल लोक को ही रिकोमेन्ड करेंगे... 
+थू...","somewhat-identifiable","Cody"
+1264223056639037400,835776762,"70 सालों में जब @INCIndia गरीबी नहीं मिटा सकी, तो अब गरीबों का फर्ज बनता है कि कांग्रेस को ही मिटा दें।..🙄","somewhat-identifiable","Cody"
+1264176631775666200,835776762,"26 हिन्दू ही तो मरे थे...🤔
+380 घर ही तो जलाये थे @MamataOfficial के बंगाल में..🤔
+तुम तो ऐसे रियेक्ट कर रहे हो.🤔
+जै… https://t.co/MqytxaHxmR","somewhat-identifiable","Cody"
+1264093881555189800,835776762,"@mkoirala का नेपाल शायद भुल रहा है कि वह कश्मीर के बगल में नहीं, 
+बिहार के बगल में है। जरुरत पड़े तो बिहारी ही निपटा देंगे... 😂
+@NepaliTimes","somewhat-identifiable","Cody"
+1264073569371226000,835776762,"@RahulGandhi को 16 मई को labor pain (मज़दूरों से बातचीत) हुआ।
+और आज 23 मई को डिलीवरी (video) हुआ....😂","somewhat-identifiable","Cody"
+1264056707866656800,835776762,"@SonuSood भाई आप जैसे लोगों के कारन ही इंसानियत जिन्दा है... 
+Hat's Off...","somewhat-identifiable","Cody"
+1263998740676911000,835776762,"जितने मज़दूर पलायन कर रहे हैं उससे कहीं ज़्यादा रोहिंग्या और बांग्लादेशी घुसपैठिए यहाँ है।
+@aajtak @ABPNews… https://t.co/qXomWbzIuY","somewhat-identifiable","Cody"
+1263714339627757600,835776762,"Article 30(1) Constitution-India 
+सभी अल्पसंख्यक, चाहे वे धर्म या भाषा के आधार पर हों, उन्हें अपनी पसंद के शैक्षणिक… https://t.co/vmI9zsNmwn","somewhat-identifiable","Cody"
+1263711371000078300,835776762,"अपनी टूटी चप्पल संभाल कर रखना,
+जो दिल्ली-पंजाब-मुंबई से पैदल चल कर बिहार लाए हो....
+चुनाव भी आयेगा और ये नेता भी फि… https://t.co/STkpy5bUgf","somewhat-identifiable","Cody"
+1263681007833628700,835776762,"निकल गई हेकड़ी🤔
+
+भगवा, श्रीराम, संघ और @myogiadityanath को गाली देने वाले @INCIndia के नेता @PankajPuniaINC को हरि… https://t.co/nbWDwMCBgn","somewhat-identifiable","Cody"
+1263511562293178400,835776762,"बहादुरों को कालापानी ,लिपुलेख ,शिमला ,नैनीताल और गंगटोक भी चाहिए। उससे अच्छा तो नेपाल को ही भारत में विलय कर ले।
+ह… https://t.co/KjjPIcOW2g","somewhat-identifiable","Cody"
+1263475875921739800,835776762,"@mkoirala उन्नत क़िस्म की भांड थी जो आपको ठुमके दिखा पैसे बटोर ली।
+अब नेपाल में बैठकर भारत को आँख़े दिखा रही है...🙄… https://t.co/SPiH8cvIfg","somewhat-identifiable","Cody"
+1263392245945782300,835776762,"ब्रिटेन के अंदर ही रोल्स रोयल ने अपने बीस प्रतिशत (20%)  कर्मचारियों को निकाल दिया है।
+@BBCHindi  इन निकाले हुए क… https://t.co/WzSRCaJvns","somewhat-identifiable","Cody"
+1263310126686957600,835776762,"सबकी नज़र सिर्फ @myogiadityanath के UP पर ही है.. 
+जबकि यहाँ स्थिति अच्छी है, लेकिन कोरोना, दंगे,पलायन वाला… https://t.co/WvyPIEv8zN","somewhat-identifiable","Cody"
+1263122803819077600,835776762,"@priyankagandhi 😂🤣 https://t.co/2mztMCLaHN","somewhat-identifiable","Cody"
+1263048790220537900,835776762,"ये UC Browser की रेटिंग 4.2  आ रही है क्या कहते हो इसको भी लपेट लें क्या?
+@BBCHindi @aajtak","somewhat-identifiable","Cody"
+1263038161128534000,835776762,"@ZeeNews @TikTok_IN @tiktok_us अरे भाई... 
+ई TikTok बरबाद हो रहा है... 😂","somewhat-identifiable","Cody"
+1266613766034264000,2508131040,"@mayateobrero Que precio tiene por allá, porque abusaron y le subieron mucho","somewhat-identifiable","Caleb"
+1263501836562108400,2508131040,"@CutlerX Hello, good morning
+Greetings from Veracruz México","somewhat-identifiable","Caleb"
+1263283467724509200,2508131040,"@SHARP_794 @CutlerX Hello, my friend Cutlerx
+Good night","somewhat-identifiable","Caleb"
+1259318638932304000,2508131040,"@CutlerX Hello, good night Cutlerx. 
+Much love","somewhat-identifiable","Caleb"
+1266618677505527800,1074384483628007400,"posting your plain ass selfies right now.... girl read the fucking room","somewhat-identifiable","Caleb"
+1265845065324417000,1074384483628007400,"the dude who named garbanzo beans must’ve been a real hoot","somewhat-identifiable","Caleb"
+1265838214402711600,1074384483628007400,"shrimp are the roaches of the sea and i don’t plan to associate with anyone who enjoys eating them","somewhat-identifiable","Caleb"
+1265814409156399000,1074384483628007400,"only using ‘u’: dumb, can you spell?
+only using ‘you’: lame, no fun 
+
+using them both in one sentence: good, versat… https://t.co/yhndr9CxVd","somewhat-identifiable","Caleb"
+1265710222838042600,1074384483628007400,"do you ever feel like you’ll never experience happiness ever again and then you start your period and you’re just l… https://t.co/KnAq2qHMrd","somewhat-identifiable","Caleb"
+1264368246729445400,1074384483628007400,"@alphasoccermom but perhaps morally","somewhat-identifiable","Caleb"
+1264366358541844500,1074384483628007400,"@alphasoccermom do you","somewhat-identifiable","Caleb"
+1264365136501973000,1074384483628007400,"if you wear women’s fit t-shirts you’re a cop","somewhat-identifiable","Caleb"
+1264335840014225400,1074384483628007400,"@veganhotdog11 no meat alternative and bread combination will ever be able to fill the void a turkey sandwich left in me","somewhat-identifiable","Caleb"
+1264330084468605000,1074384483628007400,"your early twenties is just your friends telling you repeatedly not to do something and then you immediately doing it","somewhat-identifiable","Caleb"
+1264301805648871400,1074384483628007400,"https://t.co/JXbYQ2IZgX","somewhat-identifiable","Caleb"
+1264019978203824000,1074384483628007400,"@tanookibbq the AC avi here is what makes me trust ur opinion on the subject","somewhat-identifiable","Caleb"
+1264004378798760000,1074384483628007400,"@ikealmighty fr my whole thing is idk if i’m $360 invested when i already have so many pc games but...... animal crossing","somewhat-identifiable","Caleb"
+1264003713288544300,1074384483628007400,"should i buy a switch just to play animal crossing","somewhat-identifiable","Caleb"
+1264003571273666600,1074384483628007400,"@alphasoccermom you and me both pal","somewhat-identifiable","Caleb"
+1267234838375018500,1855815326,"That is obviously terrible what happened to these businesses, but there is a problem when you mythologize something… https://t.co/i58dPQBnjD","somewhat-identifiable","Caleb"
+1267234198529675300,1855815326,"""We are a progressive newspaper""
+
+You were there and convenient. https://t.co/MSag9h0fOK","somewhat-identifiable","Caleb"
+1267204315959242800,1855815326,"I used to favor this until it was pointed out the designation doesn't give the federal government one extra tool it… https://t.co/Kti5XAkgFs","somewhat-identifiable","Caleb"
+1267204135444717600,1855815326,"@funnibunney @OpusPublicum I think it's more realizing declaring antifa a terrorist organization is a meaningless P… https://t.co/J25bwwbnXU","somewhat-identifiable","Caleb"
+1267037931887190000,1855815326,"@ForAllTheMarble @MKTWgoldstein @Chris_arnade But yah we're going to see an increase in some fashion.  Just hopefully not a ""spike""","somewhat-identifiable","Caleb"
+1267037797979844600,1855815326,"@ForAllTheMarble @MKTWgoldstein @Chris_arnade Multiple studies in different countries as well as experience.   It's… https://t.co/NakfcTYoet","somewhat-identifiable","Caleb"
+1267030085762236400,1855815326,"@Chris_arnade Detroit redux","somewhat-identifiable","Caleb"
+1267002909620912000,1855815326,"@NightOfMajin After a time (and we may not be there yet) force is the only thing that puts it down.
+
+If we'd prefer… https://t.co/L91sRpM3JS","somewhat-identifiable","Caleb"
+1267001274597245000,1855815326,"He needs more than an address.  He needs a plan https://t.co/IzE5nhUu6m","somewhat-identifiable","Caleb"
+1266998061940854800,1855815326,"@GrayConnolly @Vermeullarmine @ElijahDelMedigo Might be my age showing, but that these people had ultimate power in… https://t.co/gK3zyyjo4b","somewhat-identifiable","Caleb"
+1266994671898833000,1855815326,"Will come back tomorrow I'm sure, but I think the strongest criticism of Trump wasn't ""in a crisis he will do somet… https://t.co/nwIMmWVI3x","somewhat-identifiable","Caleb"
+1266988972464648200,1855815326,"@OpusPublicum The shit people believe","somewhat-identifiable","Caleb"
+1266968394378743800,1855815326,"Look, do we really want an answer to that question when he logs on to shitpost? https://t.co/Nu7TYNWmQx","somewhat-identifiable","Caleb"
+1266962747918516200,1855815326,"But it's why they are there https://t.co/hhW1RDzTdv","somewhat-identifiable","Caleb"
+1266955921298559000,1855815326,"@OpusPublicum And having a blue checkmark makes you way likelier to be captivated","somewhat-identifiable","Caleb"
+1266950933369536500,1855815326,"Not sure why some conservatives are dunking on the black congresswoman telling all the whites coming into her neigh… https://t.co/ZTDT4Yqtd5","somewhat-identifiable","Caleb"
+1266948948306133000,1855815326,"I do not think the growing divide between white liberals and blacks is gonna go away https://t.co/diuVEif44A","somewhat-identifiable","Caleb"
+1264450776610439200,4923663252,"james ransone's best acting comes from his vine account https://t.co/r00r1LAotg","somewhat-identifiable","Cody"
+1264437469103009800,4923663252,"richie tozier has owned this shirt since the 90s and he still wears it to this very day. https://t.co/IRa6eNGoyy","somewhat-identifiable","Cody"
+1264437000188227600,4923663252,"LRT @THED0GARTS brought RICHIE TOZIER SIMPSONS FAN to life for me!!! i love him thank you sam","somewhat-identifiable","Cody"
+1264362729738956800,4923663252,"logs back in to hype tiff and then logs back out immediately","somewhat-identifiable","Cody"
+1264362728056995800,4923663252,"hello my friend tiff (who is wonderful and creative and very good) has started an au !!!! i think it will be very g… https://t.co/sCMgbTZoOX","somewhat-identifiable","Cody"
+1263802268849066000,4923663252,"yes i ship barry x so and so https://t.co/jORtvTdsi7","somewhat-identifiable","Cody"
+1263711415027691500,4923663252,"eddie kaspbrak making a dick appointment like https://t.co/rJsNVEn9g9","somewhat-identifiable","Cody"
+1263690181598535700,4923663252,"@anotherpjstan oh me too","somewhat-identifiable","Cody"
+1261905758809030700,4923663252,"peej fossils https://t.co/ASKjZ0rBVT","somewhat-identifiable","Cody"
+1261238258874200000,4923663252,"bonus: richie’s manager steve https://t.co/qpGBoPGLN8","somewhat-identifiable","Cody"
+1261238251727188000,4923663252,"richie tozier https://t.co/CK69qLYuVf","somewhat-identifiable","Cody"
+1261238245041397800,4923663252,"mike hanlon https://t.co/4uHCzZrEJ9","somewhat-identifiable","Cody"
+1261238238418579500,4923663252,"ben hanscom https://t.co/sZ0eMyclQp","somewhat-identifiable","Cody"
+1261238231619653600,4923663252,"eddie kaspbrak https://t.co/L20fX8v9e8","somewhat-identifiable","Cody"
+1261238224837505000,4923663252,"beverly marsh https://t.co/lJDsdTfi8x","somewhat-identifiable","Cody"
+1261238217405128700,4923663252,"stanley uris https://t.co/pDn4l3f4ow","somewhat-identifiable","Cody"
+1261238210081902600,4923663252,"THE LOSERS AS NOOK MILES TITLE KEYWORDS 
+
+bill denbrough https://t.co/Lx9euZH9x8","somewhat-identifiable","Cody"
+1261237689988206600,4923663252,"logging back in to tweet the last titty pic on my phone and also post a thread i have had saved for like 4 weeks (on brand)","somewhat-identifiable","Cody"
+1261237506143449000,4923663252,"i bet you can guess exactly what i am thinking about (it’s his tits) https://t.co/x0JFLv9EUp","somewhat-identifiable","Cody"
+1260860712567468000,4923663252,"i wish i wasn’t so fucken funny on this account so i could delete it but i need bill denbrough human disaster to li… https://t.co/IliJoctTcC","somewhat-identifiable","Cody"
+1260859853989245000,4923663252,"@becomegroovy this is very real groovy","somewhat-identifiable","Cody"
+1260797189485260800,4923663252,"@becomegroovy @eddiokaspbrak their stomachs like ""excuse me. nourish us, we insist.""","somewhat-identifiable","Cody"
+1260780751198404600,4923663252,"the way i have literally not stopped talking to norma, tiff, and bendie for like a month","somewhat-identifiable","Cody"
+1260780664728641500,4923663252,"eddie kaspbrak https://t.co/WTtDnwuEUD","somewhat-identifiable","Cody"
+1260774460509937700,4923663252,"yall i love you but i will start unfollowing people who don't tag smau posts it's my whole tlist all the time now i am here for shitposts","somewhat-identifiable","Cody"
+1260768664271204400,4923663252,"richie tozier deserves to own this sweatshirt https://t.co/ssAe4tvKfL","somewhat-identifiable","Cody"
+1267171592657866800,27726572,"@ODDWORLD2020 If only it would happen...","somewhat-identifiable","Cody"
+1267159735834488800,27726572,"Not happy about the violent direction the protests are taking but if they have to happen, I like this concept.. https://t.co/tiMTxLPwuE","somewhat-identifiable","Cody"
+1267153366418968600,27726572,"@2Photon2020 @CarmenSisRice @blainekell6 @Shayevanslive Okay. I think my tender eyes can handle whatever it is. 😏","somewhat-identifiable","Cody"
+1267153117193388000,27726572,"If only!  #protests2020 https://t.co/8O5DU3vc8l","somewhat-identifiable","Cody"
+1267152762275598300,27726572,"@CarmenSisRice @2Photon2020 @blainekell6 @Shayevanslive Tweet blocked for ""sensitive media.""","somewhat-identifiable","Cody"
+1267150355684622300,27726572,"@JWhitePubRadio Thank you.","somewhat-identifiable","Cody"
+1267140367935246300,27726572,"@2Photon2020 @blainekell6 @Shayevanslive @CarmenSisRice Just don't get killed or hurt, please. 🥴😔😢♥️♥️","somewhat-identifiable","Cody"
+1267126451771527200,27726572,"How to Organize Your Closet https:// e https://t.co/M54Typ1dyZ","somewhat-identifiable","Cody"
+1267124949040365600,27726572,"@blainekell6 @2Photon2020 @Shayevanslive @CarmenSisRice My office used to over look MLK Jr's. chuch and tomb. I jus… https://t.co/g9NHxYFKOA","somewhat-identifiable","Cody"
+1267124370738237400,27726572,"@blainekell6 @2Photon2020 @Shayevanslive @CarmenSisRice Oh, gotcha. I'm not sure I believe in marriage anymore eith… https://t.co/ANzNrfSZls","somewhat-identifiable","Cody"
+1267123377518624800,27726572,"@blainekell6 @2Photon2020 @Shayevanslive @CarmenSisRice I hardly got out of bed yesterday. I just couldn't. I'm so frustrated and sad.","somewhat-identifiable","Cody"
+1267123224707567600,27726572,"@2Photon2020 @blainekell6 @Shayevanslive @CarmenSisRice I guess that like means you're alive. I was really concerne… https://t.co/2FQmXUDQcn","somewhat-identifiable","Cody"
+1267122915931238400,27726572,"@blkumathurman I wonder if Melania complied with their request? 😏🥴🤦‍♀️ Probably negatory, good buddy.","somewhat-identifiable","Cody"
+1267122622426419200,27726572,"@2Photon2020 @blainekell6 @Shayevanslive @CarmenSisRice You guys okay?","somewhat-identifiable","Cody"
+1266977804421390300,27726572,"@blainekell6 @2Photon2020 @Shayevanslive @CarmenSisRice Okay. Not sure what that means but hey just be safe! 😉😏","somewhat-identifiable","Cody"
+1266976999081377800,27726572,"@2Photon2020 @blainekell6 @Shayevanslive @CarmenSisRice I need you to be alive!  Just be careful and don't get hurt, please. ♥️🙏🏼","somewhat-identifiable","Cody"
+1266922935845105700,27726572,"@GROWNMANMOVES1 @Yada_Sada @BerniceKing You are wrong. Progress HAS been made. And there will never be perfection.… https://t.co/TBZjUQyRRI","somewhat-identifiable","Cody"
+1266922611461836800,27726572,"@AMFTXGIRL @BerniceKing Fear of voting?
+Just do it. Why are you afraid?","somewhat-identifiable","Cody"
+1266922432532709400,27726572,"@mann1674 @BerniceKing The moral arc is long.  We are in this together even when it doesn't feel that way.","somewhat-identifiable","Cody"
+1266922154026770400,27726572,"This. https://t.co/ELQ7Y8M5We","somewhat-identifiable","Cody"
+1266889320100778000,27726572,"@2Photon2020 @blainekell6 @Shayevanslive @CarmenSisRice Please just be reasonable...","somewhat-identifiable","Cody"
+1266889202341417000,27726572,"@blainekell6 @2Photon2020 @Shayevanslive @CarmenSisRice Is tori your wife?","somewhat-identifiable","Cody"
+1267112523783946200,248071403,"Ya think?! https://t.co/kryLouScl1","somewhat-identifiable","Cody"
+1267090011922587600,248071403,"@1053SS I would wrap since you already have that kickin’ bark.","somewhat-identifiable","Cody"
+1266954382639317000,248071403,"Yeah, I kinda figured. https://t.co/gNChMs4vdP","somewhat-identifiable","Cody"
+1266940930038345700,248071403,"♥️🙏🏻 https://t.co/FLN1YJ3UbL","somewhat-identifiable","Cody"
+1266765430246473700,248071403,"No insurance? 🥴 https://t.co/D0631W74vW","somewhat-identifiable","Cody"
+1266765029736616000,248071403,"@Heatherella_NE @stoolpresidente @nflcommish Cowboys fans certainly don’t like him. I’ll donate!","somewhat-identifiable","Cody"
+1266587290744303600,248071403,"Panda Watch. The mood is tense; I have been on some serious, serious reports but nothing quite like this. I uh... C… https://t.co/AphLlS4cqX","somewhat-identifiable","Cody"
+1266573380393808000,248071403,"Damn, again! https://t.co/8WOo6rPSG6","somewhat-identifiable","Cody"
+1266563135923794000,248071403,"So......we are moving on from corona? https://t.co/xk0gLeS2fj","somewhat-identifiable","Cody"
+1266562196655558700,248071403,"Damn! https://t.co/8Bw5qVtIL4","somewhat-identifiable","Cody"
+1266394282782572500,248071403,"@toddmbosley Watching you on Scrubs. Fantastic job!","somewhat-identifiable","Cody"
+1266379342743064600,248071403,"Looks like we have finally defeated the rona! https://t.co/FAiEjlvudw","somewhat-identifiable","Cody"
+1265865111270498300,248071403,"@JohnCMcGinley @jcmfanclub I’m just happy you didn’t call me Sally. Great movie! I watched it when it came out in 1… https://t.co/w342td5vQP","somewhat-identifiable","Cody"
+1265856054241394700,248071403,"@JohnCMcGinley dammit! Dr. Cox about to get killed by the Marlboro man. 😭😭😭 https://t.co/F52bHZKcb7","somewhat-identifiable","Cody"
+1265700136421855200,248071403,"Welp.....that’s enough of the twitter for today. Gonna call it early. 👌🏼 https://t.co/yaFGWQub3E","somewhat-identifiable","Cody"
+1265649664134713300,248071403,"Should be wearing his Patriots jersey. https://t.co/CP4U3WiNp2","somewhat-identifiable","Cody"
+1265432480993157000,248071403,"@CoachCarthel https://t.co/JPyriXKvJL","somewhat-identifiable","Cody"
+1265379392978669600,248071403,"@dtownstaydine @JonahTulsNFL https://t.co/W1iJjgjD8D","somewhat-identifiable","Cody"
+1265328792802865200,248071403,"Stock way down on this one. 📉 https://t.co/EGn4QQBMLL","somewhat-identifiable","Cody"
+1265291467972587500,248071403,"@Foxworth24 It was the baby bear who had his porridge eaten, his chair broken, and who found Goldilocks in his bed.… https://t.co/fmJLN6ISsy","somewhat-identifiable","Cody"
+1264980884308004900,248071403,"@CJonesAnderson Hello Mrs. Anderson!  It’s time again for me to beg you to switch these pants for the teal/silver p… https://t.co/WTOfFl8ToI","somewhat-identifiable","Cody"
+1264974231013654500,248071403,"@rjchoppy @1053SS @1053thefan @TommySledge https://t.co/GpfUNjRvkt","somewhat-identifiable","Cody"
+1264926333819289600,248071403,"@GoogleMeOnYahoo @RealJamesWoods https://t.co/59RbK22xpi","somewhat-identifiable","Cody"
+1264405132445388800,248071403,"@1053SS @Rudemeister5 These look really good. I’m confused by the pan situations, however.","somewhat-identifiable","Cody"
+1264263856798470100,248071403,"Maybe Daunte Culpepper🤔🤔 https://t.co/QVNwgLOVxZ","somewhat-identifiable","Cody"
+1263984197099815000,248071403,"Does anyone else constantly get teary-eyed watching #Scrubs or do I need to book an appointment with a therapist? https://t.co/8ZZizWuEvZ","somewhat-identifiable","Cody"
+1263916899047481300,248071403,"@fishsports @mmqb @SInow @CowboyMaven @dallascowboys @1053SS @JC1053 @rynhnt One guy said it and because everyone i… https://t.co/xuSJ7cuvCA","somewhat-identifiable","Cody"
+1263891055826604000,248071403,"@Kassting https://t.co/iEkYQw31aj","somewhat-identifiable","Cody"
+1263878392811851800,248071403,"@rjochoa Y’all are giving this guy way too much plug for his opinion. Gallup is literally trending, now.","somewhat-identifiable","Cody"
+1267178352500244500,196597105,"@arisakawacolle 💕🌹","somewhat-identifiable","Caleb"
+1267178044684451800,196597105,"@tmt_kawacolle 💕🌹","somewhat-identifiable","Caleb"
+1267173153844977700,196597105,"@nehaguptaphoto ❤😘","somewhat-identifiable","Caleb"
+1248790072322748400,973155415,"Official website address https://t.co/kDT7rrmAgu
+@carrloz @SaxHoops @cativyy @_anangie @vancal97 @saucypapi_… https://t.co/HW0xZ5xtND","somewhat-identifiable","Caleb"
+1248790069671891000,973155415,"Official website address https://t.co/kDT7rrmAgu
+@carrloz @SaxHoops @cativyy @_anangie @vancal97 @saucypapi_… https://t.co/OMKzOnoKsu","somewhat-identifiable","Caleb"
+1193428203005759500,973155415,"To the person who hit my rental in EDC Orlando 🖕🏻","somewhat-identifiable","Caleb"
+1185679672287215600,973155415,"@CHVSE_ I 👀 you","somewhat-identifiable","Caleb"
+1110781747245928400,973155415,"https://t.co/JiTztjK67h","somewhat-identifiable","Caleb"
+1100884869582774300,973155415,"The Dollar Tree is lit!","somewhat-identifiable","Caleb"
+1097623425525239800,973155415,"@codyko @ayeeitsjayyy That’s a lot of nic 🤕","somewhat-identifiable","Caleb"
+1090517479770607600,973155415,"@kweenkitre https://t.co/iDNtdzN67K","somewhat-identifiable","Caleb"
+1090471866030948400,973155415,"@chad2turnt Da real MVP","somewhat-identifiable","Caleb"
+1090471587126509600,973155415,"@chad2turnt No Asians tho?? 🤷🏼‍♂️","somewhat-identifiable","Caleb"
+1080536211666522100,973155415,"@Noralache https://t.co/tvbxuGb7a5","somewhat-identifiable","Caleb"
+1071999213192405000,973155415,"She’s adorable https://t.co/TSAKVx1BQY","somewhat-identifiable","Caleb"
+1058190242652414000,973155415,"How does my dog chew up my glasses when she has a million toys all over the house 😤","somewhat-identifiable","Caleb"
+1053061905756020700,973155415,"@jarevalo527 YASS","somewhat-identifiable","Caleb"
+966188611904442400,973155415,"My 🐶 https://t.co/Ty63OLesBC","somewhat-identifiable","Caleb"
+966096165514047500,973155415,"I’m happy eating lasagna for the rest of my life 🙄","somewhat-identifiable","Caleb"
+950626787825877000,973155415,"I don’t think pizza for breakfast was a good idea 🍕","somewhat-identifiable","Caleb"
+950234811049812000,973155415,"@xocult That was so us 😭😂","somewhat-identifiable","Caleb"
+948033441102098400,973155415,"I wish I knew how to speak French 😩","somewhat-identifiable","Caleb"
+1267236241336131600,709822279,"@SGirouxCTV @EZogalis Pas ben la madame?","somewhat-identifiable","Caleb"
+1265336991270473700,709822279,"@JdeMontreal Mais y'en fumait du bon","somewhat-identifiable","Caleb"
+1264388174866010000,709822279,"@PauleRobitaille @maxandu Kent Nagano","somewhat-identifiable","Caleb"
+1262193586684264400,709822279,"@JMGouletQc Je dirais plutôt, tu as été assimilé","somewhat-identifiable","Caleb"
+1261417708752720000,709822279,"@MichelRochonRC @nb58 Les deux tiers des croyants","somewhat-identifiable","Caleb"
+1260752200957145000,709822279,"@natnewswatch @IvisonJ https://t.co/DI0IiPxRRl","somewhat-identifiable","Caleb"
+1260683292015308800,709822279,"@DomAnglade @francoislegault Demandez donc à vos collègues libéraux tels Marguerite Blais et le Dr Barette et laiss… https://t.co/PpeuEwSypq","somewhat-identifiable","Caleb"
+1260601593067712500,709822279,"@DomAnglade Je sais que c'est beaucoup demander mais ne pourrait-on-pas tous mettre l'épaule à la roue Madame Angla… https://t.co/T4aXHrgeic","somewhat-identifiable","Caleb"
+1259896224318193700,709822279,"@Jean__Emard Effet secondaire du coronavirus","somewhat-identifiable","Caleb"
+1258469306163236900,709822279,"@JoeMyGod Open a window and shoo it out with a towel","somewhat-identifiable","Caleb"
+1257164804697006000,709822279,"@BetteMidler Read the Snopes article on the subject.","somewhat-identifiable","Caleb"
+1254043468130902000,709822279,"@FredericArnould Le bon goût aux États-Unis a pris le bord en novembre 2016.","somewhat-identifiable","Caleb"
+1266764020863754200,2380960458,"@FueledBy_Robin @Hoosier_Daddy Happy anniversary!!!","somewhat-identifiable","Cody"
+1264231193576272000,2380960458,"@JesseBlum You did great as always!","somewhat-identifiable","Cody"
+1264230876075790300,2380960458,"@Lanegirl47 @DiscordClique @simonjefferis Yup! Thanks! Appreciate it!","somewhat-identifiable","Cody"
+1264224455934439400,2380960458,"@New_Era_News Multi talented!","somewhat-identifiable","Cody"
+1264064460781531100,2380960458,"@NoNimIntended @AltPress @twentyonepilots @mysunshinejosh","somewhat-identifiable","Cody"
+1264063944123007000,2380960458,"@theclikkie @poptivist I dont think he links into dema at all. I believe he's just a one off character.","somewhat-identifiable","Cody"
+1264062689623412700,2380960458,"@Spookyy_joseph @DiscordClique @Spookyy_joseph this is what I got off YouTube! https://t.co/qZDpObQOch","somewhat-identifiable","Cody"
+1264059826071416800,2380960458,"@DiscordClique Whos the guy playing the bass and piano? Simon?","somewhat-identifiable","Cody"
+1264053161154601000,2380960458,"@Spookyy_joseph @DiscordClique Same I didn't hear it all but luckily I'm on the west coast so I get another chance to hear it!","somewhat-identifiable","Cody"
+1264012416855105500,2380960458,"@poptivist I'm gonna have to stream it. Dont have regular channels","somewhat-identifiable","Cody"
+1263298417008103400,2380960458,"@Bextah84 https://t.co/1vCqCWYKle","somewhat-identifiable","Cody"
+1263296658567118800,2380960458,"@Bextah84 Even if its the same questions, I'll  be there to watch either way!","somewhat-identifiable","Cody"
+1263296456783392800,2380960458,"@SophiaEHanson @tylerrjoseph @joshuadun @twentyonepilots This is so wholesome and sweet! I love it!","somewhat-identifiable","Cody"
+1263295577300758500,2380960458,"@Bextah84 Same! It just cracks me up how often they're asked the same questions.","somewhat-identifiable","Cody"
+1263294764981485600,2380960458,"@New_Era_News @poptivist Shes the best!","somewhat-identifiable","Cody"
+1263293867975045000,2380960458,"@Bextah84 Oooh oooh maybe well get the hear the story of how they met too! https://t.co/2DpWH6iaDK","somewhat-identifiable","Cody"
+1263292608547176400,2380960458,"@too_fastfast @twentyonepilots Save me a spot between you and @FueledBy_Robin so I have room to jam out with Robin… https://t.co/w9ViqEzCn1","somewhat-identifiable","Cody"
+1262768683425792000,2380960458,"@New_Era_News @NewEraPilots @sunnwillrise @filipe_pombeiro @Blu_Grover Michaels gone insane, Julie starts to make you nervous","somewhat-identifiable","Cody"
+1262768522007949300,2380960458,"@New_Era_News @NewEraPilots @sunnwillrise @filipe_pombeiro @Blu_Grover From our show in November https://t.co/ABcqbItzLL","somewhat-identifiable","Cody"
+1262768033962971100,2380960458,"@New_Era_News @NewEraPilots @sunnwillrise @filipe_pombeiro @Blu_Grover","somewhat-identifiable","Cody"
+1262442938216243200,2380960458,"@nocontextpiIots I got second hand embarrassment for these interviewers. This was rough!","somewhat-identifiable","Cody"
+1262166298898755600,2380960458,"@tylerrjoseph Thank you!","somewhat-identifiable","Cody"
+1260060175592874000,2380960458,"@LayedBakDFR You could do your reaction to level of concern on there so I say pass!","somewhat-identifiable","Cody"
+1260059482127663000,2380960458,"@CA_Young That mask is dope and I have those in sensitive skin cause I'm a baby. Lol","somewhat-identifiable","Cody"
+1260058475213676500,2380960458,"@FueledBy_Robin @tylerrjoseph This literally had me crying cause I miss concerts and cackling cause it was hilarious! Damn this virus!","somewhat-identifiable","Cody"
+1260057960492839000,2380960458,"@poptivist This damned song live is so powerful and life giving!","somewhat-identifiable","Cody"
+1260055975739846700,2380960458,"@poptivist https://t.co/p0HOiabhzi","somewhat-identifiable","Cody"
+1267190858148962300,1426830637,"@JayVictoria12 Jit ugly lmao","somewhat-identifiable","Cody"
+1267129338614481000,1426830637,"@DumbJunkie There’s always bitches at checkers at 3am","somewhat-identifiable","Cody"
+1266455544740688000,1426830637,"If I smoke my medical bud with you I really fux with u","somewhat-identifiable","Cody"
+1266437045913862100,1426830637,"@_YGMG_ @mvbvch Let’s throw a RAGER there","somewhat-identifiable","Cody"
+1266428736917954600,1426830637,"@mvbvch Yuh he der when we slidin","somewhat-identifiable","Cody"
+1266192390974574600,1426830637,"This me everyday whatchu mean https://t.co/YTOsv3OL5N","somewhat-identifiable","Cody"
+1265290144111825000,1426830637,"You should see troys https://t.co/LU8bTmX827","somewhat-identifiable","Cody"
+1265259480004145200,1426830637,"@sophiaigemini Lmao 😂","somewhat-identifiable","Cody"
+1265062816978960400,1426830637,"Ay save some horse girls for the rest of us vro","somewhat-identifiable","Cody"
+1264986726298275800,1426830637,"@DumbJunkie It’s happens vro","somewhat-identifiable","Cody"
+1264336044599713800,1426830637,"Your eyes are swallowing me
+Mirrors start to whisper
+Shadows start to see
+My skin's smothering me
+Help me find a way to breathe","somewhat-identifiable","Cody"
+1263629394435866600,1426830637,"@jpendej0 She said “thinks” lmao","somewhat-identifiable","Cody"
+1263627973229523000,1426830637,"Couldn’t be me https://t.co/OJ2VIHYUZt","somewhat-identifiable","Cody"
+1263497159204372500,1426830637,"@mvbvch I definitely tell my homies I love you.... fake news","somewhat-identifiable","Cody"
+1263463377738838000,1426830637,"@ittamz @Angelsokay Np","somewhat-identifiable","Cody"
+1263456965407256600,1426830637,"@ittamz @Angelsokay Looks good dude 🤟🏽","somewhat-identifiable","Cody"
+1262791500271845400,1426830637,"@DumbJunkie We’ve created a Xanax eating onlyfans buying monster 🥴🤯","somewhat-identifiable","Cody"
+1262790835994857500,1426830637,"@DumbJunkie Ryan o canady Higgins the 4th?","somewhat-identifiable","Cody"
+1262790497262862300,1426830637,"@DumbJunkie James mixing up our identities","somewhat-identifiable","Cody"
+1262789233158299600,1426830637,"@DumbJunkie Sounds about right","somewhat-identifiable","Cody"
+1262774737689809000,1426830637,"Whatever happened to that kid cressdick I wonder how he’s doing that asshole","somewhat-identifiable","Cody"
+1262076070074945500,1426830637,"“I need a coach bag” I ain’t got nothin ta do with it","somewhat-identifiable","Cody"
+1261916159785545700,1426830637,"@sophiaigemini Swipe","somewhat-identifiable","Cody"
+1261670747623362600,1426830637,"@samanthaafargas Talk to meh","somewhat-identifiable","Cody"
+1261538740234858500,1426830637,"Chanel got that angry pussy","somewhat-identifiable","Cody"
+1260986352285384700,1426830637,"We ain’t gonna end up in ditches 
+I’m comin out the other side lookin different","somewhat-identifiable","Cody"
+1267233256920891400,1052939587763490800,"@realDonaldTrump Someone who walks around with a verbal gas can for a twitter account doesn’t call for law and orde… https://t.co/LS1196tvpN","somewhat-identifiable","Cody"
+1267230823150809000,1052939587763490800,"@gtconway3d @davequast To instill fear, get everyone riled up, intimidate, and normalize the ever-escalating violen… https://t.co/n6qyZAuJNE","somewhat-identifiable","Cody"
+1267194498095825000,1052939587763490800,"Accurate. https://t.co/lIrWL1ULHq","somewhat-identifiable","Cody"
+1267175663263309800,1052939587763490800,"@SarahKSilverman Honestly Sarah, this is why I don’t think they will allow the election, or accept it if they lose.… https://t.co/8RbP4ZaMk6","somewhat-identifiable","Cody"
+1267167400656396300,1052939587763490800,"@sullydish Also I’m not that afraid of an angry mob. They are easy to stay out of the way of.  
+
+Rampaging cops and… https://t.co/8uoCJFEJaF","somewhat-identifiable","Cody"
+1267166396342956000,1052939587763490800,"@sullydish How about something regarding the deliberate police and agents-of actions that take advantage of the sta… https://t.co/M9EZO2wYYQ","somewhat-identifiable","Cody"
+1267163400334831600,1052939587763490800,"@WorldOfBongz Not today","somewhat-identifiable","Cody"
+1267161380689375200,1052939587763490800,"@realDonaldTrump You better do the KKK first. And anyway you can’t.","somewhat-identifiable","Cody"
+1267143819096502300,1052939587763490800,"By desecrated, I think you mean anointed. https://t.co/nxvkTBC5sa","somewhat-identifiable","Cody"
+1267142017366159400,1052939587763490800,"Absolutely. The statement itself was offensive enough that one wonders why it was put out into the public conscious… https://t.co/8TM41lHRBU","somewhat-identifiable","Cody"
+1267129255571275800,1052939587763490800,"@TheRynheart @AmoneyResists That’s not his brand","somewhat-identifiable","Cody"
+1267114807745851400,1052939587763490800,"Name them. Their brand is cowardice. Money over justice once again. Got a voice? Now is the time to use it. https://t.co/OujLnEvoOt","somewhat-identifiable","Cody"
+1267113803386257400,1052939587763490800,"Please amplify this message. It’s the cops who are rioting https://t.co/H2Dbd7uf1z","somewhat-identifiable","Cody"
+1267112760891961300,1052939587763490800,"@dcwoodruff It’s the cops who are rioting","somewhat-identifiable","Cody"
+1267112251187531800,1052939587763490800,"Racist says what?
+https://t.co/6jkWxDn03v","somewhat-identifiable","Cody"
+1267096597789151200,1052939587763490800,"Yep https://t.co/fX04OxNtIg","somewhat-identifiable","Cody"
+1266957988528414700,1052939587763490800,"@Yamiche We are witnessing the blooming of a dictatorship.","somewhat-identifiable","Cody"
+1266955430028173300,1052939587763490800,"@mesamuelangus Now those are looters","somewhat-identifiable","Cody"
+1266937360622555100,1052939587763490800,"This is them rehearsing ... I swear all of this is dress rehearsal for much worse. https://t.co/PDOMDB76Rb","somewhat-identifiable","Cody"
+1266935799385227300,1052939587763490800,"Biden should make Hillary Clinton his Secretary of State, because fuck Vladimir Putin.","somewhat-identifiable","Cody"
+1266933346040332300,1052939587763490800,"Oh for sure. I almost even forgot the president* recently asked if drinking bleach might cure covid-19, without a h… https://t.co/9DcFKKbvB3","somewhat-identifiable","Cody"
+1266928090946494500,1052939587763490800,"These two have just had their citizenship on #Chromatica vevoked. https://t.co/MzEDkqhLqO","somewhat-identifiable","Cody"
+1266917991817474000,1052939587763490800,"With my harm reduction hat on, wear a mask!
+
+With my conscience hat on, no justice, no peace.","somewhat-identifiable","Cody"
+1266916924866179000,1052939587763490800,"I bet he doesn’t try that shit again https://t.co/YbxzhbIjQE","somewhat-identifiable","Cody"
+1266916164619272200,1052939587763490800,"With my public health hat on, I worry how many more black and allied people will end up dying because of exposure t… https://t.co/LwBtcEp5Qq","somewhat-identifiable","Cody"
+1266915049114747000,1052939587763490800,"@ardem_c @Vancbromycin @DrAyanaJordan @kreepklebsiella @DrFNA @DrDaniJackson @sultrywaves @AbouS_K @uche_blackstock… https://t.co/vVeZH3qFMV","somewhat-identifiable","Cody"
+1266872964454084600,1052939587763490800,"Sign Kaepernick and let him kneel. This statement is a direct contradiction of the league’s past actions. Hollow wo… https://t.co/zIFAIgaumG","somewhat-identifiable","Cody"
+1266920476871360500,23951949,"Just doing some spying with my Culper Code Book. 
+And I'm very 636
+
+#culperspyring #houstonphotographer #flintlock… https://t.co/bG0XlwhKcG","somewhat-identifiable","Cody"
+1266010040743460900,23951949,"@Shutterstock @4pawstailphotos @Shutterstock are you just copying and pasting this same comment? How is resetting m… https://t.co/WXnBzLtPgu","somewhat-identifiable","Cody"
+1266005844346523600,23951949,"@Shutterstock @PedalSlip How is resetting me back to 15% on January 1 rewarding content that is in demand?","somewhat-identifiable","Cody"
+1265418929582858200,23951949,"Vintage photography inspired by the tv show Turn, Washington’s Spies
+Shot in our studio and waiting to get customer… https://t.co/pA6CphT9DQ","somewhat-identifiable","Cody"
+1265418835810758700,23951949,"Vintage photography inspired by the tv show Turn, Washington’s Spies
+Shot in our studio and waiting to get customer… https://t.co/qHJvkb2NH3","somewhat-identifiable","Cody"
+1264371075338518500,23951949,"1876 cowboy 
+More quarantine photography and low key lighting 
+#cowboy #vintage #sass #houston #houstonphotography… https://t.co/vn9241l26D","somewhat-identifiable","Cody"
+1262201910343450600,23951949,"Some film noir fun in the studio today
+#filmnoir #houstonphotographer #houstonphotography #1940 #1940s… https://t.co/9W93JRlL3g","somewhat-identifiable","Cody"
+1261838964144713700,23951949,"Another from our 1780 photoshoot
+#houstonphotographer #vintage #1780 #quarantinephotography @ Missouri City, Texas https://t.co/2RtlALL3px","somewhat-identifiable","Cody"
+1261837417629311000,23951949,"Hillsborough 30th August 1780
+Sir
+The Militia broke so early in the Day, and scattered in so many Directions, upon… https://t.co/zaTNngmzq6","somewhat-identifiable","Cody"
+1259994505878679600,23951949,"Another from the civil war photoshoot series.
+#houstonphotographer #1862
+#vintage #civilwarreenactment… https://t.co/ES6T5qpH4o","somewhat-identifiable","Cody"
+1259849716927471600,23951949,"Need b-roll for your productions of work from home? Here it is.  https://t.co/t0mvS1NiBG  #pond5 #workfromhome #production","somewhat-identifiable","Cody"
+1259673333005553700,23951949,"More quarantine photography.
+Using light and shadow.
+Canon Rp with 85mm at f2.0
+#vintage #1864 #civilwarreenactment… https://t.co/v2EpHZIUuw","somewhat-identifiable","Cody"
+1258577110546833400,23951949,"More quarantine photography.
+#1874 #cowboy #vintage #oldwest #houston #houstonphotographer #bwphotography… https://t.co/LPpzydbJtx","somewhat-identifiable","Cody"
+1258214949802909700,23951949,"Playing with different color grade for more dramatic photography.
+One of my quarantine self portraits.… https://t.co/5F4Mc49BZL","somewhat-identifiable","Cody"
+1257370487077908500,23951949,"Newly updated Coronavirus stock video portfolio at @pond5 for your production needs.  https://t.co/AKeqBcPsbl… https://t.co/DK28Sw3TtZ","somewhat-identifiable","Cody"
+1252703119210938400,23951949,"From our quarantine photoshoots
+Using the time to experiment with lighting.
+Using my hat from JJ Hats in NYC… https://t.co/GY63ev9nUe","somewhat-identifiable","Cody"
+1252702699130245000,23951949,"From our quarantine photoshoots
+Using the time to experiment with lighting.
+Using my hat from JJ Hats in NYC… https://t.co/65qUKzRojR","somewhat-identifiable","Cody"
+1252412472994091000,23951949,"While in quarantine my wife and I are experimenting with lighting and color grade for our shoots.
+#1800s #vintage… https://t.co/sBFOC0AJdc","somewhat-identifiable","Cody"
+1251590040263803000,23951949,"Some of our newest stock video. 1918 Spanish Flu collection.  https://t.co/CIjWyXEh93
+#pandemic #covid19… https://t.co/5449DfS1iD","somewhat-identifiable","Cody"
+1251525660327194600,23951949,"I just liked “Exploring My Backyard” on #Vimeo: https://t.co/SkwSLNgDQJ","somewhat-identifiable","Cody"
+1251115615433166800,23951949,"Back in the lab shooting more video 
+#covid #coronavairus #bloodplasma #stockfootage #cinematography… https://t.co/Ng3xOT4qBm","somewhat-identifiable","Cody"
+1248790111598321700,23951949,"1918 scientist studying the influenza pandemic.
+One of our latest video and photo shoots.
+#1918 #pandemic… https://t.co/zguDm27MjR","somewhat-identifiable","Cody"
+1245883811398893600,23951949,"Another prop newspaper I made.
+#Dillinger #gangster #filmnoir #houstonphotographer https://t.co/7D4Mtl1Y23","somewhat-identifiable","Cody"
+1245883325270589400,23951949,"Playing with some film noir lighting and making some newspaper props.
+Name the movie this one was from.
+#filmnoir… https://t.co/vrLvgv0tUw","somewhat-identifiable","Cody"
+1243874833093574700,23951949,"@jonconnorfilms TeamViewer could work for that.","somewhat-identifiable","Cody"
+1243353998049939500,23951949,"Doing some reading while quarantined at home. Of course wearing my Stetson fedora 
+#1940s #jjhatcenternyc… https://t.co/NGFbNcdtgJ","somewhat-identifiable","Cody"
+1243247893898723300,23951949,"A collection of our Coronavirus royalty free videos. We're adding to them daily. Ready for your commercials.… https://t.co/LGLpyKXfpB","somewhat-identifiable","Cody"
+1243247289327652900,23951949,"@TRStudios Lets see it.","somewhat-identifiable","Cody"
+1242193210002346000,23951949,"We’ve come up with the vaccine but I don’t think you’re going to like it.
+#soylentgreen #vaccine #covid_19 @ Missou… https://t.co/CSIk7arMFf","somewhat-identifiable","Cody"
+1241561957024632800,23951949,"Just because you have to work from home you can still wear you fedora and have a little fun.
+#jjhatcenternyc… https://t.co/gdzGAtngrz","somewhat-identifiable","Cody"
+1267067176755662800,838425228854231000,"Rainbows 🌈 during crisis https://t.co/vjCXFJPy68","somewhat-identifiable","Cody"
+1267028138015383600,838425228854231000,"@MrityunjayOffic @myogiadityanath @myogioffice @CMOfficeUP @UPGovt @MrityunjayUP Great work by great leader &amp; team… https://t.co/JztbEdFy85","somewhat-identifiable","Cody"
+1267006127004254200,838425228854231000,"@Pankaj_Singh79 @vijeshlunawat @RahulGandhi @Alok_SharmaBJP @SonuSood @ChouhanShivraj @vdsharmabjp @arunbothra… https://t.co/OSnwmg08La","somewhat-identifiable","Cody"
+1266999491791487000,838425228854231000,"@SoldierJitendra 🙏","somewhat-identifiable","Cody"
+1266999412980461600,838425228854231000,"@Advambikesh @RajeshS85334627 🙏🙏","somewhat-identifiable","Cody"
+1266991518289543200,838425228854231000,"@iSakshiMishra It’s in the blood 🙏","somewhat-identifiable","Cody"
+1266950068998770700,838425228854231000,"तेरे पूजन को भगवान - बना मन मन्दिर आलीशान - ISHA PANCHAL - TERE POOJAN K... https://t.co/LtNdGDhXeE via @YouTube 
+D… https://t.co/W7ECTuiCNc","somewhat-identifiable","Cody"
+1266926472096215000,838425228854231000,"@HYV_AYODHYA @ravan_singh44 😅😅","somewhat-identifiable","Cody"
+1266903394339311600,838425228854231000,"Good morning everyone https://t.co/vuP16xIUsx","somewhat-identifiable","Cody"
+1266754966862979000,838425228854231000,"Circulating separate e mail for defence personnel’s :                                      soldiers@reenansingh.com… https://t.co/iwXxDj21Ty","somewhat-identifiable","Cody"
+1266719075851362300,838425228854231000,"@MunishSaravanan Congratulations Thalaivar fans  😊@rajinikanth","somewhat-identifiable","Cody"
+1266709903915147300,838425228854231000,"@Itishree001 Divine 🙏","somewhat-identifiable","Cody"
+1266708918144651300,838425228854231000,"@Dr_Uditraj “Everyone has the right to be stupid, but you are abusing the privilege.”😅","somewhat-identifiable","Cody"
+1266649913791660000,838425228854231000,"@PankajofficialK Good people to help the society are most welcome 🙏","somewhat-identifiable","Cody"
+1266647924508745700,838425228854231000,"@AttalJRBaylagam Who is this anti-Hindu ?","somewhat-identifiable","Cody"
+1266626973624746000,838425228854231000,"@uppcopak When people behave insanely with a women doing police duty  , just imagine the plight of a poor women . S… https://t.co/flhjgZ0yT5","somewhat-identifiable","Cody"
+1266623261661491200,838425228854231000,"@DJesseH1 @mysql_sync 😅😅😅👌👌👌","somewhat-identifiable","Cody"
+1266613628171477000,838425228854231000,"@Chandramohanbjp 🙏🙏🙏🙏🙏","somewhat-identifiable","Cody"
+1266613469815599000,838425228854231000,"Much required step to help Middle class families in this time of crisis, schools are non profit organisations in ac… https://t.co/W4xEWapsF8","somewhat-identifiable","Cody"
+1266809204872040400,1669257860,"yessir!! https://t.co/Ji8KQsnWtE","somewhat-identifiable","Cody"
+1266801473498820600,1669257860,"NEWARK IS AMAZING","somewhat-identifiable","Cody"
+1266739536891187200,1669257860,"sending nothing but prayers to everyone protesting in Newark today. Please stay safe 🙏🏽","somewhat-identifiable","Cody"
+1267233867708031000,26572627,"@TopRaceReports @santaanitapark Haha just busting ⚽⚾🏀s. My coworker does it constantly, but if you correctly pick 1… https://t.co/2EDaynKRTI","somewhat-identifiable","Caleb"
+1267230699456655400,26572627,"@TopRaceReports @santaanitapark Now if only you stopped calling her a guy 😆 in all seriousness, great analysis","somewhat-identifiable","Caleb"
+1267228908312621000,26572627,"@kaitlinefree She definitely took a stumble/bad step, maybe Prat pulled her up as a precaution.","somewhat-identifiable","Caleb"
+1267227904347222000,26572627,"@kaitlinefree Yeah Prat started slamming on the brakes near the 3/16 pole. I didn't see anything obviously wrong in… https://t.co/GgbgVnWK2X","somewhat-identifiable","Caleb"
+1267160450061369300,26572627,"Suggested tickets based on how I capped today (updated):
+
+EP5: 2,3,5 | 1,3,4 | 1,3,5 | 7,9 | 1,3,6,9 = $108
+EP4: 1,… https://t.co/4tNlbfJMR6","somewhat-identifiable","Caleb"
+1267160300718940200,26572627,"@GGat619 Good catch, I made adjustments but forgot to update. I'll send a new tweet","somewhat-identifiable","Caleb"
+1267157180756537300,26572627,"@rrstable Thanks, to you as well!","somewhat-identifiable","Caleb"
+1267153353894539300,26572627,"If you have a strong opinion in an early race &amp; could afford to go ALL in R1/R3/both, go for it. I couldn't make it… https://t.co/xWWP4g5tox","somewhat-identifiable","Caleb"
+1267153351830958000,26572627,"Short fields &amp; only 8 races on Sunday's @santaanitapark, but maybe that's what I need to finally get another P4/P5… https://t.co/j2EUHfoL9R","somewhat-identifiable","Caleb"
+1267150955503476700,26572627,"@christopherado @racing_dudes @santaanitapark @ErnieBPhoto93 Definitely the value play of the race, I'll give you that!","somewhat-identifiable","Caleb"
+1267124477134954500,26572627,"@christopherado @racing_dudes @santaanitapark @ErnieBPhoto93 Ce Ce also had to get used hard to get out and over fr… https://t.co/KYcEXOdnTH","somewhat-identifiable","Caleb"
+1267119936888946700,26572627,"@johnjlies I'll have to go watch some replays!","somewhat-identifiable","Caleb"
+1266895784299032600,26572627,"@smoothturn2 Same!","somewhat-identifiable","Caleb"
+1266895207158608000,26572627,"LAURA'S LIGHT stalked, pounced, &amp; held sway late to win Saturday's Honeymoon S. (G3) at @santaanitapark under a mas… https://t.co/aBOg4Wvq2l","somewhat-identifiable","Caleb"
+1266889778361806800,26572627,"SECRET MESSAGE just squeaked by a pair of sharp foes in Saturday's thrilling edition of the @oldforester Mint Julep… https://t.co/hrsIrPd01N","somewhat-identifiable","Caleb"
+1266889054047502300,26572627,"BELL'S THE ONE bombed the tote at 13/1 in Saturday's Winning Colors S. (G3) at @ChurchillDowns. Read the full race… https://t.co/VOJPneZatB","somewhat-identifiable","Caleb"
+1266865252659949600,26572627,"@smoothturn2 And by mare I meant dam haha. She already WAS a perfect California turf mare.","somewhat-identifiable","Caleb"
+1266865165393203200,26572627,"@smoothturn2 Broke my heart when she was sold to Japan, thought for sure she'd be a perfect California turf mare.","somewhat-identifiable","Caleb"
+1266865057775796200,26572627,"@allenruiz23 @santaanitapark Oh yeah, no worries. Gotta remember horses aren't like cars. You can't slam on the bra… https://t.co/QsC1Q2ZUcp","somewhat-identifiable","Caleb"
+1266864229606240300,26572627,"@allenruiz23 @santaanitapark Not always. Fahan Mura did it often. When a horse's best weapon is pure speed, you let… https://t.co/yprrhw6uL7","somewhat-identifiable","Caleb"
+1266863317353590800,26572627,"I've been searching for my next Fahan Mura - a turf female who is all speed, all go - ever since the great mare ret… https://t.co/CLFHx88Gam","somewhat-identifiable","Caleb"
+1266863001207890000,26572627,"@maple_metrics She did. I was surprised by that. Looks like the extra distance wasn't for her.","somewhat-identifiable","Caleb"
+1266862828201230300,26572627,"What in the blue blazes did I just see at @santaanitapark  🤯  I don't even really care that it killed my tickets, C… https://t.co/wC1pVGuW03","somewhat-identifiable","Caleb"
+1266858891616215000,26572627,"@maple_metrics I wouldn't. No way she gets away on an easy lead, and that's her only way to win here in my opinion.","somewhat-identifiable","Caleb"
+1266856914161291300,26572627,"@maple_metrics Nice! Let's keep it rolling!","somewhat-identifiable","Caleb"
+1266856819227426800,26572627,"@rrstable Thanks! Rispoli and Koriner are sneaky good right now. I said she'd need a relatively easy lead if she wa… https://t.co/Ztfeb9MLVw","somewhat-identifiable","Caleb"
+1266626082519670800,3079651796,"Omg @nic_daniellee please stop snoring, you’re keeping me awake and I’m sure your unborn child in your womb does not like it either 😂😂","somewhat-identifiable","Caleb"
+1266625456616308700,3079651796,"Someone please remind me to not have caffeine with dinner and sugar right before bed, I am wide awake 😀","somewhat-identifiable","Caleb"
+1266616388707180500,3079651796,"I absolutely cannot stand when apps log you out and you don’t remember your password 😤","somewhat-identifiable","Caleb"
+1266609215822459000,3079651796,"I am so over it like I have no energy anymore","somewhat-identifiable","Caleb"
+1266607443695423500,3079651796,"This really might be my last pregnancy and it’s crazy to think about","somewhat-identifiable","Caleb"
+1266597187540009000,3079651796,"16 weeks pregnant and this baby is soo active already, he must be a crazy one like his sister 😂","somewhat-identifiable","Caleb"
+1266447271773630500,3079651796,"@nic_daniellee I think I will forever either get organic cows milk or stick to oat milk for my kids because of that reason 🤢","somewhat-identifiable","Caleb"
+1266445341861179400,3079651796,"Pediatricians really need to stop pushing cows milk when your child turns one, Kennedy has barely had any cows milk… https://t.co/yiTMgzTg4T","somewhat-identifiable","Caleb"
+1266400984122585000,3079651796,"Can @fawndesign_  please release the weekender bags again, I need it for my hospital bag 😩","somewhat-identifiable","Caleb"
+1266396945808978000,3079651796,"I can’t believe I’m going to have another human with another social security number😂 it’s so cute 🥺","somewhat-identifiable","Caleb"
+1266225480618803200,3079651796,"My nails are SO healthy, they were never this strong with Kennedy she just made my hair super long and shiny 😂","somewhat-identifiable","Caleb"
+1266208882503762000,3079651796,"I really hope there is not one person that thinks what happened to George Floyd is justified. It is absolutely sickening.","somewhat-identifiable","Caleb"
+1266202783813795800,3079651796,"I have the best hair stylist ever 🥺","somewhat-identifiable","Caleb"
+1266189434577281000,3079651796,"Kennedy learned mine and erics real names and it’s the cutest thing ever 😂","somewhat-identifiable","Caleb"
+1266118516572184600,3079651796,"Going to the dentist while pregnant is so painful, my mouth hates me rn","somewhat-identifiable","Caleb"
+1266008432475160600,3079651796,"@nic_daniellee Well I have been recently but none I remember last night 🥴😂","somewhat-identifiable","Caleb"
+1266002759448289300,3079651796,"@nic_daniellee Like maybe I was hot so I took it off in the middle of the night but I have NO recollection 😂😂","somewhat-identifiable","Caleb"
+1265998013828231200,3079651796,"I woke up with no shirt on, I am very confused 😂","somewhat-identifiable","Caleb"
+1265870960197947400,3079651796,"I’m so excited to use my @owletbabycare sock again for this baby 🥺","somewhat-identifiable","Caleb"
+1265811018850033700,3079651796,"@nic_daniellee @madelinerose297 Yesss I love being the one handling the money because they you know how much you gu… https://t.co/w1YY8YYZ0j","somewhat-identifiable","Caleb"
+1265807061150863400,3079651796,"@madelinerose297 Oh helllll no I would be pissed😂 cut him the f off😂","somewhat-identifiable","Caleb"
+1265752283888812000,3079651796,"I could actually sleep all day long","somewhat-identifiable","Caleb"
+1265713241113559000,3079651796,"@Heidi_Walsh15 I’m so glad I’m not alone, I always felt so weird crying 😂😂","somewhat-identifiable","Caleb"
+1265713154115268600,3079651796,"Maybe since I get to spend my birthday this year with my husband for the first time EVER in the past 6 years I actually won’t cry 🤣","somewhat-identifiable","Caleb"
+1266939731465703400,221944402,"@ufc UNRANK woodley immediately. Runs for 25 minutes in a main event. Sick","somewhat-identifiable","Cody"
+1266740862060462000,221944402,"@FITBOY_MIKEYY How do you know they were Trump supporters though?...And what would Trump supporters have to do with… https://t.co/hMZEnQKEZd","somewhat-identifiable","Cody"
+1266450266137792500,221944402,"@TitanfallBlog Just take it out 🤦🏻‍♂️ and give me an akimbo p2020","somewhat-identifiable","Cody"
+1266435003333951500,221944402,"@jrnalll @DannVixm Also:
+
+https://t.co/zAjgmvdukG
+
+🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️","somewhat-identifiable","Cody"
+1266434577305948200,221944402,"@jrnalll @DannVixm He called looters and rioters “THUGS”
+You projecting them to be black people is your issue. https://t.co/gKjPjr6a5C","somewhat-identifiable","Cody"
+1266434323059744800,221944402,"https://t.co/6xpEfFiPFD
+😤😤😤
+@CrookedIntriago really flipped that drip/drop line 🔥 @JoellOrtiz too fire","somewhat-identifiable","Cody"
+1266381455292280800,221944402,"@Ihatemortals Donald trump tried to “talk up” Minneapolis until all those people started rioting. Soooo who’s the real problem here?","somewhat-identifiable","Cody"
+1266380899014324200,221944402,"@D_jeneration @JoeBiden He didn’t call black people thugs. He called a group of people rioting, “THUGS”. Figure it… https://t.co/ZcM2Fh60F1","somewhat-identifiable","Cody"
+1266371160024875000,221944402,"@Genius https://t.co/26qKVygyTZ","somewhat-identifiable","Cody"
+1266370728225435600,221944402,"@mRpOrTeR7 I respect you greatly, but dude....not even close. Y’all talk about this man daily, insults and such and… https://t.co/2kSxHPT3FI","somewhat-identifiable","Cody"
+1266007997878337500,221944402,"If the @MLB can’t come to terms with its players, it’s gunna be like that movie “The Replacements”. And I’ll tell y… https://t.co/KEUyGXOQly","somewhat-identifiable","Cody"
+1265722115841503200,221944402,"@rosenberg @Eminem this link ain’t working .... we need some help #stans","somewhat-identifiable","Cody"
+1265084120742408200,221944402,"@ashhweexmariee Wow","somewhat-identifiable","Cody"
+1265057173505298400,221944402,"@ChrisWebby Me and Boss definitely have. Patiently waiting on our Webby jersey to arrive 💪🏼💪🏼 https://t.co/34yBgCWEOp","somewhat-identifiable","Cody"
+1264987014002290700,221944402,"@slvetonikotine @Eminem Underrated tweet","somewhat-identifiable","Cody"
+1264563648980308000,221944402,"@VoteBlueNov3rd @realDonaldTrump 🤡 😂","somewhat-identifiable","Cody"
+1264561430604533800,221944402,"@ndixvi https://t.co/yKxAfnn7AI","somewhat-identifiable","Cody"
+1264434924087632000,221944402,"@ashhweexmariee @lweatherstone_ That’s not me.....","somewhat-identifiable","Cody"
+1263156072900149200,221944402,"@HipHopDX https://t.co/DgBzMbQTX1","somewhat-identifiable","Cody"
+1263154139607023600,221944402,"@SLYTERMUSIC @FlossBoys https://t.co/3E48andpWy","somewhat-identifiable","Cody"
+1262966388962058200,221944402,"@SLYTERMUSIC @FlossBoys OGEN (Oragenics)
+That’s what I’m on. Hoping for a spike soon. Good luck","somewhat-identifiable","Cody"
+1267225984652238800,46502896,"It’s important to be students of history. https://t.co/Iqvpq66URc","somewhat-identifiable","Cody"
+1267164346230157300,46502896,"@TpdDunn I try to every day. 😁","somewhat-identifiable","Cody"
+1267152504120389600,46502896,"@TpdDunn Your students are incredibly lucky to have a teacher like you. We need to guide them through difficult topics and conversations.","somewhat-identifiable","Cody"
+1267138736896311300,46502896,"Thank you to those standing up for what’s right. Let’s continue to do so. ❤️https://t.co/6O0bepqSVJ","somewhat-identifiable","Cody"
+1267128479545544700,46502896,"Michigan sheriff joins protestors marching over George Floyd death  https://t.co/2QYYwpD2nj","somewhat-identifiable","Cody"
+1267119366191136800,46502896,"Protesters rally in London, Berlin over George Floyd's death https://t.co/Ha3LIDVAq4","somewhat-identifiable","Cody"
+1267088910917800000,46502896,"Police Chiefs Around the Country Are Breaking “the Blue Wall of Silence” for George Floyd. https://t.co/5nua8OBICw via @vice","somewhat-identifiable","Cody"
+1267079979696865300,46502896,"I made the switch to education because I wanted to inspire my students to CHANGE the world. I'm committed to using… https://t.co/cqGG5xhtjC","somewhat-identifiable","Cody"
+1267079033256362000,46502896,"What can social scientists do withh their anger? An important thread. https://t.co/8M0cR7CnBp","somewhat-identifiable","Cody"
+1267074265142177800,46502896,"George Floyd death reshapes Biden’s VP search https://t.co/acR8H6fJXO via @politico","somewhat-identifiable","Cody"
+1266895286594670600,46502896,"@KevinCerino Thanks for the update, I saw the second report too.","somewhat-identifiable","Cody"
+1266867325405401000,46502896,"Drove up to Titusville to see the #SpaceX launch. 🚀 https://t.co/WeHqZvJmcx","somewhat-identifiable","Cody"
+1266539339808485400,46502896,"Husband got accepted to his first choice for graduate school. Looks like we’re SEC rivals now. So proud! 🐘🤍❤️… https://t.co/vitFRO8j2O","somewhat-identifiable","Cody"
+1266439897725972500,46502896,"Why do we study liberal arts? To broaden social consciousness and make a positive impact in the world. Let’s “learn… https://t.co/dRu1YBCIzD","somewhat-identifiable","Cody"
+1266437595216720000,46502896,"The History Behind 'When The Looting Starts, The Shooting Starts'. This is a pretty clear and very loud message tha… https://t.co/VmFYhirfM4","somewhat-identifiable","Cody"
+1266424805923881000,46502896,"Why Trump’s Fight With Obama Might Backfire https://t.co/w662haNmng","somewhat-identifiable","Cody"
+1266423164852211700,46502896,"This shouldn’t be normal in 2020 America. Obama On George Floyd's Death And The 'Maddening' Normalcy Of Racism https://t.co/FbCkEs4ZRr","somewhat-identifiable","Cody"
+1266422529427755000,46502896,"Minneapolis officer involved in George Floyd arrest taken into custody https://t.co/X7sR58TOrn","somewhat-identifiable","Cody"

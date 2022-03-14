@@ -1,0 +1,4454 @@
+[
+    {
+        "id": 1267393612351893505,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: 3r52qmKEgnISVmt4DdU4GzJ62QfnPJwrRkU6rGja9b0NBs0W3uTCnv4pRvdUwtY4zg2Ywd 2020-06-01 09:52:38 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393607520026625,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: 3r52qmKEgnISVmt4DdU4GzJ62QfnPJwrRkU6rGja9b0NBs0W3uTCnv4pRvdUwtY4zg2Ywd 2020-06-01 09:52:37 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393603686391809,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: ezdITso2GYNnuRg7QXciOt7b56vvN6lTBN5vKEQES7WvfJ1BdLnI3VjVz0IFlxJ9nAfTBd 2020-06-01 09:52:36 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393602029867008,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: Tb2ahYVXNbRcAqzfsG5uyoobG0mN3zGVuNKdbD8ViG3jj0ny16vWAp1726fhfWCyOqKQng 2020-06-01 09:52:36 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393599093817345,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: z3AtgGFnaeh8TAZLBsKj6wPlUfBeUXtsZyahaHKxovxtOyjFLtwi32PE3YIZrc5LRPdM1m 2020-06-01 09:52:35 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393598976167936,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: ezdITso2GYNnuRg7QXciOt7b56vvN6lTBN5vKEQES7WvfJ1BdLnI3VjVz0IFlxJ9nAfTBd 2020-06-01 09:52:35 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393448522416136,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: BqHlFks15jpiiYRNdy38OWAxwDCZbnnFimxRug9HHy27YpSrpykZqztOlTrhAfZ2PEQMlp 2020-06-01 09:51:59 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393444365901830,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: cMB2izPqgxKwrjBK9ltwc1ELMndiNRQB44Gg7s0HNLAuIySHtnerjNyiZJuWyOqhcX37Oo 2020-06-01 09:51:58 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393286286839810,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: YmTy9AFImzHLI53rG7fWq5BT5TreG3zv5DTYMaiOmob13RsCSHSNVxVC9ZOrRtv9pK3IaU 2020-06-01 09:51:21 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393281551470593,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: YmTy9AFImzHLI53rG7fWq5BT5TreG3zv5DTYMaiOmob13RsCSHSNVxVC9ZOrRtv9pK3IaU 2020-06-01 09:51:19 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393280930701313,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: Fr8sukKcFiausm54tO0iqhMKBiz4D4oUM5he9RwMxe3mB0QqCQK2tMZ7DZGkXpAZQbDt1O 2020-06-01 09:51:19 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393276304412673,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: Fr8sukKcFiausm54tO0iqhMKBiz4D4oUM5he9RwMxe3mB0QqCQK2tMZ7DZGkXpAZQbDt1O 2020-06-01 09:51:18 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393257081880576,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: Y9CxUOpTFGOM4sPKqjYx30dfwwNMBc2H5D0mNafEHvwwGY5CoVeGqCI8xnVeI0IzSFtx6z 2020-06-01 09:51:14 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393246113730560,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: dDiEHrBohCtOZvxjjOkvPTMLv45ZgiJIZmGgIYMFN4J8tQgySM09lqNYGSaAPd6jsp7QrV 2020-06-01 09:51:11 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393117038280705,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: rSJcWuK2xDNZusAlUa2wnrvCUksVLmTvDvShbuioEX2TlHdxHSEA2KttCLalytuVVLgNm8 2020-06-01 09:50:40 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393114886541312,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: HZrvBXa8pmMHs2p6E3XkEjV5TIREWDffTqShYfFoZQH3vT1c5bLqLfTaqMxkoj3jerMEaP 2020-06-01 09:50:40 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393112260980737,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: rSJcWuK2xDNZusAlUa2wnrvCUksVLmTvDvShbuioEX2TlHdxHSEA2KttCLalytuVVLgNm8 2020-06-01 09:50:39 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393110193123330,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: HZrvBXa8pmMHs2p6E3XkEjV5TIREWDffTqShYfFoZQH3vT1c5bLqLfTaqMxkoj3jerMEaP 2020-06-01 09:50:39 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393097069203457,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: xHVt2ekOSzvpTD11AvNkPzGZtFFfDIaj6o9x7O5h8GLRhAdH2sBrGzAb1RGVJMvFlsqb30 2020-06-01 09:50:35 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393085220282378,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: cX5RK6pKeG1SRfES32Fa4f5WdX7bGAJ3j312jiarUU3TDAfvxfCO2OejB54nfqszc33W3K 2020-06-01 09:50:33 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392948473417733,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: eXCGvqKH3Fu845ipZQrykfU8d22mQZmZHlYEWJE8Pj7EctLfM1uCoF9N9h274hC0BW2uGZ 2020-06-01 09:50:00 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392947840000000,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: lfoej01dkvEvzbZmqcGTNFI1H4d0Q60fxUOB6lAHEvtwllpLVdQxlenz1Vw2MBuxqI2Vlf 2020-06-01 09:50:00 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392943813468160,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: eXCGvqKH3Fu845ipZQrykfU8d22mQZmZHlYEWJE8Pj7EctLfM1uCoF9N9h274hC0BW2uGZ 2020-06-01 09:49:59 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392943171743744,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: lfoej01dkvEvzbZmqcGTNFI1H4d0Q60fxUOB6lAHEvtwllpLVdQxlenz1Vw2MBuxqI2Vlf 2020-06-01 09:49:59 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392929934520322,
+        "user_id": 1034202272312504320,
+        "text": "Tweet: UimFWZgAhiykFM85KzEbQWbnrY0T2MRku7I6cStf8kacNM3KYr7M1H3sa3qQhalB2G0bRR 2020-06-01 09:49:56 +0000",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254992223948533760,
+        "user_id": 1151123549794344960,
+        "text": "@simsalairis Sex \u0e17\u0e35\u0e48\u0e14\u0e35\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e23\u0e32 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e17\u0e31\u0e49\u0e07\u0e2a\u0e2d\u0e07\u0e1d\u0e48\u0e32\u0e22\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e48\u0e2d\u0e22\u0e46\u0e44\u0e1b\u0e2a\u0e48\u0e27\u0e19\u0e23\u0e2a\u0e19\u0e34\u0e22\u0e21\u0e1a\u0e19\u0e40\u0e15\u0e35\u0e22\u0e07\u0e21\u0e31\u0e19\u0e01\u0e47\u0e41\u0e25\u0e49\u0e27\u0e41\u0e15\u0e48\u0e04\u0e19\u0e0a\u0e2d\u0e1a\u2026 https://t.co/HKK9mhRUze",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254760689698144258,
+        "user_id": 1151123549794344960,
+        "text": "\u0e40\u0e04\u0e22\u0e42\u0e14\u0e19\u0e17\u0e48\u0e32\u0e19\u0e35\u0e49 \u0e41\u0e15\u0e48\u0e44\u0e19\u0e17\u0e4c\u0e01\u0e47\u0e44\u0e21\u0e48\u0e1b\u0e32\u0e01\u0e08\u0e31\u0e14\u0e19\u0e30 \u0e44\u0e19\u0e17\u0e4c\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e40\u0e23\u0e35\u0e22\u0e1a\u0e23\u0e49\u0e2d\u0e22 \u0e21\u0e32\u0e23\u0e49\u0e2d\u0e22\u0e01\u0e47\u0e40\u0e23\u0e35\u0e22\u0e1a \ud83d\udc96 https://t.co/6hfh8J0hTI",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254747479116922882,
+        "user_id": 1151123549794344960,
+        "text": "\u0e2d\u0e22\u0e32\u0e01\u0e42\u0e14\u0e19\u0e21\u0e31\u0e14\u0e08\u0e31\u0e07.. #\u0e40\u0e07\u0e35\u0e48\u0e22\u0e19 #\u0e04\u0e2d\u0e25\u0e40\u0e2a\u0e35\u0e22\u0e27 https://t.co/5HihouhfE3",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254725622544269312,
+        "user_id": 1151123549794344960,
+        "text": "\u0e1d\u0e19\u0e15\u0e01 \u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28\u0e14\u0e35\u0e21\u0e32\u0e01\u0e46 \u0e44\u0e21\u0e48\u0e19\u0e48\u0e32\u0e21\u0e35\u0e42\u0e04\u0e27\u0e34\u0e14\u0e40\u0e25\u0e22 \u0e44\u0e21\u0e48\u0e01\u0e25\u0e49\u0e32\u0e19\u0e31\u0e14\u0e43\u0e04\u0e23\u0e40\u0e25\u0e22\ud83d\udc96 #\u0e0a\u0e48\u0e27\u0e22\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 #\u0e40\u0e07\u0e35\u0e48\u0e22\u0e19 #\u0e0a\u0e2d\u0e1a\u0e42\u0e0a\u0e27\u0e4c #\u0e0a\u0e2d\u0e1a\u0e40\u0e22\u0e47\u0e14 https://t.co/FtOgiE8ZEK",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254433009031233538,
+        "user_id": 1151123549794344960,
+        "text": "\u0e23\u0e35\u0e27\u0e34\u0e27\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49\u0e19\u0e30\u0e04\u0e30 \u0e04\u0e34\u0e27\u0e04\u0e23\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30\u0e04\u0e30 \u0e0a\u0e49\u0e32\u0e2b\u0e21\u0e14\u0e2d\u0e14\u0e19\u0e30\u0e04\u0e30 \u0e2b\u0e19\u0e39\u0e23\u0e31\u0e1a\u0e04\u0e34\u0e27\u0e08\u0e33\u0e01\u0e31\u0e14\u0e15\u0e48\u0e2d\u0e27\u0e31\u0e19 \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e2b\u0e19\u0e39\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e31\u0e01\u0e41\u0e15\u0e48\u0e08\u0e30\u0e17\u0e33\u0e19\u0e30\u0e04\u0e30 \u0e2b\u0e19\u0e39\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e04\u0e19\u0e21\u0e35\u0e21\u0e32\u0e04\u0e2d\u0e25\u0e42\u0e1f\u2026 https://t.co/qKJW8jOfFK",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254390778878545922,
+        "user_id": 1151123549794344960,
+        "text": "@lekk2517ok 10 \u0e19\u0e32\u0e17\u0e35 150 \u0e04\u0e48\u0e30 \ud83d\udc96",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254380173958377472,
+        "user_id": 1151123549794344960,
+        "text": "\u0e41\u0e2d\u0e1a\u0e40\u0e2d\u0e32\u0e23\u0e35\u0e27\u0e34\u0e27\u0e40\u0e25\u0e47\u0e01\u0e46\u0e19\u0e49\u0e2d\u0e22\u0e46\u0e21\u0e32\u0e43\u0e2b\u0e49\u0e0a\u0e21 \ud83d\udc96 \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e01\u0e48\u0e2d\u0e19\u0e02\u0e32\u0e22\u0e04\u0e25\u0e34\u0e1b\u0e04\u0e48\u0e30 \u0e44\u0e21\u0e48\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07\u0e41\u0e19\u0e48\u0e19\u0e2d\u0e19 \u0e21\u0e32\u0e2d\u0e38\u0e14\u0e2b\u0e19\u0e38\u0e19\u0e01\u0e31\u0e19\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e19\u0e49\u0e32\n#\u0e04\u0e2d\u0e25\u0e40\u0e2a\u0e35\u0e22\u0e27\u2026 https://t.co/tvx2lVMmqw",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254373267676094465,
+        "user_id": 1151123549794344960,
+        "text": "\u0e27\u0e31\u0e22\u0e23\u0e38\u0e48\u0e19\u0e2b\u0e38\u0e48\u0e19\u0e14\u0e35\u0e04\u0e48\u0e30 \u0e19\u0e21\u0e2a\u0e27\u0e22\u0e46 \ud83d\udc96 \u0e41\u0e2d\u0e14\u0e44\u0e25\u0e19\u0e4c\u0e21\u0e32\u0e40\u0e25\u0e22\u0e19\u0e30\u0e04\u0e30 \n#\u0e23\u0e31\u0e1a\u0e04\u0e2d\u0e25\u0e40\u0e2a\u0e35\u0e22\u0e27  #\u0e04\u0e2d\u0e25\u0e40\u0e2a\u0e35\u0e22\u0e27\u0e40\u0e1b\u0e34\u0e14\u0e01\u0e25\u0e49\u0e2d\u0e07 #\u0e0a\u0e48\u0e27\u0e22\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 #\u0e04\u0e2d\u0e25\u0e40\u0e1b\u0e34\u0e14\u0e01\u0e25\u0e49\u0e2d\u0e07  #\u0e04\u0e2d\u0e25\u0e40\u0e2a\u0e35\u0e22\u0e27\u2026 https://t.co/aSzieFIcem",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254372892239753216,
+        "user_id": 1151123549794344960,
+        "text": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e23\u0e31\u0e1a\u0e04\u0e2d\u0e25\u0e0a\u0e38\u0e14\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19\u0e04\u0e32\u0e0a\u0e38\u0e14 \ud83d\udc96\n\ud83c\udf1f \u0e04\u0e23\u0e32\u0e07\u0e42\u0e2b\u0e14\u0e46 \u0e44\u0e21\u0e48\u0e41\u0e2d\u0e1a\u0e41\u0e21\u0e48\u0e21\u0e32\u0e04\u0e23\u0e32\u0e07 \n\ud83c\udf1f \u0e16\u0e36\u0e07\u0e43\u0e08\u0e41\u0e19\u0e48\u0e19\u0e2d\u0e19 \n\ud83c\udf1f \u0e23\u0e35\u0e40\u0e04\u0e27\u0e2a\u0e44\u0e14\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 (\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e49\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u2026 https://t.co/6S61iFA8Xm",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254286504123236352,
+        "user_id": 1151123549794344960,
+        "text": "\u0e21\u0e2d\u0e19\u0e34\u0e48\u0e07\u0e19\u0e30\u0e04\u0e30 #\u0e0a\u0e2d\u0e1a\u0e42\u0e0a\u0e27\u0e4c #\u0e40\u0e07\u0e35\u0e48\u0e22\u0e19 #\u0e0a\u0e2d\u0e1a\u0e40\u0e22\u0e47\u0e14 https://t.co/AcBooPBLdW",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254072673769975809,
+        "user_id": 1151123549794344960,
+        "text": "@BB74779691 \u0e21\u0e31\u0e19\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19\u0e40\u0e25\u0e22\u0e2b\u0e23\u0e2d\u0e04\u0e30 \ud83e\udd17\ud83d\udc96",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254072600612925440,
+        "user_id": 1151123549794344960,
+        "text": "@G3hiSkZcuxQ0FM0 \u0e1d\u0e32\u0e01\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e41\u0e25\u0e49\u0e27\u0e01\u0e47\u0e23\u0e35\u0e17\u0e27\u0e34\u0e15\u0e14\u0e49\u0e27\u0e22\u0e19\u0e49\u0e32\ud83d\udc96",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254072459122192387,
+        "user_id": 1151123549794344960,
+        "text": "@strainghtflush \u0e44\u0e19\u0e17\u0e4c\u0e0a\u0e2d\u0e1a\u0e23\u0e31\u0e27\u0e46\u0e04\u0e48\u0e30 \u0e41\u0e23\u0e07\u0e46\u0e14\u0e49\u0e27\u0e22 \ud83d\udc96",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254072350430998530,
+        "user_id": 1151123549794344960,
+        "text": "@saddddddddag \u0e44\u0e27\u0e49\u0e04\u0e25\u0e34\u0e1b\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e22\u0e32\u0e27\u0e46\u0e19\u0e30\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01 \ud83d\udc96",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254072275797602305,
+        "user_id": 1151123549794344960,
+        "text": "@ptara54 ^^",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254068242554871808,
+        "user_id": 1151123549794344960,
+        "text": "\u0e0a\u0e48\u0e27\u0e07\u0e19\u0e35\u0e49\u0e23\u0e49\u0e2d\u0e19\u0e40\u0e19\u0e2d\u0e30 \u0e04\u0e34\u0e14\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e31\u0e19\u0e21\u0e31\u0e49\u0e22\u0e04\u0e30 https://t.co/VA1qujacG9",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253725738957565953,
+        "user_id": 1151123549794344960,
+        "text": "\u0e23\u0e31\u0e01\u0e43\u0e19\u0e2a\u0e34\u0e48\u0e07\u0e08\u0e2d\u0e21\u0e1b\u0e25\u0e2d\u0e21 \ud83c\udf3f\u2618 https://t.co/QimD3uNOEk",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253723915211247616,
+        "user_id": 1151123549794344960,
+        "text": "@Numairu89 \u0e2b\u0e48\u0e32\u0e07 sex \u0e19\u0e32\u0e19\u0e01\u0e47\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e44\u0e27\u0e44\u0e14\u0e49\u0e19\u0e30\u0e04\u0e30\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e31\u0e27\u0e04\u0e34\u0e14\u0e27\u0e48\u0e32\u0e07\u0e31\u0e49\u0e19 \u0e27\u0e34\u0e18\u0e35\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e44\u0e14\u0e49\u0e19\u0e32\u0e19\u0e02\u0e36\u0e49\u0e19\u0e01\u0e47\u0e44\u0e21\u0e48\u0e41\u0e19\u0e48\u0e43\u0e08 \u0e41\u0e15\u0e48\u0e01\u0e47\u0e41\u0e1f\u0e19\u0e2b\u0e48\u0e32\u0e07sex\u0e19\u0e32\u0e19\u0e46\u0e41\u0e25\u0e49\u0e27\u2026 https://t.co/O8wqwUw9EZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1249612216715759617,
+        "user_id": 1151123549794344960,
+        "text": "@Lucky75682563 \u0e43\u0e08\u0e40\u0e22\u0e47\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e19\u0e30",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1249582333193121793,
+        "user_id": 1151123549794344960,
+        "text": "@boierd @icydaizy1 55555555555\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1249582208525860864,
+        "user_id": 1151123549794344960,
+        "text": "@PXzdqpexQ6b48YV \u0e43\u0e2b\u0e49\u0e01\u0e23\u0e2d\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e04\u0e48\u0e30",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267270228167311363,
+        "user_id": 28414994,
+        "text": "Back to work tomorrow",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267190425770737665,
+        "user_id": 28414994,
+        "text": "Today is the final day of the month y\u2019all. Are y\u2019all ready for June?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267189531108876292,
+        "user_id": 28414994,
+        "text": "Killer Mike definitely ain\u2019t no coon man. https://t.co/Qjj5UTIjVr",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267181956451782658,
+        "user_id": 28414994,
+        "text": "@thedoctormom_ Me too. I have some of my people out there. I\u2019d hate for it to be overran by radical opportunist",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267181345777815552,
+        "user_id": 28414994,
+        "text": "@GotYoInterESSt Van Johnson turned it around. It was. But people made it right.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267181256078495749,
+        "user_id": 28414994,
+        "text": "@thedoctormom_ Hell yea. My mom told me how some dude in whitmarsh island started it up. Smfh.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267174077720076288,
+        "user_id": 28414994,
+        "text": "Savannah is having a beautiful protest.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267168255648698369,
+        "user_id": 28414994,
+        "text": "@elle__monique Facebook is funny",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267167734976131073,
+        "user_id": 28414994,
+        "text": "While everybody was looking left.... https://t.co/w3KWF68cXY",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267166999647531009,
+        "user_id": 28414994,
+        "text": "She embarrassed herself and provided no SOLUTIONs saying \u201cwe can do...\u201d WHAT CAN WE DO THAY WE HAVENT ALREADY DONE\u2026 https://t.co/aiaAXDHL9h",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267166193951084545,
+        "user_id": 28414994,
+        "text": "@BREElluminati I always thought she had some meat on her",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267165373016801280,
+        "user_id": 28414994,
+        "text": "Honestly. Cmon. Ppl DO NOT care \u270c\ud83c\udffecelebs\u270c\ud83c\udffearen\u2019t speaking. We\u2019re actually passed that. Because guess what, we can\u2019t\u2026 https://t.co/f640oqTNvz",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267163943438614531,
+        "user_id": 28414994,
+        "text": "Ain\u2019t no more Batman slander flying now. https://t.co/Nj7LLA69aA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267395775253958656,
+        "user_id": 3142674768,
+        "text": "Other countries take serious abt this problem, tapi malaysia.... hm still survey what they wanna do",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267395158401617920,
+        "user_id": 3142674768,
+        "text": "Lantaklah knak kata apa, tapi still relevan kalau pemandu mabuk hukum mati gak",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267394963538538496,
+        "user_id": 3142674768,
+        "text": "Kalau nak cakap pasal family dia, fikir dulu family mangsa. Adil tak?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267394823935287299,
+        "user_id": 3142674768,
+        "text": "Whatever it is, kalau pemandu mabuk langgar orang, then mati. Saya nak hukuman yang sama bagi pemandu mabuk tu. https://t.co/GpeuXlXlJg",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267394183792222208,
+        "user_id": 3142674768,
+        "text": "Baru darjah 1 https://t.co/CGA5Y3FmCI",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267323581169463296,
+        "user_id": 3142674768,
+        "text": "@_itsfayd Ye",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267307839942344704,
+        "user_id": 3142674768,
+        "text": "IMMA FOLLOW HIM RIGHT AWAYYYYY https://t.co/Na43iNoWpN",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267307256141320192,
+        "user_id": 3142674768,
+        "text": "@ipandolski Aku baca \u201ciswis\u201d do \ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267318695849873408,
+        "user_id": 262031047,
+        "text": "Bring back megas PLZ I beg of you I would so much rather have mega evos for the starters than gmax forms",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267318695224901632,
+        "user_id": 262031047,
+        "text": "I know sinnoh remakes are coming soon I just PRAY the whole dynamax/gigantamax shit is over before then",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266140153892003841,
+        "user_id": 262031047,
+        "text": "I\u2019m lucky enough to still be financially stable through covid-19, so I raised. Can someone match me (or the origina\u2026 https://t.co/1mxOvaSdys",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266136160205778944,
+        "user_id": 262031047,
+        "text": "@notdaniii SISTER!!!! No ma\u2019am it\u2019s time we draw the line lmaooo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265878585610551297,
+        "user_id": 262031047,
+        "text": "@badboyjahjah I vote yes lmao \ud83e\udd74",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267342582486495233,
+        "user_id": 181141921,
+        "text": "@mirukukoohii https://t.co/xMca1V1D9s",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267326337137537025,
+        "user_id": 181141921,
+        "text": "@mirukukoohii Tanggal merah?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267314299422363658,
+        "user_id": 181141921,
+        "text": "@akumultifandom Belum, kalau belum muncul Dinosaurusnya wkwkkwk",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267206133984288773,
+        "user_id": 181141921,
+        "text": "Si Manuel Garcia-Rulfo ini tipe tipe aktor melek sastra",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267204569152385025,
+        "user_id": 181141921,
+        "text": "@ryuugami @hrdbacot Ga pernah pakai mas... Saya pakai weblio atau Wikipedia bhs Jepang kalau cari sesuatu yang ga b\u2026 https://t.co/5a2yC7bSFm",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267196784872325120,
+        "user_id": 181141921,
+        "text": "@ryuugami @hrdbacot Kalau terjemahan sastra klasik masih butuh sih mas ya...",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267195662329774080,
+        "user_id": 181141921,
+        "text": "@hrdbacot Sorry mincott, translator/interpret bhs Jepang xixixi maafin",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267189781278031872,
+        "user_id": 181141921,
+        "text": "@hrdbacot @talentaco OmegaT\nGoogle spreadsheet, docs, slide \nOffice Outlook \nZKanji \nTagaini Jisho",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267061774517366785,
+        "user_id": 181141921,
+        "text": "@SpieltagIndo REUS VULT!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266989551655907328,
+        "user_id": 181141921,
+        "text": "@himalayaaa__ Tenggorokan gue langsung gatel lihatnya haha",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266806661139673088,
+        "user_id": 181141921,
+        "text": "@nox_def Iki biasanya realisasi doa \"Ya Tuhan tunjukkan kebenaran pada Hamba,\"",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266576790450925568,
+        "user_id": 181141921,
+        "text": "@mohizzhar Bench ae saiki 2 meter brooo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266550750441660416,
+        "user_id": 181141921,
+        "text": "@angkasapura172 mohon maaf tanggal 1 juni apakah tersedia penerbangan SUB-CGK? Terimakasih",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266424715083563008,
+        "user_id": 181141921,
+        "text": "Yang ngetrend emang Youtuber lulusan Harvard dll Ivy League yah? Gapapa, aku hatimu tidak bergerak dri bapak Andi A\u2026 https://t.co/6G4FwFacJL",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266423513776152577,
+        "user_id": 181141921,
+        "text": "Ricky Gervais kalau texting pakai emot \ud83d\ude4f\ud83d\ude4f tapi kalau udah ngomong langsung se Hollywood pada malu. Mantap.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266417160613584896,
+        "user_id": 181141921,
+        "text": "@kocingkampung Thank you",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266413958786772992,
+        "user_id": 181141921,
+        "text": "@kocingkampung Not gonna solve this fucking airline customer care tho.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266409028608905221,
+        "user_id": 181141921,
+        "text": "@kocingkampung Ruwet wes sumpah males aku",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266406992890847233,
+        "user_id": 181141921,
+        "text": "Bingung sumpah.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267335747901644805,
+        "user_id": 960817126163410944,
+        "text": "@needypinks you had me at hi",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267334555578404864,
+        "user_id": 960817126163410944,
+        "text": "@oliviaaruby are u fi5",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267333058996273152,
+        "user_id": 960817126163410944,
+        "text": "@sexuqlities hands down to the queen \ud83d\ude0d",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267279444957212673,
+        "user_id": 960817126163410944,
+        "text": "@godislaIisa stop flirting with me",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267271640854847488,
+        "user_id": 960817126163410944,
+        "text": "i'm not a guy mar lmao",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267271430950891520,
+        "user_id": 960817126163410944,
+        "text": "@godislaIisa how i wish",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267270523689398272,
+        "user_id": 960817126163410944,
+        "text": "@godislaIisa yes",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267255834788032512,
+        "user_id": 960817126163410944,
+        "text": "@Yoonnalife no one ask",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267255219273912320,
+        "user_id": 960817126163410944,
+        "text": "@untrulys omg i wanna see her",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267254987349884928,
+        "user_id": 960817126163410944,
+        "text": "@floatingforari love u",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267254692012126208,
+        "user_id": 960817126163410944,
+        "text": "@miiaxmartinez OMG CUTE HSHAHSAHHAA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267253851763011584,
+        "user_id": 960817126163410944,
+        "text": "@untrulys cute",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267253235447820290,
+        "user_id": 960817126163410944,
+        "text": "@untrulys ly",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267250683247357957,
+        "user_id": 960817126163410944,
+        "text": "@jisoowrld aww finally pls",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267249921335283712,
+        "user_id": 960817126163410944,
+        "text": "@ygent_official PLS I HOPE THIS TIME YOU'LL STAND AND ACT ON UR WORDS",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267248709118525440,
+        "user_id": 960817126163410944,
+        "text": "@pilIs lmfao",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267248470932418561,
+        "user_id": 960817126163410944,
+        "text": "@pilIs mabuti",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267248176051785729,
+        "user_id": 960817126163410944,
+        "text": "@pilIs yeah?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267248031969103873,
+        "user_id": 960817126163410944,
+        "text": "@baekyuhns lmao",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267247833209425921,
+        "user_id": 960817126163410944,
+        "text": "@pilIs i just have mood to be on",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267247521300021248,
+        "user_id": 960817126163410944,
+        "text": "@pilIs no speak up bc u want to",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267246650969341952,
+        "user_id": 960817126163410944,
+        "text": "@pilIs preach",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267189297829965824,
+        "user_id": 960817126163410944,
+        "text": "@ChambsThe how",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267031881968611328,
+        "user_id": 960817126163410944,
+        "text": "@jmsring pa cool amp",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267027413214482433,
+        "user_id": 960817126163410944,
+        "text": "@breadblinkbaby lmfaoooo they're coming",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267311009145909248,
+        "user_id": 415959242,
+        "text": "I be feeling like if Naea don\u2019t sleep with me she don\u2019t sleep right so I never get food sleep without her next to me \ud83d\ude29",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267310861678329858,
+        "user_id": 415959242,
+        "text": "\ud83d\ude29 I miss my daughter I\u2019m about to go get her \ud83d\ude2d\ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267153729637085186,
+        "user_id": 415959242,
+        "text": "My best friend just gave me the best news ever \ud83e\udd7a\ud83d\udc95",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267145461187530752,
+        "user_id": 415959242,
+        "text": "I been telling mfs to leave me alone but no \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267052761088053252,
+        "user_id": 415959242,
+        "text": "I\u2019m so tired \ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266916685048475648,
+        "user_id": 415959242,
+        "text": "\u203c\ufe0f https://t.co/iDmoYiTEiU",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266630959685701633,
+        "user_id": 415959242,
+        "text": "Wow having psychologist majors as friends is very helpful \ud83d\ude29\ud83d\ude29",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266615267204816896,
+        "user_id": 415959242,
+        "text": "@desireemaariiee I\u2019m dying \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d lmaooo I\u2019m dead ass",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266614182910160897,
+        "user_id": 415959242,
+        "text": "\ud83d\ude29\ud83d\ude2d https://t.co/HJgw6YeMZB",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266526934634082305,
+        "user_id": 415959242,
+        "text": "My girl 4L \ud83d\udc96 https://t.co/5geQqlGojE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266517110315814912,
+        "user_id": 415959242,
+        "text": "\ud83e\udd7a\ud83e\udd1e\ud83c\udffd\u2764\ufe0f\u203c\ufe0f https://t.co/j9QsYgNRNZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266441756909821952,
+        "user_id": 415959242,
+        "text": "@CyrusCriado I don\u2019t like seeing my last name in this \ud83e\udd74\ud83d\ude29",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266420803811241984,
+        "user_id": 415959242,
+        "text": "My dad downed half of my mixed drink I had in the fridge\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f he said he thought it was juice his ass went to work drunk this morning lmao",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393116589285376,
+        "user_id": 1110817846454439936,
+        "text": "I really gotta go to work tomorrow",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267367672213172224,
+        "user_id": 1110817846454439936,
+        "text": "WELP",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267358418077016070,
+        "user_id": 1110817846454439936,
+        "text": "Idk what I expected rubber bullets to look like but that damn sure ain\u2019t it",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267347544813654017,
+        "user_id": 1110817846454439936,
+        "text": "@AndrettiBX Omg Lmfaoooo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343530873126912,
+        "user_id": 1110817846454439936,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267326118584938496,
+        "user_id": 1110817846454439936,
+        "text": "The internet https://t.co/OXgtSIELo7",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267322550465335297,
+        "user_id": 1110817846454439936,
+        "text": "The whole thang https://t.co/cPzdRsMY6s",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267320092729073665,
+        "user_id": 1110817846454439936,
+        "text": "@ChelseyShanae Yea. He stomped somebody out bc they bust out a window on his truck",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267276111781564417,
+        "user_id": 1110817846454439936,
+        "text": "@Msjanalove2 Oh yea you gotta let him cry it out",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267272893630578688,
+        "user_id": 1110817846454439936,
+        "text": "@Msjanalove2 Does he take a pacifier?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267272094267539456,
+        "user_id": 1110817846454439936,
+        "text": "I let Tweet cry herself to sleep.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267271875765219328,
+        "user_id": 1110817846454439936,
+        "text": "@Msjanalove2 He\u2019ll be alright. Feed him and change him and let him build those lungs up. Go cook, clean, shower etc\u2026 https://t.co/1evKwIl1Zt",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267271359635156992,
+        "user_id": 1110817846454439936,
+        "text": "Nah Jr smith allegedly beat the hell out of him https://t.co/to7iLpseoY",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267271091061284864,
+        "user_id": 1110817846454439936,
+        "text": "#SnowBunnyCrisis \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https://t.co/l0r3S2yFaM",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267270797975945216,
+        "user_id": 1110817846454439936,
+        "text": "@Msjanalove2 Let that baby cry it out.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267270466722390017,
+        "user_id": 1110817846454439936,
+        "text": "@SheWantTheD I never knew that lol",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267270378495176704,
+        "user_id": 1110817846454439936,
+        "text": "Don\u2019t need friends that bad https://t.co/qOm3sBJpJB",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267270285985583104,
+        "user_id": 1110817846454439936,
+        "text": "\u201cFor those of you that think gospel music has gone too far. You think we\u2019ve got too radical with our message\u201d https://t.co/FHXlU05ulE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267268594435416065,
+        "user_id": 1110817846454439936,
+        "text": "So glad I don\u2019t have friends like yall https://t.co/iVnTmAjcUd",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267268314604027905,
+        "user_id": 1110817846454439936,
+        "text": "@SheWantTheD You don\u2019t drink?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267230839072534528,
+        "user_id": 1208991016495263744,
+        "text": "@0013dana they come in with their mask on, take if off to order and, and then put it back on.... sis?????? it just dont make no cents \ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266661814500241413,
+        "user_id": 1208991016495263744,
+        "text": "still wonder how people born in 07 exist",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265867571804372997,
+        "user_id": 1208991016495263744,
+        "text": "started watching criminal minds and i didnt see what people saw in mgg but now.. i really part of the white mans whore club \ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265471948731158534,
+        "user_id": 1208991016495263744,
+        "text": "you said you were gonna take my boba v-card but all you took was me for granted \u2639",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264786951422574592,
+        "user_id": 1208991016495263744,
+        "text": "do u ever just grab your boob and make it wiggle?? like ik yall bitches be doing weirder shit",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264784368683421696,
+        "user_id": 1208991016495263744,
+        "text": "my mom thinks I want a bf but truth is im just bored y extra\u00f1o my jokes being appreciated \ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267385952302796800,
+        "user_id": 1166072013267431425,
+        "text": "@httpyeehaw \u2728\u2728",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267385549880348672,
+        "user_id": 1166072013267431425,
+        "text": "goodnight !! maybe by the time i wake up flynn will have agreed to be my girlfriend \ud83d\ude33",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267382609627226112,
+        "user_id": 1166072013267431425,
+        "text": "@sungielovely ooh that's cool \ud83e\udd7a have u made soap before?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267381701862289409,
+        "user_id": 1166072013267431425,
+        "text": "[AKDNWKDWIDNSIFMSKDMWKDN] https://t.co/KsumyY4Ly6",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267380638337794053,
+        "user_id": 1166072013267431425,
+        "text": "@CHAEC0RE THIS VIDEO?$!!#",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267379888626917376,
+        "user_id": 1166072013267431425,
+        "text": "@sungielovely im good:) what are u doing rn?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267379410019078144,
+        "user_id": 1166072013267431425,
+        "text": "@sungielovely hii how are you?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267379375164411906,
+        "user_id": 1166072013267431425,
+        "text": "@CHAEC0RE im good \ud83d\ude0b",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267374934537330690,
+        "user_id": 1166072013267431425,
+        "text": "@CHAEC0RE hi bae hru",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267374406189191168,
+        "user_id": 1166072013267431425,
+        "text": "oomfs can someone have a conversation w me so i can clear out my mentions \u2665\ufe0f\u2665\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267373981780242432,
+        "user_id": 1166072013267431425,
+        "text": "@heyknj but luke isnt",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267373590564855808,
+        "user_id": 1166072013267431425,
+        "text": "@NFlyingofficial HELP I CANT SPELL",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267353013620015105,
+        "user_id": 1162917432954109952,
+        "text": "@rozzaboyo @garfrend https://t.co/Vao9lTmgv9",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267352941276672000,
+        "user_id": 1162917432954109952,
+        "text": "@garfrend @rozzaboyo Estou VIVO!!! Lol I'll be back fully later this month got things to focus on I wish I could be\u2026 https://t.co/MT6RPnMIff",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267352389637615617,
+        "user_id": 1162917432954109952,
+        "text": "If you check out latinx and foreign twitter they are literally loving what is going on, we need more of them",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267351997327564801,
+        "user_id": 1162917432954109952,
+        "text": "@MechaSilvio Not yet MECH\u00c4! Gonna go back to sleep and keep doing what I was doing until probably the end of June!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267351851516801024,
+        "user_id": 1162917432954109952,
+        "text": "@rozzaboyo I'll be the JUDGE of dat",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267351802053353473,
+        "user_id": 1162917432954109952,
+        "text": "@sh4llot \ud83d\ude33\ud83d\ude33\ud83d\ude33 https://t.co/NWbw0ofzZh",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267351557017919489,
+        "user_id": 1162917432954109952,
+        "text": "@rozzaboyo U been a good boey?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267351509311856640,
+        "user_id": 1162917432954109952,
+        "text": "Can someone make a video of Drumpf's speech about black unemployment, grants, early release of black felons with fo\u2026 https://t.co/q55EFHbfJu",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267351188032323585,
+        "user_id": 1162917432954109952,
+        "text": "@rozzaboyo With my family in this cursed land\n\nPlease note my shitty beard https://t.co/tRr6VEGJru",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267350819768283142,
+        "user_id": 1162917432954109952,
+        "text": "@sh4llot Hej Sh\u00e1liet",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267350579984175104,
+        "user_id": 1162917432954109952,
+        "text": "Chronologically\n\n1) Mass early release of criminals\n2) Corona fake virus\n3) Coordinated Riots and mayhem by minorit\u2026 https://t.co/w1bNVTOKZK",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267350265952374784,
+        "user_id": 1162917432954109952,
+        "text": "I'm so sleepy but here I'm getting ready to postpone my return \ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263044433076989953,
+        "user_id": 1162917432954109952,
+        "text": "G\u00e4r is going away (to a mental hospital) for a while he can't take the ABUSE and DISRESPECT from y'all ***** anymor\u2026 https://t.co/dAurpQiNLS",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263002126147629057,
+        "user_id": 1162917432954109952,
+        "text": "@OffensiveSaint @sh4llot What the hell is going on!?!?!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111111111111",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262993368742756353,
+        "user_id": 1162917432954109952,
+        "text": "5.1 million american citizens born to illegal parents studying for free in public schools paid by tax-payers holy f\u2026 https://t.co/2YvPcYQLOj",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262991782230593537,
+        "user_id": 1162917432954109952,
+        "text": "Would you rather be taken care of when you hit 90 by",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262991386309246976,
+        "user_id": 1162917432954109952,
+        "text": "Gonna stretch! https://t.co/Y7LZKFmnq0",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262991141303181312,
+        "user_id": 1162917432954109952,
+        "text": "@CECheeseESQ \ud83d\udc40\ud83d\udc40",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267335148942417920,
+        "user_id": 837095613267222529,
+        "text": "ITS JUNE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267331737433989126,
+        "user_id": 837095613267222529,
+        "text": "Dang bro I really messed up this time",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267321150956163072,
+        "user_id": 837095613267222529,
+        "text": "@aoqot_alt @wtmCrush @YounginLivin I didn\u2019t start none of this he did this to himself",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267320395956285441,
+        "user_id": 837095613267222529,
+        "text": "@aoqot_alt @wtmCrush @YounginLivin I\u2019m never nice to people who hate on me",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267320134709829632,
+        "user_id": 837095613267222529,
+        "text": "@aoqot_alt @wtmCrush @YounginLivin I know \ud83d\ude00I really don\u2019t care he always hated me that\u2019s not gonna change plus he said the n word \ud83e\udd37\u200d\u2640\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267319653665132546,
+        "user_id": 837095613267222529,
+        "text": "@AlanRick9 He legit is my number 1 hater always talking bad on me",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267319449960411136,
+        "user_id": 837095613267222529,
+        "text": "@aoqot_alt @wtmCrush @YounginLivin He leaving anyway so no need to",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267319351855558657,
+        "user_id": 837095613267222529,
+        "text": "Time to party \ud83d\udcaa https://t.co/e1U8zb8Gv4",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267319186209951745,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin Can we get a W in chat",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267318290461777920,
+        "user_id": 837095613267222529,
+        "text": "@aoqot_alt @wtmCrush @YounginLivin Idc if he stays he legit hates me for no reason it\u2019s not the first time he done this",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267317563379183617,
+        "user_id": 837095613267222529,
+        "text": "@aoqot_alt @wtmCrush @YounginLivin Why does your friend hate for no reason?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267317305454628864,
+        "user_id": 837095613267222529,
+        "text": "@wtmCrush @aoqot_alt @YounginLivin Exactly they hate for no reason",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267316872996728832,
+        "user_id": 837095613267222529,
+        "text": "@aoqot_alt @YounginLivin @wtmCrush Forget him I legit never did anything to him and he comes to spread hate",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267316381923422208,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin @wtmCrush Please do",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267315865160015872,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin @wtmCrush I really hope you get suspended or delete your account",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267315605855563776,
+        "user_id": 837095613267222529,
+        "text": "@wtmCrush @YounginLivin Facts tho he a whole clown",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267314466925899776,
+        "user_id": 837095613267222529,
+        "text": "@JesusCrispMemes @YounginLivin @wtmCrush @aoqot_alt @CodeSavageCutie LMAO",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267314431739916292,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin I don\u2019t even know why you got mad at the start \ud83e\udd26\u200d\u2640\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267314087643381760,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin I barely even know you",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267313897117122562,
+        "user_id": 837095613267222529,
+        "text": "This mans a whole clown he came at me with negative energy https://t.co/sba0w2xMiu",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267313804515241984,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin I don\u2019t even talk to you \ud83e\udd26\u200d\u2640\ufe0f\ud83e\udd21\ud83e\udd21",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267313596750430208,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin @wtmCrush @JesusCrispMemes @aoqot_alt @CodeSavageCutie Aye who said you can say the n word?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267313456237080579,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin LMFAO YOU CAME AT ME SAYING \u201ci legit throw up reading that\u201d LMFAO \ud83e\udd21",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267313279660986368,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin @wtmCrush @JesusCrispMemes @aoqot_alt @CodeSavageCutie Can you just leave please?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267312864764682241,
+        "user_id": 837095613267222529,
+        "text": "@YounginLivin @JesusCrispMemes @wtmCrush @aoqot_alt @CodeSavageCutie you\u2019re the only negative one \ud83e\udd26\u200d\u2640\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267299781476446209,
+        "user_id": 159794626,
+        "text": "@Joyce_Eliel Ito talaga ung sumira ng araw naming lahat \ud83d\ude43",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267258279131934720,
+        "user_id": 159794626,
+        "text": "HAHAHAHA SHUTA DI KO KINAYA UNG BOSS KO GAWAN DAW NG PARAAN NA MAGKALAPTOP SIYA KAHIT KUNG KAILANGAN DAW MAGNAKAW HAHAHA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267089724423802880,
+        "user_id": 159794626,
+        "text": "Gandang salubong for GCQ \u2764\ufe0f https://t.co/wOYJepdPl4",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266565829480472576,
+        "user_id": 159794626,
+        "text": "With the approval of the anti-terror bill, we already are in martial law. https://t.co/1g4KfBD3Xm",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266565428232372224,
+        "user_id": 159794626,
+        "text": "Duterte, what have you done to this country?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266556522990956544,
+        "user_id": 159794626,
+        "text": "@JirahShiela Name drop mo nga hahahaha",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266531143169392640,
+        "user_id": 159794626,
+        "text": "@sharasaplala @saltedcarmelle @liannemaxine Hahahahahahahah \ud83c\udf75 \ud83c\udf75 \ud83c\udf75 https://t.co/hxws3SgVmR",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266526496404865024,
+        "user_id": 159794626,
+        "text": "@sharasaplala Wow congratsssss unti unti ka nang nagiging si pam!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266365104355897345,
+        "user_id": 159794626,
+        "text": "@XavierYsip Oks lang nahack naman sila eh",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266359158254657537,
+        "user_id": 159794626,
+        "text": "Haha grabe sobrang basura ng internet connection natin sa pinas tapos may lakas pa sila ng loob magdeclare ng \u201cclas\u2026 https://t.co/Kopva11eoo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266304331529117696,
+        "user_id": 159794626,
+        "text": "@Joyce_Eliel Shet naalala ko ung 1k worth of detox herbs nila ate gee hahahaha",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266297112850911235,
+        "user_id": 159794626,
+        "text": "@Joyce_Eliel https://t.co/GYjQo7gWh6 \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266216501649928193,
+        "user_id": 159794626,
+        "text": "TW\n\nThese police officers deserve to be beaten tangina I don\u2019t care anymore bc silent protest doesn\u2019t seem to work.\u2026 https://t.co/4nS8aSQfZP",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267364340417658880,
+        "user_id": 1059263123687923713,
+        "text": "@Pixelxilla Well she's gutter trash.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267362425470361600,
+        "user_id": 1059263123687923713,
+        "text": "@Pixelxilla Is she roaming millennial? In any case she don't speak for this Asian here and she can get dragged for all I care.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267353845589520389,
+        "user_id": 1059263123687923713,
+        "text": "@ericutz4thewin Beloved president is residing in his bunker.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267352473322369027,
+        "user_id": 1059263123687923713,
+        "text": "Police escalating the situation themselves so they have the authority to kill/assault citizen protestors. Fucking s\u2026 https://t.co/04xKUEddzL",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267350819114016768,
+        "user_id": 1059263123687923713,
+        "text": "@Pixelxilla Police are soulless stormtroopers.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267387968391573504,
+        "user_id": 500575254,
+        "text": "@kkydsnts People be like, @kkydsnts is handsome and I be like, damn dude how many shoes do you have.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267386841054867456,
+        "user_id": 500575254,
+        "text": "#STILL2GETHER will trend in 3 . . . 2 . . . 1 . . .",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267383361112137729,
+        "user_id": 500575254,
+        "text": "5 Special Episodes of #2getherTheSeries is coming. Im ready for this. @bbrightvc @WinmetawinO @_champion9 \nhttps://t.co/8WtSPj4ETm",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339976536031232,
+        "user_id": 500575254,
+        "text": "This looks hauntingly familiar. IG update from @Adamfamilyman #TheGiftedGraduation https://t.co/oHRVZYOMj0",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267088301904678915,
+        "user_id": 500575254,
+        "text": "@elijahcanlas_ Give it to us https://t.co/JoWVNbJXwQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267072213124919297,
+        "user_id": 500575254,
+        "text": "My heart skipped a beat. F#ck. @off_tumcial @Tawan_V @new_thitipoom TayNew ft Off (The Ultimate Sailor of Ships) https://t.co/yL1DTzf05X",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267022233160970240,
+        "user_id": 500575254,
+        "text": "Our new boy @patrick_pppat is looking cute in his latest IG update. #TheGiftedGraduation https://t.co/YprFafafSM",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267010951611428864,
+        "user_id": 500575254,
+        "text": "IG update from @patrick_pppat. I wonder what\u2019s his potential? Any guesses? #TheGiftedGraduation https://t.co/RTDsDawQSP",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267010532944408576,
+        "user_id": 500575254,
+        "text": "@victorzheng_v IG update. Mr. Pom is back. #TheGiftedGraduation https://t.co/tpc3VSSURv",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267002488713908229,
+        "user_id": 500575254,
+        "text": "@AtthaphanP looking fresh. Can\u2019t wait to see our Psycho Pun back. #TheGiftedGraduation https://t.co/nVZj3r45Sc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266989698410401792,
+        "user_id": 500575254,
+        "text": "Everybody\u2019s bestfriend is back. IG update @ssingss #TheGiftedGraduation https://t.co/7AO9ndMgfc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266989379823652866,
+        "user_id": 500575254,
+        "text": "@patrick_pppat IG update. Our new boy is looking cute #TheGiftedGraduation https://t.co/WXHNSSLJB0",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266983025771819008,
+        "user_id": 500575254,
+        "text": "@Adamfamilyman IG update ft @mynameisnanon \nNanon takes over while our director watches him #TheGiftedGraduation https://t.co/m3WGikD9KH",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266981794752065536,
+        "user_id": 500575254,
+        "text": "@parbdee Goodluck.  Can\u2019t wait to see your hard work.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266975964795297794,
+        "user_id": 500575254,
+        "text": "IG update @mynameisnanon as the director. #TheGiftedGraduation https://t.co/C4o4oZjbjL",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266955443546415104,
+        "user_id": 500575254,
+        "text": "@mynameisnanon IG update\n\u201cLoving can hurt\u201d\nLooks like our boy is crushing on someone. https://t.co/eZJrr1W6bo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266940316226998274,
+        "user_id": 500575254,
+        "text": "@PuimekSter still looking beautiful #TheGiftedGraduation https://t.co/u3VBzYaqjV",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266937465312391168,
+        "user_id": 500575254,
+        "text": "Our @PuimekSter hard at work for #TheGiftedGraduation https://t.co/pwObDg7CdR",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266905772975243265,
+        "user_id": 500575254,
+        "text": "A very early shoot for our @PuimekSter #TheGiftedGraduation https://t.co/tOBqh1Kcyd",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266905155728846848,
+        "user_id": 500575254,
+        "text": "@AtthaphanP IG Update. Looks like a rainy shooting day #TheGiftedGraduation https://t.co/FhQCnkkOoK",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266717928411459585,
+        "user_id": 500575254,
+        "text": "#TheGiftedGraduation IG Update. @mynameisnanon as Pang is back with a vengeance. https://t.co/H7IACePRuj",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266711227096391680,
+        "user_id": 500575254,
+        "text": "@Chimonac IG update. Wave is coming in hot \ud83d\udd25\ud83d\udd25\ud83d\udd25 #TheGiftedGraduation https://t.co/L96KycfX0Q",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266709603158331392,
+        "user_id": 500575254,
+        "text": "It's my birthday on June 6, I hope I can have a greeting. I was hoping that the series would end on my birthday and\u2026 https://t.co/CwibFhsYac",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266706802139213824,
+        "user_id": 500575254,
+        "text": "Jo Jack Korn Claire and Mon. #TheGiftedGraduation Best Classmates Ever. https://t.co/fmYRQbveLC",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266706590473654273,
+        "user_id": 500575254,
+        "text": "Korn Pun Wave Pang and Ohm. The power these boys hold. #TheGiftedGraduation Can't wait to see your hard work. https://t.co/WXA4txb76S",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267132239407542276,
+        "user_id": 1207497376551694336,
+        "text": "I Have Cop Ass Kissing Lip Chap",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264443340310712320,
+        "user_id": 1207497376551694336,
+        "text": "I have Mr Bean Virus",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267395842111127553,
+        "user_id": 1174698369362595840,
+        "text": "Grace Jones - Pull Up To The Bumper",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393776387067906,
+        "user_id": 1174698369362595840,
+        "text": "Jacksons 5 - Can You Feel It (Michael Jackson, Jackson Five, 5, etc etc etc)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267391668032024576,
+        "user_id": 1174698369362595840,
+        "text": "Kool &amp; the Gang - Celebration",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267389645568049157,
+        "user_id": 1174698369362595840,
+        "text": "Loose Ends - Hanging On A String",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267386879755931648,
+        "user_id": 1174698369362595840,
+        "text": "Noel - Like a child",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267384802682044418,
+        "user_id": 1174698369362595840,
+        "text": "PEECH BOYS - DON'T MAKE ME WAIT (LARRY LEVAN REMIX)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267383389063184385,
+        "user_id": 1174698369362595840,
+        "text": "Rafael Cameron - All That's Good To Me",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267379487731220481,
+        "user_id": 1174698369362595840,
+        "text": "RUFUS &amp; CHAKA KHAN - ain't nobody",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267377460821270528,
+        "user_id": 1174698369362595840,
+        "text": "SWV - You're the One",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267375224124772352,
+        "user_id": 1174698369362595840,
+        "text": "Tina Turner - We Don't Need Another Hero (Thunderdome)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267372591213359109,
+        "user_id": 1174698369362595840,
+        "text": "Various - MARCIA GRIFFIN - ELECTRIC BOOGIE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267369576515371008,
+        "user_id": 1174698369362595840,
+        "text": "Mary J Blige - Family Affair",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267367321280135169,
+        "user_id": 1174698369362595840,
+        "text": "Alexander O'Neal - Criticize",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267365371402649602,
+        "user_id": 1174698369362595840,
+        "text": "Billy Ocean - Caribbean Queen (No More Love on the Run)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267364081129963520,
+        "user_id": 1174698369362595840,
+        "text": "Brothers Johnson - Ain't We Funkin\u00b4Now (Todd Terje Radio Miks)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267362815205089281,
+        "user_id": 1174698369362595840,
+        "text": "CAMEO - FREAKY DANCER",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267361386818125830,
+        "user_id": 1174698369362595840,
+        "text": "Carrie Lucas - Hello Stranger",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267359063387578368,
+        "user_id": 1174698369362595840,
+        "text": "Baby Face (Featuring Toni Braxton) - Give U My Heart",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267357150814375936,
+        "user_id": 1174698369362595840,
+        "text": "CAMEO - I LIKE IT",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267355543871664134,
+        "user_id": 1174698369362595840,
+        "text": "CHANGE - LOVERS HOLIDAY",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267354141883609088,
+        "user_id": 1174698369362595840,
+        "text": "CHERYL LYNN - SHAKE IT UP TONIGHT",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267351689905999878,
+        "user_id": 1174698369362595840,
+        "text": "chic---goodtimes-(v.-kotenko)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267349173483065345,
+        "user_id": 1174698369362595840,
+        "text": "Evelyn Champagne King - I'm In Love",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267347718697033732,
+        "user_id": 1174698369362595840,
+        "text": "Fatback Band - The Girl Is Fine (So Fine)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267345883601022977,
+        "user_id": 1174698369362595840,
+        "text": "George Benson - Never Give Up On A Good Thing",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267321143280701441,
+        "user_id": 1164357025071075329,
+        "text": "@kultureds @angeIsurf yes king! give us nothing \ud83d\udc96",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267320152863002625,
+        "user_id": 1164357025071075329,
+        "text": "@GambiSkata @djolene04 queen im blocked so can someone tell me what happened \ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267288803640827904,
+        "user_id": 1164357025071075329,
+        "text": "#ALLLIVESMATER come again chile? https://t.co/zJ9w5bX90m",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267279244465524736,
+        "user_id": 1164357025071075329,
+        "text": "YES. THIS IS WHAT WE NEED https://t.co/V6Aq7wiVQR",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267278523506610183,
+        "user_id": 1164357025071075329,
+        "text": "my sister. congrats and I love u \u2764\ufe0f\ud83e\uddda\ud83c\udffe\u200d\u2640\ufe0f https://t.co/29zeCIumki",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267265135221096454,
+        "user_id": 1164357025071075329,
+        "text": "and 2021 better b the reboot we deserve \u2764\ufe0f https://t.co/FSump8wGpA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267197626644037632,
+        "user_id": 1164357025071075329,
+        "text": "im poor sorry x \ud83d\udc69\ud83c\udffe\u200d\ud83e\uddb2 https://t.co/dZCy75A6S8",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267172205542195202,
+        "user_id": 1164357025071075329,
+        "text": "@angeIsurf lemme just scroll chile..",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267138898288836608,
+        "user_id": 1164357025071075329,
+        "text": "bro watching reality tv show really changes you and you think you\u2019re in one \ud83d\ude2d or is that just me \ud83d\udc68\ud83c\udffe\u200d\ud83e\uddb2\ud83d\udc68\ud83c\udffe\u200d\ud83e\uddb2",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266917437884321792,
+        "user_id": 1164357025071075329,
+        "text": "@snoopmaya it\u2019s the dreads for me",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266916299411615744,
+        "user_id": 1164357025071075329,
+        "text": "timothee chalamet.... it\u2019s not too late to speak up..",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266757372657250306,
+        "user_id": 1164357025071075329,
+        "text": "@2020PREDlCTS stop playin \ud83d\ude33\u270b\ud83c\udffe https://t.co/Ov2CSNAJ55",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266271746547572738,
+        "user_id": 1164357025071075329,
+        "text": "WHAT IS DIS HUNNI https://t.co/vCKXiR2Aux",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266099619475439618,
+        "user_id": 1164357025071075329,
+        "text": "happy birthday king \ud83d\udc99 https://t.co/7647PdLC3S",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265870893609357314,
+        "user_id": 1164357025071075329,
+        "text": "@xcxcolette so you\u2019re telling me... people... listen... to this.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267133319558250496,
+        "user_id": 1154229937462603777,
+        "text": "@realDonaldTrump You\u2019re a rapist... but ya the darn media\u2019s at it again guys \ud83d\udc80",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266472306265583622,
+        "user_id": 1154229937462603777,
+        "text": "Halfway there, who\u2019s tryna see some \ud83c\udf51 https://t.co/2ro8dtYp4M",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266470004607705088,
+        "user_id": 1154229937462603777,
+        "text": "@mikemajlak By agreeing I\u2019m demeaning?\n\nAmerica still stands because of the cause, without something to fight for s\u2026 https://t.co/pfEEyw9laq",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266461344422739968,
+        "user_id": 1154229937462603777,
+        "text": "@mikemajlak This is what cancel culture is, but yes.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266461093330706433,
+        "user_id": 1154229937462603777,
+        "text": "\u201cThe United States faces a sixty percent chance of a civil war in the next ten to fifteen years\u201d - Keith mines,\u2026 https://t.co/rRzXCcggKg",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266165648100646914,
+        "user_id": 1154229937462603777,
+        "text": "DIDNT LOAD INTO 2/4 OF THE GAMES BOYS GET YOUR SHIT TOGETHER YOU DOGSHIT COMPANY @FortniteGame",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265779024954941441,
+        "user_id": 1154229937462603777,
+        "text": "Check out Boogie2988's video! #TikTok \u2066@KEEMSTAR\u2069  https://t.co/DDOuinFUvc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265762418694647809,
+        "user_id": 1154229937462603777,
+        "text": "@flixure @r_e_n_d @M0Asif1 @UnknownxArmy1x And ? What\u2019s the argument you\u2019re trying to articulate bud",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265758002994266113,
+        "user_id": 1154229937462603777,
+        "text": "@flixure @r_e_n_d @M0Asif1 @UnknownxArmy1x Be that as it may, https://t.co/hoSq2wqyjT can show you NFL players don'\u2026 https://t.co/tURJTQ3M53",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265665587692269574,
+        "user_id": 1154229937462603777,
+        "text": "@flixure @r_e_n_d @M0Asif1 @UnknownxArmy1x Imagine calling calling someone who broke the rules a professional",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265346547610353665,
+        "user_id": 1154229937462603777,
+        "text": "@Pamaj Ya I look good but I\u2019d make this look sooo fkin good https://t.co/CAQuBjN55g",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265325280559693829,
+        "user_id": 1154229937462603777,
+        "text": "@RimZ3d @UnknownxArmy1x Nope that\u2019s all!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265315189278162945,
+        "user_id": 1154229937462603777,
+        "text": "@Instinkt_FN @FortniteGame Knew it",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265172007961784322,
+        "user_id": 1154229937462603777,
+        "text": "@ThiccccyG How can I find the mouthpiece if my eyes are closed ...?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265016668800954368,
+        "user_id": 1154229937462603777,
+        "text": "@vaeoz @UnknownxArmy1x \ud83d\ude05\ud83d\ude05",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265008832222093312,
+        "user_id": 1154229937462603777,
+        "text": "@Revertz9 @UnknownxArmy1x Damn you rlly took it there quick. Everything ok?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265008762143698944,
+        "user_id": 1154229937462603777,
+        "text": "@Masterroshi65 @UnknownxArmy1x Who?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264996784150962177,
+        "user_id": 1154229937462603777,
+        "text": "@UnknownxArmy1x Ur dads are mad idiots",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264994522649354244,
+        "user_id": 1154229937462603777,
+        "text": "@UnknownxArmy1x gone like ur career should be",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264364796985503744,
+        "user_id": 1154229937462603777,
+        "text": "damn im nuts i can shoot through walls https://t.co/Erb83w12m6",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264062635542106113,
+        "user_id": 1154229937462603777,
+        "text": "yeah i play fortnite https://t.co/VuZ4XyY99z",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264032703919214594,
+        "user_id": 1154229937462603777,
+        "text": "@FaZeClan Don\u2019t live in the US also not a clue how to draw on a computer but this is what I woulda done https://t.co/AZI766lAW8",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264024662175969282,
+        "user_id": 1154229937462603777,
+        "text": "@zayt ive been told i have bde so",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263997245948485632,
+        "user_id": 1154229937462603777,
+        "text": "@akaThaKid Aha just take addys",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267274914089717760,
+        "user_id": 4832241723,
+        "text": "and that\u2019s on what? PERIOD. https://t.co/VC6kuDeOQ9",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267263675963863040,
+        "user_id": 4832241723,
+        "text": "didn\u2019t oregon not let black people within its state borders until 1920? https://t.co/2Y0QNTamOc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267247335983079424,
+        "user_id": 4832241723,
+        "text": "the way I wish my mother would shut up",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266880618933055489,
+        "user_id": 4832241723,
+        "text": "I did the maths",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266830066496884737,
+        "user_id": 4832241723,
+        "text": "in time of protest we remember that*",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266828537958285313,
+        "user_id": 4832241723,
+        "text": "@prxncesss_jpg she manifested her own fate all right",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266828085942345728,
+        "user_id": 4832241723,
+        "text": "I just hope in times of protest that Walgreens, Target, Amazon, etc. are not our community. these are corporate bil\u2026 https://t.co/5M1q7489Q2",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266591926758731777,
+        "user_id": 4832241723,
+        "text": "I remember I said this once and y\u2019all asked me \u201cwhy?\u201d smh https://t.co/6rdkrJEZX7",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265338907715162115,
+        "user_id": 827803646754746368,
+        "text": "I said get right act yo age\ud83d\ude24",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267396397126410242,
+        "user_id": 1155039319825866752,
+        "text": "@net_drifter Again my precious baby thanking his  vocal coach. Why hes so adorable",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267394537925734400,
+        "user_id": 1155039319825866752,
+        "text": "@Ehwaz94 Ughhh sama hyunk, ugh kita yg liat aja panas dingin gini gimana dengan mereka yg half naked lakuin itu did\u2026 https://t.co/t0lntnqxfu",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393959694753797,
+        "user_id": 1155039319825866752,
+        "text": "@babymewgulf Wow never know i miss gulf playing football again",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393511030001664,
+        "user_id": 1155039319825866752,
+        "text": "@Ehwaz94 Ugh scene ini wow... mew bener2 kiss bahu pipi dan leher gulf and also being naked while huging\ud83e\udd75",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393300035563520,
+        "user_id": 1155039319825866752,
+        "text": "@Ehwaz94 Tega bener itu wkwkw",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392441163739136,
+        "user_id": 1155039319825866752,
+        "text": "@MGs_waanjai @Gulf_Mewl Ikr like how they excited when mame said about to have difference place for a s*x in s2. Damn i cant wait",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392228692856832,
+        "user_id": 1155039319825866752,
+        "text": "@gupi_baby @waanjaifess Aw ahah aku selalu senyum lebar kalo udah menyangkut mewgulf lah apalagi fakta2 sweet mereka",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392045871624198,
+        "user_id": 1155039319825866752,
+        "text": "@Ehwaz94 Wkwkw makin ngaco \ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267385411225059330,
+        "user_id": 1155039319825866752,
+        "text": "@LKsWaanjai @mewgulfkings Yes i really asking for this  :) i might can speak a little english but still cannot unde\u2026 https://t.co/JWGfOwRQV5",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267382335843921920,
+        "user_id": 1155039319825866752,
+        "text": "His neck strech when pmew rub his ear. Kana u \ud83d\udc40 https://t.co/4ZHKvYSuEL",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267381950764871685,
+        "user_id": 1155039319825866752,
+        "text": "@Ehwaz94 Ini apalagi wkwkw keselek ludah sendiri gue lu bilang tenda nginep",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267381332176322563,
+        "user_id": 1155039319825866752,
+        "text": "@mewgulfkings Can somebody explain more to me\nWhat \"poke\" mean exactly bc i still\nConfuse what is that and thanks",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267380716641247232,
+        "user_id": 1155039319825866752,
+        "text": "@MGs_waanjai @Gulf_Mewl Never forget that  type is love having s*x in public like he did on kfc restaurant. He drag\u2026 https://t.co/NexIhEyqGL",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267189068468637696,
+        "user_id": 1153005419104595968,
+        "text": "I feel like I need to turn this thing off for a little bit.\nHave a good night everyone. Dream of a more beautiful w\u2026 https://t.co/8mRxgE3ZGc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267172647730769921,
+        "user_id": 1153005419104595968,
+        "text": "@King_Skela Personnellement, je ne vis pas ce genre de discrimination lorsque je mets le pied dehors et ce genre d'\u2026 https://t.co/BaG1SRCafv",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267168968474648576,
+        "user_id": 1153005419104595968,
+        "text": "She makes me want to wear fake eyelashes and be on a relationship break just to sing this song...\n\nJulie London - C\u2026 https://t.co/z22PeXzLYY",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267166412683894784,
+        "user_id": 1153005419104595968,
+        "text": "@anthonycwalker Order pizza. Now.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267165380847362048,
+        "user_id": 1153005419104595968,
+        "text": "@La_Fee_Lee @angikaro69 La vague est tr\u00e8s jolie. Elle devrait continuer l'Art.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267164860564959232,
+        "user_id": 1153005419104595968,
+        "text": "@PatrickPronnier Mais oui Patrick, mais oui!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267163752257863680,
+        "user_id": 1153005419104595968,
+        "text": "@SebSeb5 \ud83d\ude02\ud83d\ude02\ud83d\ude02 Trop d'\u00e9motions pour une journ\u00e9e",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267163592056385536,
+        "user_id": 1153005419104595968,
+        "text": "@PatrickPronnier Ah bah si l'app\u00e9tit existe avant alors... C'est encore plus facile pour le chef en cuisine!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267163368860708865,
+        "user_id": 1153005419104595968,
+        "text": "@SamGoodman990 NeAAAArrrr fAAAArrr wherever you AAAArr\nI beliiiieve that you ears neeed earpluuuuuugs",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267162377096531968,
+        "user_id": 1153005419104595968,
+        "text": "@PatrickPronnier Ne dit-on pas que l'app\u00e9tit vient en mangeant?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267162228869885952,
+        "user_id": 1153005419104595968,
+        "text": "@SebSeb5 Attends, avant de t'emballer, j'ai oubli\u00e9 de pr\u00e9ciser que l'encyclop\u00e9die en question est en couleur! \ud83d\ude0f\nPar\u2026 https://t.co/pa9AmX3sWg",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267161552190181376,
+        "user_id": 1153005419104595968,
+        "text": "@PatrickPronnier Oui, tout d\u00e9pend de la liste des ingr\u00e9dients \ud83d\ude0f\ud83d\ude0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267159766373023744,
+        "user_id": 1153005419104595968,
+        "text": "@clmazin @realClarkc10 I cannot believe she has the nerves to tweet something like this right now knowing full well\u2026 https://t.co/30WDTTeAoN",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267157748468219904,
+        "user_id": 1153005419104595968,
+        "text": "@SebSeb5 Tu repars avec une encyclop\u00e9die Larousse!!!!\nAlors, heureux?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267156398913159168,
+        "user_id": 1153005419104595968,
+        "text": "@PatrickPronnier Temps de pr\u00e9paration 20min \ud83d\ude0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267155784078487552,
+        "user_id": 1153005419104595968,
+        "text": "@davidMT69 \ud83d\ude02\ud83d\ude02\nJ'adore cet humour compl\u00e8tement con",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267155382520082433,
+        "user_id": 1153005419104595968,
+        "text": "@davidMT69 @LoO_Stick \ud83d\ude02\ud83d\ude02\ud83d\ude02 \"de soigner son herp\u00e8s\"... Bahaha!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267150757716877312,
+        "user_id": 1153005419104595968,
+        "text": "@PatrickPronnier Oui c'est tellement triste... \ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267149763310284800,
+        "user_id": 1153005419104595968,
+        "text": "@davidMT69 \ud83d\ude06 Ah mais les gens sont cr\u00e9atifs!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267149122840096768,
+        "user_id": 1153005419104595968,
+        "text": "It makes me sick that humans are still capable of such hate in 2020, willingly forgetting the past from which we sh\u2026 https://t.co/zf4EDQKKdm",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267144459583541248,
+        "user_id": 1153005419104595968,
+        "text": "@AliensAteMyBass @MonstersOfRock Let's be thankful he was ever here... :)",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267144243698532352,
+        "user_id": 1153005419104595968,
+        "text": "@MonstersOfRock And changed music forever!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267143533867134982,
+        "user_id": 1153005419104595968,
+        "text": "If you've ever tried to capture what moved you in a sculpture, you fully know how hard it is to do.\nThis photograph\u2026 https://t.co/9I6RHuXok4",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267140792973291521,
+        "user_id": 1153005419104595968,
+        "text": "@davidMT69 @LoO_Stick A la fin, la nana dit que le mec en question est \"host\", si le host part, la conversation se\u2026 https://t.co/4wpfbPaKkm",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267349179157876737,
+        "user_id": 488859894,
+        "text": "Dear June: https://t.co/wmShPJzk1q",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267335621015715847,
+        "user_id": 488859894,
+        "text": "Mi nuh like the app nuh more.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267334697945829381,
+        "user_id": 488859894,
+        "text": "Reach out and touch the Lord as he passes by.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267334417820921856,
+        "user_id": 488859894,
+        "text": "@pandadon__ Yup",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267334197640859648,
+        "user_id": 488859894,
+        "text": "I am flabbergasted And discombobulated.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267326998562643970,
+        "user_id": 488859894,
+        "text": "You know seh the month just start",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267325951282688005,
+        "user_id": 488859894,
+        "text": "This too much",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267325377657147392,
+        "user_id": 488859894,
+        "text": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 History this tpc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267325229937942528,
+        "user_id": 488859894,
+        "text": "Yf https://t.co/80h9cmJRdN",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267324298852814848,
+        "user_id": 488859894,
+        "text": "@Kadz__Don This app doah sleep enuh",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267324078534340608,
+        "user_id": 488859894,
+        "text": "@_AlexanderKilla Move yuh bbc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267323968148684802,
+        "user_id": 488859894,
+        "text": "Long time me experience a sound clash this nice.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267323748778233857,
+        "user_id": 488859894,
+        "text": "GUNSHOT WOUNDS TO THE CHEST and head https://t.co/ESMR8LomZ2",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267323574936879104,
+        "user_id": 488859894,
+        "text": "https://t.co/ziqdyN3fB9 https://t.co/DbyjL4j442",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267323464026927104,
+        "user_id": 488859894,
+        "text": "When u have @russbuss876 pan u team u cwaa lose",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267322938933555200,
+        "user_id": 488859894,
+        "text": "@mic__kayla We a get June plum Juwesss",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267322610809016320,
+        "user_id": 488859894,
+        "text": "https://t.co/b72S7JdJ2n https://t.co/Yz0AUI8tIA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267322500561670144,
+        "user_id": 488859894,
+        "text": "That projexx Dub was the truth",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267322347339632641,
+        "user_id": 488859894,
+        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 #BigParvsSatdehh",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267322077977161728,
+        "user_id": 488859894,
+        "text": "@Kashwiddimatic @russbuss876 @DJMAC__  \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f \n\nMore success to unnuh fam",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267321779229544455,
+        "user_id": 488859894,
+        "text": "https://t.co/iCSGrW5zl4 https://t.co/K90kwIaA5l",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267321611373498375,
+        "user_id": 488859894,
+        "text": "No bigpar not that",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267347367486844929,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin @imhintro @ghostinava YEEETRR HAWEEE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267347047545356288,
+        "user_id": 1102096062171426816,
+        "text": "@imhintro @gayghostin @ghostinava yass i'm thinking a barn yard so we can get wild \ud83d\ude3c\ud83d\ude3c\ud83d\ude3c haydn how do u feel about that",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267346319330340864,
+        "user_id": 1102096062171426816,
+        "text": "@imhintro @gayghostin @ghostinava u can be the wedding arrangementer",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267345944778924032,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin @ghostinava @imhintro no need to fight, simple solution. we get married and invite ha to shove it in her face that's all \u2764\ufe0f\ud83d\ude0b",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267344924799717378,
+        "user_id": 1102096062171426816,
+        "text": "@ghostinava @gayghostin @imhintro \"hey\" back off my bf \ud83d\ude21\ud81a\udcd8\ud81a\udcd8\ud81a\udcd8\ud81a\udcd8 \u2620\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267344739461771264,
+        "user_id": 1102096062171426816,
+        "text": "@imhintro @gayghostin stop hes my boyfriend!!! he isn't joking \ud83d\ude14\ud83d\ude14\ud83d\udc94\ud83d\udc94\ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267344274992951297,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin loml \u2764\ufe0f\u2728",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343094871207936,
+        "user_id": 1102096062171426816,
+        "text": "just lied to oomf in replies",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267342601490857985,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin we are always so cute as if it was meant to be !",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267342239388164098,
+        "user_id": 1102096062171426816,
+        "text": "@ranaphobic period u made so many points! my wifey is so smart \ud83d\ude0d",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267341014206836736,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin OUR SERVEEE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267340647666577409,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin so hot i love this picture with you https://t.co/ryNcQFm7dH",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267340134803857408,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin omgg my bf is a secy nerd \ud83d\ude0d\ud83d\ude0d",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339969648967680,
+        "user_id": 1102096062171426816,
+        "text": "@iIyrue thinking ab how you said this but pass as white and is albino \u2764\ufe0f https://t.co/ui3YhXiFNH",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339853823242240,
+        "user_id": 1102096062171426816,
+        "text": "@ranaphobic @iIyrue YES!!! THEYRE NOT FAKE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339580484669440,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin omg ure so educated",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339431427506176,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin sandy cheeks is coming out to eat!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339282684866560,
+        "user_id": 1102096062171426816,
+        "text": "@changesgrandes theyre probably faking it",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339229316562944,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin omg period my european ancestor king !",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339122345037827,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin yass! the barnicles are winning",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267338802118291460,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin awww our children",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267338628620931078,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin umm i like santa maria",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267338439893979142,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin omg i'm the ship and you're the ocean ! i go down on u \ud83d\ude0b\ud83d\ude0b\ud83d\ude0b\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267338275846406144,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin \ud83d\ude1f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267338013677203457,
+        "user_id": 1102096062171426816,
+        "text": "@gayghostin omg aww 11:11",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267356798501056517,
+        "user_id": 826957404562550788,
+        "text": "@DRBailey8 No... just one of those run off the mill big bush ones. XD",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267353358672646145,
+        "user_id": 826957404562550788,
+        "text": "@Clivelap I have irrational fears &amp; I'm trying to work through them. \n\nI'm not perfect. XD",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267347608810295296,
+        "user_id": 826957404562550788,
+        "text": "@DzintraSullivan Fuck! Lol! Probably.... \n\nWill crawl up on me while I sleep.... \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267347395349602305,
+        "user_id": 826957404562550788,
+        "text": "@l_lockheart Dammit! &gt;.&lt;",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267345871022075904,
+        "user_id": 826957404562550788,
+        "text": "So there was a giant fucking spider.... gave it a good dousing with insect spray... and now its disappeared.\n\nI'm n\u2026 https://t.co/f9gesHVbpD",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267319724246839296,
+        "user_id": 826957404562550788,
+        "text": "@HS_TheWriter It does! :D",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267285969859801088,
+        "user_id": 826957404562550788,
+        "text": "\"We are all Astronauts.\" - Ether (Music credit)\n\nWe are all astronauts...\nSit back &amp; relax...\nAs we take you on a j\u2026 https://t.co/FUqtAQGVxA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267260887607336960,
+        "user_id": 826957404562550788,
+        "text": "@OctoberComics I normally reply, \"Eat me, child.\" Whilst holding out a scrumtiously juicy forearm! Lol! XD",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267260406109573120,
+        "user_id": 826957404562550788,
+        "text": "@PassageofSpace Oh my gosh!!! My hair is EVERYWHERE! UGH!!!! XD This is normally the reason why I end up chopping i\u2026 https://t.co/9kDI4gKAKz",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267254776657375233,
+        "user_id": 826957404562550788,
+        "text": "So because I'm a dorky nerd &amp; believe in shared experiences (so we can, ya know, relate or something), the followin\u2026 https://t.co/70RkTiCnnB",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267214126171865088,
+        "user_id": 826957404562550788,
+        "text": "@DKagemann True. \n\nLol! XD",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267213693571305472,
+        "user_id": 826957404562550788,
+        "text": "@wrytir Lol!!! XD https://t.co/Efhc6at3So",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267199618086891520,
+        "user_id": 826957404562550788,
+        "text": "@GKJ_Publishing Its a harsh world! XD",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267199471324000257,
+        "user_id": 826957404562550788,
+        "text": "@lobster93740641 \ud83e\udd2d\ud83e\udd2d https://t.co/YlrtbZuSuZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267198570064523264,
+        "user_id": 826957404562550788,
+        "text": "I reckon a lot of industries may see major changes/overhauls/paradigm shifts if America falls.\n\nXD \n\nSad-happy.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267197878700654592,
+        "user_id": 826957404562550788,
+        "text": "@maryannwrites I'm in New Zealand. \n\nMy ex is a kiwi!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267195675348893696,
+        "user_id": 826957404562550788,
+        "text": "Is Hollywood over?\n\n\ud83e\udd14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267290883445198853,
+        "user_id": 1022648889277669376,
+        "text": "Little Fires Everywhere type beat",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267331264589320193,
+        "user_id": 1213881944506654720,
+        "text": "Barely have anywhere 2 lay my head down . ready sacrifice it all",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267326017661739008,
+        "user_id": 1213881944506654720,
+        "text": "Need get on sleeping meds",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267255249527541760,
+        "user_id": 1213881944506654720,
+        "text": "Anybody be lucky to have you \ud83d\ude0d\ud83d\ude0d",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267153786889482240,
+        "user_id": 1066161426715369473,
+        "text": "are y\u2019all really surprised ? \ud83d\ude10 https://t.co/v6bLxbJaD9",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267152748937609219,
+        "user_id": 1066161426715369473,
+        "text": "mf has a whole platform to raise awareness for the brutality that colored people are facing, and he only tweeted th\u2026 https://t.co/re62nFOhwc",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262979607151722496,
+        "user_id": 1066161426715369473,
+        "text": "my pfp says hello https://t.co/YreL3sodnJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262074945116536838,
+        "user_id": 1066161426715369473,
+        "text": "now we kiss https://t.co/w1jg136efq",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1260391657561784320,
+        "user_id": 1066161426715369473,
+        "text": "somebody please make a documentary on robert de niro\u2019s life start to finish while he is getting interviewed omg !!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1260251632715120640,
+        "user_id": 1066161426715369473,
+        "text": "this warmed my heart \ud83e\udd70\ud83e\udd70 https://t.co/n1Acjw58C5",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259949449377386496,
+        "user_id": 1066161426715369473,
+        "text": "@xopetewentz I\u2019m cleaning out my account right now so yeah ...  not right now",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259689305217384450,
+        "user_id": 1066161426715369473,
+        "text": "@conwaydevito \ud83d\ude4f\ud83c\udffb",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259689237584269312,
+        "user_id": 1066161426715369473,
+        "text": "@kreanu I MISS YOU SO MUCH",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259659775811506178,
+        "user_id": 1066161426715369473,
+        "text": "coming home with a redbull &amp; food, my plug about to drop by and a harvey movie on\nhttps://t.co/KpAYoAIJR9",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258944931114233857,
+        "user_id": 1066161426715369473,
+        "text": "@xopetewentz periodzzzz  \ud83d\ude2d\ud83d\udd10\ud83d\udc95",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258944742395699202,
+        "user_id": 1066161426715369473,
+        "text": "@MZVNSTREETS thank u ,, ily \u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258944638313873408,
+        "user_id": 1066161426715369473,
+        "text": "@baeniros bet bae",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258944551445807105,
+        "user_id": 1066161426715369473,
+        "text": "@neverealIyhere nah but I feel you. I didn\u2019t start getting into him until a few weeks after I joined the fandom. he\u2026 https://t.co/Fxe4t206KE",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258944414526984192,
+        "user_id": 1066161426715369473,
+        "text": "@neverealIyhere sleeping on harvey??? \ud83d\ude21\ud83d\ude21 how dare you!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258943730037506048,
+        "user_id": 1066161426715369473,
+        "text": "@MZVNSTREETS it\u2019s nothing",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258943693844819968,
+        "user_id": 1066161426715369473,
+        "text": "@Nic__Santos thank you",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258943598143459329,
+        "user_id": 1066161426715369473,
+        "text": "tonight https://t.co/maY36A9CpQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258892634103431169,
+        "user_id": 1066161426715369473,
+        "text": "legit hate twitter goodbye !",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1258540702146813952,
+        "user_id": 1066161426715369473,
+        "text": "@xopetewentz She\u2019s really beautiful but she doesn\u2019t look like lynx or Gerard but idk why people are being so rude l\u2026 https://t.co/8gz6ZBTukZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1257701138566184961,
+        "user_id": 1066161426715369473,
+        "text": "slut ! ... i am me https://t.co/dv7jW9uGxr",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1257393183845203968,
+        "user_id": 1066161426715369473,
+        "text": "@MZVNSTREETS ily\ud83d\udc95",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266943812204707842,
+        "user_id": 1096861099658526722,
+        "text": "12 AM and my neighbours are arguing outside their house. \ud83e\udd14",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265392259954081792,
+        "user_id": 1096861099658526722,
+        "text": "@itsNovaGeek \ud83d\ude01 no problem!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265070496925745153,
+        "user_id": 1096861099658526722,
+        "text": "@zeus_daughter1 Slytherin, of course. \ud83d\udc0d\ud83d\udc9a",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265070157283708929,
+        "user_id": 1096861099658526722,
+        "text": "@itsNovaGeek Welcome to the comic universe! Depending on what you\u2019re reading, you\u2019ll have a lot of comic trauma to go with it.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264592402918125568,
+        "user_id": 1096861099658526722,
+        "text": "@KingOfTheOlymp The dick becomes a stoner.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264574109553483781,
+        "user_id": 1096861099658526722,
+        "text": "@supershayne https://t.co/K80Ly8a44l",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264194935101816832,
+        "user_id": 1096861099658526722,
+        "text": "I consider myself a romantic person but I think the most romantic thing I have ever said to this day was four years\u2026 https://t.co/SqmdR7CYbk",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1260017036308013058,
+        "user_id": 1096861099658526722,
+        "text": "what if air smells like something but we\u2019re so used to it we don\u2019t smell it, like fish don\u2019t smell the salt\u2014 what d\u2026 https://t.co/gDzQOT6Od3",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1260017035234304002,
+        "user_id": 1096861099658526722,
+        "text": "Do you guys think fish in the ocean smell salt all the time or is there a filter for it? Because like, sharks can s\u2026 https://t.co/RFYoTB5Mnw",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1257174285082337281,
+        "user_id": 1096861099658526722,
+        "text": "...while holding eye contact with my sister. \n- quoted Vines every chance I got. \n- said \u201cThe Twister God has besto\u2026 https://t.co/75Gf7nt3YP",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1257174284226777089,
+        "user_id": 1096861099658526722,
+        "text": "Things I\u2019ve done so far this week\u2728: \n- held a box of cereal hostage to find out who ate my rice\n- sat on top of the\u2026 https://t.co/vfrsu1QyZk",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1256904071572795393,
+        "user_id": 1096861099658526722,
+        "text": "@boredSatan Autocorrect says:\n\nI want to fuck the same thing as you. \n\n\ud83d\udc81\u200d\u2642\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1256884157139091458,
+        "user_id": 1096861099658526722,
+        "text": "I need way more coffee to deal with this shit. \n\nA few months into quarantine and my Insomnia is worse that it\u2019s been in a looong time.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1256286349910593538,
+        "user_id": 1096861099658526722,
+        "text": "@RayShoemaker5 Good times.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254759192906301440,
+        "user_id": 1096861099658526722,
+        "text": "Fanon!Nightwing has strayed so far from Canon!Nightwing and I don\u2019t know whether to be happy about that or not beca\u2026 https://t.co/7IFX9FbOIH",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254756609739444225,
+        "user_id": 1096861099658526722,
+        "text": "You\u2019re not just basic, you\u2019re Alkaline-basic.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254672286197710848,
+        "user_id": 1096861099658526722,
+        "text": "It must be nice. It must be nice. To have Washington on your side. \n\nThe song won\u2019t get out of my head. It\u2019s stuck.\u2026 https://t.co/Gcyaz5J5SR",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254621079341072387,
+        "user_id": 1096861099658526722,
+        "text": "@Athena_GoddessA I\u2019m down.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254267622591471616,
+        "user_id": 1096861099658526722,
+        "text": "I\u2019m drinking beer and watching Slimecicle race marbles on stream. Having the time of my life.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254178043909885954,
+        "user_id": 1096861099658526722,
+        "text": "@RayShoemaker5 https://t.co/RR3ucl8z1Y",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254115178624561152,
+        "user_id": 1096861099658526722,
+        "text": "@RayShoemaker5 Pff. You wish.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253926577739628546,
+        "user_id": 1096861099658526722,
+        "text": "July 27th, 2018; otherwise known to me as the Camping trip that never happened.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267395075971129346,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh be well &lt;3",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267394625196756993,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh will be back in a few hours sweetie",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393896285458432,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh yes",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393675488899072,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh in ya heart",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393579892248576,
+        "user_id": 1012649543383601158,
+        "text": "@Heymemedah wah yar",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393037875007488,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh @Harambeballs \ud83d\ude14\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267392509203841027,
+        "user_id": 1012649543383601158,
+        "text": "@zainabqasim_ Yes \ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267379636020936704,
+        "user_id": 1012649543383601158,
+        "text": "hope the KING remains loyal forever https://t.co/qPeMmBpKqZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267375391662104577,
+        "user_id": 1012649543383601158,
+        "text": "@affanfilms damn 4 years",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267364791062016002,
+        "user_id": 1012649543383601158,
+        "text": "@aestheticnibba shit",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267362023010115587,
+        "user_id": 1012649543383601158,
+        "text": "@gosleepbilal yes",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267359936398471168,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh wah yar",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267358445734371329,
+        "user_id": 1012649543383601158,
+        "text": "@garbishhh u cant",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267358107912503300,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh tabiat thek ni kerni kya tumhe",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267357045562507264,
+        "user_id": 1012649543383601158,
+        "text": "@IamAqsaShaikh you too",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267346733081690114,
+        "user_id": 1012649543383601158,
+        "text": "@fa2yma https://t.co/AJvUCOu4ux",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267345902534037505,
+        "user_id": 1012649543383601158,
+        "text": "@littulfingers yeah it feels like that",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267345296046149632,
+        "user_id": 1012649543383601158,
+        "text": "@cravingbiryani hahahahahahaha",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343668136087552,
+        "user_id": 1012649543383601158,
+        "text": "@Qamarhabibah y",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343593766871046,
+        "user_id": 1012649543383601158,
+        "text": "@aintyourladiee kuch ni yar",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343406394748928,
+        "user_id": 1012649543383601158,
+        "text": "@aintyourladiee nahi",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343167269068800,
+        "user_id": 1012649543383601158,
+        "text": "@aintyourladiee bas yar",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343072788131850,
+        "user_id": 1012649543383601158,
+        "text": "@aintyourladiee no",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266348450456588288,
+        "user_id": 1194522450748272640,
+        "text": "kiss sa noo and yakap na mahigpit are the best",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266304640687042566,
+        "user_id": 1194522450748272640,
+        "text": "\ud83e\udd46\ud83d\udc96 https://t.co/lBE2GWwb6t",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266304387657285632,
+        "user_id": 1194522450748272640,
+        "text": "\ud83e\udd46\ud83d\udc97 https://t.co/MkK4Xzndue",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265984822473658370,
+        "user_id": 1194522450748272640,
+        "text": "Oh him? We're just friends",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265818462015746048,
+        "user_id": 1194522450748272640,
+        "text": "Your eyes are so full of pain yet your smile is so angelic\ud83e\udd46",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267395893839486976,
+        "user_id": 1205193206767521797,
+        "text": "Super Link Falls Down The Stairs  3D &amp; Knuckles 64 Collectors Edition (Featuring Dante From The Devil May Cry Series). 1892 SEGA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267393648364314624,
+        "user_id": 1205193206767521797,
+        "text": "Super Ness Sinks The Titanic And Falls Down The Stairs 3D &amp; Knuckles 64 (PS2 Port) (Featuring Dante From The Devil\u2026 https://t.co/0EUQvUNz6v",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267390849215758338,
+        "user_id": 1205193206767521797,
+        "text": "Ultra Matt From Wii Sports Fucking Dies And Beats The Shit Out of King Dedede With a HDMI Cable 3D &amp; Knuckles 64  . 5469 Nintnedo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267388413747085312,
+        "user_id": 1205193206767521797,
+        "text": "Super Sans Sinks The Titanic    64 Legacy Version . 9945 Square",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267385827547664385,
+        "user_id": 1205193206767521797,
+        "text": "Some Random Guy Gets Pissed Off  DX  3 Gold Edition . 1398 SEGA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267383296444583936,
+        "user_id": 1205193206767521797,
+        "text": "Super Cloud Falls Down The Stairs  DX  64 (NES Port) . 7199 Microsoft",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267380850422923264,
+        "user_id": 1205193206767521797,
+        "text": "Paper Banjo Kills Ness With a Bottle of Milk And Gets Pissed Off  &amp; Knuckles  Gold Edition (Featuring Dante From Th\u2026 https://t.co/84AeSEGmue",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267378511070846976,
+        "user_id": 1205193206767521797,
+        "text": "Paper Matt From Wii Sports Gets Pissed Off And Fucking Dies 3D  64 (PS4 Exclusive!) . 9564 Microsoft",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267375767228481536,
+        "user_id": 1205193206767521797,
+        "text": "Ultra Samus Steals an Old Pair Of Glasses from Mega Man   &amp; Knuckles  (SNES Exclusive!) (Featuring Dante From The D\u2026 https://t.co/fFTQhbPmhF",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267373500765003776,
+        "user_id": 1205193206767521797,
+        "text": "Eggman Beats The Shit Out of Inkling With a Large Bottle of Pepsi And Steals a Can of Beans from Funky Kong 3D &amp; Kn\u2026 https://t.co/Eb7LgtwaSU",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267371493798957056,
+        "user_id": 1205193206767521797,
+        "text": "Snake Washes Zelda's Hands  3D  64 (PS4 Remake) (Featuring Dante From The Devil May Cry Series). 3712 Sony",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267368213458944000,
+        "user_id": 1205193206767521797,
+        "text": "Super Mr. Game And Watch Fucking Dies And Beats The Shit Out of Eggman With The Power Of Friendship 3D &amp; Knuckles 64  . 4332 SEGA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267365717269151748,
+        "user_id": 1205193206767521797,
+        "text": "Paper Gordon Freeman Fucking Dies   &amp; Knuckles 4 (Switch Remake) . 2124 Nintnedo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267363178322825218,
+        "user_id": 1205193206767521797,
+        "text": "Paper Kirby Kills Inkling With a HDMI Cable   &amp; Knuckles 2 Collectors Edition (Featuring Dante From The Devil May Cry Series). 7956 Square",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267361008047226882,
+        "user_id": 1205193206767521797,
+        "text": "Super Eggman Steals a Nokia from Zelda And Goes To Get a Bottle of Milk  &amp; Knuckles  (Ness Mode Update) . 6486 Nintnedo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267358394056392706,
+        "user_id": 1205193206767521797,
+        "text": "Ultra Shadow Beats The Shit Out of Matt From Wii Sports With a Nokia  3D  2 Collectors Edition (Featuring Dante Fro\u2026 https://t.co/9bzvGV1xXh",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267355677497987072,
+        "user_id": 1205193206767521797,
+        "text": "Ultra Zelda Sinks The Titanic   &amp; Knuckles 8 Director's Cut . 4477 Nintnedo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267353096860155905,
+        "user_id": 1205193206767521797,
+        "text": "Ultra Donkey Kong Drags Zelda To Hell  3D  64 Collectors Edition . 6766 Square",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267350605263187968,
+        "user_id": 1205193206767521797,
+        "text": "Paper Some Random Guy Kills Ness With a Gaming PC And Sinks The Titanic DX    . 7997 Square",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267348314158219286,
+        "user_id": 1205193206767521797,
+        "text": "Ness Fucking Dies    64 Collectors Edition (Featuring Dante From The Devil May Cry Series). 6947 Sony",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267345606470782976,
+        "user_id": 1205193206767521797,
+        "text": "Ultra Eggman Sinks The Titanic  3D &amp; Knuckles 64 Legacy Version . 9763 Square",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267343313524477953,
+        "user_id": 1205193206767521797,
+        "text": "Ultra Sonic Steals a Never-ending Stream of Snake Clones from Snake    6 (Luigi Mode Update) (Featuring Dante From\u2026 https://t.co/OfvRoyz1y4",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267340772992581633,
+        "user_id": 1205193206767521797,
+        "text": "Paper Eggman Kills Eggman With Toilet Paper   &amp; Knuckles 64 (Ness Mode Update) (Featuring Dante From The Devil May Cry Series). 3182 Square",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267337993054031872,
+        "user_id": 1205193206767521797,
+        "text": "Sonic Steals a Large Bottle of Pepsi from Lancer And Kills Ness With a HDMI Cable DX &amp; Knuckles 9 Legacy Version (F\u2026 https://t.co/i2JI5lavue",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267335481827766272,
+        "user_id": 1205193206767521797,
+        "text": "Super Snake Goes To Get Toilet Paper  DX &amp; Knuckles 1 Collectors Edition (Featuring Dante From The Devil May Cry Series). 2292 Nintnedo",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267388582173573120,
+        "user_id": 536338206,
+        "text": "Bringing this back, because the time's approching \ud83d\udc40 https://t.co/fB58lTffP3",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267387073591377922,
+        "user_id": 536338206,
+        "text": "@pyraaa_ Because you tweeted",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267371033998352385,
+        "user_id": 536338206,
+        "text": "No Raven... https://t.co/rLjUak8zFN",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267350158725054470,
+        "user_id": 536338206,
+        "text": "Oh, that's hot \ud83d\ude33 https://t.co/gGDvXJvWfk",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267339447558905856,
+        "user_id": 536338206,
+        "text": "Don't tell me anything, since i haven't finished the game yet, but- https://t.co/x3xZTpaYMy",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267307998529142785,
+        "user_id": 536338206,
+        "text": "Bless you, Illya~\u2661 https://t.co/InOT7ziqAs",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267307271652024322,
+        "user_id": 536338206,
+        "text": "LET'S GOOOOOOOOOOOO \u2764\u2764\u2764 https://t.co/7viz2QEkpK",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267235972900696064,
+        "user_id": 536338206,
+        "text": "Femboy Hooters AKA Tooters \ud83c\udf46\ud83d\udca6\ud83d\udca6 https://t.co/EkWJTzXSCi",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267234972102000640,
+        "user_id": 536338206,
+        "text": "Shout-outs to Helltaker for making the most relatable protagonist within the least amount of time.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267228162817220610,
+        "user_id": 536338206,
+        "text": "CUTIE ALERT\n\nCUTIE ALERT https://t.co/GV6xbEFrXN",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267224590994079747,
+        "user_id": 536338206,
+        "text": "M-makoto \ud83d\ude33 https://t.co/emkUzG6vNk",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267219680646909952,
+        "user_id": 536338206,
+        "text": "@Ryuujin32 If you got Discord, add me on there.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267219534269820928,
+        "user_id": 536338206,
+        "text": "I don't want to sound too controversial, but cold pizza really hits different, and in a good way.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267219009394692097,
+        "user_id": 536338206,
+        "text": "@SuzukiYakuza If you like sour cucumbers.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267218958354132998,
+        "user_id": 536338206,
+        "text": "@SuzukiYakuza They're good.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267215280238784512,
+        "user_id": 536338206,
+        "text": "@NecromnrZ WHY AM I BEING TAGGED HERE?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267206113147183109,
+        "user_id": 536338206,
+        "text": "Nobody:\n\nRyuji: \"Man, i'm so glad we're the PHANTOM THIEVES. only we THE PHANTOM THIEVES can change someone's heart\u2026 https://t.co/jlfpbkrFfT",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267196114043838464,
+        "user_id": 536338206,
+        "text": "Nice https://t.co/nzov1SmYry",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267181685352906752,
+        "user_id": 536338206,
+        "text": "@niamorzinha Yeah, but i think fighting games don't work for a system like that, if i'm gonna be honest.\n\nBut i wou\u2026 https://t.co/UK8taGK2X5",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267180829047955457,
+        "user_id": 536338206,
+        "text": "@niamorzinha I could also see, and understand that.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267177526390132742,
+        "user_id": 536338206,
+        "text": "9. I'm fine with fighting games staying hard to learn.\nI think simplifying fighting games is kind of unsulting.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267177197149786115,
+        "user_id": 536338206,
+        "text": "@Neon_Flakes I haven't beaten the game yet, but i did hear he has a palace, though i will continue to believe he's a genuine good guy.",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267176352081469443,
+        "user_id": 536338206,
+        "text": "@lunaticgazes Seija is \u2661\u2661\u2661\u2661",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266354073059524608,
+        "user_id": 1244139542199668736,
+        "text": "my stomach cant handle with sugar",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264967793184608265,
+        "user_id": 1244139542199668736,
+        "text": "I found myself being a person who cannot live without soy yogurt",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264647659979067392,
+        "user_id": 1244139542199668736,
+        "text": "my english doesnt work anyone help me",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264644334508371968,
+        "user_id": 1244139542199668736,
+        "text": "i want original one!!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264644253759582209,
+        "user_id": 1244139542199668736,
+        "text": "i trust english version now because english has similar structure obviously.. but its hard anyway lol",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264643912175476736,
+        "user_id": 1244139542199668736,
+        "text": "there are a lot of differences between them. its not the problem of rhetoric but of meaning. seriously",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264643453566062592,
+        "user_id": 1244139542199668736,
+        "text": "im reading \"le temps des femmes\" by kristeva by both english and japanese (cause i cannot read french enough) but t\u2026 https://t.co/v8BWjI65Mb",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264624530124705792,
+        "user_id": 1244139542199668736,
+        "text": "Not much flavor https://t.co/l48CYQXQFL",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263696062587342850,
+        "user_id": 1244139542199668736,
+        "text": "I got paid from that man",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263033423037259777,
+        "user_id": 1244139542199668736,
+        "text": "It\u2019s so cute isn\u2019t it \nKristeva https://t.co/ebfSt8lz0z",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262692850505924611,
+        "user_id": 1244139542199668736,
+        "text": "I\u2019m tired",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262691286127013888,
+        "user_id": 1244139542199668736,
+        "text": "Perfect morning if only it\u2019s actually morning",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262109343857512448,
+        "user_id": 1244139542199668736,
+        "text": "J\u2019aime fran\u00e7ais",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262088868532088832,
+        "user_id": 1244139542199668736,
+        "text": "It was ok",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262082349367357440,
+        "user_id": 1244139542199668736,
+        "text": "He showed me his face",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262082133532672001,
+        "user_id": 1244139542199668736,
+        "text": "I just made a man cum online",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262062688189812744,
+        "user_id": 1244139542199668736,
+        "text": "I drank too much just like I\u2019m compensating that I\u2019m getting better",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261889350683389953,
+        "user_id": 1244139542199668736,
+        "text": "I didn\u2019t have dreams",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261723176645476352,
+        "user_id": 1244139542199668736,
+        "text": "My gpa is shit though",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261721682672115713,
+        "user_id": 1244139542199668736,
+        "text": "Ok after I graduate, I should go to somewhere overseas",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261720797682397185,
+        "user_id": 1244139542199668736,
+        "text": "I want to try to live with him",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261634330687758336,
+        "user_id": 1244139542199668736,
+        "text": "Weird https://t.co/PL9vRZf8zd",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261628637553389574,
+        "user_id": 1244139542199668736,
+        "text": "I\u2019m bored",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261623092293414912,
+        "user_id": 1244139542199668736,
+        "text": "But where can I go?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261617380381224962,
+        "user_id": 1244139542199668736,
+        "text": "I wanna go somewhere now",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1249576652666843136,
+        "user_id": 1209826248727265281,
+        "text": "I sincerely request @PMOIndia to cancel all semester exams and utilise the examination fees into fight against COVI\u2026 https://t.co/jDDQERWZ94",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267389415745339392,
+        "user_id": 1234327274704424960,
+        "text": "Important thread. Police shooting people at close range, harassing journalists, kicking peaceful protesters and mor\u2026 https://t.co/v3vRwqIdrM",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267385389620363266,
+        "user_id": 1234327274704424960,
+        "text": "Vote for @Booker4KY.  We need people in Congress who are fighting for the people. https://t.co/QCSh3DlXa6",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1267077560883691527,
+        "user_id": 802223288969728000,
+        "text": "your breath smell like earwax",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264386515767111680,
+        "user_id": 802223288969728000,
+        "text": "the midnight gospel is one of those shows i want the whole entire world to watch",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264197164852482048,
+        "user_id": 802223288969728000,
+        "text": "@Cudalla album",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264051810156896257,
+        "user_id": 802223288969728000,
+        "text": "@quiznuts omg im blushing",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1264048227898347520,
+        "user_id": 802223288969728000,
+        "text": "it\u2019s not my place to say something. it\u2019s not my place to say something. it\u2019s not my place to say something. it\u2019s no\u2026 https://t.co/WZkMCSvxz7",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263882555478216707,
+        "user_id": 802223288969728000,
+        "text": "watching anime and cutting watermelon",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263308978768969730,
+        "user_id": 802223288969728000,
+        "text": "like cause yk those people who think they are SOO GOOD at singing but they are actually so bad to the point people\u2026 https://t.co/iVsV7lEOmT",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263308780382687233,
+        "user_id": 802223288969728000,
+        "text": "please be honest to save me a lifetime of embarrassment",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263308684165341186,
+        "user_id": 802223288969728000,
+        "text": "one of my biggest fears is that im actually SHIT at singing and no one has had the balls to tell me and you guys ju\u2026 https://t.co/JfGjKk7zGB",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263280149983879173,
+        "user_id": 802223288969728000,
+        "text": "@brysontiller \u2764\ufe0f\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263216141960347654,
+        "user_id": 802223288969728000,
+        "text": "i want brown corduroy pants with straight leg",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262494600356339714,
+        "user_id": 802223288969728000,
+        "text": "is it even possible for someone to have no mental illness?? i want to meet someone who is fully stable",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262053044382023681,
+        "user_id": 802223288969728000,
+        "text": "brushing teeth with my non dominant hand until it feels natural",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262051858878812162,
+        "user_id": 802223288969728000,
+        "text": "i\u2019ve peed outside 5 times in the last 4 days. i wonder when this streak will end",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261101910750265345,
+        "user_id": 802223288969728000,
+        "text": "@raisingirl69 @randypaint CAROL. RIPPP",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259917919032610820,
+        "user_id": 802223288969728000,
+        "text": "rest in peace corey \ud83d\udc9c \ud83d\udd4a",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259532513984360449,
+        "user_id": 802223288969728000,
+        "text": "why is \u2018ignacio\u2019 such a hard name for teachers to pronounce",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259306225877082114,
+        "user_id": 802223288969728000,
+        "text": "@raisingirl69 i dont know",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259304655651209216,
+        "user_id": 802223288969728000,
+        "text": "peep the graffiti wall i found in my suburban neighborhood \ud83d\ude0c i love the versatility https://t.co/rniSjuH0oJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259301704304152576,
+        "user_id": 802223288969728000,
+        "text": "THIS DID NOT AGE WELL HAHAHA",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1259301437869379588,
+        "user_id": 802223288969728000,
+        "text": "this did not age well....and my skin does not look good",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266230564794667009,
+        "user_id": 184561849,
+        "text": "Where tf has my dawg @queque_licious been \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1266045088288747522,
+        "user_id": 184561849,
+        "text": "No \ud83e\udde2 https://t.co/RaiqYGBsrg",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263594931563581446,
+        "user_id": 184561849,
+        "text": "I swear some days I be wanting to throw my phones out the window!!!! Got damn!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263191728040837122,
+        "user_id": 184561849,
+        "text": "@inFAMOUS_Danie I swear kids think Siri can answer all their problems",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263018667907874816,
+        "user_id": 184561849,
+        "text": "@Nosimpingzone Will do my dawg \ud83d\udcaa\ud83c\udffe",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1263016947278663681,
+        "user_id": 184561849,
+        "text": "Bro this fool here got me dying \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23#simpanzees https://t.co/CRoySdG03Y",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262899937668456449,
+        "user_id": 184561849,
+        "text": "@OnYO_NiggaFace Frauding they own ppl \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262678533282959360,
+        "user_id": 184561849,
+        "text": "@CamrynBleu \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262618997171924992,
+        "user_id": 184561849,
+        "text": "@aDollop_ofDrew Damn right cruise ships beaches and balconies will bring the hoe out \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262602782651097089,
+        "user_id": 184561849,
+        "text": "@aDollop_ofDrew Lmao I swear!!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262552405494857732,
+        "user_id": 184561849,
+        "text": "@OnYO_NiggaFace It was a catfish \ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1262552340428718081,
+        "user_id": 184561849,
+        "text": "@OnYO_NiggaFace That rug so ugly in real life \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1265427990932062213,
+        "user_id": 794065930133393408,
+        "text": "@russotalks Air",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261887169431580673,
+        "user_id": 794065930133393408,
+        "text": "@AlbertsStuff Huilsole",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1261887008139620353,
+        "user_id": 794065930133393408,
+        "text": "@russotalks Yeah",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1255683228381458434,
+        "user_id": 794065930133393408,
+        "text": "@mayrushart I just got bullied on bee swarm simulator when somebody was hogging and said I was a noob for being slo\u2026 https://t.co/gtmLU8lZaI",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1255495726072766470,
+        "user_id": 794065930133393408,
+        "text": "@Ally_theKookiee ninjagodan5fna",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254535927365619716,
+        "user_id": 794065930133393408,
+        "text": "@Roblox The 2018 egg hunt eggs (hint) make better egg hunts",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1254173628440154113,
+        "user_id": 794065930133393408,
+        "text": "@DonaldMustard The one we\u2019re you see chapter 1 map",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253734089926025221,
+        "user_id": 794065930133393408,
+        "text": "@russotalks Blues clues",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253734038797529089,
+        "user_id": 794065930133393408,
+        "text": "@russotalks Blush",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253439099165425669,
+        "user_id": 794065930133393408,
+        "text": "@HundebrotY @EFM_Milky https://t.co/tvoETHnY7s",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253438968751722497,
+        "user_id": 794065930133393408,
+        "text": "@HundebrotY @EFM_Milky Anime is good unlike fortntie",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253360744902676481,
+        "user_id": 794065930133393408,
+        "text": "@RBXNews_ I miss good egg hunts",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253360601927225347,
+        "user_id": 794065930133393408,
+        "text": "@RBXNews_ Events",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253017940976447490,
+        "user_id": 794065930133393408,
+        "text": "@Lazarbeam https://t.co/Xe6JiHzQur",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253017788689588228,
+        "user_id": 794065930133393408,
+        "text": "Check out Memes's video! #TikTok https://t.co/zNRpRNLrWa",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1253017325256802307,
+        "user_id": 794065930133393408,
+        "text": "@MiyaROBLOX I guess me when I\u2019m mad?",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1252824011462959104,
+        "user_id": 794065930133393408,
+        "text": "@FoxxKirsten The dog it\u2019s him! He is giving you a Death Star",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1252461136215257089,
+        "user_id": 794065930133393408,
+        "text": "Gay kid: the lunch lady gave me 2 puddings, I think she likes me! Hehehe",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1252371327991726089,
+        "user_id": 794065930133393408,
+        "text": "@PlayAdoptMe Missing old adopt me when u get adopted and then your parent leaves",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1252371217396334593,
+        "user_id": 794065930133393408,
+        "text": "@micaGalaxy @xCheezynii @PlayAdoptMe Yeah",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1252370981370249217,
+        "user_id": 794065930133393408,
+        "text": "@PlayAdoptMe Cry because everybody\u2019s better",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    },
+    {
+        "id": 1252323626243809290,
+        "user_id": 794065930133393408,
+        "text": "@FoxxKirsten She\u2019s becoming Albert",
+        "classifier": "highly-anonymous",
+        "classification": "Sherry"
+    }
+]

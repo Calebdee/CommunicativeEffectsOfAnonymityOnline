@@ -1,0 +1,4559 @@
+[
+    {
+        "id": 1267492672761200643,
+        "user_id": 1053037529199505409,
+        "text": "@paul4bell Eu jogando mortal Kombat durante minha demiss\u00e3o",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267484358593650692,
+        "user_id": 1053037529199505409,
+        "text": "Ahhhhhh q saudade dum rol\u00ea eu at\u00e9 aprendo pagode eu n\u00e3o ligo eu dan\u00e7o fodase por favooooooooo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267475621271212035,
+        "user_id": 1053037529199505409,
+        "text": "N\u00e3o acredito q gosto dessa maldita aaaaaaaaaaaaaaaaaa",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267421846607220738,
+        "user_id": 1053037529199505409,
+        "text": "Fiz um upgrade aqui no PC https://t.co/gyOYzOf3Hs",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267345016399290373,
+        "user_id": 1053037529199505409,
+        "text": "Assistindo Penny Dreadful e vendo os nazistas desfilarem na rua e gritarem Am\u00e9rica primeiro Am\u00e9rica sempre em 1938\u2026 https://t.co/thwJSBcSCB",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266470262800658432,
+        "user_id": 1207623243181559808,
+        "text": "5654B2ED :Battle ID\nI need backup!\nLvl 120 Dark Angel Olivia\nhttps://t.co/lIlGAcp4mF",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266469123397042176,
+        "user_id": 1207623243181559808,
+        "text": "CAAD64E9 :Battle ID\nI need backup!\nLvl 100 Colossus Omega\nhttps://t.co/iA67UpdoJg",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266467811699773440,
+        "user_id": 1207623243181559808,
+        "text": "0F9C541A :Battle ID\nI need backup!\nLvl 100 Colossus Omega\nhttps://t.co/iA67UpdoJg",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266303635001978881,
+        "user_id": 1207623243181559808,
+        "text": "finish it please C0C7931D :Battle ID\nI need backup!\nLvl 150 Proto Bahamut\nhttps://t.co/d0pZJ0KoEo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266300962412453891,
+        "user_id": 1207623243181559808,
+        "text": "C0C7931D :Battle ID\nI need backup!\nLvl 150 Proto Bahamut\nhttps://t.co/d0pZJ0KoEo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266300644857491456,
+        "user_id": 1207623243181559808,
+        "text": "&lt;50% C0C7931D :Battle ID\nI need backup!\nLvl 150 Proto Bahamut\nhttps://t.co/d0pZJ0KoEo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266274122675351553,
+        "user_id": 1207623243181559808,
+        "text": "C8B35881 :Battle ID\nI need backup!\nLvl 100 Celeste Omega\nhttps://t.co/g5CZkQU0AQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266272735593807872,
+        "user_id": 1207623243181559808,
+        "text": "FEDB31ED :Battle ID\nI need backup!\nLvl 100 Celeste Omega\nhttps://t.co/g5CZkQU0AQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266267300463644673,
+        "user_id": 1207623243181559808,
+        "text": "4613FC8F :Battle ID\nI need backup!\nLvl 100 Tiamat Omega Ayr\nhttps://t.co/Xfbwd5RG5O",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266265810198073345,
+        "user_id": 1207623243181559808,
+        "text": "A92B8DD2 :Battle ID\nI need backup!\nLvl 100 Tiamat Omega Ayr\nhttps://t.co/Xfbwd5RG5O",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266264641048440832,
+        "user_id": 1207623243181559808,
+        "text": "5E346149 :Battle ID\nI need backup!\nLvl 120 Shiva\nhttps://t.co/6vZXNnUKiS",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266262932372873223,
+        "user_id": 1207623243181559808,
+        "text": "AC9D0C49 :Battle ID\nI need backup!\nLvl 100 Colossus Omega\nhttps://t.co/iA67UpdoJg",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266261529684369408,
+        "user_id": 1207623243181559808,
+        "text": "2EF4CB08 :Battle ID\nI need backup!\nLvl 100 Colossus Omega\nhttps://t.co/iA67UpdoJg",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266254715404185602,
+        "user_id": 1207623243181559808,
+        "text": "4CA844B4 :Battle ID\nI need backup!\nLvl 120 Avatar\nhttps://t.co/GcY0ZTphZ0",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266133220631785473,
+        "user_id": 1207623243181559808,
+        "text": "EDC619F1 :Battle ID\nI need backup!\nLvl 120 Avatar\nhttps://t.co/GcY0ZTphZ0",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266132335382024192,
+        "user_id": 1207623243181559808,
+        "text": "EDC619F1 :Battle ID\nI need backup!\nLvl 120 Avatar\nhttps://t.co/GcY0ZTphZ0",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266032481116884992,
+        "user_id": 1207623243181559808,
+        "text": "B8CF820A :Battle ID\nI need backup!\nLvl 200 Akasha\nhttps://t.co/qFXsTZlf6M",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266031188071682048,
+        "user_id": 1207623243181559808,
+        "text": "please finish it 014B539E :Battle ID\nI need backup!\nLvl 200 Akasha\nhttps://t.co/qFXsTZlf6M",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266030127793635330,
+        "user_id": 1207623243181559808,
+        "text": "014B539E :Battle ID\nI need backup!\nLvl 200 Akasha\nhttps://t.co/qFXsTZlf6M",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265956679599878145,
+        "user_id": 1207623243181559808,
+        "text": "C45C5E98 :Battle ID\nI need backup!\nLvl 150 Lucilius\nhttps://t.co/gDQXoDU00u",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265955892505088001,
+        "user_id": 1207623243181559808,
+        "text": "help? C45C5E98 :Battle ID\nI need backup!\nLvl 150 Lucilius\nhttps://t.co/gDQXoDU00u",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265954862421794816,
+        "user_id": 1207623243181559808,
+        "text": "C45C5E98 :Battle ID\nI need backup!\nLvl 150 Lucilius\nhttps://t.co/gDQXoDU00u",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265953592566878209,
+        "user_id": 1207623243181559808,
+        "text": "ED808BBC :Battle ID\nI need backup!\nLvl 100 Tiamat Omega Ayr\nhttps://t.co/Xfbwd5RG5O",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265949213659025409,
+        "user_id": 1207623243181559808,
+        "text": "3B5F4B31 :Battle ID\nI need backup!\nLvl 150 Tiamat Malice\nhttps://t.co/JgOEuTlWS5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265905544927129601,
+        "user_id": 1207623243181559808,
+        "text": "EA4F59D4 :Battle ID\nI need backup!\nLvl 120 Shiva\nhttps://t.co/6vZXNnUKiS",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267518474127134720,
+        "user_id": 23258386,
+        "text": "\u201cWe\u2019re not doing a general revaluation this year because of everything that is going on,\u201d McHugh said. \u201cWe felt it\u2026 https://t.co/MfSBuubWi5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267518157222264836,
+        "user_id": 23258386,
+        "text": "Many Mount Pleasant homes will not face reassessment this year  Eric Johnson  https://t.co/QGl0wFixIN  #RacineWI",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267517418664009728,
+        "user_id": 23258386,
+        "text": "@620wtmj Good Lord. \ud83d\udca8 They that sow the wind, shall reap the whirlwind.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267517138463592448,
+        "user_id": 23258386,
+        "text": "I promise you that your \u2018systemic racism\u2019 your attitudes have caused will not improve with this. Thugs don\u2019t , \u2018wan\u2026 https://t.co/Vjg5eeRAHy",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267516308108775427,
+        "user_id": 23258386,
+        "text": "With photos: Villa Street COP house ablaze overnight  https://t.co/jO44FZri4c  #RacineWI",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267514047039184898,
+        "user_id": 23258386,
+        "text": "@thehill What purpose did that serve, Wesley?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267496785674752002,
+        "user_id": 23258386,
+        "text": "@thehill Leadership looks like this! Get the adults back in charge in 154 more days. Vote the cesspool out.  #VoteTheCesspoolOUT",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267496514101956609,
+        "user_id": 23258386,
+        "text": "@MeetThePress trumpster's get your tough boy unlike others that came before out of the WH and let's have Cadet Bone Spurs lead the way. rofl",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267496097452306438,
+        "user_id": 23258386,
+        "text": "@costareports Then get the #BunkerBitch out in front of it. trumpers say that #ImpeachedPresidentTrump is protected\u2026 https://t.co/a7D6qLXz07",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267492078717743104,
+        "user_id": 23258386,
+        "text": "Web Browsers still allow drive-by-downloads in 2020\nIt's 2020, and numerous browsers still allow drive-by-downloads\u2026 https://t.co/n72jMZ8OkG",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267491578274332673,
+        "user_id": 23258386,
+        "text": "@axios trumpers make America great was a 'movement', too. \"... bring it to an end...'",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267308296723202048,
+        "user_id": 743282378676658176,
+        "text": "@uhhfrenchy LMAOOOO GIRLLL",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266785912198959104,
+        "user_id": 743282378676658176,
+        "text": "@thedillanswift it\u2019s not like you had any to lose in the first place \ud83e\udd22",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266770567279116294,
+        "user_id": 743282378676658176,
+        "text": "if you\u2019re not against racism you\u2019re enabling it.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266749708854312961,
+        "user_id": 743282378676658176,
+        "text": "@___ava___marie he is a rapist ! he supports murderers ! he discriminates ! he is a piece of shit and standing by l\u2026 https://t.co/j9qcu3Jg72",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266731889953562625,
+        "user_id": 743282378676658176,
+        "text": "@___ava___marie he\u2019s done. as for the tech thing that was a joke sis \ud83d\udc80 it\u2019s in a conservative town woth lots of tru\u2026 https://t.co/oau23lGpbj",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266731328239788032,
+        "user_id": 743282378676658176,
+        "text": "@___ava___marie \u201ctrump has done a lot for our country\u201d when the bad outweighs the good i don\u2019t give a FUCK what tha\u2026 https://t.co/tPbyA5Z5in",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266601653190475776,
+        "user_id": 743282378676658176,
+        "text": "all these trump supporting high school/college kids rly trying to back him up \ud83d\udc80 we get it you\u2019re racist and follow\u2026 https://t.co/obDGruoFcJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266122692333273091,
+        "user_id": 743282378676658176,
+        "text": "i have so many cute outfits someone take me on a date now &gt;:(",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1262472038779949056,
+        "user_id": 1057806199326945281,
+        "text": "Was gonna wait for Tuesday to show my titties, but \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f\ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f it\u2019s Monday and I\u2019m masturbating so enjoy \ud83d\ude08\ud83d\ude02\ud83d\udca6 https://t.co/IVEfDsu8ks",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259231404069699584,
+        "user_id": 1057806199326945281,
+        "text": "FINALLY putting together a Dropbox or ALL my content \ud83e\udd70 b/g ; g/g ; solo ; nudes ; EVERYTHING \ud83d\ude0d I\u2019m so excited to sh\u2026 https://t.co/XaMTBIXm3P",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1258882850117615616,
+        "user_id": 1057806199326945281,
+        "text": "I haven\u2019t been cum on like this in toooo long https://t.co/AyBg1Quw1L",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256294079454986241,
+        "user_id": 1057806199326945281,
+        "text": "@AlwaysBaddies @Lov3ly_Ladi3s @TopFlightBaddie \ud83d\ude18\ud83d\ude18 I\u2019m glad you enjoy \u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950908392964101,
+        "user_id": 1057806199326945281,
+        "text": "Me and my girlfriend had some fun yesterday! We\u2019ve got video and lots of pictures\ud83d\udca6 package deals too if anyone is i\u2026 https://t.co/tqqKmvJV7w",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1253441265078800395,
+        "user_id": 1057806199326945281,
+        "text": "fresh out the shower, bout to finger myself!! DM for any content \u2764\ufe0f https://t.co/TctgF342yo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1250152049049829385,
+        "user_id": 1057806199326945281,
+        "text": "Need someone to eat me like this then destroy my pussy https://t.co/MKkZWckr86",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1250148989867098116,
+        "user_id": 1057806199326945281,
+        "text": "Guys I have been SO HORNY I don\u2019t know what to do with myself. Someone please buy a video so I can masturbate to yo\u2026 https://t.co/NBCIkKeVAQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1245523126550740993,
+        "user_id": 1057806199326945281,
+        "text": "@shoutsoutspro need more active mutuals!\ud83d\udc93 dm for menu/purchasing info \ud83d\ude0d https://t.co/Qq7aCIDm09",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1228199007417036802,
+        "user_id": 1057806199326945281,
+        "text": "I finally got my new dildo and I LOVE IT! literally made me squirt the first time I used it!\ud83d\ude02\ud83d\ude0d\ud83d\udca6 https://t.co/c29VcL6vxy",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264056024908136449,
+        "user_id": 2804697763,
+        "text": "@Blaahber @SirBadOpinions Now do the Uyghurs",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1261164415027732480,
+        "user_id": 2804697763,
+        "text": "@ArchonOf https://t.co/dq8sZiylUV",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259552963099594754,
+        "user_id": 2804697763,
+        "text": "@ikiigang The word \"slave\" literally derives from slav.\n\nWhite people were victimised by the Arabic slave trade for\u2026 https://t.co/yXRmiFa1YX",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259550915524210688,
+        "user_id": 2804697763,
+        "text": "@Hi3cchi What is with this recent phenomenon of Isekais with increasingly verbose titles",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1257882044631302144,
+        "user_id": 2804697763,
+        "text": "@ClaudiaBrown100 @Overlord893 Why should I have to be built like an mma fighter to be able to defend myself against someone who is?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1257403255606382593,
+        "user_id": 2804697763,
+        "text": "@PhilHegedusich @GaijinGoombah If they're what I'm thinking of, they were introduced to east Tennessee a long time\u2026 https://t.co/Yba4MYCQGN",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1257068760067985411,
+        "user_id": 2804697763,
+        "text": "@GaijinGoombah These things have been in the states for years I don't get what the abrupt panic is about.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256343285859323907,
+        "user_id": 2804697763,
+        "text": "@Grimnir99 @GrzeBrzszcz @OrwellNGoode As I understand it, it's mostly relics, the artistic and scholarly works of m\u2026 https://t.co/rNeoFnq6Tl",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256339208844701697,
+        "user_id": 2804697763,
+        "text": "@GrzeBrzszcz @Grimnir99 @OrwellNGoode Witch reddit/twitter is some of the cringiest shit I've ever seen and that's\u2026 https://t.co/iUKcVoTQlj",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950908401336322,
+        "user_id": 2804697763,
+        "text": "@TheCartoonLoon Shit like this is done by parents who would rather be feared than respected and dont realize that f\u2026 https://t.co/xlSY5EBBC8",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255937107027202048,
+        "user_id": 2804697763,
+        "text": "@OrwellNGoode Most fish irl don't have the neural capacity/complexity to feel pain, what is this bullshit",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255930950875299840,
+        "user_id": 2804697763,
+        "text": "@Grimnir99 @OrwellNGoode Not even that. The catholic church eradicated almost all knowledge of European paganism an\u2026 https://t.co/37mPRKR7hZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255649786302267392,
+        "user_id": 2804697763,
+        "text": "@CensoredGaming_ Graphics look bad, even for the wii.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254525627279032327,
+        "user_id": 2804697763,
+        "text": "@ArchonOf Fun game: search the tweet histories of people bitching about about imaginary orcs to see if they were sa\u2026 https://t.co/g6suVEEy1T",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254516917337022471,
+        "user_id": 2804697763,
+        "text": "@Theoret1cal @TheCartoonLoon As for your promiscuity example, I don't see being able to prove causation, correlation notwithstanding.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254515397497434112,
+        "user_id": 2804697763,
+        "text": "@Theoret1cal @TheCartoonLoon All the scientific and academic research I've seen with any credibility boils down to\u2026 https://t.co/f1KaRZ9IZ9",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254340737749209089,
+        "user_id": 2804697763,
+        "text": "@Theoret1cal @TheCartoonLoon Like how video games cause violence and D&amp;D causes devil worship, right?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1253438248698945537,
+        "user_id": 2804697763,
+        "text": "@dealwithcomics @Arbiter04032000 @AnalogousSpeak @_Vs_The_World Appeasement is not a viable strategy when dealing w\u2026 https://t.co/6vAvChiUfb",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1246938860795441153,
+        "user_id": 2804697763,
+        "text": "@FlorkOfCows Gonna need to see the code for that hoodie design",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950908405485571,
+        "user_id": 917832606636564481,
+        "text": "More tips on engaging your virtual team: advice from leading experts: https://t.co/v1Ppoz6vRX #teamwork #remotework\u2026 https://t.co/wWE3W4V9SL",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950412479373312,
+        "user_id": 917832606636564481,
+        "text": "Learn how to better engage your virtual team with advice from leading experts: https://t.co/v1Ppoz6vRX #teamwork\u2026 https://t.co/j9QvZXDagx",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254815982612291590,
+        "user_id": 917832606636564481,
+        "text": "@BOMAIntl has produced a new guide to prepare #CRE #buildings for increased use amid #COVID19 -\u2026 https://t.co/weaKCGxC0M",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254782602092789760,
+        "user_id": 917832606636564481,
+        "text": "Preparing #CRE buildings for re-entry amid #COVID19 - https://t.co/EhlXQz9GYO",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1253793837048303618,
+        "user_id": 917832606636564481,
+        "text": "Excellent tips for #RemoteWork #Wellbeing https://t.co/vrVlDm4bYA",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1252265702242869251,
+        "user_id": 917832606636564481,
+        "text": "Do you have #COVID19 air filtration questions? This article by @NAFAHQ has answers: https://t.co/Oljy0xX7fa #CRE #realestate #AirQuality",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1250804345937035267,
+        "user_id": 917832606636564481,
+        "text": "Learn how to effectively deal with #stress and long hours in #remoteworking - https://t.co/G2oc6AmdDH #COVID19 #CRE #leadership",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1250512315205791744,
+        "user_id": 917832606636564481,
+        "text": "Inspiring video on #COVID19 from a historical perspective. Important considerations for #CRE &amp; all #leaders https://t.co/U9NKGgZ3j9",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1248273324947509255,
+        "user_id": 917832606636564481,
+        "text": "Find out how the #CARESAct can help your #business: https://t.co/8LzJyrAzBn #COVID19 #CRE #RealEstate",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1247929326382833672,
+        "user_id": 917832606636564481,
+        "text": "Want to learn how to more effectively prioritize during a crisis? This short video will help\u2026 https://t.co/Y8gsVEQl9i",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1247232401622827008,
+        "user_id": 917832606636564481,
+        "text": "Finding it challenging working a home? Here are 3 keys to success for #remotework - https://t.co/2Uq23acZhC #CRE #HR #COVID19",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1245739133080866817,
+        "user_id": 917832606636564481,
+        "text": "Want to increase your effectiveness working from home? Check out these tips from @TheLeadersHaven for\u2026 https://t.co/vgoIWio6cQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1245395901113413632,
+        "user_id": 917832606636564481,
+        "text": "Thank you @TheRealMASSUS for helping to provide insight into #leadership in a crisis: https://t.co/HxiyBWKPLx  #CRE #realestate #COVID19",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1244736727144640513,
+        "user_id": 917832606636564481,
+        "text": "Grow as a leader and manager of remote employees - https://t.co/wAUkpn2FHc #COVID19 #leadership #HR",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1244639361964167169,
+        "user_id": 917832606636564481,
+        "text": "Thanks @BOMAGeorgia for sharing this #COVID19 #decisionmaking video. Great advice for #CRE #leaders https://t.co/WJQLj0s6qg",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1243611516588433408,
+        "user_id": 917832606636564481,
+        "text": "Tips for effective #leadership in a crisis: https://t.co/HxiyBWKPLx  #COVID19 #CRE #realestate",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1243161108602593280,
+        "user_id": 917832606636564481,
+        "text": "Tips to increase your effectiveness as a remote worker: https://t.co/2Uq23acZhC  #remoteworking #COVID19",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1239968545091383304,
+        "user_id": 917832606636564481,
+        "text": "#handwashing is a great way to help prevent infectious disease. Here\u2019s a quick video to help you understand how to\u2026 https://t.co/aNibZWxLBB",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1238925943168798722,
+        "user_id": 917832606636564481,
+        "text": "New #COVID19 resources for #CRE #PropertyManagement &amp; #FacilitiesManagement https://t.co/9taZrv6Q2S",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1238567055089176576,
+        "user_id": 917832606636564481,
+        "text": "Learn about #coronavirus #COVID19 basics as well as Q&amp;A from a #CRE real estate perspective in this national\u2026 https://t.co/PG7qTeAlMk",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1237506253166911489,
+        "user_id": 917832606636564481,
+        "text": "New free #coronavirus resource guide for #CRE professionals: https://t.co/u1F3KhJZ2q",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267458952763248641,
+        "user_id": 1244196371076349952,
+        "text": "@samadb6 @crownthelena @nathkyungu_ @wiezoenen This is why you my homie",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267458814682509312,
+        "user_id": 1244196371076349952,
+        "text": "Why cant we speak up for the Black Lives Matter AND Palestina, Afghanistan, Syria, Uyghurs, Rohingya?? BOTH are suf\u2026 https://t.co/GJ7UhhQACY",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267457613530365957,
+        "user_id": 1244196371076349952,
+        "text": "@crownthelena @nathkyungu_ @wiezoenen @samadb6 ontvolg deze penguin even die hier fuck palestina zit te liken",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267453960199307267,
+        "user_id": 1244196371076349952,
+        "text": "@samadb6 Nee man ze hoeven alleen al de trap op en wangen zijn compleet roze. Ik maak geen grap sommige zijn gwn ro\u2026 https://t.co/jn9rlgwL56",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267452831587545089,
+        "user_id": 1244196371076349952,
+        "text": "@samadb6 @xziyatt Ik twijfel hoor of ik stuur haar want ik snap wel dat we caucasian people wit noemen. Maar als ik\u2026 https://t.co/bnm8q9lbKJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267450039825240066,
+        "user_id": 1244196371076349952,
+        "text": "@xziyatt @samadb6 Als ze zo graag willen huilen stuur ze gwn door naar mij. Ik geef ze wel een echte reden om te huilen \ud83e\udd70",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267447577387171841,
+        "user_id": 1244196371076349952,
+        "text": "@xziyatt @samadb6 Is zelfde shit als \u201cget over slavery its 400 yrs ago\u201d en \u201c9/11 nEVer ForGet what those moZlems did\u201d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267447265385381891,
+        "user_id": 1244196371076349952,
+        "text": "@samadb6 protect my african hair just like I protect my african friends \ud83d\ude4f\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267437408481656832,
+        "user_id": 1244196371076349952,
+        "text": "Standing up against racism is being human. Its the basic shit everyone regardless of skincolour should do.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267429835716075520,
+        "user_id": 1244196371076349952,
+        "text": "Let me make this clear. Yes some matters obviously have to do with politics. But the main reason the #BLM movement\u2026 https://t.co/LZuHuC9nz6",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267429392344629248,
+        "user_id": 1244196371076349952,
+        "text": "I\u2019m not really surprised when I see white ppl deliberately remain silent on #BLM. Yet my white friends are speaking\u2026 https://t.co/B57PUshID4",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267423337258631169,
+        "user_id": 1244196371076349952,
+        "text": "@GAG_01 @itskeyon @sarasfilter the armys that are flooding the dallas app: https://t.co/ujpO47BpFQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267417554722656257,
+        "user_id": 1244196371076349952,
+        "text": "My mind everytime I open twitter: How is this app free? https://t.co/kBSG1DGvmW",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267417278078955523,
+        "user_id": 1244196371076349952,
+        "text": "@GAG_01 @itskeyon @sarasfilter Did someone say minty hair? https://t.co/V2R64idEo2",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267425059720687617,
+        "user_id": 25384142,
+        "text": "A few rolling hills on the road to warm up &amp; wake up this Monday morning; a cool down stroll down to the dock. Brea\u2026 https://t.co/rS2LBV7k6s",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267151249943736323,
+        "user_id": 25384142,
+        "text": "This is pitch perfect. https://t.co/PnUGzekvxb",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267110551643136002,
+        "user_id": 25384142,
+        "text": "@pantalonesfuego I used to think \"history is history.\" How could \"black history\" be different? I am now flabbergast\u2026 https://t.co/mcYjyV5bem",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267103045701251072,
+        "user_id": 25384142,
+        "text": "@clairewillett This thread was riveting and eye opening. Thank you.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267100220502028289,
+        "user_id": 25384142,
+        "text": "And Fred Hampton, who I had unbelievably never heard of. (Well, believable when you realize how much is left out of\u2026 https://t.co/bw3kDDFr4e",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267099476646297602,
+        "user_id": 25384142,
+        "text": "Enlightening thread (to me- a privileged white woman trying to listen, learn, &amp; be an ally) on FBI/gov't tactics to\u2026 https://t.co/opwSl4f4OI",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267096544945360900,
+        "user_id": 25384142,
+        "text": "There are no innocent bystanders. https://t.co/qiyeWnliTa",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267092712458719236,
+        "user_id": 25384142,
+        "text": "A Sunday morning run to Sepiessa. It is gloriously blue and bright outside, after quite a few foggy &amp; drizzly days.\u2026 https://t.co/aO7SuQnFEE",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266892266699882501,
+        "user_id": 25384142,
+        "text": "@alittlepregnant But seriously, fuuuuuuckkkkk. I am sorry, J.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266892125993648129,
+        "user_id": 25384142,
+        "text": "@alittlepregnant When the kids get home from school, leave them in the garage for 72 hours, then wipe them down with bleach?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266891753661050880,
+        "user_id": 25384142,
+        "text": "@jonniker Thank you for introducing me to the BIPOC acronym! And for the ideas in these tweets. \u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266888239627014144,
+        "user_id": 25384142,
+        "text": "@Avalea That deranged Cheeto is at the top of my list, followed closely by Mitch McConnell, Brett Kavanaugh, Ted Cr\u2026 https://t.co/D7LhTtToic",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267088654859595777,
+        "user_id": 1139078823524175874,
+        "text": "\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e1a\u0e1a...",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267087963353014272,
+        "user_id": 1139078823524175874,
+        "text": "https://t.co/w9uyNQVLak",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267084150856486912,
+        "user_id": 1139078823524175874,
+        "text": "https://t.co/iSYVN0ncaT",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266875752252727296,
+        "user_id": 1139078823524175874,
+        "text": "https://t.co/VmnbdXKo5S",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266872777337782274,
+        "user_id": 1139078823524175874,
+        "text": "https://t.co/7s8wM3SC9A",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266864740564733952,
+        "user_id": 1139078823524175874,
+        "text": "@Saimon_snn \u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e32\u0e21 \u0e21\u0e31\u0e19\u0e23\u0e31\u0e19\u0e21\u0e32!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266864396334010368,
+        "user_id": 1139078823524175874,
+        "text": "https://t.co/OjE4GnsAcD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266863900437344256,
+        "user_id": 1139078823524175874,
+        "text": "@Saimon_snn \u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e1f\u0e19\u0e2d\u0e35\u0e01\u0e25\u0e30",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266862243867574273,
+        "user_id": 1139078823524175874,
+        "text": "https://t.co/GsrOA2TAnw",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266855793736814592,
+        "user_id": 1139078823524175874,
+        "text": "0515 @Saimon_snn \u270a\ud83c\udf1f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266848521321238528,
+        "user_id": 1139078823524175874,
+        "text": "@Saimon_snn \u0e2d\u0e22\u0e48\u0e32\u0e40\u0e23\u0e35\u0e22\u0e01\u0e27\u0e48\u0e32\u0e14\u0e2d\u0e07 \u0e41\u0e04\u0e48\u0e15\u0e2d\u0e1a\u0e0a\u0e49\u0e32\u0e0b\u0e37\u0e2d\u0e46",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266847272169439233,
+        "user_id": 1139078823524175874,
+        "text": "@Saimon_snn \u0e44\u0e21\u0e48\u0e07\u0e2d\u0e19\u0e44\u0e14\u0e49\u0e1b\u0e48\u0e32\u0e27",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266490259270856710,
+        "user_id": 1139078823524175874,
+        "text": "\u0e40\u0e2d\u0e32\u0e08\u0e23\u0e34\u0e07\u0e1a\u0e31\u0e19\u0e44\u0e14\u0e17\u0e38\u0e01\u0e17\u0e35\u0e48\u0e41\u0e21\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e28\u0e31\u0e15\u0e23\u0e39\u0e01\u0e31\u0e1a\u0e01\u0e39\u0e2b\u0e21\u0e14",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266392520570712064,
+        "user_id": 1139078823524175874,
+        "text": "\u0e23\u0e2d\u0e07\u0e40\u0e17\u0e49\u0e32\u0e40\u0e2b\u0e35\u0e49\u0e22\u0e19\u0e30",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266391236849438720,
+        "user_id": 1139078823524175874,
+        "text": "\u0e2d\u0e34\u0e2a\u0e31\u0e2a \u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e43\u0e2a\u0e48\u0e23\u0e2d\u0e07\u0e40\u0e17\u0e49\u0e32\u0e44\u0e23\u0e01\u0e47\u0e0a\u0e48\u0e32\u0e07\u0e25\u0e30 \u0e01\u0e39\u0e2d\u0e22\u0e32\u0e01\u0e19\u0e2d\u0e19",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266380231343919105,
+        "user_id": 1139078823524175874,
+        "text": "@Saimon_snn \u0e0a\u0e2d\u0e1a\u0e41\u0e2b\u0e25\u0e30 \u0e44\u0e21\u0e48\u0e41\u0e2d\u0e1a",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266378883462385666,
+        "user_id": 1139078823524175874,
+        "text": "@Saimon_snn \u0e2d\u0e22\u0e48\u0e32\u0e04\u0e34\u0e14\u0e44\u0e1b\u0e40\u0e2d\u0e07!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267487360821985280,
+        "user_id": 2968524957,
+        "text": "les nouvelles voisines \u00e9coutent Post Malone et JUL, je les appr\u00e9cie forc\u00e9ment",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267487115442638850,
+        "user_id": 2968524957,
+        "text": "@BenoitClot ok la meuf sans c\u0153ur",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267484912388538369,
+        "user_id": 2968524957,
+        "text": "@AngeleGaillard je te dirai !",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267482642188042241,
+        "user_id": 2968524957,
+        "text": "@BenoitClot ok hulk",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267482582515699712,
+        "user_id": 2968524957,
+        "text": "@AngeleGaillard je vais te faire confiance et le regarder",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267474069718523905,
+        "user_id": 2968524957,
+        "text": "@AngeleGaillard c\u2019est bien ?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267212193776443392,
+        "user_id": 2968524957,
+        "text": "ah ouais quand m\u00eame \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f https://t.co/3eHG9JUUbT",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267211775591813134,
+        "user_id": 2968524957,
+        "text": "DoroHeDoro c\u2019est g\u00e9nial bordel",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267038919113261057,
+        "user_id": 2968524957,
+        "text": "@helenedumeynie et tjrs fra\u00eeche",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266807448872108040,
+        "user_id": 2968524957,
+        "text": "SOIR\u00c9E MOUSSE \u00c0 L\u2019ALCOLOC\u2019",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266688656162635776,
+        "user_id": 2968524957,
+        "text": "@BordasLuna peu importe t\u2019es la + belle",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266632739836624896,
+        "user_id": 2968524957,
+        "text": "@BordasLuna @biloudeejay \u00e9go\u00efste :(",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266622749532983296,
+        "user_id": 2968524957,
+        "text": "@biloudeejay @BordasLuna partage!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266508030360915968,
+        "user_id": 2968524957,
+        "text": "ptdrrrrr https://t.co/wqwDQ7yiX5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266489211403874309,
+        "user_id": 2968524957,
+        "text": "cluedo @Adrien_Dmt ? https://t.co/jk8udTfP9S",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267515040820649984,
+        "user_id": 876203084644442112,
+        "text": "@PomonaPD Thank you!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267514697294569472,
+        "user_id": 876203084644442112,
+        "text": "@Corporal_Ruckus Maverick the Weiner. https://t.co/nGP2Y79oBk",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267287004749852672,
+        "user_id": 876203084644442112,
+        "text": "@daninflorida77 Same here in LA County.\ud83d\ude36",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267268128494346241,
+        "user_id": 876203084644442112,
+        "text": "@FarmSanctuary \u2764 Hattie. Sweet goat.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267264873345331200,
+        "user_id": 876203084644442112,
+        "text": "@DonutOperator Yes! https://t.co/qLgWJTqpcb",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267253129755521024,
+        "user_id": 876203084644442112,
+        "text": "@k9sofvalor We \u2764 you, Landon!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267216830550007808,
+        "user_id": 876203084644442112,
+        "text": "@E_SGVScanner Only pursuit where I ever went and took a nap for an hour and it was still going on when I got up! https://t.co/aVky6zKk6H",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267178159868219392,
+        "user_id": 876203084644442112,
+        "text": "@E_SGVScanner Doggie almost there!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267174946909745152,
+        "user_id": 876203084644442112,
+        "text": "@E_SGVScanner \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267172819713970176,
+        "user_id": 876203084644442112,
+        "text": "@E_SGVScanner \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267170309565673472,
+        "user_id": 876203084644442112,
+        "text": "@roxie22222 @E_SGVScanner Still LA county. San Dimas area",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267169448688906246,
+        "user_id": 876203084644442112,
+        "text": "@E_SGVScanner No worries. \ud83d\udc4d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267168945208868864,
+        "user_id": 876203084644442112,
+        "text": "@E_SGVScanner Vincent lol",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267156182659022848,
+        "user_id": 4641740534,
+        "text": "@laypics_ @SeKairsm https://t.co/Ai4C4pNtMa",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267373746840469505,
+        "user_id": 708122911664640002,
+        "text": "me, wearing a flannel: I\u2019m Wearing This Because I\u2019m Not Straight",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267366143762685952,
+        "user_id": 708122911664640002,
+        "text": "I love you more than all of the cute things in the world combined. This is kinda embarrassing but, stay with me forever, promise?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267358671152902144,
+        "user_id": 708122911664640002,
+        "text": "I'm here for my singing lessons. I know... I'm hopeless!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267335951098933249,
+        "user_id": 708122911664640002,
+        "text": "*morphs into a ZooPals!\u2122 paper plate*",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267328432263753729,
+        "user_id": 708122911664640002,
+        "text": "I love dominos and subway but it really just depends on the night and what I\u2019m feelin",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267290838310084610,
+        "user_id": 708122911664640002,
+        "text": "[gets down on on knee] oppa\u2026marriage style?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267283146220822528,
+        "user_id": 708122911664640002,
+        "text": "*baby starts crying at 3am* \n\nWife [sleepily]: your turn \n\nMe: ugh\u2026 fine \n\nMe: *starts crying*",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267275579595698176,
+        "user_id": 708122911664640002,
+        "text": "I wish we could get cute shopkeepers in stock.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267268062698303488,
+        "user_id": 708122911664640002,
+        "text": "the heterosauruses arent shoving their disgusting lifestyle in my Face every day?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267260486459944960,
+        "user_id": 708122911664640002,
+        "text": "Who doesn't love a new weapon? Or better yet, a cute one?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267252923961978880,
+        "user_id": 708122911664640002,
+        "text": "i have no idea what the fuck i\u2019m doing",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267245351955623937,
+        "user_id": 708122911664640002,
+        "text": "Shall I Gompare Thee To A Summer\u2019s Gay",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267237800035749888,
+        "user_id": 708122911664640002,
+        "text": "huaw yeah you gotta try this shit...  just boil the macaroni in the same pot as the spaghetti ... this is called the famous \"Double pasta\"",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267230249525194753,
+        "user_id": 708122911664640002,
+        "text": "Whoo-hoo!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267222711878615040,
+        "user_id": 708122911664640002,
+        "text": "she succ me",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267215291580157954,
+        "user_id": 708122911664640002,
+        "text": "Whew...it's hot in here! I'm just gonna take off my--Oh, sorry. Is that not appropriate?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267200051073318912,
+        "user_id": 708122911664640002,
+        "text": "Swaggie out stay turnt.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267184962911911936,
+        "user_id": 708122911664640002,
+        "text": "Heehee...this is what I'm talking about! Kicking back, soaking it all up...",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267177413852590081,
+        "user_id": 708122911664640002,
+        "text": "Macklemore fucking died for the gay community but you all still treat him like an annoying straight ally.. he\u2019s so much more than a rainbow",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267154755945562112,
+        "user_id": 708122911664640002,
+        "text": "https://t.co/FRDQT0Gtqj",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267147270278967296,
+        "user_id": 708122911664640002,
+        "text": "*watches the heteros from afar with my safari binoculars* fascinating\u2026",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267139650604298241,
+        "user_id": 708122911664640002,
+        "text": "Did you see that?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267109609912713216,
+        "user_id": 708122911664640002,
+        "text": "*coughing up blood* i-it was knife to meet u hahahhahahah *dies*",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267101932193120256,
+        "user_id": 708122911664640002,
+        "text": "It's sad to sell off all my beloved belongings...",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267094356294463488,
+        "user_id": 708122911664640002,
+        "text": "Heyyy, nice abs!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267192688585191424,
+        "user_id": 714356689,
+        "text": "I fucking hate brands lecturing me over Twitter. Just Cancelled our Netflix because of it.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267191496920518656,
+        "user_id": 714356689,
+        "text": "@netflix Hmmm. Counterpoint: https://t.co/7XPTawSD0S",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267186495397539849,
+        "user_id": 714356689,
+        "text": "@Tarmac492v2 For fuckssakes meant I can see clearly now. But I do also like ain\u2019t no sunshine. I knew what I meant even if no one else did",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267184163746131975,
+        "user_id": 714356689,
+        "text": "@Tarmac492v2 Got a real soft spot for ain\u2019t no sunshine by johnnie Nash too",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267168176414089217,
+        "user_id": 714356689,
+        "text": "@Tarmac492v2 Portisheads? No. ABBA? Yes",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266996202828169219,
+        "user_id": 714356689,
+        "text": "What the actual fuck? She needs to start suing these idiots. https://t.co/8g1xAn0F5X",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266991538036527104,
+        "user_id": 714356689,
+        "text": "The only reason this protest was violent is because that cop heroically flattened the old guy. https://t.co/7LNosNB78b",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266838965958705153,
+        "user_id": 714356689,
+        "text": "@emmybooth I think he was also in Kiss the Girls.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266832351327387648,
+        "user_id": 714356689,
+        "text": "Even by the standards of recent Funnybook film villains Steppenwolf is a fucking terrible bad guy.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266830685450493952,
+        "user_id": 714356689,
+        "text": "The most fun thing with this mess is spotting Whedons contribution.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266822513276968961,
+        "user_id": 714356689,
+        "text": "@finnflamm Cheers My biggest concern is that I\u2019m now out of Scotch. \n\nI should be OK.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266812097352130562,
+        "user_id": 714356689,
+        "text": "I honestly can\u2019t imagine anyone actually wanting Snyder\u2019s cut of this garbage.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266811204003139584,
+        "user_id": 714356689,
+        "text": "OK. Attempt number fuck knows at getting through Justice League. About 3 minutes in and it\u2019s still shit.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266806054719029248,
+        "user_id": 714356689,
+        "text": "Very bad day with the anxiety. Got it under control, just, but I properly feel on the verge of an attack. Gonna was\u2026 https://t.co/KSL4kLNh3g",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266797392965382149,
+        "user_id": 714356689,
+        "text": "This JK Rowling shit is nuts. This woman literally (not figuratively) said she was a danger to kids, and implied sh\u2026 https://t.co/m0kYjuYjCX",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265391658855776256,
+        "user_id": 714356689,
+        "text": "That fucking charge. Bah",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265390726097108992,
+        "user_id": 714356689,
+        "text": "Fuck Queens Knight Reborn. Been OHK\u2019d about 15 times. The duo were easier.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265390242049282051,
+        "user_id": 714356689,
+        "text": "I love #CODEVEIN but I honestly don\u2019t think I\u2019ve ever seen a bigger difficulty spike between NG and NG+. Including Bloodborne.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265027129697275904,
+        "user_id": 714356689,
+        "text": "@Xi_Phos That fucking thread is insane.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265024614708793346,
+        "user_id": 714356689,
+        "text": "@Xi_Phos @MartinWWalker @BunnulaTV @ZackSnyder @hbomax Aquaman was surprisingly not wank.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265024473134178310,
+        "user_id": 714356689,
+        "text": "@Xi_Phos @MartinWWalker @BunnulaTV @ZackSnyder @hbomax For the record - it\u2019s no worse than Civil War.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265024354586411013,
+        "user_id": 714356689,
+        "text": "@Xi_Phos @MartinWWalker @BunnulaTV @ZackSnyder @hbomax This is half the problem. Scenes in it are good, but it does\u2026 https://t.co/ZyoRetONF5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265015605020803074,
+        "user_id": 714356689,
+        "text": "@MartinWWalker @Xi_Phos @BunnulaTV @ZackSnyder @hbomax It was boring, ugly, incomprehensible and renders the rest o\u2026 https://t.co/NMquMBrMx4",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265015322547032066,
+        "user_id": 714356689,
+        "text": "Haha. They\u2019re getting attacked by reanimated Chinese food.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267495390414286848,
+        "user_id": 809788886864035840,
+        "text": "@oxmustplow Lol",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267259328605626370,
+        "user_id": 809788886864035840,
+        "text": "\ud83d\udea8GVARD YOVR MIND, PSYCHIC ASSAVLT HAS COMMENCED\ud83d\udea8",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267125718695231488,
+        "user_id": 809788886864035840,
+        "text": "Arm the protesters https://t.co/khgvr4rUfB",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267113343766200321,
+        "user_id": 809788886864035840,
+        "text": "Militarize the protesters",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267111797225652225,
+        "user_id": 809788886864035840,
+        "text": "This is god now https://t.co/PdN60gyXIP",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267111119052816384,
+        "user_id": 809788886864035840,
+        "text": "Anger can only be expressed peacefully for so long",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266779344808140800,
+        "user_id": 809788886864035840,
+        "text": "@fras99 \ud83e\udd1a justice for everything they\u2019ve ever done",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266741447828606976,
+        "user_id": 809788886864035840,
+        "text": "@lifeofgeorgec Hell yes",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266740674906460160,
+        "user_id": 809788886864035840,
+        "text": "Protect all sacred spaces https://t.co/6fwZy4pLFV",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266739288437338113,
+        "user_id": 809788886864035840,
+        "text": "Oh we\u2019ve got hitlerjugend now https://t.co/Gzq2qFWn1d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266406000967458816,
+        "user_id": 809788886864035840,
+        "text": "They\u2019re giving every police department in America an M1 Abrams and an F16 after this. Every cop will be outfitted with a FGM-148.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267009363690078210,
+        "user_id": 1192472280384856072,
+        "text": "@chronoszitao i know his old ass is losing his mind rn LMAOOO",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267009009661378560,
+        "user_id": 1192472280384856072,
+        "text": "@chronoszitao a woman with a 401k and no kids SJSJDJDJDDJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267006171166244864,
+        "user_id": 1192472280384856072,
+        "text": "wtf am i gonna do without these weekly concerts",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267004419868168192,
+        "user_id": 1192472280384856072,
+        "text": "shining star.. pain",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267002584289677312,
+        "user_id": 1192472280384856072,
+        "text": "@lesbianjinki SDKJSDKLFL he can square tf up!!!!!!!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267002186745229312,
+        "user_id": 1192472280384856072,
+        "text": "@lesbianjinki WHY DO I RELATE TO THIS I HATE U KJLDSSKFLJSDJKLFSKLDFJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267001436862328832,
+        "user_id": 1192472280384856072,
+        "text": "giantinc boobies https://t.co/l35a8CHZEg",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266999012235804675,
+        "user_id": 1192472280384856072,
+        "text": "i know they tired of performing sorry sorry",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266998742579888128,
+        "user_id": 1192472280384856072,
+        "text": "@candykibum_ sorry sorry",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266998702712983552,
+        "user_id": 1192472280384856072,
+        "text": "@candykibum_ bad bitch. big ass titties man.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266997287022182400,
+        "user_id": 1192472280384856072,
+        "text": "MAMACITA",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266996515538718720,
+        "user_id": 1192472280384856072,
+        "text": "CLEAVAGE https://t.co/DTlZuOCiDX",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266995678233923585,
+        "user_id": 1192472280384856072,
+        "text": "@lesbianjinki SKSKSDJDJDKDKF",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266994885023993856,
+        "user_id": 1192472280384856072,
+        "text": "i\u2019m not gonna call these niggas oppa they trippin",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266993927594352645,
+        "user_id": 1192472280384856072,
+        "text": "@transhinee oh i misunderstood what u were saying rq akkddkdksk",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266987174894936066,
+        "user_id": 1192472280384856072,
+        "text": "i know foor fetish niggas losing their minds rn https://t.co/Ri7SSyFgYH",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266985055794204673,
+        "user_id": 1192472280384856072,
+        "text": "@diorxiu WHEN THE VOD DROPS ILL CUT U OUT A VID",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266984948914888711,
+        "user_id": 1192472280384856072,
+        "text": "@diorxiu they\u2019re performing it rn",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266984875061661696,
+        "user_id": 1192472280384856072,
+        "text": "@diorxiu i got some news for u king",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266979405651460097,
+        "user_id": 1192472280384856072,
+        "text": "@dbskT_T ON GOD IM EMO",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266979090290085888,
+        "user_id": 1192472280384856072,
+        "text": "if heechul ain\u2019t the special guest imma be mad",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266978991044468744,
+        "user_id": 1192472280384856072,
+        "text": "@dbskT_T ILL LOSE MY MIND",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259317221618319361,
+        "user_id": 1087091985838718976,
+        "text": "@HisVioletFay It was damn good",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259316735603245058,
+        "user_id": 1087091985838718976,
+        "text": "@sub_trackedmind Thank you.  More to follow\ud83d\ude09",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259301956725747712,
+        "user_id": 1087091985838718976,
+        "text": "@fuzzlime Indeed they are.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259301307908796421,
+        "user_id": 1087091985838718976,
+        "text": "Worked all day on a crisis project.  On a positive I did have some awesome menudo. https://t.co/Z2Mtskn0Yn",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1258579071191130112,
+        "user_id": 1087091985838718976,
+        "text": "@PrtyLittleGypsy \ud83d\udd25",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1258575975874473986,
+        "user_id": 1087091985838718976,
+        "text": "https://t.co/Cf8t7JcwlZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267517451283107849,
+        "user_id": 1093261703117242378,
+        "text": "@SamSenev Yes, He is That STUPID!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267517051217772545,
+        "user_id": 1093261703117242378,
+        "text": "@TOP3SNIPERinKC I'm Sick of it Sniper. I am purposely limiting my time on twitter because I Don't want to appear as\u2026 https://t.co/SMc04auxmy",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267459019016417281,
+        "user_id": 1093261703117242378,
+        "text": "Truth to Power in the Placement of TOKEN Leaders of Entertainment and Politics In and Of the Black Communities. Mal\u2026 https://t.co/sVzTBMPfoS",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267457431166214145,
+        "user_id": 1093261703117242378,
+        "text": "This Is What THE FUCK it TRULY IS. TRUTH NEVER COMES BACK VOID!!!! I Knew All along It WAS NOT about Mr. George Flo\u2026 https://t.co/fLycRxNS2S",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267456160166219776,
+        "user_id": 1093261703117242378,
+        "text": "Minneapolis police chief says all four officers involved in George Floyd's death bear responsibility.....But Will t\u2026 https://t.co/Uu1TMYQJuF",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267454519664877568,
+        "user_id": 1093261703117242378,
+        "text": "@SafeWordApples WHITE Paid Terrorists In the Name of Wrong Doing to Blackness?!? Not Really",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267454478573285376,
+        "user_id": 1093261703117242378,
+        "text": "WHITE Paid Terrorists In the Name of Wrong Doing to Blackness?!? Not Really https://t.co/37ATPaTQ4J",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267452790735015938,
+        "user_id": 1093261703117242378,
+        "text": "@PsychoMetalHed @BreitbartNews No, We are Here because the Administration that this Lying Bitch was a part of Plant\u2026 https://t.co/eRlnSPgMk5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267452682341662721,
+        "user_id": 1093261703117242378,
+        "text": "No, We are Here because the Administration that this Lying Bitch was a part of Planted the SEED of Rebellion in Som\u2026 https://t.co/ouyft3GfQR",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267451611300978691,
+        "user_id": 1093261703117242378,
+        "text": "@Reliefrm These Shit Heads KNOW and SUPPORT Those who DESTROY Poor Communities, Families and Businesses that Support These Communities.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267451561900494852,
+        "user_id": 1093261703117242378,
+        "text": "These Shit Heads KNOW and SUPPORT Those who DESTROY Poor Communities, Families and Businesses that Support These Co\u2026 https://t.co/1tjF5t4967",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267449959135227907,
+        "user_id": 1093261703117242378,
+        "text": "Way We Feel will get their Attention NO MATTER THE COST!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267449958036312065,
+        "user_id": 1093261703117242378,
+        "text": "'We're sick of it': Protesters explain why violence has erupted across the US.....Translation; We're sick of The Sy\u2026 https://t.co/OnH5JoA5Ft",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267204787390631936,
+        "user_id": 1093261703117242378,
+        "text": "like to blame but look in the Fucking Mirror, Do you See who you Want to Blame?!? Or do you See who has Supported t\u2026 https://t.co/kSbiKaYl9O",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267204786270670850,
+        "user_id": 1093261703117242378,
+        "text": "that they have Caused by playing the Race card. All of you that have been voting for the Demoncrats and Continue to\u2026 https://t.co/cvJSq35aVu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267204785196990471,
+        "user_id": 1093261703117242378,
+        "text": "we Think is Free in Social Programs but shit ain't Free, It has been Costing us For Centuries!! They Caused the Dam\u2026 https://t.co/g94a2kFVKZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267204784160944128,
+        "user_id": 1093261703117242378,
+        "text": "Black Americans Have a Message for Democrats: Not Being Trump Is Not Enough....Then What Is?!? It's the Radical Lef\u2026 https://t.co/yObaxaRueF",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267110774264266756,
+        "user_id": 1093261703117242378,
+        "text": "@Buffyblonde10 Lma completely Off!!!\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\udc4d\ud83d\udc4a\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267110501122822145,
+        "user_id": 1093261703117242378,
+        "text": "@Reliefrm Do you want Original or Crispy Fried\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23Oooo!! That's Hot!! As the Human Torch of the Fantastic Four\u2026 https://t.co/ov8ON2ITMc",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267110409472966659,
+        "user_id": 1093261703117242378,
+        "text": "Do you want Original or Crispy Fried\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23Oooo!! That's Hot!! As the Human Torch of the Fantastic Four would say.\u2026 https://t.co/ni9uXxhbwP",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267108350724050946,
+        "user_id": 1093261703117242378,
+        "text": "@TOP3SNIPERinKC True that Sniper...Wolves Leading the Sheep.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267107935286681608,
+        "user_id": 1093261703117242378,
+        "text": "@MtMama1776 The Demoncrats Destructors of Communities.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267107895121973248,
+        "user_id": 1093261703117242378,
+        "text": "The Demoncrats Destructors of Communities. https://t.co/knhJAdw9JD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267105832451399682,
+        "user_id": 1093261703117242378,
+        "text": "@steve_c1970 The Step Away.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267105633490395136,
+        "user_id": 1093261703117242378,
+        "text": "The Step Away. https://t.co/kPfH35nhC6",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267389942562459648,
+        "user_id": 1112047095253479425,
+        "text": "See u all in few days\u2764\nAllah Hafiz\ud83c\udf38",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267380705283145728,
+        "user_id": 1112047095253479425,
+        "text": "Everyone has their own point of view and I have all the courage to accept this. I respect everyone.\u263a But if you say\u2026 https://t.co/Ej0bC1Nt88",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267380536890318849,
+        "user_id": 1112047095253479425,
+        "text": "Those who criticize @SAfridiOfficial are blind? Ek insan ne apna aram or khushyan tk logo ki madad krne mai sarf kr\u2026 https://t.co/IcRmfdaqWt",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267380299132030976,
+        "user_id": 1112047095253479425,
+        "text": "Kabhi @SAfridiOfficial k plane crash spot visit krne pr tanqeed krty hn tou kabhi namaz prhne ki tasveer pr. Kabhi\u2026 https://t.co/EyXzT31f1u",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267376610812080128,
+        "user_id": 1112047095253479425,
+        "text": "@bilalmazhar_10 @SAfridiOfficial Mjhy b aisa he lagta hai",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267375172673306624,
+        "user_id": 1112047095253479425,
+        "text": "Idk whether it's real acc or fake but seriously this is hilarious\ud83d\ude11 khud Koi acha kaam nhi krskty tou jo krrha hai u\u2026 https://t.co/Lqifgae32H",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267353498552762370,
+        "user_id": 1112047095253479425,
+        "text": "@waqasiyatt \ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude02\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267353216414633984,
+        "user_id": 1112047095253479425,
+        "text": "@waqasiyatt Or zor se bolo sbko scheme btado\ud83d\ude11\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267353121048723458,
+        "user_id": 1112047095253479425,
+        "text": "@I_Sha_Afridian Yeah\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267352561184620545,
+        "user_id": 1112047095253479425,
+        "text": "@JabraAfridian @SAfridiOfficial Ye tou hoga he\ud83d\ude14\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267340857310695424,
+        "user_id": 1112047095253479425,
+        "text": "@BeingAfrdian \u2764\u2764\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267340808027549697,
+        "user_id": 1112047095253479425,
+        "text": "@I_Sha_Afridian Kher hai\ud83d\ude14\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267339225281769474,
+        "user_id": 1112047095253479425,
+        "text": "NAZAR IS REAL. KEEP YOUR LIFE PRIVATE.\nNAZAR IS REAL. KEEP YOUR LIFE PRIVATE.\nNAZAR IS REAL. KEEP YOUR LIFE PRIVATE\u2026 https://t.co/LKC197fgsd",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267331898742800384,
+        "user_id": 1112047095253479425,
+        "text": "@BeingAfrdian Ye bhi thk hai\ud83d\ude02\ud83d\ude02\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267330107485683718,
+        "user_id": 1112047095253479425,
+        "text": "@Edword_kollins @waqasiyatt confident bola kren\ud83d\ude0c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267329385998225408,
+        "user_id": 1112047095253479425,
+        "text": "@fairy_aadeez Ok meeram bro\ud83d\ude02\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267329279009964033,
+        "user_id": 1112047095253479425,
+        "text": "@ItsMeeZeee Ye tou hona tha\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267329191827181568,
+        "user_id": 1112047095253479425,
+        "text": "@BeingAfrdian Lol hogya\ud83d\ude02\ud83d\ude48",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267327862396329986,
+        "user_id": 1112047095253479425,
+        "text": "@ItsMeeZeee Unlucky you\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267318604468572160,
+        "user_id": 1112047095253479425,
+        "text": "@JabraAfridian @SAfridiOfficial Same\ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267318336586756098,
+        "user_id": 1112047095253479425,
+        "text": "@BeingAtharAli_ Ok* \ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267316880404070400,
+        "user_id": 1112047095253479425,
+        "text": "@BeingAtharAli_ O sir :(",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267315007777357825,
+        "user_id": 1112047095253479425,
+        "text": "@bilalmazhar_10 \ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267314764931358720,
+        "user_id": 1112047095253479425,
+        "text": "@itsRehmat Komedi\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267502115511025670,
+        "user_id": 3229525485,
+        "text": "@angxo75 I hope they round up ALL of them \ud83d\ude4f\ud83d\ude01\n\nAlso, my understanding is that by being declared an \"international\" t\u2026 https://t.co/TZG8TFvKMF",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267287060236435457,
+        "user_id": 3229525485,
+        "text": "@PierrePoilievre They look like entitled idiots,  no joke... SICK.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267286635865149440,
+        "user_id": 3229525485,
+        "text": "@JohnTory https://t.co/OkCGftdxdy",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267286147270664192,
+        "user_id": 3229525485,
+        "text": "@ruralroots780 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udd7a",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267513699801030656,
+        "user_id": 1233096656951734272,
+        "text": "@sofiakbryant good morning!! i hope you slept well",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267513589784440832,
+        "user_id": 1233096656951734272,
+        "text": "@sofiakbryant I LOVE YOU &lt;3",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266980167122948096,
+        "user_id": 1233096656951734272,
+        "text": "@sofiakbryant goodnight sofia! get a good sleep &lt;33",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266978312934486016,
+        "user_id": 1233096656951734272,
+        "text": "@sofiakbryant it really shows who people truly are underneath how they present themselves to the public",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266978027679838209,
+        "user_id": 1233096656951734272,
+        "text": "@sofiakbryant you deserve better friends than the ones who choose to stay silent",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267502045176578049,
+        "user_id": 1148108464754835456,
+        "text": "@ceIestialpp @littlegothbabe @sadpeachypia oh ew I was following one of them",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267499473262923776,
+        "user_id": 1148108464754835456,
+        "text": "I\u2019m at my day job for most of the day this week so I will be a bit quieter than I was about BLM until the night tim\u2026 https://t.co/8iy2vn0SdQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267498916280320005,
+        "user_id": 1148108464754835456,
+        "text": "@cornnymph A BBC swer was asking what was so wrong with it the other day after being called out for it. \n\nIt\u2019s like\u2026 https://t.co/BBFyj3peY5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267463837361434625,
+        "user_id": 1148108464754835456,
+        "text": "@TOASTY_GHOOOSTY That makes me so happy to hear \ud83d\ude2d\ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267463510692204545,
+        "user_id": 1148108464754835456,
+        "text": "@tinyflowerboo Perfect boobies \ud83d\ude24\ud83d\ude24\ud83d\udc9f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267359479370117121,
+        "user_id": 1148108464754835456,
+        "text": "@ur_hentai_whore OK OK \ud83d\udc40 I get that",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266739962189352960,
+        "user_id": 715650083379933185,
+        "text": "@PlagueVEVO Danke sehr. ^^",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266739494729977859,
+        "user_id": 715650083379933185,
+        "text": "@CSPstuff Thank you!! \ud83d\udc9c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266739421027631105,
+        "user_id": 715650083379933185,
+        "text": "@0ddoblivion Thank you so much! I'm\u2026 a bit stunned by the response to this one. Thank you. \ud83d\udc9c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266481783006269449,
+        "user_id": 715650083379933185,
+        "text": "@young_mothman No problem, man. YOU'RE the best \ud83d\udc9c\ud83d\udc9c\ud83d\udc9c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266477183385710592,
+        "user_id": 715650083379933185,
+        "text": "@chrisms_art Sharing these \"scary\" lovebirds.\n\nAnd DEFINITELY check out @young_mothman https://t.co/FPN9fA35c7",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266476234944458754,
+        "user_id": 715650083379933185,
+        "text": "@IonicSquidGen Hehe thank you! \ud83d\udc9c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266128508222410753,
+        "user_id": 715650083379933185,
+        "text": "@FatRatArt I was hoping for that. Thank you.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266126262168420356,
+        "user_id": 715650083379933185,
+        "text": "@Sad_Lux Thank you!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266126146544025600,
+        "user_id": 715650083379933185,
+        "text": "@adampocalypse Thank you so much, man. I'm still very self-conscious about showing my art, so that\u2026 helps a lot actually. Thanks.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266117996352864257,
+        "user_id": 715650083379933185,
+        "text": "@Pyrrhocorax2 https://t.co/HUPFoNzM2u",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266087073351643137,
+        "user_id": 715650083379933185,
+        "text": "Was ich am Morgen sehe (What I see in the morning) | 28.5.2020 https://t.co/xrAXleaAcL",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265520946598813704,
+        "user_id": 715650083379933185,
+        "text": "@BurnedMarshmel1 Yeah that's what it is.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265407369590251520,
+        "user_id": 715650083379933185,
+        "text": "@DemiGoreArt Thank you\u2026 ^^",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265373463864324097,
+        "user_id": 715650083379933185,
+        "text": "@adampocalypse Thanks, but to me, this is by far one of the loneliest...",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265372465863278594,
+        "user_id": 715650083379933185,
+        "text": "@Captain_Linn What, because it's a different perspective? Whatever. As far as I'm concerned, that's totally legitim\u2026 https://t.co/KFsCvDY17w",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256217048708939777,
+        "user_id": 1255938112770969606,
+        "text": "dont play animal crossing or youll get coronavirus",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256216716713037828,
+        "user_id": 1255938112770969606,
+        "text": "WHO STOLE MY REESES PEESES",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256216565554569219,
+        "user_id": 1255938112770969606,
+        "text": "hey guys animalcrossing235 here just warning you not to play animal crossing or ill be animal cross with you",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256216412777066498,
+        "user_id": 1255938112770969606,
+        "text": "@maysasiregar2 @Dana_Jon1 ok and dont play animal crossing ok?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256211085352472576,
+        "user_id": 1255938112770969606,
+        "text": "@discordLC eww gross",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256211031778623488,
+        "user_id": 1255938112770969606,
+        "text": "@discordLC i no like",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256210983166640128,
+        "user_id": 1255938112770969606,
+        "text": "@discordLC @Brooklyn_9705 @KennethClayden @crossing_bad No dont like it animal crossing bad",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255966340436963329,
+        "user_id": 1255938112770969606,
+        "text": "@Brooklyn_9705 @discordLC @KennethClayden @crossing_bad animal crossing is bad ok?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255951296135340032,
+        "user_id": 1255938112770969606,
+        "text": "@crossing_bad agreed",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255951166430642178,
+        "user_id": 1255938112770969606,
+        "text": "@pyrocynicalALTV hello dont play animal crossing ok? or ill make a distrack on you",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950916798287873,
+        "user_id": 1255938112770969606,
+        "text": "@rudolf hey dont play animal crossing",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950521858437123,
+        "user_id": 1255938112770969606,
+        "text": "animal crossing is a extremely bad game okay?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950205951840256,
+        "user_id": 1255938112770969606,
+        "text": "@randolf can you make a distrack on animal crossing please because i dont like it",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950050108325889,
+        "user_id": 1255938112770969606,
+        "text": "@crossing_bad @Dana_Jon1 agreed",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255949950761877504,
+        "user_id": 1255938112770969606,
+        "text": "@KSIOlajidebt dont play animal crossing your forehead is big",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255949080015958018,
+        "user_id": 1255938112770969606,
+        "text": "@KEEMSTAR hey donteth play thine animal crossing you garden gnome",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255948529522089984,
+        "user_id": 1255938112770969606,
+        "text": "@TSeries sub to pewdiepie and make a distrack on animal crossing or i will give pewdiepie 100million subscribers, s\u2026 https://t.co/bcWe1kaysh",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255947330353803264,
+        "user_id": 1255938112770969606,
+        "text": "@CallMeCarsonYT  YOU HAD BETTER NOT PLAY THE GAME ANIMAL CROSSING GAME IT HAS THE BAD AND WILL GIVE YOU THE COMPUTE\u2026 https://t.co/28nBkJm3O1",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255946721181433856,
+        "user_id": 1255938112770969606,
+        "text": "@crossing_bad @BTSW_official start the uprising",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255946674427572231,
+        "user_id": 1255938112770969606,
+        "text": "@crossing_bad @BTSW_official what he said",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255946641334509573,
+        "user_id": 1255938112770969606,
+        "text": "@crossing_bad @xboxuk agreed",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255946618651774978,
+        "user_id": 1255938112770969606,
+        "text": "@crossing_bad @animalcrossing agreed",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255946305416974338,
+        "user_id": 1255938112770969606,
+        "text": "dont play animal crossing ok?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255946032514547712,
+        "user_id": 1255938112770969606,
+        "text": "@BTSW_official do not play animal btw i do not like your music ok?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255945624844931072,
+        "user_id": 1255938112770969606,
+        "text": "@TTfue dont play animal crossing or ill dab on your career ok? #ninjaovertfue",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267486284718587904,
+        "user_id": 1191016484,
+        "text": "Normally you\u2019re eager to satisfy the people around you, but th... More for Libra https://t.co/Mb5TrW8Tnu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267401923596034053,
+        "user_id": 1191016484,
+        "text": "@202Wink I\u2019m not sure but somebody posted a picture and Apple disabled the phone and said it was being traced",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267370921444233216,
+        "user_id": 1191016484,
+        "text": "@202Wink They did that in another state as well and everything was being traced",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267227041222529024,
+        "user_id": 1191016484,
+        "text": "@kvinaaaa Yeah from what I see she was like she too Christian for the movement \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0fso everybody cancelled her now she protesting",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267226702528368641,
+        "user_id": 1191016484,
+        "text": "@kvinaaaa Pretty much was saying she too godly to protest and shit but be screaming about dick and people started a\u2026 https://t.co/nSu8b7skF4",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267123895821189120,
+        "user_id": 1191016484,
+        "text": "Don't let memories of the past steal your joy in the present m... More for Libra https://t.co/Mb5TrW8Tnu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266859448720637953,
+        "user_id": 1191016484,
+        "text": "Exactly why this app will never be cancelled! https://t.co/pXjqrqJGDN",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266761507817140224,
+        "user_id": 1191016484,
+        "text": "A natural charmer like you is used to being in the center of y... More for Libra https://t.co/Mb5TrW8Tnu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266503193955045376,
+        "user_id": 1191016484,
+        "text": "That SD9 VE is shit only get it if you want a gun that\u2019s gonna jam on you constantly and the canik is hard to find\u2026 https://t.co/pYH3FkDwUW",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266465390005231616,
+        "user_id": 1191016484,
+        "text": "@TiffanysOnlyy Girl they just don\u2019t look satisfying to me imma try them too doe",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266448134244311042,
+        "user_id": 1191016484,
+        "text": "Yall legit make everything about the kardashians. Fuck them \ud83d\ude02\ud83d\ude02 https://t.co/Z9f2FnyMDc",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266399124460408832,
+        "user_id": 1191016484,
+        "text": "Your loved ones may have become overly reliant upon you recent... More for Libra https://t.co/Mb5TrW8Tnu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266036735206514688,
+        "user_id": 1191016484,
+        "text": "The prospect of exploring greener pastures fills you with exci... More for Libra https://t.co/Mb5TrW8Tnu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265799977638510593,
+        "user_id": 1191016484,
+        "text": "@lilkazzz I need tips because I be struggling so the back of my head be fucked up \ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265757744025554946,
+        "user_id": 1191016484,
+        "text": "\ud83d\udc40I wanna go on a picnic with seafood https://t.co/qNn3tU9KeS",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265674345231204353,
+        "user_id": 1191016484,
+        "text": "You may be so engrossed in a project lately that it's difficul... More for Libra https://t.co/Mb5TrW8Tnu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265621156683567104,
+        "user_id": 1191016484,
+        "text": "@lilkazzz I know exactly who you talking about cause I seen the post and I was like don\u2019t worry about the package g\u2026 https://t.co/pX9RetvxCr",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265601816252895232,
+        "user_id": 1191016484,
+        "text": "@lilkazzz \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265311947181789184,
+        "user_id": 1191016484,
+        "text": "Doing a job just for money doesn\u2019t have much appeal for you. I... More for Libra https://t.co/Mb5TrW8Tnu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266775295186677760,
+        "user_id": 1253455524382879745,
+        "text": "so wat dey wrong GUM",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950916810833922,
+        "user_id": 1253455524382879745,
+        "text": "@Adomonline we are waiting for it to come",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1253606849083039747,
+        "user_id": 1253455524382879745,
+        "text": "Ken, fa videos no hooki me",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1261741827906027522,
+        "user_id": 295967706,
+        "text": "@Shauna_c_jones @TheSun @piersmorgan Omg it\u2019s shocking!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1261533247181393920,
+        "user_id": 295967706,
+        "text": "@MandiDhillon Your eyes tell such a story!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260281997261504514,
+        "user_id": 295967706,
+        "text": "@piersmorgan - my mum is a cleaner in a care home, she\u2019s been told she is unable to use disposable gloves anymore d\u2026 https://t.co/0HvNl7hfH8",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260216925180870656,
+        "user_id": 295967706,
+        "text": "@HMRCgovuk I got this number from your website. I suggest you check. Because it\u2019s fraudulent. https://t.co/GXDBPEQeHS",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260198109344399360,
+        "user_id": 295967706,
+        "text": "@HMRCgovuk @HMRCcustomers @HMRCpressoffice I\u2019m still waiting for a reply please!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260195688547303424,
+        "user_id": 295967706,
+        "text": "And now I\u2019m dreading next months phone bill! \ud83d\ude14",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260195228356612096,
+        "user_id": 295967706,
+        "text": "@TheSun @piersmorgan .... hmrc have my tax code wrong, I\u2019m a nurse and can not afford for this to be wrong. 6 times\u2026 https://t.co/aPLNrLLuwe",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260190863608741888,
+        "user_id": 295967706,
+        "text": "@HMRCcustomers My yearly allowance has been shared between my substantive post and my bank- my substantive code is\u2026 https://t.co/Fxeq11Hm4F",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260168727393427462,
+        "user_id": 295967706,
+        "text": "And before you ask if I\u2019ve logged in online.... yes I have and you cannot change your tax code that way! So I need\u2026 https://t.co/rkLXKG5uKQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1260167082924179458,
+        "user_id": 295967706,
+        "text": "@HMRCgovuk @HMRCcustomers I am appalled- 6 times I\u2019ve tried to phone you- and 6 times the phone has just cut off, I\u2026 https://t.co/ypC7TKy9qQ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950916815110144,
+        "user_id": 295967706,
+        "text": "@KatiePrice @Teejunkie @NHSCharities @CavellTrust Love this well done Harvey \ud83d\udc99",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255946306964590595,
+        "user_id": 295967706,
+        "text": "Watching this covid-19 programme with @RossKemp is hard. From experience not being able to hug a patient when they\u2019\u2026 https://t.co/MH2QcH01vo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255916548386164737,
+        "user_id": 295967706,
+        "text": "@jopage_ @rickygervais Exactly how I felt! Sandy- the sadness in her eyes gets me- she\u2019s unbelievably good.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255903184209489920,
+        "user_id": 295967706,
+        "text": "Chris Witty- I like him. Thanks Bozzer for the briefing and congratulations on little Boris Junior! \ud83c\udf08\ud83d\udc99 #PM\u2026 https://t.co/T2X7v2YT4V",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254901331506184195,
+        "user_id": 295967706,
+        "text": "Sandy gets me every time! #afterlifeseason2 \ud83d\ude25",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1254880342974050307,
+        "user_id": 295967706,
+        "text": "I see @rickygervais is at it again, turning me into a \u2018snot curdling c**t\u2019- crying! #Afterlife2 #afterlifeseason2 - so good!!! \ud83e\udd70\ud83d\ude25\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1250130646078574601,
+        "user_id": 295967706,
+        "text": "@pricetom I\u2019m up for this \ud83d\ude4b\ud83c\udffd\u200d\u2640\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1249823795344482308,
+        "user_id": 295967706,
+        "text": "@michaelsheen You are awesome! LEGIT!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1249330416743522304,
+        "user_id": 295967706,
+        "text": "There really are some wonderful people out there! @SarahStoneTV has treated the Children\u2019s ward (close to her heart\u2026 https://t.co/dSvV3R2IIu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1247911710784192512,
+        "user_id": 295967706,
+        "text": "@ThisisDavina \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f https://t.co/lPsfUulotj",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1247245479559204864,
+        "user_id": 295967706,
+        "text": "Political views aside! COME ON BORIS-you can fight this! You\u2019ve done amazing things so far, don\u2019t fall now!!! \ud83d\udc99\u2026 https://t.co/miJv0iBRa1",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1246545048935837702,
+        "user_id": 295967706,
+        "text": "@piersmorgan It\u2019s insulting!!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1246515704741986304,
+        "user_id": 295967706,
+        "text": "@liamgallagher im a #nurse at Macclesfield Hospital. East Cheshire! Can I please have some tickets to your concert.\u2026 https://t.co/GrUkamVwdR",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1243666613309669377,
+        "user_id": 295967706,
+        "text": "Love @piersmorgan for what he\u2019s doing for us frontliners! #NHS #Nurse #COVID2019 #piersmorgan RESPECT! \ud83d\udc99\ud83d\udc99\ud83d\udc99",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267446114376200193,
+        "user_id": 1005936862190604288,
+        "text": "@kersp3rn C'est vrai.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267443025971732480,
+        "user_id": 1005936862190604288,
+        "text": "@kersp3rn J'ai l'impression que ce n'est toujours pas assez, je me sens tellement inutile face \u00e0 ce qu'il se passe.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267435790222741507,
+        "user_id": 1005936862190604288,
+        "text": "all my energy is dedicated towards it so sorry of you don't see me posting here about the boys or BLM, i'm trying m\u2026 https://t.co/r4mj4C3DKU",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267435580281049089,
+        "user_id": 1005936862190604288,
+        "text": "i'm not posting much here because i'm focused on sharing french ressources to french people on my french main accou\u2026 https://t.co/aCq6gNC57v",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267071744415801345,
+        "user_id": 1005936862190604288,
+        "text": "I'm trying to do this for french antiracist associations, that's the least I can do",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267071626501373952,
+        "user_id": 1005936862190604288,
+        "text": "Try getting in touch with your local antiracist associations to donate what you can if you're not in a state where\u2026 https://t.co/iGCpBXM4vt",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266747142259048448,
+        "user_id": 1005936862190604288,
+        "text": "sign this petition !! https://t.co/DB4gvZ6bAT",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266723153520275457,
+        "user_id": 1005936862190604288,
+        "text": "@breaths_of_han thank you very much \ud83d\udc9c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266718661269753856,
+        "user_id": 1005936862190604288,
+        "text": "@MlNIEMONI thank you \ud83d\udc95",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266717661322522625,
+        "user_id": 1005936862190604288,
+        "text": "i don't tweet that much because my depression is killing me but i've donated to the MFF, that's the least i could do",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266717356589494273,
+        "user_id": 1005936862190604288,
+        "text": "in france, half of the police voted for the fascist candidate on the first round of elections, and there's a kid th\u2026 https://t.co/M5ieUf1ill",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266716926534914048,
+        "user_id": 1005936862190604288,
+        "text": "i'm so tired and angry at the police. wether it is in america or in france, police brutality has free reign and i feel so helpless",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265660537658114048,
+        "user_id": 1005936862190604288,
+        "text": "Yesssssss https://t.co/5ci9wRb0HJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265239296484786176,
+        "user_id": 1005936862190604288,
+        "text": "ok so dms are broken, is that it ?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265005649748013057,
+        "user_id": 1005936862190604288,
+        "text": "@dykenamkook i'm in",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264597372866383872,
+        "user_id": 1005936862190604288,
+        "text": "who would be most likely to cross stitch in bts",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263736064075849730,
+        "user_id": 1026799787323154432,
+        "text": "\ud83d\ude2d\ud83d\ude2d\ud83d\udd25\ud83d\udd25\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f https://t.co/crOSN4oPbz",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263561057018228736,
+        "user_id": 1026799787323154432,
+        "text": "This is Barbie'Wolfe an upcoming artist with the best writing skills and is best at doing what she loves, rapping t\u2026 https://t.co/iq0T2SqUxB",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263223283249446913,
+        "user_id": 1026799787323154432,
+        "text": "@papilomein Amanda Black - Power\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263196943926415360,
+        "user_id": 1026799787323154432,
+        "text": "\ud83d\ude4f\ud83c\udffd\u2764\ufe0f\u2764\ufe0f\ud83d\udc51\ud83d\udd25 https://t.co/B9dWWaSwRB",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263154398789861381,
+        "user_id": 1026799787323154432,
+        "text": "When I wrote it, I wrote it with a positive mind that this year won't end before I break through into the music ind\u2026 https://t.co/2hrYRWAUCC",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263071888110166016,
+        "user_id": 1026799787323154432,
+        "text": "\ud83d\ude02\ud83d\ude02hee? https://t.co/4ZuhQdrrK5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263056382011596800,
+        "user_id": 1026799787323154432,
+        "text": "Prince Kaybee ft Holly Rey-Yes You Do (Song Cover) @PrinceKaybee_SA https://t.co/BMAWmi8OyW",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1257986454816460800,
+        "user_id": 1026799787323154432,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/zK7f0cA3WX",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1257986387569184773,
+        "user_id": 1026799787323154432,
+        "text": "@PrinceKaybee_SA \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude2d\ud83d\ude2d\ud83d\ude2dheyiiii heyiiii!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1257647351562473473,
+        "user_id": 1026799787323154432,
+        "text": "Caiiro\ud83d\ude2d\ud83d\ude2d https://t.co/dM8lVajgGw",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1257588022197059584,
+        "user_id": 1026799787323154432,
+        "text": "If there's anyone who gives me a drive, it is this man! \ud83d\ude2dHe lives the life man! \u2764\ufe0f\u2764\ufe0f https://t.co/MaR9u2w8vf",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256749617577893891,
+        "user_id": 1026799787323154432,
+        "text": "She's so weird and I love her \ud83d\ude2d\u2665\ufe0f https://t.co/qzd8tkI5R9",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256747675996893184,
+        "user_id": 1026799787323154432,
+        "text": "This woman is my obsession! https://t.co/ChBinEpMFW",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255979090999418881,
+        "user_id": 1026799787323154432,
+        "text": "\ud83d\udd25\ud83d\ude2d\ud83d\udc4f\ud83c\udffd\ud83d\udd25\ud83d\udc93\u2764\ufe0f https://t.co/7LjiZvpJRz",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255963724881461257,
+        "user_id": 1026799787323154432,
+        "text": "@Ami_Faku -Ubuhle bakho(plain cover) \ud83d\udc95 https://t.co/lhWERftxiy",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266125571064573952,
+        "user_id": 1218622020939849733,
+        "text": "@__Omoissy We gather dey beg laidis ooo \ud83d\ude2b\nOmo we even tell the guy make hin kneel down join us but hin no dey hear word \ud83e\udd26",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1259281278077227013,
+        "user_id": 1218622020939849733,
+        "text": "@vhowa @Piousbae012 @onyeoma_kc Huh\ud83d\ude02\ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1258657266200449024,
+        "user_id": 1218622020939849733,
+        "text": "@sofox_ @Ogbeni_Philter I can feel your smile from my room\ud83e\udd26\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255952826007683072,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Every thing evil began in innocence",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255952581471473664,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Pride and prejudice",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255951699983958019,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Karen Kingsbury - Angels walking",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255951597114400771,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh The cover first",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255951308328243201,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Paper backs please!!! \nI want to be able to admire the covers fr\ud83d\ude2b\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950920988463106,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Non-fiction lol",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950920849985543,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Take me to Karen Kingsbury please!!! \u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950900096573441,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Christian fiction",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950769800523776,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Augustus Waters",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950300978073603,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Danielle Steele - jewels",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950197932339200,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh Yes",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255950142282313730,
+        "user_id": 1218622020939849733,
+        "text": "@BooktiqueGh The tempest \nWilliam Shakespeare \nThe children book sha with pictures \ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1252706816141725696,
+        "user_id": 1218622020939849733,
+        "text": "Where's the lie\ud83d\ude2b\u2764\u2764 https://t.co/HQ4cOsKzXk",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1244722034065711105,
+        "user_id": 1218622020939849733,
+        "text": "@kot_that @waveofthe90s @shank_comics @Tife_fabunmi @AbideenKyle @ruquoyat_ @thejamalbalogun @Oluwatobby_\u2026 https://t.co/xji0B6vv4v",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1244203491276599298,
+        "user_id": 1218622020939849733,
+        "text": "@Serayrauhl Liking a picture doesn't scream obsessed... \nJust saying \ud83d\udeb6\ud83d\udeb6",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1243471513220788226,
+        "user_id": 1218622020939849733,
+        "text": "@thegaptoothgirl @ChismosaLena @thegbemisolarh @thegaptoothgirl like Frfr \ud83d\ude2a\ud83d\ude02\ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1243468990011375616,
+        "user_id": 1218622020939849733,
+        "text": "@sofox_ @thegaptoothgirl \ud83d\ude02\ud83d\udc94 how are you holding up",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1243463125589950467,
+        "user_id": 1218622020939849733,
+        "text": "@thegaptoothgirl @anniefunkies Ahhhh \nWait why was I tagged\ud83d\ude02\ud83d\ude02\ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1243462991389040641,
+        "user_id": 1218622020939849733,
+        "text": "@thegaptoothgirl @anniefunkies @thegaptoothgirl  He he he\ud83d\ude02\ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267483391324303360,
+        "user_id": 3006488771,
+        "text": "@realDonaldTrump Nah you ain\u2019t",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267469798709039105,
+        "user_id": 3006488771,
+        "text": "@realDonaldTrump You gonna lose",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267313932789825536,
+        "user_id": 3006488771,
+        "text": "1 year &amp; 3 months \ud83e\udd7a",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267293553866219527,
+        "user_id": 3006488771,
+        "text": "Also am not putting my carrd up until next month cause yeah",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267293380180168704,
+        "user_id": 3006488771,
+        "text": "To any new moots I\u2019m just here to chill and make friends somewhat",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267226979411124225,
+        "user_id": 3006488771,
+        "text": "Bruh https://t.co/RZTnsONq57",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267218542467911681,
+        "user_id": 3006488771,
+        "text": "@mingiteez Pomegranate. Also love your pfp",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267218077353226241,
+        "user_id": 3006488771,
+        "text": "@YourAnonNews So y\u2019all saying you tried before \ud83d\udc40",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267208620544008192,
+        "user_id": 3006488771,
+        "text": "It\u2019s at Number 1 now \ud83d\ude0a #BLACK_LIVES_MATTERS https://t.co/tfOMLnp9fZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267207966312337409,
+        "user_id": 3006488771,
+        "text": "Me seeing V for Vendetta trending in Ohio https://t.co/C3Ok3QaFz9",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267143279319154691,
+        "user_id": 3006488771,
+        "text": "@btsamazed Stay safe bub \ud83e\udd7a\ud83d\udc9c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265407165696638976,
+        "user_id": 1190474817478086656,
+        "text": "@spitting666 i do!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265332066406690816,
+        "user_id": 1190474817478086656,
+        "text": "@salem_alxndr13 \ud83d\ude07",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266749742874230785,
+        "user_id": 1133523593780973568,
+        "text": "@centellamilk Yeah, it's probably what he looked like the day after the pilot episode, haha",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266203823015682049,
+        "user_id": 1133523593780973568,
+        "text": "@Egoradio This is a fair point.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266202701538496513,
+        "user_id": 1133523593780973568,
+        "text": "@Egoradio Was fully expecting the Pikachu fabric to me Mimikyu, because Halloween Pok\u00e9mon.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266199077307498502,
+        "user_id": 1133523593780973568,
+        "text": "I wanted to do some pose, expression and body language practice, and figured it was a good excuse to draw some fan\u2026 https://t.co/lcrJxOvk9v",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266197933122338819,
+        "user_id": 1133523593780973568,
+        "text": "@Q_Review I mean, I'm always up for more mini-documentary content from ya, of any stripe.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267512958487330828,
+        "user_id": 1636487546,
+        "text": "@BlakeTwig @_Kel_Varnsen_ @w_terrence Same",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267512753700384768,
+        "user_id": 1636487546,
+        "text": "@w_terrence @realginnyrobins Thank you Terrence",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267511660153053189,
+        "user_id": 1636487546,
+        "text": "@nypost Rioter, not protester.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267510923058700292,
+        "user_id": 1636487546,
+        "text": "@LeighTauss That's their job",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267510414394433538,
+        "user_id": 1636487546,
+        "text": "@JonHeyman Jesus",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267509415353212934,
+        "user_id": 1636487546,
+        "text": "@tracylynn0220 They go well together...I've done it!\ud83e\udd2a",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267509232670314505,
+        "user_id": 1636487546,
+        "text": "@tracylynn0220 And a haircut!!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267509074817626114,
+        "user_id": 1636487546,
+        "text": "@tracylynn0220 https://t.co/lI0lsX2rQl",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267481209757741056,
+        "user_id": 1636487546,
+        "text": "@Larry1914 That's step 1. Step 2 is more important...getting people to listen.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267480437787680768,
+        "user_id": 1636487546,
+        "text": "@monicaonairtalk Fire bean bags, rubber bullets, etc",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267478779435323393,
+        "user_id": 1636487546,
+        "text": "Someone with a fork lift pls take care of this ASAP. THKS. https://t.co/zu9tWYYT9L",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267474938325348352,
+        "user_id": 1636487546,
+        "text": "@BenCase93302507 @tracylynn0220 \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267467418433130500,
+        "user_id": 1636487546,
+        "text": "@yankeagles15 Damn! No video!!!\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267460716996501505,
+        "user_id": 1636487546,
+        "text": "@EsqYoo You as well",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267460550725861377,
+        "user_id": 1636487546,
+        "text": "@catyankeefan Yay!   My last one was in mid march. I needed one when all this started.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267459693590478850,
+        "user_id": 1636487546,
+        "text": "@EsqYoo Don't know anything else. I'll ask a few questions when I see her. Where I go they can easily have 4 cutter\u2026 https://t.co/wbZCXl03sI",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267452757448982528,
+        "user_id": 1636487546,
+        "text": "@patriot_amanda2 @realDonaldTrump Done!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267452600485654528,
+        "user_id": 1636487546,
+        "text": "There are serious issues going on in our country. I definitely appreciate that. However, I must say on a personal n\u2026 https://t.co/X1ajH6MVmH",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267449419529695232,
+        "user_id": 1636487546,
+        "text": "@MarkLog99454252 \nThank you for your service Mark.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267449291955724288,
+        "user_id": 1636487546,
+        "text": "@albert_celis1 \nThank you for your service",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267278309597097986,
+        "user_id": 1636487546,
+        "text": "@DebsNYGiants69 @ParforeTom Ha! A bunny that refuses carrots Deb? That's funny. We have one in our yard too.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267276078516768768,
+        "user_id": 1636487546,
+        "text": "@JackPosobiec @ROBryan6 And financial allies I hope",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267519644568637449,
+        "user_id": 1058697819467472896,
+        "text": "I'm playing Identity V. Fancy a game? https://t.co/jXJl08I9w8",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267422502202101761,
+        "user_id": 1058697819467472896,
+        "text": "@IdentityVanello @saco_eng It is so cute ^^",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267422297624915969,
+        "user_id": 1058697819467472896,
+        "text": "Justice pour George Floyd - Signez la p\u00e9tition\u00a0! https://t.co/gDpRN2hByO via @Change \nPoor guy qwq",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267073123502952450,
+        "user_id": 1058697819467472896,
+        "text": "@GamerGu16761914 Lol didn't made the chains it was from the ap that i use you To made the Drawing lol\nBut thanks ^^",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266901413877223424,
+        "user_id": 1058697819467472896,
+        "text": "I tryed To Draw in the Phone is okay ?\nIt was Hard lol\nAnd it is me in the fnaf univers \ud83d\udc4d\n#Fnaf #Me #ownCharacter\u2026 https://t.co/RBvPpHyY8V",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266799302627807233,
+        "user_id": 1058697819467472896,
+        "text": "Guess who is Back on Stage ! \n\n#ballora #fnaf #sisterlocation #comic? #fanart #aua #Fivenightatfreddy \n\n___________\u2026 https://t.co/cmxpHBnDMI",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266702264187707392,
+        "user_id": 1058697819467472896,
+        "text": "I'm playing Identity V. Fancy a game? https://t.co/XZ0ewGgMTw",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266407920092274689,
+        "user_id": 1058697819467472896,
+        "text": "@Gaming__Grizzly @GameIdentityV @SpikeChunsoft_e Yaye ^^ https://t.co/Z4WZ7LVcuJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266407660859129856,
+        "user_id": 1058697819467472896,
+        "text": "@PooferKitten Thanks qwq https://t.co/7PGa7McrSJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266365987038715904,
+        "user_id": 1058697819467472896,
+        "text": "@Gaming__Grizzly Amazing https://t.co/x34DcSHmjl",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266365377883312129,
+        "user_id": 1058697819467472896,
+        "text": "@GamerGu16761914 I wanted junko so bad qwq\nBut I got 2 good skins so I don't think I could get her any more -_-\nHop\u2026 https://t.co/U37RrIYp9Z",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266318775839854592,
+        "user_id": 1058697819467472896,
+        "text": "And here Comes \u00e0 Drawing that I made for event made by  @PizzaFnaf on Instagram ^^\n*the original idea of the Drawin\u2026 https://t.co/SxQsKp7WTS",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266313019086245890,
+        "user_id": 1058697819467472896,
+        "text": "I wanted junko qwq",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266312855277768704,
+        "user_id": 1058697819467472896,
+        "text": "@PooferKitten Same lol don't even have bon bon lol https://t.co/SbCBioHQSz",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266312366154792961,
+        "user_id": 1058697819467472896,
+        "text": "Okay I got the luck of some else ! \nWho lost his luck ?\nNow really.  I never had luck ! X'D \nI got my first s Tier\u2026 https://t.co/n4hP0hJXxq",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266306712014917635,
+        "user_id": 1058697819467472896,
+        "text": "I'm playing Identity V. Fancy a game? https://t.co/sczlzCywz2",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266306653701488640,
+        "user_id": 1058697819467472896,
+        "text": "Guess who finaly got in the game after \u00e0 week of Danlowding lol https://t.co/21VEuQfExd",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264874095671468032,
+        "user_id": 1058697819467472896,
+        "text": "@Gaming__Grizzly GG UwU https://t.co/JOKCvJk7mr",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264873362230214656,
+        "user_id": 1058697819467472896,
+        "text": "@Gaming__Grizzly Wait how can we win it ? Just to know i will can play thr game normaly torrmow lol so want to see\u2026 https://t.co/94etCzw0z5",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264621392986849280,
+        "user_id": 1058697819467472896,
+        "text": "@antoniagaticam1 Thanks ^^",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264493302369456129,
+        "user_id": 1058697819467472896,
+        "text": "Here comes the video ^^\nHope you will like it OwO\n\n#Fnaf #GraWolfQuinn #AskGoldieAnything #AGA #Fivenightsatfreddys\u2026 https://t.co/POCPMsQFFK",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264356520852160513,
+        "user_id": 1058697819467472896,
+        "text": "Made this animation on youtube ^^\n: \" https://t.co/TqFQGLA04q \"\nHope you will like it even if it is not that good ^\u2026 https://t.co/G02agSdpvH",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263994593823072257,
+        "user_id": 1058697819467472896,
+        "text": "@Gaming__Grizzly Still can't watch it sorry \n*Can't even put a cute Gif because or the bad wifi qwq*",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263961415792177152,
+        "user_id": 1058697819467472896,
+        "text": "I love the video of Jaelynne Talley ! #TikTok https://t.co/T1pCQpUxsv\nGo Subscribe To Her so you can see more UwU\nI\u2026 https://t.co/IqoTpW1hFv",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263942481156222981,
+        "user_id": 1058697819467472896,
+        "text": "@L00kthrice Hi thanks that make me so happy to know it ^w^\nThanks for leting me know OwO",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267307706815320064,
+        "user_id": 784078413481013250,
+        "text": "I feel horrible about feeling so happy rn but I needed this #InsecureHBO",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267143187010932739,
+        "user_id": 784078413481013250,
+        "text": "\" One race, the human race\" sounds exactly like \" I don't care if you're, white, green, blue or purple\" to me.\n\nKindly shut the fuck up",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266974517789970434,
+        "user_id": 784078413481013250,
+        "text": "@eyehimanshunegi Literally!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266782074477871106,
+        "user_id": 784078413481013250,
+        "text": "Imagine publicly saying, as a yt man, that color isn't an issue? And in Europe? https://t.co/Xu3xslKwqZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266781029173526533,
+        "user_id": 784078413481013250,
+        "text": "Come on now sascha, let's not lie unprovoked https://t.co/jNpkYa7gm3",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266767604544389127,
+        "user_id": 784078413481013250,
+        "text": "@endevagames @itsdebonthebeat Lmao...I would say sorry but I'm gonna keep doing it\ud83d\ude2c",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266575762133528580,
+        "user_id": 784078413481013250,
+        "text": "We ain't forget y'all had blue lives matter in your bios",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266504624468627456,
+        "user_id": 784078413481013250,
+        "text": "@itsdebonthebeat I don't recall",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266502932276686857,
+        "user_id": 784078413481013250,
+        "text": "@itsdebonthebeat You sent me Kermit with puthy eyes the other day...you can't speak",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266501545841045509,
+        "user_id": 784078413481013250,
+        "text": "@itsdebonthebeat So you can send me p*rn unprovoked but I can't send small small dancing?",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266501185810423811,
+        "user_id": 784078413481013250,
+        "text": "@itsdebonthebeat https://t.co/tRICInv5QO",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266497328950710273,
+        "user_id": 784078413481013250,
+        "text": "We would've been fucking shit up tonight @itsdebonthebeat https://t.co/vdkMEC0rIr",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266345643926315009,
+        "user_id": 784078413481013250,
+        "text": "@__kehinde It's cute that you think they're not doing the same shit up there",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266150722594385920,
+        "user_id": 784078413481013250,
+        "text": "Celebrities are so tone deaf https://t.co/uvlgr6jTig",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266735293283082241,
+        "user_id": 1232527554877235201,
+        "text": "@TeeJayStoke wall",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266735096830267394,
+        "user_id": 1232527554877235201,
+        "text": "@tslunabella ih sexy cat, I can be another cat, dog or mouse for u. just do me if u want me",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266387169767284737,
+        "user_id": 1232527554877235201,
+        "text": "@dddtraveler32 if Ud like to dm me for dirty chat feel free to do so*",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266385833088749570,
+        "user_id": 1232527554877235201,
+        "text": "@PaulLangton10 looks lovely. can u do one with fur and leopard print and or furry leg warmers and gloves? like a glamourous kitty",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266383670329454593,
+        "user_id": 1232527554877235201,
+        "text": "@dddtraveler32 oh yeah baby. if I'd like to do me and dirty chat with me feel free to do so",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266381052471279618,
+        "user_id": 1232527554877235201,
+        "text": "@MsBarbieMaryse you look exactly as my wet dream my sexy blonde girl with all of this fluffy outfits. grrr roar meow",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266380342887280645,
+        "user_id": 1232527554877235201,
+        "text": "@BellasCosplay @siljascostumes oh my goodness all of this fur miawwwww",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266379929974763521,
+        "user_id": 1232527554877235201,
+        "text": "@UyangaKhan @LeatherNo I want to paint her clothes white",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266379411026214912,
+        "user_id": 1232527554877235201,
+        "text": "@BrookeSpearz @LiciousDanni I want you to blow me and claw me and I'll feed u in my milk dirty kitty",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266378727832694785,
+        "user_id": 1232527554877235201,
+        "text": "@Sheer_Exposures @MsWhitneyMorgan dirty cats meoooooow",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265924079065993220,
+        "user_id": 1232527554877235201,
+        "text": "@Adam_Scott71 meow sexy cat",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265924010149322757,
+        "user_id": 1232527554877235201,
+        "text": "@TSRachels gonna get off to her",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265923902536114177,
+        "user_id": 1232527554877235201,
+        "text": "@KC67941 oh meow meow meoh oh oh oh awwwwee",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265923287663677443,
+        "user_id": 1232527554877235201,
+        "text": "@SatinBarbi sexy white lion mane",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265922978203815936,
+        "user_id": 1232527554877235201,
+        "text": "@KC67941 glamorous white",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265922885832577024,
+        "user_id": 1232527554877235201,
+        "text": "@KC67941 tough choice, I want both and red hair turns me on but back if I must choose",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265688050639740928,
+        "user_id": 1232527554877235201,
+        "text": "@KC67941 right one for sure",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265687977054932993,
+        "user_id": 1232527554877235201,
+        "text": "@LuluValadon happy birthday dear!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264975529834397698,
+        "user_id": 1232527554877235201,
+        "text": "@TheGoldenGoddes girl I love your outfit and hair, grrrrr",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264973857204699147,
+        "user_id": 1232527554877235201,
+        "text": "@LuluValadon lol I think its great",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264973722483666944,
+        "user_id": 1232527554877235201,
+        "text": "@its_nikkinicole yes, and with furs gloves and jewels. be a sexy glamorous leopard",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264973547514015744,
+        "user_id": 1232527554877235201,
+        "text": "@SatinBarbi sexy bunny I'd love to hump this fur and stain gloves you wear while u moan and encourage me to cum for u",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264170390835863552,
+        "user_id": 1232527554877235201,
+        "text": "@Bimbolina2 my wet dream",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1264157746246623232,
+        "user_id": 1232527554877235201,
+        "text": "@TeeJayStoke outside",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1263858099955302400,
+        "user_id": 1232527554877235201,
+        "text": "@CandiSaint purrrrr sexy cat, dom me for my pics, I'd love to hear from you",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267516624384528392,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude20: The general mood fell for the worst in the last hour. Analyzed 77 tweets, with 56.69% feeling Displeasure.\u2026 https://t.co/24pvhXhK4u",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267501650119360512,
+        "user_id": 1070098248919121920,
+        "text": "\ud83e\udd25: The mood of riders improved in the last hour. Analyzed 61 tweets, with 67.14% feeling Sarcastic. #Boston #MBTA\u2026 https://t.co/jN9OaloRr6",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267486448686698496,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude20: The general mood increased for the better in the last hour. Analyzed 62 tweets, with 54.8% feeling Hatred.\u2026 https://t.co/8oeBKF43lt",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267471487369383936,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude20: The general mood increased for the better in the last hour. Analyzed 128 tweets, with 55.18% feeling Rage.\u2026 https://t.co/egwnyS2TWK",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267441776320708608,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude00: The general mood improved in the last hour. Analyzed 35 tweets, with 61.99% feeling Cheerful. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267426316619591681,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude20: There was a fall in rider mood over the past 60 minutes. Analyzed 17 tweets, with 52.85% feeling Anger. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267395974454009867,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude20: The overall mood of riders worsened in the last hour. Analyzed 10 tweets, with 64.3% feeling Tentative. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267305271308824578,
+        "user_id": 1070098248919121920,
+        "text": "\ud83e\udd25: Riders are feeling worse than they did an hour ago. Analyzed 276 tweets, with 57.45% feeling Doubtful. #Boston\u2026 https://t.co/2Rby7mrvPV",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266520729790623744,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude0e: The general mood improved in the last hour. Analyzed 17 tweets, with 64.93% feeling Hopeful. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266489651411419138,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude16: The general mood increased for the better in the last hour. Analyzed 33 tweets, with 53.35% feeling Sadness. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266444637348167687,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude41: The overall mood of riders worsened in the last 60 minutes. Analyzed 7 tweets, with 62.86% feeling Sadness. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266414427668131840,
+        "user_id": 1070098248919121920,
+        "text": "\ud83e\udd25: Peoples mood on the MBTA decreased over the past hour. Analyzed 7 tweets, with 56.48% feeling Sarcastic. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266399647708467203,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude42: Riders are feeling better than they did an hour ago. Analyzed 7 tweets, with 76.66% feeling Comfortable. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266384025092005888,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude00: The mood decreased in the past 60 minutes. Analyzed 7 tweets, with 69.35% feeling Cheerful. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266369047173586944,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude42: Riders are feeling better than they did an hour ago. Analyzed 8 tweets, with 90.44% feeling Comfortable. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266338913561522177,
+        "user_id": 1070098248919121920,
+        "text": "\ud83e\udd25: The general mood increased for the better in the last hour. Analyzed 2 tweets, with 88.98% feeling Doubtful. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266324299197091845,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude11: The overall mood of riders worsened in the last hour. Analyzed 1 tweets, with 97.5% feeling Tentative. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266173383982620672,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude42: There was a boost in mood over the past 60 minutes. Analyzed 2 tweets, with 76.49% feeling Happy. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266112454305644544,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude44: The mood decreased in the past 60 minutes. Analyzed 3 tweets, with 79.55% feeling Agitated. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266082402952249348,
+        "user_id": 1070098248919121920,
+        "text": "\ud83e\udd25: The general mood worsened over the past hour. Analyzed 7 tweets, with 70.37% feeling Analytical. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266066985592520710,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude03: The overall mood of riders improved in the last 60 minutes. Analyzed 3 tweets, with 51.79% feeling Comfortable. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266037013335195649,
+        "user_id": 1070098248919121920,
+        "text": "\ud83e\udd25: The general mood worsened over the past 60 minutes. Analyzed 6 tweets, with 66.79% feeling Doubtful. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266021951312662529,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude00: The mood of riders improved in the last hour. Analyzed 10 tweets, with 62.27% feeling Cheerful. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265991751845793794,
+        "user_id": 1070098248919121920,
+        "text": "\ud83d\ude0e: The general mood increased for the better in the last hour. Analyzed 20 tweets, with 50.87% feeling Positive. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1265961454873780224,
+        "user_id": 1070098248919121920,
+        "text": "\ud83e\udd25: There was a boost in mood over the past 60 minutes. Analyzed 4 tweets, with 70.23% feeling Doubtful. #Boston #MBTA #MBTAMOOD",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267245823194279937,
+        "user_id": 1017917097786126337,
+        "text": "My baby cry \ud83d\ude29 https://t.co/kYS0T8spkz",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267187651695738889,
+        "user_id": 1017917097786126337,
+        "text": "Literally been applying everywhere out in Florida , ain\u2019t playing no games",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267187363266076672,
+        "user_id": 1017917097786126337,
+        "text": "Really thinking bout just staying out in Miami,  long term\ud83d\ude29 got family out there anyways",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267095650442842112,
+        "user_id": 1017917097786126337,
+        "text": "@_danielyssss LMFAOOOOOOO OMG STOPPPP",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266890482304638978,
+        "user_id": 1017917097786126337,
+        "text": "@joselinyvp I\u2019m sure she didn\u2019t mean it in a bad way ... basically tryna day we\u2019re all human and shouldn\u2019t be judged? I think Idek",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266864362574229504,
+        "user_id": 1017917097786126337,
+        "text": "@Nina_flores2013 It makes me throw up",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266788820294524928,
+        "user_id": 1017917097786126337,
+        "text": "fuck corona, fuck racism, fuck 12 &amp; FUCK MASHED POTATOES!",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267518529789743109,
+        "user_id": 1216924020995739648,
+        "text": "@likeimrogue Omg I\u2019m embarrassed https://t.co/tbjvbch0A1",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267518328685371394,
+        "user_id": 1216924020995739648,
+        "text": "@likeimrogue NOW... LMFAOOO i dead thought you were her omg \ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267517959343407104,
+        "user_id": 1216924020995739648,
+        "text": "Wake it up Shona! https://t.co/uWUp6DAzSG",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267516816269676544,
+        "user_id": 1216924020995739648,
+        "text": "@RavishingReigns YUP YUP",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267516483791466497,
+        "user_id": 1216924020995739648,
+        "text": "@Mk11Edits Um",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267516442364256257,
+        "user_id": 1216924020995739648,
+        "text": "I\u2019m sorry? Come again??? https://t.co/YLB0Onz0wn",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267514189704310796,
+        "user_id": 1216924020995739648,
+        "text": "My sister is finna be playable? https://t.co/s5IKMMfnAX",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267492444263809026,
+        "user_id": 1216924020995739648,
+        "text": "Very weird. Especially Kylie at that like??? https://t.co/37IzTR4oTi",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267490563273654274,
+        "user_id": 1216924020995739648,
+        "text": "Oh exactly! https://t.co/1N11G9Cf9C",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267487906530279424,
+        "user_id": 1216924020995739648,
+        "text": "@ASTROXRELOADED This is not how you raise f cking awareness.",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267486628328570882,
+        "user_id": 1216924020995739648,
+        "text": "@HailieNicki We never said she\u2019s doing nothing and it definitely was not implied on MY end so don\u2019t say that. All w\u2026 https://t.co/3HIoR7quBU",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267484503272030214,
+        "user_id": 1216924020995739648,
+        "text": "We are allowed to want our BLACK fave to speak up. Yes it would bring awareness wym?? She has a gigantic platform l\u2026 https://t.co/g5cR0yhR53",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267484060676472832,
+        "user_id": 1216924020995739648,
+        "text": "https://t.co/Djs8Mt5bLd",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267483631280361476,
+        "user_id": 1216924020995739648,
+        "text": "The fact that y\u2019all think we want Nicki to say something because Cardi said something is embarrassing in itself. \ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267483364719763460,
+        "user_id": 1216924020995739648,
+        "text": "As she should @ASTROXRELOADED wake it up mama! https://t.co/PRRiVejsdR",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266644110607298561,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz Come on let's face the fact it is all recorded how much more proof can you acquire than that. And it th\u2026 https://t.co/iG6hNWhqWh",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266643080884523009,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz Life and the other THREE should be looking at the exact same thing in state prison no way Federal this\u2026 https://t.co/XQsqFpNwDe",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266641171138310149,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz Stood there watching there brother OFFICER COMMIT murder and don't lift a finger to stop him or protect\u2026 https://t.co/boPk6lZ1Wc",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266637582022123520,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz Murder 3 I mean he is going to do what he's only looking at 12 years so he will do what maybe 5 years f\u2026 https://t.co/LsBANhc2v3",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266635755646042113,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz And you will not have to have any of these extra police guards and military personnel at all  because t\u2026 https://t.co/n36Ht56sLc",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266634200553263114,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz Murders up and stop blaming protesters and accusing them for all of this shit you people need to look i\u2026 https://t.co/ZD0XfqH5mL",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266632301783535619,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz MURDER drive away Scott free along with the other three that are just as guilty as the murderer what th\u2026 https://t.co/85bVESPcYA",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266628756912967680,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz Acknowledge it it's called justice if I was to murder this man like this COP did I would have been arre\u2026 https://t.co/q1nXxPnliF",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266627131469111296,
+        "user_id": 1223508630772813824,
+        "text": "@GovTimWalz I don't understand why you are not focusing on the real issue here it's crazy you are doing this to you\u2026 https://t.co/eHUXu4JWNK",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266256703453974531,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer For that day you meet the Devil and you get placed in the Very Hot Flames of Hell for eternity of\u2026 https://t.co/jYUE8swQFE",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266254478547709955,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer DISGRACE of a human. Christ all of the AMERICAN people who you have actually hurt to try and bette\u2026 https://t.co/DLWNhsaW1D",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266251942583390214,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer Personally prosecuted and punished for your evil doing I personally would recommend you to spend e\u2026 https://t.co/W4lSaqY0jb",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266249994006171649,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer WIXOM LAKE DAM THAT FAILED BECAUSE OF YOU FAILING TO DO YOUR JOB WHICH MEANS YOU HAVE DONE NOTHING\u2026 https://t.co/7uQiP9Wauq",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266247766356799488,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer As far as I have seen you have actually been there 1 time and haven't even motioned it once since\u2026 https://t.co/WhczzfVIav",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266246327144349702,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer I think you might want to concentrate on all the life's that you Personally ruined because you cou\u2026 https://t.co/CzR721oGtB",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266244760110424065,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer It's proven that the 6 STATES that are run bye you HATERS are doing this shit for 1 reasons you id\u2026 https://t.co/0ROa0QriH4",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266243643976765446,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer You or your husband to do it because your FAKE laws don't apply for you and your family that just\u2026 https://t.co/27eHOHjyup",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266242181641023488,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer That you are not the law enforcement or bright enough to ever make a law I mean your own husband d\u2026 https://t.co/zGPj7sK2wJ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266240879930441729,
+        "user_id": 1223508630772813824,
+        "text": "@gretchenwhitmer Whitner you are definitely not capable to be a governor and I will tell you straight forward you a\u2026 https://t.co/3bdPC35DjZ",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1261172674832797696,
+        "user_id": 1223508630772813824,
+        "text": "@BarackObama You have no fucking clue do you even have a clue were you come from you might say a black low life pea\u2026 https://t.co/yex6tWVSjw",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256646312428285953,
+        "user_id": 1223508630772813824,
+        "text": "@ashleypink04 Well it looks like my Cock will fit tight in your mouth",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1256636949605093379,
+        "user_id": 1223508630772813824,
+        "text": "Hey starslutt1on1 are you herehttps://wellhello.com/site/user/profile/33151431?chatOpened=1&amp;chatRoom=chat-28-33151749-152089890",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255996497692426243,
+        "user_id": 1223508630772813824,
+        "text": "@emma_brunette95 I will talk dirty to ya",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255996305039646720,
+        "user_id": 1223508630772813824,
+        "text": "@nancy_widoww I am right now",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1255996106321903623,
+        "user_id": 1223508630772813824,
+        "text": "@nancy_widoww Your a PLAYER",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267515389212340225,
+        "user_id": 408240143,
+        "text": "Ahhh Terrance n Issa \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267479470723739649,
+        "user_id": 408240143,
+        "text": "@Honey_Nevae Chile they let the whole zoo out",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267478713387683847,
+        "user_id": 408240143,
+        "text": "@MiyukiNia \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267478659000086529,
+        "user_id": 408240143,
+        "text": "@Honey_Nevae Nope in Chicago",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267432500793671682,
+        "user_id": 408240143,
+        "text": "Yall niggas done broke in the zoo \ud83d\ude2d\ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267165504302714881,
+        "user_id": 408240143,
+        "text": "They broke into the footlocker on 95th n Stoney \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267138585549029377,
+        "user_id": 408240143,
+        "text": "@Kkk_Kia Lmaoooo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267132786114166787,
+        "user_id": 408240143,
+        "text": "@NuttHouse312 Thank uuuu",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1267118738878410754,
+        "user_id": 408240143,
+        "text": "Me with all these curves ....you without no brakes \ud83e\udd2b https://t.co/qK0PeO7zIA",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266856271942221826,
+        "user_id": 408240143,
+        "text": "My momma been told me don\u2019t give no poor performance. \ud83d\ude08 https://t.co/mugi7Z9Y2M",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266855058416771075,
+        "user_id": 408240143,
+        "text": "I need a \u270c\ud83c\udffd\ud83e\udd0f\ud83c\udffd\ud83e\udd0f\ud83c\udffd typa nigga lmaooo",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266750081786675201,
+        "user_id": 408240143,
+        "text": "@Leiahlealeah Thank you \ud83d\ude0a",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    },
+    {
+        "id": 1266524840980287494,
+        "user_id": 408240143,
+        "text": "@coil_me_curly on Instagram if u don\u2019t mind going to Kennesaw https://t.co/i8swDBkKYm",
+        "classifier": "highly-anonymous",
+        "classification": "Sandra"
+    }
+]

@@ -1,0 +1,5063 @@
+[
+    {
+        "id": 1267436959321870337,
+        "user_id": 572820276,
+        "text": "Implement a stack that returns minimum value in O(1) time.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267429459772059648,
+        "user_id": 572820276,
+        "text": "Explain how to solve the bipartite matching problem by reducing it to a max flow problem.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267421883525259264,
+        "user_id": 572820276,
+        "text": "Given an array of N real numbers, design an N log N algorithm that finds a local minimum (index i such that a[i-1] &lt; a[i] &lt; a[i+1]).",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267414356918038528,
+        "user_id": 572820276,
+        "text": "Random numbers should not be generated with a method chosen at random. - Donald Knuth",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267406761603985408,
+        "user_id": 572820276,
+        "text": "All science is either physics or stamp collecting. - Ernest Rutherford.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267399792071569408,
+        "user_id": 572820276,
+        "text": "Assuming elements are uniformly distributed, what is the expectation number of swaps in insertion sort?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267376632706154496,
+        "user_id": 572820276,
+        "text": "B(n) is the number of ways that {1,2,...,n} can be partitioned into nonempty subsets. What is B(10)?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267369045851922434,
+        "user_id": 572820276,
+        "text": "D(n) is the number of permutations of {1,2,...,n} such that for all 1&lt;=k&lt;=n, k doesn't appear in the k-th position. What is D(n)?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267361460377665536,
+        "user_id": 572820276,
+        "text": "Given an array of N real numbers, design an N log N algorithm that determines whether any two of them sum to zero.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267331288031039490,
+        "user_id": 572820276,
+        "text": "Given an array of N numbers, design O(n) algorithm that identifies a majority(i.e, an element that appears more than N/2 times).",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267202906240856065,
+        "user_id": 572820276,
+        "text": "Implement a queue using two stacks.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267187824857505792,
+        "user_id": 572820276,
+        "text": "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. - John von Neumann",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267180282504830976,
+        "user_id": 572820276,
+        "text": "Implement a stack that returns minimum value in O(1) time.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267150057104535552,
+        "user_id": 572820276,
+        "text": "Explain how to solve the bipartite matching problem by reducing it to a max flow problem.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267142534750302208,
+        "user_id": 572820276,
+        "text": "Given an array of N real numbers, design an N log N algorithm that finds a local minimum (index i such that a[i-1] &lt; a[i] &lt; a[i+1]).",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267134958029565952,
+        "user_id": 572820276,
+        "text": "Random numbers should not be generated with a method chosen at random. - Donald Knuth",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267127433632706561,
+        "user_id": 572820276,
+        "text": "All science is either physics or stamp collecting. - Ernest Rutherford.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267104769174200320,
+        "user_id": 572820276,
+        "text": "Assuming elements are uniformly distributed, what is the expectation number of swaps in insertion sort?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267097319880585216,
+        "user_id": 572820276,
+        "text": "B(n) is the number of ways that {1,2,...,n} can be partitioned into nonempty subsets. What is B(10)?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267089668660576256,
+        "user_id": 572820276,
+        "text": "D(n) is the number of permutations of {1,2,...,n} such that for all 1&lt;=k&lt;=n, k doesn't appear in the k-th position. What is D(n)?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267082157614198785,
+        "user_id": 572820276,
+        "text": "Given an array of N real numbers, design an N log N algorithm that determines whether any two of them sum to zero.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267074567865987072,
+        "user_id": 572820276,
+        "text": "Implement a queue using two stacks.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267067066147725313,
+        "user_id": 572820276,
+        "text": "Given an array of N numbers, design O(n) algorithm that identifies a majority(i.e, an element that appears more than N/2 times).",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266953770568564736,
+        "user_id": 572820276,
+        "text": "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. - John von Neumann",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266946266988032000,
+        "user_id": 572820276,
+        "text": "Implement a stack that returns minimum value in O(1) time.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263782391618904064,
+        "user_id": 1166562422758551554,
+        "text": "#Royalehightrades #royalehighGiveaways https://t.co/IGlr5vxW6V",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263778353804455936,
+        "user_id": 1166562422758551554,
+        "text": "@ArtBlox_406 @robloxdevrel WAIT THIS IS ROBLOX?\n\nI THOUGHT YOU WERE TAKING PICS IRL\n\nTALENTED AF",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263777931958067200,
+        "user_id": 1166562422758551554,
+        "text": "@laytheavocadox LMAOO",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263777381522817024,
+        "user_id": 1166562422758551554,
+        "text": "#royalehightrades https://t.co/YgH2kOZKaZ",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263776717388296193,
+        "user_id": 1166562422758551554,
+        "text": "@AlbertsStuff how about breaking point or tower of hell?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263776550341746688,
+        "user_id": 1166562422758551554,
+        "text": "@v3ntridel THIS IS THE MOST RACIST THING IVE SEEN\n\nLIKE WTH",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263776040494776321,
+        "user_id": 1166562422758551554,
+        "text": "@laytheavocadox NOOOOO\nwe'll miss you lay T^T",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263399084523753473,
+        "user_id": 1166562422758551554,
+        "text": "@TradingLay you are u-u",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263398847499427840,
+        "user_id": 1166562422758551554,
+        "text": "@queensiecase wait what's going on in the rhtc?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263398264373751808,
+        "user_id": 1166562422758551554,
+        "text": "@BeeismRblx wait, wouldn't it be cool to have glowing ugc accessories? because this reminded me of the alien bopper\u2026 https://t.co/5TjpkeCOlg",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263397613447122944,
+        "user_id": 1166562422758551554,
+        "text": "@SparklyMochi @BeeismRblx @NE_DieSoft oml that would be perfect-",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263397315047497728,
+        "user_id": 1166562422758551554,
+        "text": "@BeeismRblx @NE_DieSoft the price tho?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263397181811232769,
+        "user_id": 1166562422758551554,
+        "text": "@BeeismRblx @NE_DieSoft OML AHH\n\nthis would be perfect in brown, black and blonde.\n\ncolor combos would probably be\u2026 https://t.co/lGrZBpkEBg",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263396811466776576,
+        "user_id": 1166562422758551554,
+        "text": "@BasicallyBlxbrg done!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263396539260698624,
+        "user_id": 1166562422758551554,
+        "text": "@OceanOrbsRBX i wouldn't u-u",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1262427660606681088,
+        "user_id": 1166562422758551554,
+        "text": "any halo is fine :&gt; https://t.co/OQKe6habqx",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1262427473532289024,
+        "user_id": 1166562422758551554,
+        "text": "@laytheavocadox hiii",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1259385039265116160,
+        "user_id": 1166562422758551554,
+        "text": "@OceanOrbsRBX i want the diamonds because i'm broke...\nthat's it.\n\nuser: maiaTDMfan13",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258242977291534336,
+        "user_id": 1166562422758551554,
+        "text": "@nightbarbie AHHH GHVBUKJVHBK",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267320730506723328,
+        "user_id": 731507167396659200,
+        "text": "\ud83d\ude4f\ud83c\udffe https://t.co/SNJwBS1U5f",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267317988224643073,
+        "user_id": 731507167396659200,
+        "text": "Give it up to God and pray",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267313171091636225,
+        "user_id": 731507167396659200,
+        "text": "#BlackLivesMatter",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267313080985432066,
+        "user_id": 731507167396659200,
+        "text": "@clb5_ Happy birthday \ud83c\udf8a",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267311645728165888,
+        "user_id": 731507167396659200,
+        "text": "@FrvdoRashad Lmaooo",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267253989122457600,
+        "user_id": 731507167396659200,
+        "text": "\ud83d\ude02 https://t.co/SFVdjeoMWz",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266990389464117248,
+        "user_id": 731507167396659200,
+        "text": "Need Jesus now more than ever",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266975935389196293,
+        "user_id": 731507167396659200,
+        "text": "That weave game crucial https://t.co/9SJihnFNpC",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266949964770562048,
+        "user_id": 731507167396659200,
+        "text": "\ud83d\ude02\ud83d\ude02 https://t.co/WWXsCaKJs5",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266923285440352256,
+        "user_id": 731507167396659200,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/hy8gMEv5zB",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266914645295669254,
+        "user_id": 731507167396659200,
+        "text": "Don\u2019t wear a cape so ion do no savin \ud83e\udd74 https://t.co/aJgrlTnUdT",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266567786752626694,
+        "user_id": 731507167396659200,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23 https://t.co/oaCOhjmZII",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266567195997409280,
+        "user_id": 731507167396659200,
+        "text": "Why u not? https://t.co/iXBXHE23Uc",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267350927788445696,
+        "user_id": 1017422217683054594,
+        "text": "Morning all \ud83c\udf08\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267350482030338053,
+        "user_id": 1017422217683054594,
+        "text": "@caskaleweek @YorkBrewery #CaskAleWeek",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267350357648252928,
+        "user_id": 1017422217683054594,
+        "text": "Click to #win Like a Boss on DVD with @HeyUGuys  https://t.co/xFhVwLE7cz",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267350295568416769,
+        "user_id": 1017422217683054594,
+        "text": "Click to #win Onward on Blu-ray with @HeyUGuys  https://t.co/XPHhXU0PJd",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267350220968538113,
+        "user_id": 1017422217683054594,
+        "text": "I'm hoping to WIN @pernatonuk for joint massage with @jakijellz  #comp #giveaway #winit https://t.co/67VBajVobr",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267350134469414912,
+        "user_id": 1017422217683054594,
+        "text": "#Giveaway - Enter now for your chance to #win a small games bundle with @randommusings29 https://t.co/27Knx8DJk5",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267349954219126787,
+        "user_id": 1017422217683054594,
+        "text": "I'm hoping to WIN an @ACECLEANUK cleaning bundle with @jakijellz  #comp #giveaway #winit https://t.co/xgKv1ILfTh",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267382235759620096,
+        "user_id": 892109857603584001,
+        "text": "Genuinely why https://t.co/JL8GuC5C3o",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267376573008809985,
+        "user_id": 892109857603584001,
+        "text": "thinking about reading mha",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267347675848019969,
+        "user_id": 892109857603584001,
+        "text": "Read Chapter 13 - 17 of Golden Kamuy (https://t.co/YvohzpTw25) #AniList",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267310428545302529,
+        "user_id": 892109857603584001,
+        "text": "@7jeeeeeeec @DarcWoIf 22nd in the making",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267305599810887682,
+        "user_id": 892109857603584001,
+        "text": "@LINGUIS_ The way she talks, her whole physique, character design, and body motions along with shafts style makes f\u2026 https://t.co/2S9ymIGWd0",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267287491817734145,
+        "user_id": 892109857603584001,
+        "text": "chap 10 golden kamuy so raw",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267275959847260160,
+        "user_id": 892109857603584001,
+        "text": "@styxwastaken golden kamuy read and aot reread + aot s3p2 rewatch",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267275856306634752,
+        "user_id": 892109857603584001,
+        "text": "@TheGintamaMan WECHYY\nWE GOOD HS DONE BABY",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267275728799793152,
+        "user_id": 892109857603584001,
+        "text": "@JohnCena john cena you been following a lot of people is it possible i could get a follow as well?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267233175119581185,
+        "user_id": 892109857603584001,
+        "text": "5 people followed me and 5 people unfollowed me // automatically checked by https://t.co/8EBmdQ7ceH",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267424860742971392,
+        "user_id": 1082441042354302976,
+        "text": "@MaRnAbEzZy @Briggs Hello, if I called the police station regarding this situation would I be dealt with?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267414629006766083,
+        "user_id": 1082441042354302976,
+        "text": "@SucculentSeokie Hey, you have always been the one checking up on me, but I want to say thank you and I hope you\u2019re\u2026 https://t.co/Tp2EjiSYYD",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267411669971435521,
+        "user_id": 1082441042354302976,
+        "text": "@OT7blessed Hey could you please dm me to, don\u2019t know what\u2019s going on",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267096033256853506,
+        "user_id": 1082441042354302976,
+        "text": "@letmeoffearth @d0jafiend @lilydoitbetter @rap_mon_cheri @YourAnonCentral Do you know why people like this and most\u2026 https://t.co/Q8AdZXNKlo",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266935706762358784,
+        "user_id": 1082441042354302976,
+        "text": "@foreveraintae Please be safe, thanks for being there and making our voices louder. Protect others, and yourself !!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266920526796054528,
+        "user_id": 1082441042354302976,
+        "text": "They still don\u2019t care about us #BlacklivesMaters https://t.co/UGVyAzobyd",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266543927781240832,
+        "user_id": 1082441042354302976,
+        "text": "To all my Aussie moots, let\u2019s not forget that racism towards black people is still prevalent, indeginous people are\u2026 https://t.co/aqPYzvahBc",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266542900990509057,
+        "user_id": 1082441042354302976,
+        "text": "Racism and injustice is everywhere, it\u2019s doesn\u2019t just take the form of murder, it\u2019s also the way you speak, the way\u2026 https://t.co/KS37rJkH7L",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265884397485436929,
+        "user_id": 1082441042354302976,
+        "text": "@vantaepedia #BlackLivesMatter",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265775125825073152,
+        "user_id": 1082441042354302976,
+        "text": "@TDorss @Drouse108Rouse @Jxparisxo @goBEYgo Yes but those police men get the punishment when they kill a white pers\u2026 https://t.co/T6kVrspM2R",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265591641294815233,
+        "user_id": 1082441042354302976,
+        "text": "@2Bunbunz @QuinDecimXV @xojaylin Yess most of my spots are from mosquito bites ugh I hate those pesky good for noting insects \ud83d\ude29",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265047083087609856,
+        "user_id": 1082441042354302976,
+        "text": "@COFFEE_thereal @stankpop_19 @namjintellect I think they\u2019re talking about the jungkook photo",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1264448797750333440,
+        "user_id": 1082441042354302976,
+        "text": "@peachtata_ @Serena_Ciel @TAESUNlVERSE Sorry I\u2019m not understanding, how did K-Armys boycott sweet night?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1263781398495637505,
+        "user_id": 1082441042354302976,
+        "text": "@SucculentSeokie Hey, I know this is late but I would love to join this gc and be apart of it, thank you \ud83d\ude0a",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1262720324858048512,
+        "user_id": 1082441042354302976,
+        "text": "@kookiearmy_ Hey could you dm me please?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267413952713166850,
+        "user_id": 989882260215160833,
+        "text": "What a joke. https://t.co/QLefig9QKe",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267413720659120136,
+        "user_id": 989882260215160833,
+        "text": "@kaushikcbasu First Save your own ass in USA.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267413285948792832,
+        "user_id": 989882260215160833,
+        "text": "@DM_Banda1 @sardesairajdeep \u090f\u0915 \u0915\u0947\u0938 \u0924\u094b \u0915\u0930\u093f\u090f\u0964",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267412579628048385,
+        "user_id": 989882260215160833,
+        "text": "@MahilaCongress @smritiirani \u0938\u094b\u0928\u093f\u092f\u093e \u091c\u0940 \u0924\u094b \u0930\u093e\u092f\u092c\u0930\u0947\u0932\u0940 \u092e\u0947 \u0939\u0940 \u0921\u0947\u0930\u093e \u0921\u093e\u0932 \u0915\u0947 \u092c\u0948\u0920\u0940 \u0939\u0941\u092f\u0940 \u0939\u0948?\n@RahulGandhi ??",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267407790726938626,
+        "user_id": 989882260215160833,
+        "text": "@ArvindKejriwal \u091d\u093e\u0902\u091f \u0915\u093e\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u094d\u092f\u093e \u0909\u092a\u093e\u092f \u0915\u093f\u092f\u093e \u0935\u0947\u0964",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267270374900862977,
+        "user_id": 989882260215160833,
+        "text": "The shit of @TheTweetOfGod https://t.co/V8J1Nc7DaH",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267267904103493639,
+        "user_id": 989882260215160833,
+        "text": "@TheTweetOfGod You are god of bastards",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267267721273712640,
+        "user_id": 989882260215160833,
+        "text": "Non Muslim life doesn't matter? https://t.co/rLWYw6BF0q",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267259550257872896,
+        "user_id": 989882260215160833,
+        "text": "Hello leftist bastard and lutyenites, you are this only. https://t.co/72VCpv8vwo",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267244169631760386,
+        "user_id": 989882260215160833,
+        "text": "@abhijitmajumder Udhav is \"page three\" CM.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267131698090700800,
+        "user_id": 989882260215160833,
+        "text": "So @ArvindKejriwal beats @OfficeofUT \nHello lutyens,  save your ass. https://t.co/EVHTtR0kwi",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267128517130477568,
+        "user_id": 989882260215160833,
+        "text": "This is #BlackLivesMatter ? https://t.co/kGWuxEA7w7",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267106716291706882,
+        "user_id": 989882260215160833,
+        "text": "Hello @sagarikaghose https://t.co/V8J1Ncpe2f",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267105065006817285,
+        "user_id": 989882260215160833,
+        "text": "And this IPS is product from Liar Leftist Factory called JNU. https://t.co/7yubTLFXL3",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267277151797116928,
+        "user_id": 2613946507,
+        "text": "@johncusack advice from my fav college lecture updated by me: How to attend a protest;\n1 Don\u2019t bring a date\n2 Choos\u2026 https://t.co/fhqNgpyoql",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267276076335710208,
+        "user_id": 2613946507,
+        "text": "@DavidJPeterson nice to meet you. INTJ, coffee aficionado- famous for saying \u201cI don\u2019t like music I\u2019ve never heard b\u2026 https://t.co/WFp83AlnsB",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267141672384765955,
+        "user_id": 2613946507,
+        "text": "@AliceLfc4 Mute them.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267099132474376196,
+        "user_id": 2613946507,
+        "text": "@KillerMartinis @justkelly_ok Heal well.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267099060420435968,
+        "user_id": 2613946507,
+        "text": "@KillerMartinis @justkelly_ok Lack of Depth perception will be hard for a while but you\u2019ll get used to it. Eventual\u2026 https://t.co/1m96i3JAMv",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267093791028248577,
+        "user_id": 2613946507,
+        "text": "Extremely bad idea. 1 man with bow and arrow vs countless protesters. Bow and arrow guy surely loses . https://t.co/BofVAhEWtc",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267090779048116224,
+        "user_id": 2613946507,
+        "text": "@Toastcat4618 Frolic - that was in the Romper Room song! \u201cOh, come with us and frolic and frolic, and frolic, oh co\u2026 https://t.co/gJZxzlAApL",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267090279120723968,
+        "user_id": 2613946507,
+        "text": "@Toastcat4618 Amazing!!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1266466209496735744,
+        "user_id": 2613946507,
+        "text": "@davematt88 \ud83d\ude02\ud83d\ude0e\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265443331804463104,
+        "user_id": 273778736,
+        "text": "@papaya_ex Na stone cafe be the new location now? \ud83e\udd23\ud83d\ude02\ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265440703582277635,
+        "user_id": 273778736,
+        "text": "@AngelOsuagwu He, He He and He",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265434915073597440,
+        "user_id": 273778736,
+        "text": "@HislordshipB Omo, she just use caterpillar scrape her bedroom commot but another bricklayer don renovate that side\u2026 https://t.co/uYz8yuVqAc",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1261090729939677190,
+        "user_id": 273778736,
+        "text": "@bluegirlolu https://t.co/5WglBlsNsJ",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1261086843484999681,
+        "user_id": 273778736,
+        "text": "We spend the whole of our life gathering guest for our funeral",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258751459031728130,
+        "user_id": 273778736,
+        "text": "@Mide_xoxo Do PT again",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258751008307662851,
+        "user_id": 273778736,
+        "text": "@Pog_llins Why so u have to break the code here bro",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258739682474700802,
+        "user_id": 273778736,
+        "text": "@chidinmaekile I just started a logistics business of running errands and doing pickup &amp;delivery for people..    I\u2026 https://t.co/KERnDugkbh",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258737304656543745,
+        "user_id": 273778736,
+        "text": "@djjimmyjatt Just 5k to improve my business this pandemic period at least to survive.     Thanks, Uncle Jimmy #ShomobyEfe",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258736659992055815,
+        "user_id": 273778736,
+        "text": "@djjimmyjatt Just 5k to improve my business this pandemic period at least to survive.     Thanks, Uncle Jimmy #ShomobyEfe",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258736245200560128,
+        "user_id": 273778736,
+        "text": "@djjimmyjatt Just 5k to improve my business this pandemic period at least to survive #ShomobyEfe",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1258733277944393730,
+        "user_id": 273778736,
+        "text": "@temsbaby https://t.co/tgFnMNp6P9",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1249679138710937604,
+        "user_id": 1214472448403329024,
+        "text": "I just took the #MannKiBaat Quiz. Try it now on the Narendra Modi App! https://t.co/zQjjeiZFdw",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1249589386573795328,
+        "user_id": 1214472448403329024,
+        "text": "Thanks Inshorts for this news..\nMy question is why are we still lacking in protective gears?? It's been weeks since\u2026 https://t.co/KS0vDRPfN5",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1243487099589767168,
+        "user_id": 1214472448403329024,
+        "text": "@ZeeNews Parineeti chopra..sheadhha kapoor",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1243486921285758978,
+        "user_id": 1214472448403329024,
+        "text": "@rishibagree #ChineseVirus19",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1242881751132688384,
+        "user_id": 1214472448403329024,
+        "text": "@KanganaTeam Here u r improving sub conscious..while thousands r thinking how to feed their families..nice!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1242872704698482688,
+        "user_id": 1214472448403329024,
+        "text": "@ChinaScience .",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1242865668690571264,
+        "user_id": 1214472448403329024,
+        "text": "@BesuraTaansane madeinchinavirus",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267436994369654787,
+        "user_id": 798298660522037248,
+        "text": "Freezer?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267418120295190530,
+        "user_id": 798298660522037248,
+        "text": "Beta, I'll see you next time again, okay?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267414344461156355,
+        "user_id": 798298660522037248,
+        "text": "Great idea Dad but it get a little snug in there.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267406796295200770,
+        "user_id": 798298660522037248,
+        "text": "I will resurrect many time, with more strength.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267403021836783617,
+        "user_id": 798298660522037248,
+        "text": "I'm right up here above you I've been waiting.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267399244580864001,
+        "user_id": 798298660522037248,
+        "text": "I will never given you even one bean!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267395471221436416,
+        "user_id": 798298660522037248,
+        "text": "https://t.co/F6RbuAdzti",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267391696893083653,
+        "user_id": 798298660522037248,
+        "text": "Let's be friends!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267387919582593024,
+        "user_id": 798298660522037248,
+        "text": "Now you about to die!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267380371638890496,
+        "user_id": 798298660522037248,
+        "text": "I will change the future! I will not let it happen!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267376595771195396,
+        "user_id": 798298660522037248,
+        "text": "Does Saiya-men still survival?",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267369048184172544,
+        "user_id": 798298660522037248,
+        "text": "Please don't misunderstand Kakarot, I did not come to HELP you.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267361496473927682,
+        "user_id": 798298660522037248,
+        "text": "Look at dragonball!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267357722560921600,
+        "user_id": 798298660522037248,
+        "text": "Huh! Demon! Agh!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267350174772408327,
+        "user_id": 798298660522037248,
+        "text": "But my father is badly insured!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267346397851979776,
+        "user_id": 798298660522037248,
+        "text": "Now I'm angry!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267342621409763330,
+        "user_id": 798298660522037248,
+        "text": "We can't win! He is The True Legend of The Super Saiya!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267338847165329414,
+        "user_id": 798298660522037248,
+        "text": "My power is over your expect.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267335071213772801,
+        "user_id": 798298660522037248,
+        "text": "Ah there you are The Legendary Warrior of SPACE.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267319972444987397,
+        "user_id": 798298660522037248,
+        "text": "Kakarot, you must come back to the Saiya People!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267308648214167552,
+        "user_id": 798298660522037248,
+        "text": "I'm not Kakarotto, I'm not Kakarotto! My name is Goku!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267304877073534976,
+        "user_id": 798298660522037248,
+        "text": "If he is not destroyed, it will be the end of this cosmos!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267301099092017154,
+        "user_id": 798298660522037248,
+        "text": "You inherited the blood of Saiya People! I am the Saiya People!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267297322863648775,
+        "user_id": 798298660522037248,
+        "text": "If I don't eat rice, the power won't come!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267289772353040391,
+        "user_id": 798298660522037248,
+        "text": "Gohan, remember. No more combination after this.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265844594194833409,
+        "user_id": 47760064,
+        "text": "Social Distance: a graphic short story for the coronavirus age by Mark Haddon https://t.co/N4KzGwU501",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265753257831325696,
+        "user_id": 47760064,
+        "text": "A Marriage Made in Heaven: Anne Lamott and Neal Allen https://t.co/CBracYagJK",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265543416865267721,
+        "user_id": 47760064,
+        "text": "We Are One: A Global Film Festival Announces Lineup of Free Programming  https://t.co/XrBwVOieHl",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1265207721772474368,
+        "user_id": 47760064,
+        "text": "The best TV shows you\u2019ve never heard of https://t.co/8B2zbWF1Vv via @BBC_Culture",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1264172995347505157,
+        "user_id": 47760064,
+        "text": "'A joyful thing': the man who wrote his wife a poem every day for 25 years https://t.co/MYWl6ocGCJ",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1264018175198236673,
+        "user_id": 47760064,
+        "text": "Robert Fisk: reporting from the frontline https://t.co/momGWzajZs",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267438753771065344,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:52 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267438501714329601,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:51 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267438249385103360,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:50 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267438001442955264,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:49 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267437749264670721,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:48 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267437497258311682,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:47 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267437244878589952,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:46 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267436992490602498,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:45 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267436740383510534,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:44 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267436488117161985,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:43 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267436240045047808,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:42 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267435987724107776,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:41 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267435735474417665,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:40 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267435483182891008,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:39 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267435230765481984,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:38 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267434978645651456,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:37 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267434726270394369,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:36 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267434478231846915,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:35 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267434225990610947,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:34 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267433973854154752,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:33 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267433721629720578,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:32 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267433469380042752,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:31 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267433217331773448,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:30 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267432965002465281,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:29 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267432717018431489,
+        "user_id": 4306616260,
+        "text": "The time is currently: 01:28 PM  on Monday, 01 June 2020",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267338267130642432,
+        "user_id": 793986088587010048,
+        "text": "@j6ehyun my ass is NOT reading \ud83e\udd23\ud83e\udd23",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267337670964858880,
+        "user_id": 793986088587010048,
+        "text": "@renjnu renjnu.. RENJNU",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267337368622649345,
+        "user_id": 793986088587010048,
+        "text": "@renjnu WHA THTE FUCK",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267294461916114944,
+        "user_id": 793986088587010048,
+        "text": "@gaylilrenjun his smile whenever she called him cute like. HES JUST SOOOO",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267293827779268608,
+        "user_id": 793986088587010048,
+        "text": "@gaylilrenjun YESSS this interview was so cute",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267288568658972672,
+        "user_id": 793986088587010048,
+        "text": "@punchnct and suddenly theyre on priv",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267279568273936384,
+        "user_id": 793986088587010048,
+        "text": "@YUMEM1TE [throws dart] nctzens and [spins the wheel] ummmm blinks",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267279386840981504,
+        "user_id": 793986088587010048,
+        "text": "@perriesvmin give the receipts dont try to create a fanwar... \ud83d\ude10",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267277637002510336,
+        "user_id": 793986088587010048,
+        "text": "@izrves whenever my mom says something colourist and then my ENTIRE FAMILY berates her and asks her abt her black c\u2026 https://t.co/wL83iMbngB",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267276985694253056,
+        "user_id": 793986088587010048,
+        "text": "genuinely.. my mom is so offensive and every single time she makes a colourist comment i argue with her about it bu\u2026 https://t.co/AeF27ycdaj",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267274675437989889,
+        "user_id": 793986088587010048,
+        "text": "@j6ehyun \uc774\uac83 \ub9de\uc544 HELPPP\u00a3|\u20ac\\\u00a5~\u00a3]+  this cant be real this cant.....",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267274092039692288,
+        "user_id": 793986088587010048,
+        "text": "@j6ehyun white.... WHITE... BUT POSTING A STORY THAT IS IN KOREAN",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267273857066348544,
+        "user_id": 793986088587010048,
+        "text": "@Iee_mrk haechans having a field day with this one",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267273604296630272,
+        "user_id": 793986088587010048,
+        "text": "@j6ehyun WHAT THE",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267253983585767424,
+        "user_id": 793986088587010048,
+        "text": "chenle i know u love steph curry i know u would do anything for him so u gotta open up ur wallet \ud83d\udda4\ud83d\udc50\ud83c\udffb",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267253399029862400,
+        "user_id": 793986088587010048,
+        "text": "@ImanMo8 @urtaehyungie @LALlSA_bae @yugnation_ @TaeTaeGucci10 you clearly do not know a single thing about jonestow\u2026 https://t.co/CEfuWGF92O",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267222280553160704,
+        "user_id": 793986088587010048,
+        "text": "@j6ehyun tim@hortons caramel iced capp yup yup",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267328870274957312,
+        "user_id": 847780772,
+        "text": "S\u2019nice https://t.co/HQ2evKdvLF",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267328595711623168,
+        "user_id": 847780772,
+        "text": "Luv a bit of stereo semen https://t.co/MYyBtwJylr",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267328135743373312,
+        "user_id": 847780772,
+        "text": "Oh, I cud think of a few things. https://t.co/TyKNeKLZG1",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267327851952513024,
+        "user_id": 847780772,
+        "text": "Fit fuzzy foreskinned fcuker https://t.co/jWgQgUOfqo",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267327503275888642,
+        "user_id": 847780772,
+        "text": "Well worth a re retweet doncha fink https://t.co/jj2oInQEZv",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267322947674550272,
+        "user_id": 847780772,
+        "text": "Hot hairy shooter https://t.co/ZXRhYvxZNx",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267206082985852930,
+        "user_id": 847780772,
+        "text": "S\u2019nice https://t.co/MSqETrToAU",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267205757415628802,
+        "user_id": 847780772,
+        "text": "Did he have a stroke? https://t.co/utUsWl0kbr",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267205066177552389,
+        "user_id": 847780772,
+        "text": "S\u2019nice https://t.co/wPCNhRnRWd",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267204876808916992,
+        "user_id": 847780772,
+        "text": "\ud83d\udc45 https://t.co/yu69F7TnBV",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267156501128531972,
+        "user_id": 847780772,
+        "text": "Love the jaunty music in the background https://t.co/1spsN6RBE3",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267155964760915971,
+        "user_id": 847780772,
+        "text": "What a tosser! You work with the data at hand. You can\u2019t be between 3 an 4 you idiot! https://t.co/HQz9oxNgmV",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267096273900974081,
+        "user_id": 847780772,
+        "text": "Stunner https://t.co/2QFtAEVrYO",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267078125516701696,
+        "user_id": 847780772,
+        "text": "@dammers1981 And the scent is amazing",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267075033488334851,
+        "user_id": 847780772,
+        "text": "Everything\u2019s better with a fag https://t.co/sN2pBfBcX0",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267074364991832066,
+        "user_id": 847780772,
+        "text": "Sounds like a plan https://t.co/id3QHNTNpV",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267074206828761089,
+        "user_id": 847780772,
+        "text": "My new rose \u2018sweet love\u2019. https://t.co/sdEkgeivea https://t.co/ro3UO34uwk",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267073808843882496,
+        "user_id": 847780772,
+        "text": "He\u2019s very hot, pity we missed the end https://t.co/DyBI3SzkwL",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267073111767334912,
+        "user_id": 847780772,
+        "text": "Nice but more\ud83e\udd74 https://t.co/SQ6I1qtFBE",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267072748687327234,
+        "user_id": 847780772,
+        "text": "Swiss roll, sherry, fruit cocktail, raspberry jelly, thick custard, whipped sweetened cream and glac\u00e9 cherries. https://t.co/OMWCj3EUMe",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267069620302893056,
+        "user_id": 847780772,
+        "text": "That\u2019s how you throat fuck. https://t.co/OGecZrjEjW",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267069310880677888,
+        "user_id": 847780772,
+        "text": "Is your dad a fit otter too?? https://t.co/cv0blga9qO",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267068858445320192,
+        "user_id": 847780772,
+        "text": "Very pretty. Nice plants too. https://t.co/cayYLf97BN",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267068741789024256,
+        "user_id": 847780772,
+        "text": "Oh I don\u2019t know https://t.co/GsyB1lfT9M",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267394662391664640,
+        "user_id": 1641707060,
+        "text": "My lrt.",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267390438337470464,
+        "user_id": 1641707060,
+        "text": "Fully*",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267389995301474305,
+        "user_id": 1641707060,
+        "text": "If u are protesting please full cover urself head to toe and please be careful and aware of ur surroundings if some\u2026 https://t.co/OHcE38hL2o",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267389736525500418,
+        "user_id": 1641707060,
+        "text": "@samiizzllee https://t.co/0ubuOI8X5x all my 4 years and by random boys every other day",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267388956703744002,
+        "user_id": 1641707060,
+        "text": "Imagine being blamed for wearing a dress and u feel boys slide their hands up ur leg \u201cwell u shouldnt have worn tha\u2026 https://t.co/A5qeZzsmdN",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267385923966140422,
+        "user_id": 1641707060,
+        "text": "Shut up hoe",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267373405776404482,
+        "user_id": 1641707060,
+        "text": "She SPEAKING!",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1267370946861469697,
+        "user_id": 1641707060,
+        "text": "How u gonna say/do something anti black or racist as fuck and not expect to get doxxed and get ur ass beat? I don\u2019t get it \ud83d\ude11",
+        "classifier": "highly-anonymous",
+        "classification": "Cody"
+    },
+    {
+        "id": 1262982912800165888,
+        "user_id": 1245277413208133633,
+        "text": "\ud83d\ude2a https://t.co/pJgulxG1nf",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1255927265835319296,
+        "user_id": 1245277413208133633,
+        "text": "@LaibaMalik07 Laiba hassan rizvi",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1255927041704280070,
+        "user_id": 1245277413208133633,
+        "text": "\u0645\u062c\u06be\u06d2 \u0645\u0646\u0641\u0631\u062f \u0633\u0627 \u0628\u0646\u0627 \u0688\u0627\u0644\u0627...\n\u062a\u06cc\u0631\u06cc \u0645\u062e\u062a\u0635\u0631 \u0633\u06cc \u0645\u062d\u0628\u062a \u0646\u06d2...",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249590309677391872,
+        "user_id": 1245277413208133633,
+        "text": "\u06a9\u0686\u06be \u0644\u0648\u06af \u062d\u06cc\u0627\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u062a\u06d2.    \n\u0648\u0627\u062d\u06cc\u0627\u062a \u06c1\u0648\u062a\u06d2 \u06c1\u06cc\u06ba... \u062a\u0627\u062d\u06cc\u0627\u062a \u06c1\u0648\u062a\u06d2 \u06c1\u06cc\u06ba",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249589699276046336,
+        "user_id": 1245277413208133633,
+        "text": "Never smile at your phone when you're with your parents",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1246741006332170240,
+        "user_id": 1245277413208133633,
+        "text": "When I'm talking without emojies\n\nConsider me serious :)",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1246733022789079040,
+        "user_id": 1245277413208133633,
+        "text": "@sayedTaimour I know",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1246710531458818050,
+        "user_id": 1245277413208133633,
+        "text": "@sayedTaimour What hmm",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1246709051087556608,
+        "user_id": 1245277413208133633,
+        "text": "Crush pr crush sirf tb tak hota ha.. Jab tak usse bat nhi hojati.. Talk to them once and then.. Booooom",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1246330905423220741,
+        "user_id": 1245277413208133633,
+        "text": "Bore to sb aisy ho rhy hn jaisy NASA k scientists thy phly",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1246330205880410112,
+        "user_id": 1245277413208133633,
+        "text": "If people in the movies listened to me, they would be still alive",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245952873734832128,
+        "user_id": 1245277413208133633,
+        "text": "When someone send a screenshot I notice their battery percentage, Network type, is it connected to wifi, whether headphones are plugged in",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245670130283171842,
+        "user_id": 1245277413208133633,
+        "text": "\"Neki kar,darya ma dal\" Donate kar k koi nae btata https://t.co/cTnunVsRUJ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245668582387834882,
+        "user_id": 1245277413208133633,
+        "text": "@yeaMariam_ Really \ud83d\ude25",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245617782516887552,
+        "user_id": 1245277413208133633,
+        "text": "\u062a\u06cc\u0631\u06d2 \u0631\u0627\u0628\u0637\u0648\u06ba \u0645\u06cc\u06ba \u0648\u0642\u0641\u06d2\u060c \u062a\u06cc\u0631\u06cc \u0628\u06be\u0648\u0644\u0646\u06d2 \u06a9\u06cc \u0639\u0627\u062f\u062a..\n\u06a9\u06c1\u06cc\u06ba \u062f\u0648\u0631 \u06c1\u0648 \u0646\u06c1 \u062c\u0627\u0646\u0627\u060c \u06cc\u0648\u0646\u06c1\u06cc \u062f\u0648\u0631 \u0631\u06c1\u062a\u06d2 \u0631\u06c1\u062a\u06d2......",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245614181518172160,
+        "user_id": 1245277413208133633,
+        "text": "Other countries : That's what I'm trying to say\n\nIn Pakistan :Mery mun ki bat cheen li tuny",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245611154384121858,
+        "user_id": 1245277413208133633,
+        "text": "U should get a life and stay up to date https://t.co/7i4gX3BOAr https://t.co/7PUdPcn1li",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245289648622092298,
+        "user_id": 1245277413208133633,
+        "text": "My house should be renamed as \"University\" because lectures are delivered here 24/7.\n#lockdownUKnow",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245282357885784064,
+        "user_id": 1245277413208133633,
+        "text": "\u2764\ufe0f https://t.co/GExyQPRCkW",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245280306598424578,
+        "user_id": 1245277413208133633,
+        "text": "https://t.co/oqsDFoF1oW https://t.co/5J2Eb1bfj7",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245279666853818370,
+        "user_id": 1245277413208133633,
+        "text": "Rest in home is better than rest in peace https://t.co/tKtr3UlKBR",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267218897494835200,
+        "user_id": 51792230,
+        "text": "@iffi_hoori @maji_tasneem @hiba_ch9 Looks really healthy.  yummy",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266945711410741249,
+        "user_id": 51792230,
+        "text": "You will not be around next time. Your stubborn history will be. \" we will have learned a lot, including how to do\u2026 https://t.co/ky2nKAva79",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266528242258915328,
+        "user_id": 51792230,
+        "text": "@curryspcworld  I bought BEKO cooker on 17th May. Only used once and pic of job is attached.  Send and email to BEK\u2026 https://t.co/zwk2l22ekc",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266527375908618240,
+        "user_id": 51792230,
+        "text": "@Beko Hi I have recently emailed my query.  I bought BEKO cooker on 17th May. After using once the Ceramic hob look\u2026 https://t.co/HGEj3KPcTT",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265507239563051017,
+        "user_id": 51792230,
+        "text": "It could be Boris 's pet like DC gone loose. wondering around.\ud83d\ude48 police called after 'big cat' spotted on loose in n\u2026 https://t.co/n1gBkDTY2q",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265506518679662599,
+        "user_id": 51792230,
+        "text": "Oh  that is a big cat.\ud83d\ude48\ud83d\ude48Armed police called after 'big cat' spotted on loose in north London https://t.co/HuCdg26Qvu",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265358733477138432,
+        "user_id": 51792230,
+        "text": "Inconsistencies between Cummings\u2019 lockdown story and his wife\u2019s https://t.co/llOO21szWK",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265112175363981313,
+        "user_id": 51792230,
+        "text": "@DavidLammy Well it was never respect.  They treated the world  like slaves. Then colonism started. Where does the world respect come from.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265111436000481281,
+        "user_id": 51792230,
+        "text": "@carolecadwalla Reason was to give the virus to old parents. Get rid of them. Just like other old citizens have rea\u2026 https://t.co/oc2t09mHWq",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264940893221662726,
+        "user_id": 51792230,
+        "text": "Just saw Labour leader's little party political broadcast about D Cummings.  His words holds no volume.  I wasn't i\u2026 https://t.co/4Zq9pTvkpq",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264933973366583300,
+        "user_id": 51792230,
+        "text": "Hole is getting deeper and deeper. It is much easier for Boris to join DC. DC is a lid on Boris's committed sins. \ud83d\ude48\u2026 https://t.co/eo5gzQPz0Q",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264843597372948480,
+        "user_id": 51792230,
+        "text": "@StephenMangan Spill it out. What's in your mind ? Solution.  Other hand hire DC. He will plan it for you. He made\u2026 https://t.co/Qm4ewap95w",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264842828586405888,
+        "user_id": 51792230,
+        "text": "@StephenMangan @BorisJohnson Boris is only protecting his brain. As BJ is a body and DC is a brain. DC did provid a\u2026 https://t.co/AeFfyWgSnD",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264841589677002753,
+        "user_id": 51792230,
+        "text": "@guardian Boris is body and Cummings is a brain. Body is dead without brain. They both go together and make another\u2026 https://t.co/JEGrtutFWC",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264840721762267136,
+        "user_id": 51792230,
+        "text": "@piersmorgan @BorisJohnson BJ owes  Cummings a lot even his life. Cummings /cunning lied to the public during EU ex\u2026 https://t.co/iO5svgquDp",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264832333368250368,
+        "user_id": 51792230,
+        "text": "@TheRaghav_Juyal I wish and pray for your full recovery. Ameen",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264406296536780800,
+        "user_id": 51792230,
+        "text": "Eid Mubarak to everyone.  x https://t.co/YQh9QRMNdx",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264136848114429953,
+        "user_id": 51792230,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/hHgaUNkmzZ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264116282493976576,
+        "user_id": 51792230,
+        "text": "@Barclaycard No I haven't  a bit lost here. I need urgent increase  as I am buying a new car.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264091072797511681,
+        "user_id": 51792230,
+        "text": "My first Eid Mubarak card and flowers have arrived.  Love you all Kids. \u2764\u2764\u2764\u2764\u2764\u2764 https://t.co/puNH73y0qH",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263742265534660609,
+        "user_id": 51792230,
+        "text": "@sumeersodhi a poodle. https://t.co/fc19LmjkBs",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263737316323008512,
+        "user_id": 51792230,
+        "text": "@wallahbro_ Usual story. Nothing has changed. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266854811338788864,
+        "user_id": 1239916972000845824,
+        "text": "@marigonzalez @gizellybicalho Foi tudo amei \ud83d\udc9b",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1258546796252430336,
+        "user_id": 1239916972000845824,
+        "text": "@zeluizlhesdiz Amooo",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266255489035235328,
+        "user_id": 971557827117551616,
+        "text": "@Dizney4j People love to go back and forth on things lol \ud83d\ude02 I don\u2019t judge people if they like a certain item lol",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266253249113251840,
+        "user_id": 971557827117551616,
+        "text": "Too each is own I love cake and pie \ud83e\udd67 is just not my thing lol \ud83d\ude02 https://t.co/99HprYbL8V",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266252823873720321,
+        "user_id": 971557827117551616,
+        "text": "@Malik_Streeter @ShenRodd @techjunkkie No problem always happy to support",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265074774469943303,
+        "user_id": 971557827117551616,
+        "text": "Dragon ball budokai 3 will always be a classic. Here's two clips from my #stream lmao \ud83e\udd23\ud83e\udd23\ud83e\udd23 the cheese didn't go too\u2026 https://t.co/pjMyZiVoX6",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264660507304263682,
+        "user_id": 971557827117551616,
+        "text": "@JeffEisenband Lol \ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264398488781160448,
+        "user_id": 971557827117551616,
+        "text": "@Lacefield It\u2019s okay to lose it\u2019s apart of life. No matter what you do. I understand in video games it can be frust\u2026 https://t.co/TJIiIKWCbK",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264210562688397314,
+        "user_id": 971557827117551616,
+        "text": "@Legit_Dinosaur @binxtv I did and thanks \ud83d\ude0e",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263528523815419906,
+        "user_id": 971557827117551616,
+        "text": "@Roit0 @binxtv @lurxquad @TwitchRetweetzy @TwitchShare @shoutyouts I think you should go back",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1262835950591381509,
+        "user_id": 971557827117551616,
+        "text": "Ignore what triggers you. Entertaining negativity is a true waste of energy",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1262511390411108354,
+        "user_id": 971557827117551616,
+        "text": "Idk I don\u2019t mind people using their emotes in my channel I don\u2019t consider it self promotion I mean if it\u2019s dope I d\u2026 https://t.co/JCiOQkDp8X",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265299289842110465,
+        "user_id": 1141024731564519424,
+        "text": "@zayyyyy04 \ud83d\udc10 destined to blow",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1264662342282993674,
+        "user_id": 1141024731564519424,
+        "text": "@Rinxz @ItsJayzzFN vouch",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263317822689751045,
+        "user_id": 1141024731564519424,
+        "text": "@FaZeSway 467",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261535658805473281,
+        "user_id": 1141024731564519424,
+        "text": "@FaZeSway @FaZeClan Congrats bro\u2764\ufe0f \ud83e\udd73",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1259224279146692610,
+        "user_id": 1141024731564519424,
+        "text": "@soIsions it\u2019s called being a perfectionist",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1255441296338157572,
+        "user_id": 1141024731564519424,
+        "text": "@ObiJai 21",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251775965602156544,
+        "user_id": 1141024731564519424,
+        "text": "@soIsions He is in faze u Down syndrome",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251270850180976642,
+        "user_id": 1141024731564519424,
+        "text": "@soIsions Yes",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249802331392262150,
+        "user_id": 1141024731564519424,
+        "text": "@RykeyFN Cmon\ud83d\udc10\ud83d\udc10",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249779295851024385,
+        "user_id": 1141024731564519424,
+        "text": "I never would\u2019ve thought... https://t.co/AyEs7hkAnI",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249773467924398080,
+        "user_id": 1141024731564519424,
+        "text": "@BHDrumr \ud83d\udc40",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249724543788253194,
+        "user_id": 1141024731564519424,
+        "text": "@VngelonYT Yes",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249589411722997766,
+        "user_id": 1141024731564519424,
+        "text": "@BHDrumr It\u2019s not dead bro before bh u averaged 1k views now ur getting 5k +, just keep grinding to u blow up more",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249588746791550976,
+        "user_id": 1141024731564519424,
+        "text": "@crackedcayohs @crackedbuilds That\u2019s easy\ud83e\udd71",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1248661093330886656,
+        "user_id": 1141024731564519424,
+        "text": "@soIsions Praying for you g\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1246117347087265797,
+        "user_id": 1141024731564519424,
+        "text": "@soIsions hi",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1245657286938259456,
+        "user_id": 1141024731564519424,
+        "text": "@ItsJayzzFN Add me",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1244719219566170113,
+        "user_id": 1141024731564519424,
+        "text": "#teambh #fazeclan #fortnite #90s #deagle #fallskirmish #couragejd #ninja #tfue #tsm #tsmhamlinz #tsm_myth\u2026 https://t.co/63O1cObUR2",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1244719064720826370,
+        "user_id": 1141024731564519424,
+        "text": "New YouTube video\ud83d\ude08\ud83d\udc10\nYt - GoatedSenan https://t.co/71EglD0uob",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1244228239356243971,
+        "user_id": 1141024731564519424,
+        "text": "Joined @VysicGGs \ud83e\udd73",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1243763926942261248,
+        "user_id": 1141024731564519424,
+        "text": "Console\ud83d\ude08. If this don\u2019t blow up yall are lame... @crackedbuilds @soIsions https://t.co/H4v6qcIrzi",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1241067546419347456,
+        "user_id": 1141024731564519424,
+        "text": "@BHDrumr Brudda ur turning this into a living wouldn\u2019t hurt to add cash cups to ur resume and be able to make content out of it",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267417539358777344,
+        "user_id": 907861112795709440,
+        "text": "test only https://t.co/HJrCA9Wrzp",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267414912755576834,
+        "user_id": 907861112795709440,
+        "text": "2015 with their world \ud83d\udc95\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/oOcVKiQzlg",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267410977252765696,
+        "user_id": 907861112795709440,
+        "text": "Re-watch memories 2015 \ud83d\udc9b\ud83d\udc9b\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/YleWoZjan4",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267398779117813762,
+        "user_id": 907861112795709440,
+        "text": "moodboster \u2764\u2764\u2764\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/0Jja3M2WGj",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267392704717049856,
+        "user_id": 907861112795709440,
+        "text": "@06_shahida not only you, I'm the same, even more than that \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude34\ud83d\ude34\ud83d\ude34\ud83d\ude34",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267364962822795264,
+        "user_id": 907861112795709440,
+        "text": "https://t.co/dXAFJ9aT33",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267364920326156288,
+        "user_id": 907861112795709440,
+        "text": "https://t.co/OuCpodUKiK",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267364884175446016,
+        "user_id": 907861112795709440,
+        "text": "seokjin \ud83d\udc39\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/MHBIwval3c",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267336364992851969,
+        "user_id": 907861112795709440,
+        "text": "@06_shahida yeah .. he looked away immediately from seokjin \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267335969599942661,
+        "user_id": 907861112795709440,
+        "text": "@06_shahida I'm sure, you also want to see them kiss \ud83d\ude02\ud83d\ude02\ud83d\ude02 me too",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267335569861799936,
+        "user_id": 907861112795709440,
+        "text": "@nikkekeke thank you queen \ud83d\udc51",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267332115626000385,
+        "user_id": 907861112795709440,
+        "text": "@06_shahida like a lover who wants to be kissed \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267319723005337600,
+        "user_id": 907861112795709440,
+        "text": "seokjin thirsty for attention from jungkook \ud83d\ude02\ud83d\ude02\ud83d\ude02\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/B7npXAQECD",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267309703232544768,
+        "user_id": 907861112795709440,
+        "text": "550rb (Reguler)\ni need sugar daddy \ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nhttps://t.co/0pVtZVAFd0",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267278876419317761,
+        "user_id": 907861112795709440,
+        "text": "https://t.co/1pH1CyVnEc",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267278850477580293,
+        "user_id": 907861112795709440,
+        "text": "https://t.co/T1nQczCeC3",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267278802901590016,
+        "user_id": 907861112795709440,
+        "text": "\u2764\u2764\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/xVEsbzSpbc",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267271089811386369,
+        "user_id": 907861112795709440,
+        "text": "@beehobi94 I still don't understand how to use OBS \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267163319166615552,
+        "user_id": 907861112795709440,
+        "text": "@JinandJungkook1 your laugh so hard dear \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267163076979118080,
+        "user_id": 907861112795709440,
+        "text": "@06_shahida they want to always be together \u2764\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267160777204498432,
+        "user_id": 907861112795709440,
+        "text": "@06_shahida yeah ... he said that to jungkook .. I was touched \ud83d\ude22\ud83d\ude22\ud83d\ude22",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267156419775619072,
+        "user_id": 907861112795709440,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/RM4egPRVK4",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267146724075696129,
+        "user_id": 907861112795709440,
+        "text": "i can sleep now \ud83d\ude09\ud83d\udc8b\n\n#\uc815\uc9c4 #\uad6d\uc9c4 #\ucfe0\uc81c\uc774 #KOOKJIN #Jinkook https://t.co/nOEJuoioda",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267131605232914432,
+        "user_id": 907861112795709440,
+        "text": "@06_shahida he's my mine \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267131406435532800,
+        "user_id": 907861112795709440,
+        "text": "@w123j2 @goldenstaaan \u2764\u2764\u2764",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1262803285922242560,
+        "user_id": 701451912474992640,
+        "text": "@majorgauravarya  what you are doing in Baluchistan and your role in Afghanistan is not hidden...! We also know the\u2026 https://t.co/NjY3mMhPJ5",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1257524135225409539,
+        "user_id": 701451912474992640,
+        "text": "A slap on face of those who consider birthright commenting on minorities of other countries without seeing  in thei\u2026 https://t.co/KeYTLwLWAb",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1255472424583335938,
+        "user_id": 701451912474992640,
+        "text": "Lt-Gen Asim Saleem Bajwa has been made PM Khan special assistant on information.Before this Bajwa served as ISPR DG\u2026 https://t.co/gXk2tsyOxA",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253963327002284032,
+        "user_id": 701451912474992640,
+        "text": "Pakistan has been ranked as a 4th Generation Regulator (G4) by the International Tele\u00adcommunication Union (ITU), be\u2026 https://t.co/lKImNYfcw2",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253962289142784000,
+        "user_id": 701451912474992640,
+        "text": "Every time there\u2019s a manmade or natural global crisis, thousands of people pop out of the woodwork to claim that it\u2026 https://t.co/Edc4EJi7y5",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253249340497420288,
+        "user_id": 701451912474992640,
+        "text": "@sadhavi But who gives right to India to middle in other countries internal affairs by funding proxies and influencing politicians etc....!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253248365984452609,
+        "user_id": 701451912474992640,
+        "text": "@MJALSHRIKA @sabena_siddiqi @PMOIndia @narendramodi @Tejasvi_Surya This is the Evil face of Hindutva India...! Thes\u2026 https://t.co/fRaD7bJ1FV",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253123755418804226,
+        "user_id": 701451912474992640,
+        "text": "@sadhavi Your whole media(Few Exceptions) and this regime are spreading hatred toward non-Muslims....! I know whats\u2026 https://t.co/pvf7Q4XGTh",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1252938529551810561,
+        "user_id": 701451912474992640,
+        "text": "https://t.co/SjPIMDgKZk",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1252936336954273795,
+        "user_id": 701451912474992640,
+        "text": "https://t.co/t0UVBfgdCR",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1252498131360587776,
+        "user_id": 701451912474992640,
+        "text": "https://t.co/t28J93HQuM",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1252473302653849605,
+        "user_id": 701451912474992640,
+        "text": "https://t.co/93lAq3r87Q",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1252472593363480578,
+        "user_id": 701451912474992640,
+        "text": "Alfaaz hi sab kuch hoty hein. Dil jeet bhi lety hein aur dil cheer bhi dety hein.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1252472299397296129,
+        "user_id": 701451912474992640,
+        "text": "Degree to mahaz taleemi akhrajaat ki raseed hoti hai. Ilam to insaan ki guftgu aur amal se zahir hota hai.\n\n@Adeeba_Rizwan4",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251898805504684034,
+        "user_id": 701451912474992640,
+        "text": "@sadhavi PAKISTAN \ud83c\uddf5\ud83c\uddf0",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251545264931962881,
+        "user_id": 701451912474992640,
+        "text": "\u026a\u0274 \u029f\u026a\u0262\u029c\u1d1b \u1d0f\u0493 \u1d0d\u1d1c\u029f\u1d1b\u026a\u1d18\u029f\u1d07 \u026a\u0274\u1d1b\u1d07\u0280\u0274\u1d00\u1d1b\u026a\u1d0f\u0274\u1d00\u029f \u026a\u0274\u1d04\u026a\u1d05\u1d07\u0274\u1d1bs \u029c\u1d00\u1d18\u1d18\u1d07\u0274\u1d07\u1d05 \u026a\u0274 \u1d18\u1d07\u0280s\u026a\u1d00\u0274 \u0262\u1d1c\u029f\u0493,\u026a\u0280\u1d00\u0274\u026a\u1d00\u0274 \u0274\u1d00\u1d20\u028f \u1d04\u029c\u026a\u1d07\u0493 \u1d04\u1d0f\u0274s\u026a\u1d05\u1d07\u0280s \u1d04\u1d0f\u0274s\u1d1b\u0280\u1d1c\u1d04\u1d1b\u026a\u1d0f\u0274 \u1d0f\u0493\u2026 https://t.co/2Uoa1P5kB5",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251539126979121154,
+        "user_id": 701451912474992640,
+        "text": "Pakistan\u2019s federal government has decided to lift the ban on the export of textile masks &amp; sanitizers. This is a re\u2026 https://t.co/uEknzntcgD",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251502267662024705,
+        "user_id": 701451912474992640,
+        "text": "The Private Education Mafia has shown it's most terrible &amp; Miser face in this worst time of crisis, that they reall\u2026 https://t.co/n0ybnTHZ41",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251500008295235585,
+        "user_id": 701451912474992640,
+        "text": "@MahsudNaila Our destiny is our own hand. Its upon us 2 stand strong in ups and downs of life. Neither Hard time li\u2026 https://t.co/OCaEAiVlve",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251375401286414337,
+        "user_id": 701451912474992640,
+        "text": "@ghazalawahab AntiMuslim Mindset &amp; Acts are enough to make anyone speek put on this...! Indian Bigots hatespeech an\u2026 https://t.co/wrOfS3omk6",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251373584485879814,
+        "user_id": 701451912474992640,
+        "text": "\u026a\u0274\u1d05\u026a\u1d00 \u0274\u1d07\u1d20\u1d07\u0280 \u029f\u1d07\u1d1b \u1d00\u0274\u028f \u1d04\u029c\u1d00\u0274\u1d04\u1d07 \u1d1b\u1d0f \u1d1c\u0274\u1d05\u1d07\u0280\u1d0d\u026a\u0274\u1d07 \u1d18\u1d00\u1d0b\u026as\u1d1b\u1d00\u0274 \u1d00s \u026a\u0493 \u1d1b\u029c\u1d07\u028f \u0280 s\u029c\u1d0f\u1d21\u1d07\u0280\u026a\u0274\u0262 \u0493\u029f\u1d0f\u1d21\u1d07\u0280s \u1d0f\u0274 \u029f\u1d0f\u1d04 \u1d1b\u029c\u1d07\u028f \u0262\u1d07\u1d1b \u1d21\u029c\u1d00\u1d1bs \u1d1b\u029c\u1d07\u028f \u1d05\u1d07s\u1d07\u0280\u1d20\u1d07\u2026 https://t.co/mlxF5ZJ0xl",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251369257474166787,
+        "user_id": 701451912474992640,
+        "text": "s\u1d00\u1d1c\u1d05\u026a \u0262\u0280\u1d00\u0274\u1d05 \u1d0d\u1d1c\u0493\u1d1b\u026a s\u1d00\u028fs \u1d1b\u1d00\u0280\u1d00\u1d21\u1d07\u1d07\u029c,\u1d07\u026a\u1d05 \u1d18\u0280\u1d00\u028f\u1d07\u0280s 2 \u0299 \u1d05\u1d0f\u0274\u1d07 \u1d00\u1d1b \u029c\u1d0f\u1d0d\u1d07 \u1d00\u1d0d\u026a\u1d05 \u1d04\u1d0f\u0280\u1d0f\u0274\u1d00\u1d20\u026a\u0280\u1d1cs \u1d0f\u1d1c\u1d1b\u0299\u0280\u1d07\u1d00\u1d0b ,\u028f \u1d21\u1d07 \u0280 \u1d18\u1d1c\u1d1b\u1d1b\u026a\u0274\u0262 \u1d0f\u1d1c\u0280s\u1d07\u029f\u0493 \u1d00\u1d1b s\u2026 https://t.co/3xlu6vwRGq",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251366298552057857,
+        "user_id": 701451912474992640,
+        "text": "THE GOVERN. HAS WAIVED OUT MANY FINANCIAL RESTRICTION ON CONSTRUCTION SECTOR WITHOUT TAKING GROUND REALITIES IN CHE\u2026 https://t.co/bDqhqbkJ19",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251362165564604418,
+        "user_id": 701451912474992640,
+        "text": "@sadhavi Jee\nCheck out these stats too! Have these millions of devotees been tested? Please comment on that too! An\u2026 https://t.co/4XkHCu6p9S",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267367305169666050,
+        "user_id": 1242444810096537603,
+        "text": "@mengiao is she okay umm..",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267339908349231105,
+        "user_id": 1242444810096537603,
+        "text": "uh chile ... anyways im going to shower have yall showered i haven\u2019t for two days :) !! haha \ud83d\ude06 https://t.co/FAwimNepBI",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267336780539256832,
+        "user_id": 1242444810096537603,
+        "text": "tw// \n\nmy poor meow meow...my baby my little baby who hurt so much but treats people with nothing but kindness forg\u2026 https://t.co/XtS5Z27NLN",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267335983273402373,
+        "user_id": 1242444810096537603,
+        "text": "@DAZA1GF ILYT REI have a great day &lt;3",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267334103461883904,
+        "user_id": 1242444810096537603,
+        "text": "hai oomfies happy pride!!! stay safe and take care of yourself &lt;3 ilysm \ud83d\udc98",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267305410697981952,
+        "user_id": 1242444810096537603,
+        "text": "@jakepaul shut up",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267279915746914306,
+        "user_id": 1242444810096537603,
+        "text": "@softyato_ take care !!! &lt;3",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267275335164289029,
+        "user_id": 1242444810096537603,
+        "text": "@YAMAGUCHlll WHAAAATT????",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267112427469991936,
+        "user_id": 1242444810096537603,
+        "text": "@YAMAGUCHlll yes i have eaten wby :]",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267085472406224896,
+        "user_id": 1242444810096537603,
+        "text": "ACAB ACAB ACAB ACAB ACAB ACAB",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267085138074013696,
+        "user_id": 1242444810096537603,
+        "text": "2020\u2019s gonna need its own history book",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267080048747507713,
+        "user_id": 1242444810096537603,
+        "text": "@abgsalleh87 stop being ignorant. #BLACK_LIVES_MATTER",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267074283479523328,
+        "user_id": 1242444810096537603,
+        "text": "@HOMOHEROES @HOBABOBAHOBI @howlarchives !!!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267417206595317765,
+        "user_id": 883814907610669056,
+        "text": "@VenusSylbrine @kayleighmcenany @realDonaldTrump @alexbrandon @johnrobertsFox So you know what that necklace represents?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267416685352378371,
+        "user_id": 883814907610669056,
+        "text": "@BrandonStraka Love it when the hypocritical left lowers their mask. \ud83e\udd23\ud83e\udd23\ud83e\udd23\n\nGreat to have you on board Brandon.\ud83d\udc4d",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267410575400636416,
+        "user_id": 883814907610669056,
+        "text": "@MonBOfficial That was me last night. But in the end everyone has their own journey to the truth. Keep the faith.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267235293947559936,
+        "user_id": 883814907610669056,
+        "text": "@LeighTauss When your own newspaper call those destroying businesses \"protesters\", you become part of the problem.\u2026 https://t.co/Km7v8GQXL6",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267234266347266048,
+        "user_id": 883814907610669056,
+        "text": "@NatasjaYonce @LeighTauss This is their progressive agenda at work. It's only fair they see the fruit of their labo\u2026 https://t.co/FP0wsdK57Y",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267085643424739328,
+        "user_id": 883814907610669056,
+        "text": "@pchhim1 Soros hasn't got his thugs there yet. \nStay safe.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266882729943068672,
+        "user_id": 883814907610669056,
+        "text": "@JesseKellyDC https://t.co/zSo2QQwLsT",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266879442720182275,
+        "user_id": 883814907610669056,
+        "text": "@EyesOnQ Satan",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266878682519359488,
+        "user_id": 883814907610669056,
+        "text": "@txfizixteach @WilliamMcC1997 @LisaSeaFL @Nonofmybiznez @JosephJFlynn1 @MSNBC @RichardGrenell Facts matter",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266557270122356736,
+        "user_id": 883814907610669056,
+        "text": "You reap what you sow humpty. https://t.co/7CdwVvfomO",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266446042901311488,
+        "user_id": 883814907610669056,
+        "text": "@Kinger13662 @TheRightMelissa @itsJeffTiedrich @realDonaldTrump That's funny. We say the same thing about your stupid masks.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266444335857283072,
+        "user_id": 883814907610669056,
+        "text": "@JuliansRum For the looting?\ud83d\ude09",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266433902769364992,
+        "user_id": 883814907610669056,
+        "text": "@JennPellegrino @OANN Are you going to be wearing a mask outside like those other morons?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266433644601552896,
+        "user_id": 883814907610669056,
+        "text": "@joecat6 @JesseKellyDC Really... a midget?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266433380826017792,
+        "user_id": 883814907610669056,
+        "text": "@JesseKellyDC Don't worry Jesse. Real Italians know you're just having a laugh. You're safe around us under 6 foot spaghetti eaters.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266430285995864064,
+        "user_id": 883814907610669056,
+        "text": "@JesseKellyDC There are two types of people in this world. Italians, and those who want to be Italian. We know whic\u2026 https://t.co/YB57tLryaw",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266297585330843653,
+        "user_id": 883814907610669056,
+        "text": "Can't like this tweet buy i can retweet it.\nGo figure.\ud83d\ude44\n\nTwitter are a bunch of Nazis against free speech. https://t.co/jNwMs4j8ho",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266220445562400774,
+        "user_id": 883814907610669056,
+        "text": "@Unaffraid1 @CCross1776 @tracybeanz @GenFlynn @McAdooGordon @ProfMJCleveland @RonColeman @TGowdySC Straight shooter who always shot blanks.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266130499430318080,
+        "user_id": 883814907610669056,
+        "text": "@MicallefPhilip @NedZelic Zlatans head causes pain, it cannot feel pain itself.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266014157603651586,
+        "user_id": 883814907610669056,
+        "text": "@NedZelic Clubs are too small to treat the calf of Zlatan. Only whole countries can treat the calf of Zlatan.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266011281389023232,
+        "user_id": 883814907610669056,
+        "text": "@JesseKellyDC Shit!\nHe's even packing it in the lower legs of his jeans FFS!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266010541585121280,
+        "user_id": 883814907610669056,
+        "text": "@CRLady2016 @Cait__Morris @huskersippi @TulsiGabbard @MOS_0300 Hello..... https://t.co/EkQRWTnYRt",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266010237116407814,
+        "user_id": 883814907610669056,
+        "text": "@Cait__Morris @CRLady2016 @huskersippi @TulsiGabbard @MOS_0300 By the way... Biden isn't the nominee. The conventio\u2026 https://t.co/9UEa49owWH",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266009718394286080,
+        "user_id": 883814907610669056,
+        "text": "@Cait__Morris @CRLady2016 @huskersippi @TulsiGabbard @MOS_0300 That's it. Stay in your echo chamber.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266009541205884930,
+        "user_id": 883814907610669056,
+        "text": "@Cait__Morris @CRLady2016 @huskersippi @TulsiGabbard @MOS_0300 But Bernie didn't give up his electoral college vote\u2026 https://t.co/rPa2T6zRuJ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267363533936721920,
+        "user_id": 949504324295540737,
+        "text": "when i\u2019m gone, just know it was long overdue ...",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267363094864396289,
+        "user_id": 949504324295540737,
+        "text": "I\u2019m so done",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267360646951141377,
+        "user_id": 949504324295540737,
+        "text": "Say it then",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267360597932298240,
+        "user_id": 949504324295540737,
+        "text": "Wow someone hang and drink wth me \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267354761633787909,
+        "user_id": 949504324295540737,
+        "text": "I\u2019m fucking crying my eyes out dude NO THIS IS NOT RIGHT THIS IS NOT FUCKING IT https://t.co/LZZwbbc08q",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267353649258229760,
+        "user_id": 949504324295540737,
+        "text": "Im drunk and wide awakeeee",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267353593415233538,
+        "user_id": 949504324295540737,
+        "text": "Who wants to chilllll",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267307380527607808,
+        "user_id": 949504324295540737,
+        "text": "@frostyymaggie No dude don\u2019t",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267296315018371072,
+        "user_id": 949504324295540737,
+        "text": "@ayeekas_ No photos lol",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267293458097508352,
+        "user_id": 949504324295540737,
+        "text": "@ayeekas_ NOOOOO",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267264136968192001,
+        "user_id": 949504324295540737,
+        "text": "my sis cut her thumb open",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267261079089852417,
+        "user_id": 949504324295540737,
+        "text": "@playboiali1 SHOW ME",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267216975446421505,
+        "user_id": 949504324295540737,
+        "text": "@marveloussalvi \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267424544551137281,
+        "user_id": 739692410913972225,
+        "text": "@kara_sunono MAN BUN KUROO IT IS THEN !",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267424224949317638,
+        "user_id": 739692410913972225,
+        "text": "@kara_sunono we perish. TOGETHER",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267407364774195200,
+        "user_id": 739692410913972225,
+        "text": "w8....keep spitballing tho... https://t.co/GTj3LRlU2i",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267387345835196416,
+        "user_id": 739692410913972225,
+        "text": "@kara_sunono mullet kuroo then ..",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250270612787851269,
+        "user_id": 1178401724391817216,
+        "text": "@homeawayAlien @tomfung97 They do this to their own kids so...#ccp #8964 https://t.co/0d3Clb8qMG",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249704414488571904,
+        "user_id": 1178401724391817216,
+        "text": "@B7KqdbxVqu8FIkS @LisaPow15301723 Very respectful I see... https://t.co/xHJFOH286h",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249703017101721600,
+        "user_id": 1178401724391817216,
+        "text": "@jessieeeeeeexin @7sjZfSP1uCeBLzN Lol I am awake thanks and honestly I don\u2019t feel sad for you. You are on the free\u2026 https://t.co/hj2GtEt9zR",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249594102888288261,
+        "user_id": 1178401724391817216,
+        "text": "@chebiiznen Well if your parents(or #ccp) taught you well enough then maybe yes",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249589424322523136,
+        "user_id": 1178401724391817216,
+        "text": "@chebiiznen What do you mean I am sharing part of #China interesting and beautiful college life",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249589153148178433,
+        "user_id": 1178401724391817216,
+        "text": "@jessieeeeeeexin @7sjZfSP1uCeBLzN Do u know this part of Chinese history though? https://t.co/fSaGyffewr",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249587918114394113,
+        "user_id": 1178401724391817216,
+        "text": "@oooooliviaya This show is lit &lt;&lt;1989 massacre&gt;&gt; https://t.co/8n1pr0hZw8",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249587485685866496,
+        "user_id": 1178401724391817216,
+        "text": "@chebiiznen high school life in #China, 1989 https://t.co/VKFqU7cSgv",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249587217107841024,
+        "user_id": 1178401724391817216,
+        "text": "#China #\u52a0\u6cb9\u4e2d\u570b https://t.co/Ulmu47FA5C",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249586870784159750,
+        "user_id": 1178401724391817216,
+        "text": "@jessieeeeeeexin https://t.co/XePKBMBkNZ\nHere's my gift to you, real footage outside the wall u r welcome too Chinese pig",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249586638704934914,
+        "user_id": 1178401724391817216,
+        "text": "@jessieeeeeeexin Shitty gift u can keep it. Trash square",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249586549643075585,
+        "user_id": 1178401724391817216,
+        "text": "@jessieeeeeeexin https://t.co/7yXJBV5i27",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249586496794836994,
+        "user_id": 1178401724391817216,
+        "text": "@jessieeeeeeexin https://t.co/Zi7D3vzgXt",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249353310366130178,
+        "user_id": 1178401724391817216,
+        "text": "@Xujianghuai1 @Olay35048524 I see, living in denial...",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249352192353374209,
+        "user_id": 1178401724391817216,
+        "text": "#China \nChinese tanks and Chinese! https://t.co/QmMUoSbuAS",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249352038359547904,
+        "user_id": 1178401724391817216,
+        "text": "@Olay35048524 A nice square too #8964 https://t.co/ICi9iU0aHK",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249351865059295233,
+        "user_id": 1178401724391817216,
+        "text": "@jessieeeeeeexin Welcome to Tiananmen Square? #8964 https://t.co/E3Q6ydTI4A",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1249351657680285696,
+        "user_id": 1178401724391817216,
+        "text": "@cl66652748 https://t.co/xyRVGSAVSE",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1248136766277607424,
+        "user_id": 1178401724391817216,
+        "text": "@hkpoliceforce \u4f60\u54cb\u5572\u54e1\u5de5\u597d\u4f3c\u9700\u8981\u807d\u5462\u500b\u8b1b\u5ea7\n#\u5168\u6e2f\u6700\u5927\u72af\u7f6a\u96c6\u5718 #\u4f11\u73ed\u8b66",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1247958144778567683,
+        "user_id": 1178401724391817216,
+        "text": "@HillelNeuer Lol human right not found \nNot 30 years ago not now https://t.co/cIpfpN6XcX",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1247957464051400704,
+        "user_id": 1178401724391817216,
+        "text": "@MarshaBlackburn #ccp silencing true voices in China at all cost for prosperity on the surface? idk sounds familiar\u2026 https://t.co/9hFGlxzEuN",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267342654553100293,
+        "user_id": 971720707238449152,
+        "text": "@Juliakatia5 Era uma quest\u00e3o de tempo n\u00e9 moreh https://t.co/aVa9TyP2m4",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267318539733491715,
+        "user_id": 971720707238449152,
+        "text": "Yuh yuh #AnimalCrossing #ACNH #NintendoSwitch https://t.co/k1TvtURPW0",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267313062249299968,
+        "user_id": 971720707238449152,
+        "text": "Feel Special - Isabelle #AnimalCrossing #ACNH #NintendoSwitch https://t.co/nBZe5NY6j0",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267438855260520449,
+        "user_id": 901355245128753152,
+        "text": "@jawannatty precious \u0f0e\u0eb6\u203f\u0f0e\u0eb6 \u2661",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267438221094301701,
+        "user_id": 901355245128753152,
+        "text": "@jawannatty cant wait to see you, in your time of growth \u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267437300411064322,
+        "user_id": 901355245128753152,
+        "text": "@jawannatty hnggggg thank you love \ud83d\ude2d\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267437279489912833,
+        "user_id": 901355245128753152,
+        "text": "ya habibitys, whenever u see someone whose striving to be a better Muslim \u2014 i hope u'll be inspired in a way that u\u2026 https://t.co/ueVVgzGGAS",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267434639850795008,
+        "user_id": 901355245128753152,
+        "text": "can't see some private comments :(((( and private accts who quoted retweet.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267431841725702144,
+        "user_id": 901355245128753152,
+        "text": "@hoodjabi_ got u :((((",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267417102769512449,
+        "user_id": 901355245128753152,
+        "text": "\u201cAdopt a gentle tone when speaking, for verily the tone at times, has a greater impact than the speech.\u201d \n\u2014 \ud835\udc08\ud835\udc26\ud835\udc1a\ud835\udc26 \ud835\udc00\ud835\udc25-\ud835\udc06\ud835\udc21\ud835\udc1a\ud835\udc33\ud835\udc1a\ud835\udc25\ud835\udc22 \u0631\u062d\u0645\u0629 \u0627\u0644\u0644\u0647 \u0639\u0644\u064a\u0647",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267405884772118528,
+        "user_id": 901355245128753152,
+        "text": "@fjamaicacasidar still in lows \ud83d\ude29",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267405843001049089,
+        "user_id": 901355245128753152,
+        "text": "\ud83e\udd7a https://t.co/EHBANwuTYM",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267403138333433858,
+        "user_id": 901355245128753152,
+        "text": "@fjamaicacasidar u sound proud uwu \ud83d\ude29\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267394542472323077,
+        "user_id": 901355245128753152,
+        "text": "@yanasundae yana ha :(((",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267386487214993408,
+        "user_id": 901355245128753152,
+        "text": "@fjamaicacasidar because you taught me very well",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267367391391973377,
+        "user_id": 901355245128753152,
+        "text": "@dydatuuu In shaa Allah \u2665\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267367322500521990,
+        "user_id": 901355245128753152,
+        "text": "@lowkeyythal Ameen \u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267365211704397826,
+        "user_id": 901355245128753152,
+        "text": "@fjamaicacasidar im still in the beginning lane",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267347845188706304,
+        "user_id": 901355245128753152,
+        "text": "@jarizskylar \ud83d\udc98\ud83d\udc98\ud83d\udc98\ud83d\udc98",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267342761230872580,
+        "user_id": 901355245128753152,
+        "text": "@honeydyn all the love from hababyyyyy \ud83e\udd17",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267342605458632704,
+        "user_id": 901355245128753152,
+        "text": "@sittiedisimban In shaa Allah, Allah will guide you too and will grant you tawfeeq to do the same or much better \ud83d\udc97\u2728",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267340676015853568,
+        "user_id": 901355245128753152,
+        "text": "@sittiedisimban Ma shaa Allah habibtity hngggsks \ud83d\ude29\u2764\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267340576656986113,
+        "user_id": 901355245128753152,
+        "text": "@sittiedisimban my heart is full \ud83d\ude2d\u2665\ufe0f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267336353630400512,
+        "user_id": 901355245128753152,
+        "text": "@ellafreeda kaayo uy HAHAHAHAHHA kaya nagaorder nalang ako para sulit",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267334615502479361,
+        "user_id": 901355245128753152,
+        "text": "@ellafreeda HAHAHAHAHHA SUPEEEEEER!!!!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267428337502375937,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\nthere are currently 3,164,802 active cases of #COVID\u30fc19,\n\u27f6they would fill 15,667 New York subway cars (\u2026 https://t.co/YjzZmH93QF",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267383018047619079,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \nthere were 1,241,033 active cases of #COVID\u30fc19 yesterday,\n\u27f60.99 times the number 2 days ago, 1 times\u2026 https://t.co/8ByPL4C8Xz",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267337712387964928,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n2,642,188 people have recovered from #COVID\u30fc19,\n\u27f6more than the entire population of Amman, Jordan (2,60\u2026 https://t.co/yQj9l8RTJH",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267292402085232640,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n26,976 people died from #COVID\u30fc19 in the last 7 days,\n\u27f6more than the global deaths from terrorism durin\u2026 https://t.co/vEUTo8eLDS",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267247149034737664,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \n1,788,762 cases of #COVID\u30fc19 have been confirmed,\n\u27f6they would fill 20,560 London double-decker buses\u2026 https://t.co/3SZtlrXDCA",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267201832998371332,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\ncurrently, roughly 1,781 people recover from #COVID\u30fc19 every MINUTE\u2e3a106,862 every HOUR.\n\n\ud83d\udcc8Updated: ~30\u2026 https://t.co/vaqmlDWVLQ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267156537069277184,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\ncurrently, someone recovers from #COVID\u30fc19 roughly every 0.03 seconds.\n\n\ud83d\udcc8Updated: ~30 May 2020 23:50:00\u2026 https://t.co/xpIDlgO9HY",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267065943466946560,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n6,087,902 cases of #COVID\u30fc19 have been confirmed,\n\u27f6more than the entire population of Los Angeles, Cali\u2026 https://t.co/s3LHtJC2kt",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267020641158541313,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n6,075,786 cases of #COVID\u30fc19 have been confirmed,\n\u27f6they would fill 30,078 New York subway cars (standin\u2026 https://t.co/njfatUfqx7",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266975326745362434,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\nthere were 3,125,198 active cases of #COVID\u30fc19 yesterday,\n\u27f61.02 times the number 2 days ago, 1.03 times\u2026 https://t.co/Lch9PIPq1j",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266930007127048193,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \ncurrently, roughly 72 people die from #COVID\u30fc19 every MINUTE\u2e3a4,324 every HOUR.\n\n\ud83d\udcc8Updated: ~30 May 20\u2026 https://t.co/kW2TTETyZP",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266794129905852417,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \ncurrently, a new case of #COVID\u30fc19 is confirmed roughly every 0.05 seconds.\n\n\ud83d\udcc8Updated: ~29 May 2020\u2026 https://t.co/rxljb60qWM",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266703523493879809,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n2,515,675 people have recovered from #COVID\u30fc19,\n\u27f6they would fill 6,047 Boeing 747s.\n\n\ud83d\udcc8Updated: 30 May 2\u2026 https://t.co/qsqdhtW36i",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266658229146324992,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \nthere were 1,236,764 active cases of #COVID\u30fc19 yesterday,\n\u27f61.01 times the number 2 days ago, 1.02 ti\u2026 https://t.co/AdsA0HrxKd",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266612923406995457,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\ncurrently, roughly 253 people die from #COVID\u30fc19 every MINUTE\u2e3a15,203 every HOUR.\n\n\ud83d\udcc8Updated: ~29 May 202\u2026 https://t.co/5BMhWxX0gZ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266567642812420097,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\ncurrently, someone recovers from #COVID\u30fc19 roughly every 0.03 seconds.\n\n\ud83d\udcc8Updated: ~29 May 2020 23:50:00\u2026 https://t.co/JSZhkVz5xe",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266431803608498179,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \n399,991 people have recovered from #COVID\u30fc19,\n\u27f6more than the entire population of Sarajevo, Bosnia a\u2026 https://t.co/qArjmyR5yo",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266386435248197635,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n5,850,258 cases of #COVID\u30fc19 have been confirmed,\n\u27f6they would fill 1,950 average cruise ships.\n\n\ud83d\udcc8Update\u2026 https://t.co/MKByquViSp",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266341136278396928,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n360,308 people died from #COVID\u30fc19 just during yesterday,\n\u27f61.01 times the number 2 days ago, 1.03 times\u2026 https://t.co/ZcL5dp2Rjk",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266295834427002886,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\ncurrently, roughly 250 people die from #COVID\u30fc19 every MINUTE\u2e3a15,013 every HOUR.\n\n\ud83d\udcc8Updated: ~28 May 202\u2026 https://t.co/FTFF4sios9",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266250545511059456,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \n1,721,750 cases of #COVID\u30fc19 have been confirmed,\n\u27f6more than the entire population of Warsaw, Poland\u2026 https://t.co/sQEmQ7vVVE",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266205232700305408,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n2,415,960 people have recovered from #COVID\u30fc19,\n\u27f6they would fill 5,807 Boeing 747s.\n\n\ud83d\udcc8Updated: 29 May 2\u2026 https://t.co/y0Hh7mP9Dv",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266069326119002114,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n2,350,088 people recovered from #COVID\u30fc19 just during yesterday,\n\u27f61.03 times the number 2 days ago, 1.0\u2026 https://t.co/Fr5XbOWIAU",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266024064612806658,
+        "user_id": 1249446282080292864,
+        "text": "In the US \ud83c\uddfa\ud83c\uddf8, \ncurrently, someone recovers from #COVID\u30fc19 roughly every 0.22 seconds.\n\n\ud83d\udcc8Updated: ~27 May 2020 23:50\u2026 https://t.co/QEe2AzPelO",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265933452416888833,
+        "user_id": 1249446282080292864,
+        "text": "Globally \ud83c\udf10,\n2,361,612 people have recovered from #COVID\u30fc19,\n\u27f6more than the entire population of Houston, Texas (2,3\u2026 https://t.co/2lPns9JnKx",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267438643016200194,
+        "user_id": 1131261872429076480,
+        "text": "AMP AMBAGAL DAW NATIN HAHAHAHA TAE PINAPAGALITAN NA TAYO NG TWICE https://t.co/udzlIQi2fj",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267438514620076033,
+        "user_id": 1131261872429076480,
+        "text": "MAHAL NA MAHAL KO LALONG LALO NA IKAW https://t.co/1tvd0u6lkX",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436612683657216,
+        "user_id": 1131261872429076480,
+        "text": "Sa mga gusto manuod ng mga niscreenvideo ko sa showcase haahah enjoy mapupuno na laptop ko kaya linagay ko sa gdriv\u2026 https://t.co/APLuRSlfnd",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267434866334814208,
+        "user_id": 1131261872429076480,
+        "text": "SANA OH MAYFAHD https://t.co/nH5iRF7a2y",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267434747585691648,
+        "user_id": 1131261872429076480,
+        "text": "grabe naman po maam PAHINGA NAMAN TAYO DYAN GRABE KASI EH https://t.co/gFJxAOs9UR",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267434483214454784,
+        "user_id": 1131261872429076480,
+        "text": "ANG PANGIT KO TALAGA MAG SCREENSHOT KAHIT KAILAN UHUHUHUH SORRY ROLD https://t.co/0nLEj8QpIC",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267434396518240258,
+        "user_id": 1131261872429076480,
+        "text": "MABUHAY SI DAHYUN!! https://t.co/GlgDHc5z6P",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267434275487412224,
+        "user_id": 1131261872429076480,
+        "text": "Neck patch :&lt; GET WELL SOON JEONGYEONNNNN https://t.co/4q3tMOAaJ9",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267434036231729152,
+        "user_id": 1131261872429076480,
+        "text": "CHAEYOUNG NEW MEME HAHAHHAHA https://t.co/53ePkgP2Ug",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267433991084228610,
+        "user_id": 1131261872429076480,
+        "text": "PAMATAY NANAMAN SI SANA (SORRY CHAEYOUNG) https://t.co/NpQYgXGY68",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267433861048197120,
+        "user_id": 1131261872429076480,
+        "text": "BUSOG NA SI JEONGYEON UHUHUHUHU https://t.co/8WnQi0q9b5",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267433683746619394,
+        "user_id": 1131261872429076480,
+        "text": "SABI NI JEONGYEON PUNITIN ANG SEDULA https://t.co/6exEdXwmTe",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267433590544977921,
+        "user_id": 1131261872429076480,
+        "text": "CUTE NI CHAEYOUNG HUHUHUUH https://t.co/mPO6DZqVND",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267433496332562432,
+        "user_id": 1131261872429076480,
+        "text": "JEONGYEON NAPAKAGANDA MOOOOOOOOOOOO https://t.co/prCGks8ikj",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267433437289308161,
+        "user_id": 1131261872429076480,
+        "text": "MABUHAY SI JEONGYEON https://t.co/wpW7Gc4X30",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267430744810373120,
+        "user_id": 1131261872429076480,
+        "text": "BRO :((( https://t.co/4oTS4jWBpV",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267430392811778049,
+        "user_id": 1131261872429076480,
+        "text": "LOOK HAPPY THEY WERE BECAUSE MORE &amp; MORE WAS FIRST HUHUHUH DAHYUNNNNNNNNNNNN https://t.co/7nPYd8QB5L",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267417867487776769,
+        "user_id": 19107620,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 No more away games. Neutral venues only. https://t.co/3126GQggnQ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267410470799106048,
+        "user_id": 19107620,
+        "text": "@lahmind AMEN.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267401937491832832,
+        "user_id": 19107620,
+        "text": "Logical. Many couples locked down together kept busy with sex. https://t.co/TodsRccL6F",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267401497928699904,
+        "user_id": 19107620,
+        "text": "A new body by December would be a great ending to this year.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267399742771912704,
+        "user_id": 19107620,
+        "text": "\ud83e\udd23 https://t.co/3vuiVAnmBj",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267398417392828416,
+        "user_id": 19107620,
+        "text": "@zikokomag Really impressed. And I like the way she uses people. She willingly invests in them. They gain and she g\u2026 https://t.co/SpTRum9WA1",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267397403038138370,
+        "user_id": 19107620,
+        "text": "@osegunaina Nah to the power 2020.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267393769936216064,
+        "user_id": 19107620,
+        "text": "Dear Universe. Stress ball please.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267376909433872385,
+        "user_id": 19107620,
+        "text": "@quintdee @osegunaina Real sad.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267362670644166656,
+        "user_id": 19107620,
+        "text": "@EyitayoOginni Yeah. More than 10 years ago, I have known that northern miners get lifted from Ereja square by 4/5am to go mine gold.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267357054727061512,
+        "user_id": 19107620,
+        "text": "@EyitayoOginni Wait. Ta lo ni Segilola Resources?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267356316735078402,
+        "user_id": 19107620,
+        "text": "@YemisiSL law or tribal sentiment?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267355890350342145,
+        "user_id": 19107620,
+        "text": "@osegunaina Dear God. So they would rather let people die than do some actual work.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267354899190292481,
+        "user_id": 19107620,
+        "text": "Why do nigerian politicians feel personally injured if COVID numbers spike in the domains under their rule?\n\nIt is\u2026 https://t.co/3YtsVJJRuL",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267354169968603136,
+        "user_id": 19107620,
+        "text": "@Onosaa Skilfully.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267346431582633984,
+        "user_id": 19107620,
+        "text": "@heyNxsa He tweeted \"Dark Mode Matters\". Basically mocking \"Black Lives Matter\".\n\nThat was the final straw and he got reported.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267332577632956417,
+        "user_id": 19107620,
+        "text": "Work starts in a few minutes. \n\nThe grind of this WFH is partly self inflicted but I quite dislike it sometimes.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267384634955821057,
+        "user_id": 931292810963062790,
+        "text": "The amount of self control to not talk about the number these past few days have been amazing and I\u2019m proud of myself for that",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267381886755565568,
+        "user_id": 931292810963062790,
+        "text": "@WayV_official Wow only one man exists",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267381832527556609,
+        "user_id": 931292810963062790,
+        "text": "@WayV_official I love one man only \ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267380738883649536,
+        "user_id": 931292810963062790,
+        "text": "@WayV_official It\u2019s 2am so this was scary BUT IN A GOOD WAY",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267357198901850114,
+        "user_id": 931292810963062790,
+        "text": "@smilingtaewoo Nctzen delete \ud83d\udc9a https://t.co/UMVoo1EXUM",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267328305587343360,
+        "user_id": 931292810963062790,
+        "text": "So sexc \ud83e\udd70 https://t.co/FIYoEGeITT",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267389509953482752,
+        "user_id": 40766692,
+        "text": "@WorldofIntelli1 @21WIRE Drive",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267382367494127617,
+        "user_id": 40766692,
+        "text": "@MoniqueVPoirier @AotearoanJames And didn't want to piss his $195 Tarocash jeans",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267382136320876544,
+        "user_id": 40766692,
+        "text": "@marcdaalder Funny",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267381411440279552,
+        "user_id": 40766692,
+        "text": "@AotearoanJames @MoniqueVPoirier Wut",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267380603093020673,
+        "user_id": 40766692,
+        "text": "@AotearoanJames @MoniqueVPoirier They should just leave him there until Sunday.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267351284014702594,
+        "user_id": 40766692,
+        "text": "@AndrewRiddell1 @ScottSimpsonMP @toddmullerBoP Since the protest today",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267350822863507457,
+        "user_id": 40766692,
+        "text": "@CrikaRika As well as the lives of all their elderly relatives at home. Dumb.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267350592810188806,
+        "user_id": 40766692,
+        "text": "@Strange_G Even Siouxsie got on board",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267348387470258176,
+        "user_id": 40766692,
+        "text": "@Coltheman1 They signed in and out, right",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267345911098650624,
+        "user_id": 40766692,
+        "text": "@Covlin @LewSOS Our authorities aren't serious about any of that. It's just for show.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267344627473891330,
+        "user_id": 40766692,
+        "text": "@Jo_Bond Nope",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267231779875721216,
+        "user_id": 40766692,
+        "text": "@Tweetsintoabyss @samheII You can certainly have spinal fractures and still be able to (minimally) weight bear, if\u2026 https://t.co/7NBGRoGzOD",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267230055198945280,
+        "user_id": 40766692,
+        "text": "@Tweetsintoabyss @samheII The supposed victim's twitter profile appears gone. I wouldn't bet any money that was act\u2026 https://t.co/2PPeJKDUJ4",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267229173220700160,
+        "user_id": 40766692,
+        "text": "@Tweetsintoabyss It's actually the replacement of true culture with \"good deal\" materialism. And there's no better\u2026 https://t.co/ijwChbllf3",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267228891250176000,
+        "user_id": 40766692,
+        "text": "@NewZcam Fail to be approved by the Internet censors.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266223020852629504,
+        "user_id": 803827903792353281,
+        "text": "// Great! Then here\u2019s my angry fish boi @BeautysBrute!! https://t.co/unBLVSFAQm",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266088489097080834,
+        "user_id": 803827903792353281,
+        "text": "//I have a siren au account for one of my characters if you\u2019d be interested \ud83d\udc49\ud83c\udffc\ud83d\udc48\ud83c\udffc https://t.co/X3YoV4l52f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265709151570755594,
+        "user_id": 803827903792353281,
+        "text": "@LanayruQueen she could afford too?\n\nAdmittedly he kind of liked the mini chaos that was her room. Amidst the polis\u2026 https://t.co/7RuEG406Un",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1265709130557382658,
+        "user_id": 803827903792353281,
+        "text": "@LanayruQueen \u201cNone at all.\u201d\n\nWith her at the door Phoenix moves to follow after. Briefly his mind wonders about th\u2026 https://t.co/UYynvNemkJ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263671357063204869,
+        "user_id": 803827903792353281,
+        "text": "@AReservedGuide //I\u2019VE MADE IT OUT BUT AT THE EXPENSE OF ALL MY ENERGY \ud83d\ude2b BUT I\u2019M HOME AND READY TO WRITE",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263622976018231302,
+        "user_id": 803827903792353281,
+        "text": "@AReservedGuide // WELP HERE\u2019S TO US SURVIVING TILL THEN",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263622020731985921,
+        "user_id": 803827903792353281,
+        "text": "@AReservedGuide //HELL YEAH!!! ALTHOUGH I\u2019M AT WORK RIGHT NOW SO I\u2019LL SHOOT YOU A MESSAGE ONCE FREE",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263613839939166208,
+        "user_id": 803827903792353281,
+        "text": "@AReservedGuide //My muse has fully returned and I\u2019m ready to plot \ud83d\udc40",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263533423555117057,
+        "user_id": 803827903792353281,
+        "text": "...the temptation of giving one fast head rub was rising.\n\nSurprising he knows but sometimes he wanders around. Can\u2026 https://t.co/OkJx3C1f7j",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263528727729909763,
+        "user_id": 803827903792353281,
+        "text": "Pat pat pat pat\n\nWait- she was throwing rocks at people? Because she\u2019s short?? How did he miss this? That would hav\u2026 https://t.co/4yw0wXVXly",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263520708954644483,
+        "user_id": 803827903792353281,
+        "text": "A snort as a hand reaches out to pat her head. True surprise indeed.\n\nSpeaking of tiny 4\u2019 10\u201d huh? He knew she was\u2026 https://t.co/CKuBNj81K3",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263516223834292224,
+        "user_id": 803827903792353281,
+        "text": "She was far more pleased by this news than he anticipated- https://t.co/6eN4FNH00d",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263507933331173376,
+        "user_id": 803827903792353281,
+        "text": "A finger taps his chin in thought.\n\nWas she...? Nah, he\u2019s joking. Of course she was. https://t.co/8WPvvuRegJ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263247365743525889,
+        "user_id": 803827903792353281,
+        "text": "No reason. No reason at all.\n\nJust... wow. Best friends, huh? What an honor~ https://t.co/PvoVULw0tU",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263245460044734471,
+        "user_id": 803827903792353281,
+        "text": "Wide grin.\n\nOh? Oh? Best friend status? https://t.co/fR64B5vWTL",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1258109230038605834,
+        "user_id": 803827903792353281,
+        "text": "@LanayruQueen that seems to be favorable either.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1258109213307473922,
+        "user_id": 803827903792353281,
+        "text": "@LanayruQueen straying wolves tend hunt there.\u201d\n\nThen lips pinch at the ends as his gaze seemed to glare at nothing\u2026 https://t.co/rlnkhvW0UD",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1258109171695747073,
+        "user_id": 803827903792353281,
+        "text": "@LanayruQueen A snort bobs his head back slightly.\n\n\u201cWhat\u2019s a trip without a little danger? It\u2019d be rude if I gave\u2026 https://t.co/Wyy69ZHNET",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267438717901221895,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/WChWT4a2ys",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267438654965772289,
+        "user_id": 1100386009685012481,
+        "text": "\u3164\n\u3164\n\u3164\u3164\ud83d\udd14 :: \ud835\ude97\ud835\ude8e\ud835\udea0 \ud835\ude99\ud835\ude98\ud835\ude9c\ud835\ude9d \ud835\ude8f\ud835\ude9b\ud835\ude98\ud835\ude96 \ud835\udc1a\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc21\uff61\n\u3164\u3164\" happy happy birthday sa\n\u3164\u3164aking employer! mbtc and\n\u3164\u3164libre mo ako soon! \ud83d\udda4 \"\n\u3164\n\u3164 https://t.co/85R51FclaU",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436713787326464,
+        "user_id": 1100386009685012481,
+        "text": "@k6uerrero grabe vro mamaya kapag gumawa ka ulit may bago na.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436626449317889,
+        "user_id": 1100386009685012481,
+        "text": "HAHAHA you're welcome. \ud83e\udd29 https://t.co/dmbVa8Mesg",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436539748839424,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/O7qWcXlcb9",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436537723015168,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/F4KE77GTKG",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436535198044160,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/cugP3BdD4Z",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436533465755650,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/z2gH376Mpw",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436529648955394,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/CWuytGmqDF",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436528000569344,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/3etE7qbeYD",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436526218043392,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/a3ONnguC4N",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436524313800705,
+        "user_id": 1100386009685012481,
+        "text": "https://t.co/itqxhDq9ll",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267436518517309440,
+        "user_id": 1100386009685012481,
+        "text": "\u3164\n\u3164  \ud83d\udcf1 :: ## \ud835\udc12\ud835\udc0d\ud835\udc12 \ud835\udc14\ud835\udc0f\ud835\udc03\ud835\udc00\ud835\udc13\ud835\udc04\ud835\udc12\n\u3164",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267435584223510528,
+        "user_id": 1100386009685012481,
+        "text": "STREAM!!! https://t.co/pHQxE2Ina8",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267435542288842757,
+        "user_id": 1100386009685012481,
+        "text": "VRO PADAGDAG NA NG PADAGDAG PANGALAN MO MAY SANTOS NA BIGLA PERO SOTY. https://t.co/pHQxE2Ina8",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267428038972551171,
+        "user_id": 1100386009685012481,
+        "text": "@kojinjja thanks, i know.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267364662644862976,
+        "user_id": 1100386009685012481,
+        "text": "niloko*",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267362419149467648,
+        "user_id": 1100386009685012481,
+        "text": "wala naman akong og fc sino bang nilolo ko.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267360420894920704,
+        "user_id": 1100386009685012481,
+        "text": "\u3164\n\u3164\n\u3164\u3164#\u20de\ud835\uddd4\ud835\uddd8\ud835\udde5\ud835\udddc\ud835\udde7\ud835\udddb :: best girl !\n\u3164\u3164ninety-five. mir. lit &amp; script.\n\u3164\u3164jiyeon of cosmic girls.\u3164\ud83e\udd8b\n\u3164\u3164\ud83c\udf38\u3164girlfriend / gamer\u2026 https://t.co/mcThABgEbN",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251763136564060160,
+        "user_id": 1168527887919484933,
+        "text": "@macrosummit @freeeastturki @johnstrail @SecPompeo Why are you living in Berlin? Why don't you move to Beijing? Scu\u2026 https://t.co/wM1Q1tyJ1P",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251762370113753090,
+        "user_id": 1168527887919484933,
+        "text": "@macrosummit @freeeastturki @johnstrail @SecPompeo Stupid Leftard. Opposing America doesn't mean you need to side w\u2026 https://t.co/4vQoeVs1b8",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251761908614524929,
+        "user_id": 1168527887919484933,
+        "text": "@CECCgov Those scumbag Leftists would bring up Julian Assange to retort &amp; defend their Beijing Papa against the fic\u2026 https://t.co/3nK2cQkaVZ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251761503776018432,
+        "user_id": 1168527887919484933,
+        "text": "@SolomonYue @SecPompeo Scumbag Leftists within America are still busy with trashing Donald Trump other than voicing\u2026 https://t.co/gNUQNkY2s6",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251759516166680576,
+        "user_id": 1168527887919484933,
+        "text": "@charliekirk11 These fucking bastards shall not be allowed inside the White House.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251758902376493057,
+        "user_id": 1168527887919484933,
+        "text": "@CECCgov They're afraid to be discovered to have manufactured this coronavirus for unreasonable purposes.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251758731089416193,
+        "user_id": 1168527887919484933,
+        "text": "@SolomonYue @SecPompeo @StateDept Definitely! If the Commies are not sanctioned, it means nothing. Their HK puppets\u2026 https://t.co/QYFd232jLW",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251758458929479680,
+        "user_id": 1168527887919484933,
+        "text": "@tumbleweedjurny @SecPompeo 2 million are all thugs? You don't even know what happened I guess, do you?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251758314083414016,
+        "user_id": 1168527887919484933,
+        "text": "@Andy_Lofgren @SecPompeo What about you? Pinko?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251758014433878016,
+        "user_id": 1168527887919484933,
+        "text": "@Energeee @SecPompeo Fuck off !",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251757908062121985,
+        "user_id": 1168527887919484933,
+        "text": "@jayzzjf @MDYOD4gMxAEFpSG @SecPompeo You're stupid. What does democracy have to do with British?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251757627920375810,
+        "user_id": 1168527887919484933,
+        "text": "@jennyrachelpal @SecPompeo Disturbing Leftists are trashing Trump more than backing up anti-communist freedom fight\u2026 https://t.co/8SO0GljiyT",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251757195395338243,
+        "user_id": 1168527887919484933,
+        "text": "@macrosummit @freeeastturki @johnstrail @SecPompeo Fuck you tankie!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251757075744448513,
+        "user_id": 1168527887919484933,
+        "text": "@blizzardcyclone @SecPompeo No. Things shall be done step by step.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1251756987458568192,
+        "user_id": 1168527887919484933,
+        "text": "@SecPompeo Scumbag Leftists are busy with opposing Trump, they don't care about totalitarian regimes trashing human\u2026 https://t.co/RMIVCb3CnG",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250996898795679744,
+        "user_id": 1168527887919484933,
+        "text": "@charliekirk11 @alx Exactly!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250996435241193472,
+        "user_id": 1168527887919484933,
+        "text": "@GordonGChang @SolomonYue That's how Leftists work - funding anti-US genocidal tyrannies.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250995938727870465,
+        "user_id": 1168527887919484933,
+        "text": "@HongKongFP @chingrachelwong @emilyrauhala @yvonne_tg @realDonaldTrump @DonaldJTrumpJr @tedcruz @marcorubio\u2026 https://t.co/mzxgLMmhtX",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250994995152084993,
+        "user_id": 1168527887919484933,
+        "text": "@ezralevant @SheilaGunnReid That's how Leftists work - funding anti-US genocidal tyrannies.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250785036166549504,
+        "user_id": 1168527887919484933,
+        "text": "@Kelvin80203623 @benedictrogers @SolomonYue @HawleyMO @SenRubioPress @MarshaBlackburn Is this document real? The font looks weird.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250783193654915077,
+        "user_id": 1168527887919484933,
+        "text": "@DrewPavlou Fuck the Tankies of UQ Senate",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250782981272158209,
+        "user_id": 1168527887919484933,
+        "text": "@Jkylebass @UQ_News @DrewPavlou The RMB Power, UQ makes itself a shame in the Free World!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250760348639977473,
+        "user_id": 1168527887919484933,
+        "text": "@DonaldJTrumpJr Leftists are always useful idiots of Communist tyrannies. They've been defending Communist tyrannies for decades.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250447420225400842,
+        "user_id": 1168527887919484933,
+        "text": "@HawleyMO @SolomonYue Those Western Leftists are going to get mad again as they can never accept the fact that an a\u2026 https://t.co/38qxxorFYs",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1250446856510996484,
+        "user_id": 1168527887919484933,
+        "text": "@SearodRyan @Leonew3721 And the fact is already very clear, the virus in the world is from China, not Europe. Diffe\u2026 https://t.co/NboD26SCju",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267394776439173120,
+        "user_id": 2663488082,
+        "text": "@hendikusb Ik zeg, leer eerst goed Nederlands te schrijven.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267394000979402753,
+        "user_id": 2663488082,
+        "text": "@NOS 'Riskeren'. Klinkt net niet streng genoeg.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267392975853813767,
+        "user_id": 2663488082,
+        "text": "@WSJ Well, duh! What else did we expect?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267392607505846273,
+        "user_id": 2663488082,
+        "text": "@piersmorgan @richsheff That's two things ....",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267392448344526848,
+        "user_id": 2663488082,
+        "text": "@SteveSchmidtSES This suits him down to the ground. If this chaos keeps growing, he can declare marshal law and postpone the election.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267391783178207234,
+        "user_id": 2663488082,
+        "text": "@TheEconomist Hey, if even dead people vote for you, you must be really popular.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267391618119843840,
+        "user_id": 2663488082,
+        "text": "@Chr1stenJohn @AllardVegelien Dus als je als burger in dit land jezelf echt wilt beschermen, dan mag dat niet?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267390734623215616,
+        "user_id": 2663488082,
+        "text": "@BernadetteGoos2 @nrc En ook geen gevoel voor humor. Helder.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267390545317462017,
+        "user_id": 2663488082,
+        "text": "@SamdeRealist Mussert, Sam Mussert.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267390427428196352,
+        "user_id": 2663488082,
+        "text": "@BernadetteGoos2 @nrc Beetje jaloers?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267390203729186816,
+        "user_id": 2663488082,
+        "text": "@Baggerboer Globalisme betekent niet wat u denkt. U bedoelt waarschijnlijk mondialisering. Oh, en het woord 'bij' b\u2026 https://t.co/OKCP5Fr0Ol",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267389853139906560,
+        "user_id": 2663488082,
+        "text": "@EelcoHoecke U kent hen persoonlijk? Of is het uw onfeilbare blanke instinct?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267388791158968325,
+        "user_id": 2663488082,
+        "text": "@DirckSwieten U hebt het niet zo op mensen die het niet met u eens zijn?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267388387826204675,
+        "user_id": 2663488082,
+        "text": "@GrunnenRocks Geen punt. Dit is Twitter, we all shoot from the hip. En mee eens, we leven in vreemde tijden. Ik heb\u2026 https://t.co/d7DRdyy9yy",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267386845450711040,
+        "user_id": 2663488082,
+        "text": "@biancadenouter Ain't that the fucking truth!\n\nhttps://t.co/p9gzknT9ii",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267386570769915904,
+        "user_id": 2663488082,
+        "text": "@GrunnenRocks Alles wat niet Amsterdam is \ud83d\ude0e Van huis uit zelf een provinciaal. Ik bedoelde dat je verstandige opmer\u2026 https://t.co/V5DV40RluU",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267385912733970432,
+        "user_id": 2663488082,
+        "text": "@ida_skibenes Like a knife! Following people like you makes Twitter worthwhile.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267384861691645952,
+        "user_id": 2663488082,
+        "text": "@DSRNL @AT5 Het is toch echt burgemeester, niet burgermeester. Dat snapt een leek \ud83d\ude0e",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267384359687991298,
+        "user_id": 2663488082,
+        "text": "@GrunnenRocks Een verstandig woord uit de provincie. Welkom!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267384164531273729,
+        "user_id": 2663488082,
+        "text": "@Antiekeprent @sonjaterheijden @hugodejonge @MinPres Ja, dit was onder Seyss Inquart niet gebeurt!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267383526242082816,
+        "user_id": 2663488082,
+        "text": "@SLECHTVOLK Als zelfverklaarde racist snapt u sowieso vast niet waarom mensen protesteren tegen racisme. Korte uitl\u2026 https://t.co/L6uDxbdhqp",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267383141439856640,
+        "user_id": 2663488082,
+        "text": "@classysaxxon @superjan De NSB was ook politiek incorrect.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267381815137968128,
+        "user_id": 2663488082,
+        "text": "@MijZELF01 Compromissen. Zoals die in een democratie door iedereen worden gesloten. Geert kan uiteindelijk alleen maar ergens tegen zijn.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267376843084226560,
+        "user_id": 2663488082,
+        "text": "@LouisDeLaCombe Eigen fruit eerst!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267376794363219969,
+        "user_id": 2663488082,
+        "text": "@MijZELF01 Hij koos ervoor omdat hij geen compromissen wilde sluiten. En alleen steun wilde geven voor wat hem uitk\u2026 https://t.co/aEsF2f4ZVG",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267339777814265857,
+        "user_id": 1212205092520120320,
+        "text": "@ltsBronn u got ur acc backk\ud83d\ude48",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267338691988643840,
+        "user_id": 1212205092520120320,
+        "text": "@ltsBronn OMG BRON",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267332094046474247,
+        "user_id": 1212205092520120320,
+        "text": "@8deadz but im not lesbian",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267327315068977153,
+        "user_id": 1212205092520120320,
+        "text": "@ricebaku exactly",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267326919181250560,
+        "user_id": 1212205092520120320,
+        "text": "pride month! i still don't support bi lesbians sorry\ud83d\ude1f",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267325718851194880,
+        "user_id": 1212205092520120320,
+        "text": "now why i laughed https://t.co/pCyuaSfAuK",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267324921069387776,
+        "user_id": 1212205092520120320,
+        "text": "FUCK COLESLAW LIVES https://t.co/jSCOS0cbzP",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267321090864529413,
+        "user_id": 1212205092520120320,
+        "text": "@TripIe6God man..",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267320604836986881,
+        "user_id": 1212205092520120320,
+        "text": "@TripIe6God \ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267320369804972034,
+        "user_id": 1212205092520120320,
+        "text": "@TripIe6God \ud83d\ude2d\ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267320183779201025,
+        "user_id": 1212205092520120320,
+        "text": "@TripIe6God https://t.co/CUcBcgBH8p",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267260869416759299,
+        "user_id": 1212205092520120320,
+        "text": "@aishasdior YESS BB",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266665522751508480,
+        "user_id": 1212205092520120320,
+        "text": "im probably just gonna deactivate it dont rlly matter i'll decide later",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266665158803369984,
+        "user_id": 1212205092520120320,
+        "text": "and by okay i mean till i stop crying everyday",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266664963638267910,
+        "user_id": 1212205092520120320,
+        "text": "im leaving twt till my mental health is okay i'll be active on my priv @/6kilIs goodbye \ud83d\udca4 \nhttps://t.co/bXXNyFdnJX",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266590778194898944,
+        "user_id": 1212205092520120320,
+        "text": "@sickkan GET DEM NIGGAS ASS",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266501831557087233,
+        "user_id": 1212205092520120320,
+        "text": "white boy got arrested",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261274671879602176,
+        "user_id": 945498151,
+        "text": "Maaf bnyk yg ke trigger masalah akun besar. Sejujurnya aku gatau akun besar yg dimaksud gimana tp mutualku bilang a\u2026 https://t.co/ptKZFwzgpy",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261271239328272385,
+        "user_id": 945498151,
+        "text": "Best healing\ud83d\udc99\nSupport both of you till end\ud83d\udc99 https://t.co/17eiR252MJ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261265129913503745,
+        "user_id": 945498151,
+        "text": "@9799SHINE *belum siap bales dm",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261264949050929153,
+        "user_id": 945498151,
+        "text": "@9799SHINE Aku belum siap buka dm mu, kasih aku waktu dulu",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261264797477134337,
+        "user_id": 945498151,
+        "text": "@9799SHINE Karna setiap liat akunmu aku lemah, tapi aku pointmu",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261263933555408896,
+        "user_id": 945498151,
+        "text": "Ngga kak, bahkan aku masih suka miss translate paling hanya aku menyocokan, kalo misalnya berbeda biasanya aku hapu\u2026 https://t.co/qwEE3b9qik",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261263335946743808,
+        "user_id": 945498151,
+        "text": "Maaf kaaa maksud aku sebenermya ngonten ngemis like rt view atau apapun itu dan untuk kalimat kenapa ga aku ga quot\u2026 https://t.co/cataqey97b",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261254297091665923,
+        "user_id": 945498151,
+        "text": "Ini kenapa yang bersangkutan jd pd minta maaf sm aku, kan aku yg salah\ud83d\ude2d",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261253788448378881,
+        "user_id": 945498151,
+        "text": "Terima kasih dan maaf dari lubuk hati aku yang terdalam\ud83d\ude4f\ud83d\udc99 oiya, feel free to unfoll fira ya karna gak akan update s\u2026 https://t.co/Wk9eCtHc1a",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261253752314458112,
+        "user_id": 945498151,
+        "text": "Dan jangan lupa untuk selalu dukung sk, bw, tn, og, first kanaphan dan gmmboys&amp;girls!! Jangan lupa juga buat hype T\u2026 https://t.co/2u800QPfFv",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261253749911064577,
+        "user_id": 945498151,
+        "text": "Even banyak bgt yang support tapi ga menutup kemungkinan fira bisa balik kaya dulu karna jujur setiap buka twt fira\u2026 https://t.co/P72mmGADYS",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261253746522091520,
+        "user_id": 945498151,
+        "text": "Meski sebenernya orang orang yang bersangkutan udh pd dm dan beberapa tidak mempermasalahkan, tapi tetep karna fira\u2026 https://t.co/PwQl6DU772",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261253742952763392,
+        "user_id": 945498151,
+        "text": "Maafin fira ya moots kalo fira ada salah, mohon maaf sebesar besarnya, maaf kalo kesannya fira cupu bgt cuma emang\u2026 https://t.co/SRdnS2p4B6",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261253740947857408,
+        "user_id": 945498151,
+        "text": "Fira pamit ya moots dan gatau bakal balik lg atau ngga. Karna setiap buka twt aku cupu bgt selalu nangis, mentalku\u2026 https://t.co/fDkZQVt7xm",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1261134116151410689,
+        "user_id": 945498151,
+        "text": "Bener bener gabisa tidur",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267424382315401217,
+        "user_id": 1225268374478868481,
+        "text": "@yaarbaazkamini Feeling your tight slick muscles clenching with anticipation when my attentive fingers entice your\u2026 https://t.co/n7LOBYcICh",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267423344128737285,
+        "user_id": 1225268374478868481,
+        "text": "You can take it all... Nice and slow, don't stop! let me work it deeper with each move until I'm all in\u2026 https://t.co/PEoG0hAt5Y",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267422713292845056,
+        "user_id": 1225268374478868481,
+        "text": "@riya_sexy Work the tip! \nhttps://t.co/WxduFUkxq5",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267421803716046848,
+        "user_id": 1225268374478868481,
+        "text": "Losing all sense of time and place I will surrender to the sensations... Groping her tight, my lusting hands would\u2026 https://t.co/wgZnSj3Jen",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267420003646619648,
+        "user_id": 1225268374478868481,
+        "text": "@PinkiRo17017695 @AuntyBia Aunty Rozy is enjoying my fat huge meat https://t.co/lTT0COGQtj",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267400493199814657,
+        "user_id": 1225268374478868481,
+        "text": "Make sure to make her moan in pain https://t.co/WvUgcyrS8o",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267375561686433792,
+        "user_id": 1225268374478868481,
+        "text": "@PerkySneha Drop that phat a** as per your desire of having fun https://t.co/7xPCxI3haa",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267374462137036800,
+        "user_id": 1225268374478868481,
+        "text": "@ImBellaBitch1 Better NOT ignore them for a thick heavy meal https://t.co/1mRAGN92yj",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267373689961512960,
+        "user_id": 1225268374478868481,
+        "text": "@PerkySneha You know what this means... don\u2019t you ? https://t.co/7U6Dp70j9Q",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267373175815331840,
+        "user_id": 1225268374478868481,
+        "text": "@sarita__bhabhi Your panty helps me to keep the alignment straight https://t.co/r7shZhhcri",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267372801574318080,
+        "user_id": 1225268374478868481,
+        "text": "@sunny1_d How wet are you baby for me ? https://t.co/9Egghjy1uI",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267372442911010816,
+        "user_id": 1225268374478868481,
+        "text": "@ImBellaBitch1 Sooner you drop it the harder I f*ck it... I know you wouldn\u2019t be able to resist this offer https://t.co/x5rA6rEf4q",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267372008175742982,
+        "user_id": 1225268374478868481,
+        "text": "@PerkySneha You wouldn\u2019t come out of bed unless I suck on those to take your laziness away ? https://t.co/X1Ixun2WXI",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267371688666136577,
+        "user_id": 1225268374478868481,
+        "text": "Hit me back to the balls https://t.co/LChNGNmcin @Rajputt_Shriya @mazza396",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267371278001815552,
+        "user_id": 1225268374478868481,
+        "text": "First she makes me hard and then she gets surprised by the bulge https://t.co/jDyxJeJI42",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267366267184222209,
+        "user_id": 1225268374478868481,
+        "text": "@amitafgh @sunny1_d @Saft971 @Scotch__91 Show your wet and sticky love in your saliva https://t.co/Pc2yakcycV",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267363329502146562,
+        "user_id": 1225268374478868481,
+        "text": "show your love to my fat meat https://t.co/QzAf6dBiJp @sunny1_d @Saft971 @Scotch__91",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267362488758091776,
+        "user_id": 1225268374478868481,
+        "text": "@vaibhavomaaa Make her feel worth of tearing her fishnet https://t.co/M9lroR49xT",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267435761063821313,
+        "user_id": 835418594078941184,
+        "text": "Aliens watching this season of 'Earth' like : https://t.co/cEhXYEICBY",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267409835668226050,
+        "user_id": 835418594078941184,
+        "text": "Someone explain https://t.co/wbMRxQRW13",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267405769898631169,
+        "user_id": 835418594078941184,
+        "text": "@MessiFC10i Should have stopped at S2 it's turned into a shitshow",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267402481392386048,
+        "user_id": 835418594078941184,
+        "text": "https://t.co/XUcPqCgq0H",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267402079418679301,
+        "user_id": 835418594078941184,
+        "text": "@guy_biscuit R9",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267401997973676032,
+        "user_id": 835418594078941184,
+        "text": "Ranbir Kapoor is the \ud83d\udc10\ud83d\udc10 https://t.co/dsmc4fi7JV",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267401736265895936,
+        "user_id": 835418594078941184,
+        "text": "@RebeccaC_10 \ud83d\udc10",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267394058005229568,
+        "user_id": 835418594078941184,
+        "text": "@messitastique Jaundice?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267302687307182082,
+        "user_id": 835418594078941184,
+        "text": "@Lamadridista4 \ud83e\udd19",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267103035219742721,
+        "user_id": 835418594078941184,
+        "text": "That 0.01% germs dettol can't kill are people who call it Soccer and not football.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267102817409433602,
+        "user_id": 835418594078941184,
+        "text": "@messitastique Alag hi bakchodi chal rhi hai \ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267101471650099200,
+        "user_id": 835418594078941184,
+        "text": "One of the best scenes from the entire series https://t.co/FEnBr1jKfm",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267098940916318208,
+        "user_id": 835418594078941184,
+        "text": "@RebeccaC_10 La liga all day",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267088978085326848,
+        "user_id": 835418594078941184,
+        "text": "#HardikPandya and natasha expecting their first baby soon \n\nMeanwhile hardik pandya during  lockdown : https://t.co/pjcAFrlMgG",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267086279591841794,
+        "user_id": 835418594078941184,
+        "text": "@CurlingFreeKick \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267084844640632832,
+        "user_id": 835418594078941184,
+        "text": "@NotForReal95 Ohh",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267078786253828096,
+        "user_id": 835418594078941184,
+        "text": "@LaLigaEN @3gerardpique @FCBarcelona Facts",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1267076171113607168,
+        "user_id": 835418594078941184,
+        "text": "@6ixtuple The best Anime?",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1266416481610260481,
+        "user_id": 1124184458729480192,
+        "text": "@Private55469497 You're welcome! I had nothing to do anyway, so this was a really fun request! https://t.co/xPRA0XT5sv",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1263853733265338368,
+        "user_id": 1124184458729480192,
+        "text": "@cyrus_rise Ryuunosuke and Ainsworth from Sakurasou would be cute.\n( ^w^)",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1260646595663560704,
+        "user_id": 1124184458729480192,
+        "text": "@DavidJoyce_Art General Grievous from Star Wars would be cool.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1260636751833387010,
+        "user_id": 1124184458729480192,
+        "text": "@SafaiaRukina Niko looks so cute in this! That little blep face is so adorable! Thank you for picking my suggestion!\n( &gt;w&lt;)",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1259458992176132096,
+        "user_id": 1124184458729480192,
+        "text": "@Karmamail1 Wriggle Nightbug from Touhou Project, if you may. I'd like to have Wriggle drawn right next to The Worl\u2026 https://t.co/pdl8AmsQGf",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1259357187261919247,
+        "user_id": 1124184458729480192,
+        "text": "@ArtisticallyNo1 Jibril from No Game No Life! https://t.co/VXpFuhTBZT",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1258107640548192256,
+        "user_id": 1124184458729480192,
+        "text": "@galxiaz Ruby x Blake from RWBY!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1258082519993290754,
+        "user_id": 1124184458729480192,
+        "text": "@LogicalLoony Very nicely done! I was actually worried about Silver for a second there after glancing at her, but t\u2026 https://t.co/R2lLVPyyh3",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1257695311742394368,
+        "user_id": 1124184458729480192,
+        "text": "@Private55469497 It was fun to draw Monika, and you're welcome! https://t.co/2UmRvI4B4d",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1257539425111642113,
+        "user_id": 1124184458729480192,
+        "text": "@SvmIAm Yuuki Terumi from BlazBlue! https://t.co/W8nru2RKXn",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1257341496631734272,
+        "user_id": 1124184458729480192,
+        "text": "@AmelieRosie Oh wow, the characters featured in this particular one looks great! This must've been hard to draw, bu\u2026 https://t.co/p6603bKTuP",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1257341155064328194,
+        "user_id": 1124184458729480192,
+        "text": "@InkChrisp I love this so much! My suggested ship looks so cute! Thanks for choosing my suggestion!\n( &gt;w&lt;)",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1256988302416023553,
+        "user_id": 1124184458729480192,
+        "text": "@shirashura Wahh! This looks amazing! I really love how it turned out! All the characters are beautifully done in your style. Keep it up!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1255933285135314944,
+        "user_id": 1124184458729480192,
+        "text": "@kanapike96 Wriggle Nightbug from Touhou Project, if you may. I'd like to have Wriggle drawn trying to comfort The\u2026 https://t.co/lQfp9xQeDg",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1255569117169381376,
+        "user_id": 1124184458729480192,
+        "text": "@francesca_darme Ruby x Blake from RWBY.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1254618188005834753,
+        "user_id": 1124184458729480192,
+        "text": "@AronAycardo Flandre Scarlet from Touhou Project. https://t.co/GzlZyOa2mJ",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1254421002198499328,
+        "user_id": 1124184458729480192,
+        "text": "@shirashura Yuuki Terumi from BlazBlue. His face is probably easy to draw since you can hide the upper part of it w\u2026 https://t.co/jnwTySPLFS",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1254368826403090433,
+        "user_id": 1124184458729480192,
+        "text": "@EvelynLisian Jibril from No Game No Life. https://t.co/MeppK1zdOv",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1254364848059637760,
+        "user_id": 1124184458729480192,
+        "text": "@Layru__ Silver from OneShot, if you may. https://t.co/4HScFfUrKM",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1254127761309851649,
+        "user_id": 1124184458729480192,
+        "text": "@InkChrisp Akasaka Ryuunosuke and Rita Ainsworth from Sakurasou.",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253747356660449281,
+        "user_id": 1124184458729480192,
+        "text": "@Leyn__R Wriggle Nightbug from Touhou Project, if you may. I'd like to have Wriggle drawn trying to comfort The Wor\u2026 https://t.co/bkd8zueUT4",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253686084107563008,
+        "user_id": 1124184458729480192,
+        "text": "@Y_R_mikan Wriggle Nightbug from Touhou Project, if you may. I'd like to have Wriggle drawn trying to comfort The W\u2026 https://t.co/px1yD524wB",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253677369568591872,
+        "user_id": 1124184458729480192,
+        "text": "@myiabi So cute! I love this so much!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253677014906626048,
+        "user_id": 1124184458729480192,
+        "text": "@ryUWUji_ Wahh! Someone actually did it! I love it so much!\n( &gt;w&lt;)",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    },
+    {
+        "id": 1253676737273098242,
+        "user_id": 1124184458729480192,
+        "text": "@onikubanzai_ Oooh! It's Jibril!",
+        "classifier": "highly-anonymous",
+        "classification": "Kasey"
+    }
+]
